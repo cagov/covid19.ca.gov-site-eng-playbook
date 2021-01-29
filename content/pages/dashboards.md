@@ -3,9 +3,8 @@ title: Public dashboards
 date: Last Modified 
 permalink: /dashboards/index.html
 eleventyNavigation:
-  key: dashboards
-  order: 0
-  title: Public dashboards
+  key: Public dashboards
+  order: 24
 ---
 
 Public facing dashboards need to be held to more stringent performance and accessibility requirements in order to successfully serve an audience using a large variety of devices and connection strengths.

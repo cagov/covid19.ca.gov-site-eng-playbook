@@ -1,11 +1,10 @@
 ---
 title: Frontend build
 date: Last Modified 
-permalink: /fe-build/index.html
+permalink: /frontend-build/index.html
 eleventyNavigation:
-  key: frontend-build
-  order: 0
-  title: Frontend build
+  key: Frontend build
+  order: 23
 ---
 
 - js packaging with rollup

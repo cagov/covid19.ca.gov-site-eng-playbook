@@ -4,8 +4,7 @@ date: Last Modified
 permalink: /devcodeflow/index.html
 eleventyNavigation:
   key: dev-code-flow
-  order: 0
-  title: Development code flow
+  order: 28
 ---
 
 We are following the following procedures for code movement to production during development

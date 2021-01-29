@@ -1,11 +1,10 @@
 ---
 title: Analytics
 date: Last Modified 
-permalink: /analytics/index.html
+permalink: /tracking-data/index.html
 eleventyNavigation:
   key: Analytics
   order: 0
-  title: Analytics implementation
 ---
 
 ## Event hooks conventions
