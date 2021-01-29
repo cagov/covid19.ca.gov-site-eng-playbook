@@ -1,7 +1,7 @@
 ---
 title: Frontend build
 date: Last Modified 
-permalink: /fe-build
+permalink: /fe-build/index.html
 eleventyNavigation:
   key: frontend-build
   order: 0

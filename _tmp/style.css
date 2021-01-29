@@ -523,6 +523,7 @@ video {
       [type='password'],
       [type='search'],
       [type='time'],
+      [multiple],
       textarea,
       select
      {
@@ -541,7 +542,7 @@ video {
   line-height: 1.5rem;
 }
 
-[type='text']:focus, [type='email']:focus, [type='password']:focus, [type='search']:focus, [type='time']:focus, textarea:focus, select:focus {
+[type='text']:focus, [type='email']:focus, [type='password']:focus, [type='search']:focus, [type='time']:focus, [multiple]:focus, textarea:focus, select:focus {
   outline: 2px solid transparent;
   outline-offset: 2px;
   --tw-ring-inset: var(--tw-empty,/*!*/ /*!*/);
@@ -577,6 +578,30 @@ select {
   padding-right: 2.5rem;
   -webkit-print-color-adjust: exact;
           color-adjust: exact;
+}
+
+[multiple] {
+  background-image: initial;
+  background-position: initial;
+  background-repeat: unset;
+  background-size: initial;
+  padding-right: 0.75rem;
+  -webkit-print-color-adjust: unset;
+          color-adjust: unset;
+}
+
+[type='file'] {
+  background: unset;
+  border-color: inherit;
+  border-width: 0;
+  border-radius: 0;
+  padding: 0;
+  font-size: unset;
+  line-height: inherit;
+}
+
+[type='file']:focus {
+  outline: 1px auto -webkit-focus-ring-color;
 }
 
 /* Set up some default image behavior for nicer images */
@@ -1077,6 +1102,11 @@ nav ul li a.active {
   margin-bottom: 0;
 }
 
+.prose .prose a.edit {
+  color: #333;
+  text-decoration: none;
+}
+
 .prose ul.footer-nav ::before {
   display: none;
   text-decoration: none;
@@ -1444,6 +1474,10 @@ nav ul li a.active {
   display: inline-block !important;
 }
 
+.inline {
+  display: inline !important;
+}
+
 .flex {
   display: flex !important;
 }
@@ -1494,6 +1528,10 @@ nav ul li a.active {
 
 .flex-grow {
   flex-grow: 1 !important;
+}
+
+.flex-shrink-0 {
+  flex-shrink: 0 !important;
 }
 
 .float-right {
@@ -1579,6 +1617,10 @@ nav ul li a.active {
 
 .mr-1 {
   margin-right: 0.25rem !important;
+}
+
+.ml-1 {
+  margin-left: 0.25rem !important;
 }
 
 .mr-2 {
@@ -1749,6 +1791,10 @@ nav ul li a.active {
   color: rgba(209, 213, 219, var(--tw-placeholder-opacity)) !important;
 }
 
+.static {
+  position: static !important;
+}
+
 .fixed {
   position: fixed !important;
 }
@@ -1865,6 +1911,11 @@ nav ul li a.active {
   color: rgba(31, 41, 55, var(--tw-text-opacity)) !important;
 }
 
+.hover\:text-gray-900:hover {
+  --tw-text-opacity: 1 !important;
+  color: rgba(17, 24, 39, var(--tw-text-opacity)) !important;
+}
+
 .hover\:text-yellow-400:hover {
   --tw-text-opacity: 1 !important;
   color: rgba(251, 191, 36, var(--tw-text-opacity)) !important;
@@ -1947,6 +1998,10 @@ nav ul li a.active {
   --tw-scale-x: 1 !important;
   --tw-scale-y: 1 !important;
   transform: translateX(var(--tw-translate-x)) translateY(var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y)) !important;
+}
+
+.rotate-180 {
+  --tw-rotate: 180deg !important;
 }
 
 .transition-colors {

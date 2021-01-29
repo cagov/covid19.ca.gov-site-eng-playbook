@@ -1,7 +1,7 @@
 ---
 title: Content Management in WordPress
 date: Last Modified 
-permalink: /editorial-content
+permalink: /editorial-content/index.html
 eleventyNavigation:
   key: editorial-content
   order: 0

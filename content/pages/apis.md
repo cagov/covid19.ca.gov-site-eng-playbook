@@ -1,7 +1,7 @@
 ---
 title: APIs
 date: Last Modified 
-permalink: /apis
+permalink: /apis/index.html
 eleventyNavigation:
   key: apis
   order: 0
