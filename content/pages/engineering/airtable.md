@@ -1,11 +1,12 @@
 ---
 title: Airtable 
 date: 2021-01-25
-permalink: /airtable/
+permalink: /engineering/airtable/
 toc: true
 eleventyNavigation:
   key: Airtable
-  order: 27
+  parent: Engineering
+  order: 110
 ---
 
 [Airtable](https://airtable.com) is a flexible and easy-to-use collaborative spreadsheet. 

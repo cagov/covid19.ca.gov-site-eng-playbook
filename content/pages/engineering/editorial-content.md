@@ -1,10 +1,11 @@
 ---
 title: Content Management in WordPress
 date: Last Modified 
-permalink: /content-management/index.html
+permalink: /engineering/content-management/index.html
 eleventyNavigation:
   key: Content management in WordPress
-  order: 0
+  parent: Engineering
+  order: 170
 ---
 
 - Where is all the content

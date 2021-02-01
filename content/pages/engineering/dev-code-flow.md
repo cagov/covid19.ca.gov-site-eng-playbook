@@ -1,10 +1,11 @@
 ---
 title: Development code flow
 date: Last Modified 
-permalink: /devcodeflow/index.html
+permalink: /engineering/devcodeflow/index.html
 eleventyNavigation:
   key: dev-code-flow
-  order: 28
+  parent: Engineering
+  order: 160
 ---
 
 We are following the following procedures for code movement to production during development
