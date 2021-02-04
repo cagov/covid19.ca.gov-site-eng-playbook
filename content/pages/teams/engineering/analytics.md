@@ -1,7 +1,7 @@
 ---
 title: Analytics
 date: Last Modified 
-permalink: /engineering/tracking-data/index.html
+permalink: /teams/engineering/tracking-data/index.html
 eleventyNavigation:
   key: Analytics
   parent: Engineering

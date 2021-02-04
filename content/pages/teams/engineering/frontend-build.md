@@ -1,7 +1,7 @@
 ---
 title: Frontend build
 date: Last Modified 
-permalink: /engineering/frontend-build/index.html
+permalink: /teams/engineering/frontend-build/index.html
 eleventyNavigation:
   key: Frontend build
   parent: Engineering

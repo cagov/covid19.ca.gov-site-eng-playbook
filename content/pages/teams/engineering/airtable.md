@@ -1,7 +1,7 @@
 ---
 title: Airtable 
 date: 2021-01-25
-permalink: /engineering/airtable/
+permalink: /teams/engineering/airtable/
 toc: true
 eleventyNavigation:
   key: Airtable

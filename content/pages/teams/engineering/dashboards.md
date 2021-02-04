@@ -1,7 +1,7 @@
 ---
 title: Public dashboards
 date: Last Modified 
-permalink: /engineering/dashboards/index.html
+permalink: /teams/engineering/dashboards/index.html
 eleventyNavigation:
   key: Public dashboards
   parent: Engineering

@@ -1,7 +1,7 @@
 ---
 title: Development code flow
 date: Last Modified 
-permalink: /engineering/devcodeflow/index.html
+permalink: /teams/engineering/devcodeflow/index.html
 eleventyNavigation:
   key: dev-code-flow
   parent: Engineering

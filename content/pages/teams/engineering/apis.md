@@ -1,7 +1,7 @@
 ---
 title: APIs
 date: Last Modified 
-permalink: /engineering/api-data/index.html
+permalink: /teams/engineering/api-data/index.html
 eleventyNavigation:
   key: apis
   parent: Engineering

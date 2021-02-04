@@ -1,12 +1,13 @@
 ---
-title: Home
+title: Read me
 date: Last Modified 
 permalink: /
 eleventyNavigation:
-  key: Home
+  key: Read me
   order: 0
 ---
 
-homepage
+A note to our readers: how to approach this doc, who it is for, how it was written and why
+	
+## About the authors
 
-docs for this are on <a href="https://spacebook.app">https://spacebook.app</a>

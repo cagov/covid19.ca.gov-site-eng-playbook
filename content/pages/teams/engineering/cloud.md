@@ -1,7 +1,7 @@
 ---
 title: Cloud pieces
 date: Last Modified 
-permalink: /engineering/cloud/index.html
+permalink: /teams/engineering/cloud/index.html
 eleventyNavigation:
   key: Cloud pieces
   parent: Engineering

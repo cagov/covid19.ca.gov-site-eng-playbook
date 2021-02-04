@@ -1,7 +1,7 @@
 ---
 title: Content Management in WordPress
 date: Last Modified 
-permalink: /engineering/content-management/index.html
+permalink: /teams/engineering/content-management/index.html
 eleventyNavigation:
   key: Content management in WordPress
   parent: Engineering
