@@ -7,3 +7,5 @@ eleventyNavigation:
   parent: Functional teams
   order: 300
 ---
+
+The Research Accessibility Design team (RAD) 
