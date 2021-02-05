@@ -9,3 +9,5 @@ eleventyNavigation:
 ---
 
 The Research Accessibility Design team (RAD) 
+
+This is RAD!!! 
