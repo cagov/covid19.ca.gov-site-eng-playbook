@@ -1,9 +1,9 @@
 ---
-title: When its applied
+title: When it's applied
 date: Last Modified 
 permalink: /components/when/index.html
 eleventyNavigation:
-  key: When its applied
+  key: When it's applied
   parent: Components and styles
   order: 51
 ---
