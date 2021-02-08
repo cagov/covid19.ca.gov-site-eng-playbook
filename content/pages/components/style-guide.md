@@ -1,7 +1,7 @@
 ---
 title: Content style guide
 date: Last Modified 
-permalink: /components/when/index.html
+permalink: /components/when/content-style-guide.html
 eleventyNavigation:
   key: Content style guide
   parent: When it's applied
