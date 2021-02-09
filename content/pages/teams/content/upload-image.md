@@ -28,3 +28,9 @@ We uploading images to github. One of the benefits of this approach is it gives 
 6. If you updated an image, return to the live page and confirm the updated image is showing.
   a. It usually takes around 1 minute for image to push to the live site.
   b. If it doesn't come up, confirm in #code-movement that the image went through. If it did, confirm the filename of the image was the same.
+
+## Translated images
+
+If you have an image with text in different languages, you can upload it so it automatically gets displayed when a translated version of the page is presented. Use the same language-specific suffix that is used for PDFs (for example, _--es_ for Spanish). If there isn't a language-specific image, the site will default to showing the English version.
+
+Use the regular upload process to add your translated image with the appropriate suffix.
