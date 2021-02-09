@@ -91,7 +91,7 @@ The code is this:
 
 For this highlight box with text, image, and action link:
 
-![Highlight box with image and action link](/highlight-box-with-image.jpg)
+![Highlight box with image and action link](/content/images/highlight-box-with-image.jpg)
 
 The code is this:
 
@@ -121,7 +121,7 @@ Urgent information can be highlighted in a yellow alert box at the top of a page
 
 For this yellow alert box:
 
-![Yellow alert box](/yellow-alert-box.jpg)
+![Yellow alert box](/content/images/yellow-alert-box.jpg)
 
 The code is this:
 
@@ -143,7 +143,7 @@ This is WordPress code you can insert using Code Editor. But don’t go crazy - 
 
 If you’d like to do this same thing without writing custom code, simply add the size you’d want your headers to appear as under Additional CSS classes. If there is already a class there, simply put a space between them.
 
-![Block section in WordPress with header class code](/header-class-in-block.jpg)
+![Block section in WordPress with header class code](/content/images/header-class-in-block.jpg)
 
 ## Centering an image
 
@@ -163,7 +163,7 @@ These two code snippets will comfortably place an image to the right or left of 
 
 For this alignment:
 
-![Left-aligned image](/left-aligned-image.jpg)
+![Left-aligned image](/content/images/left-aligned-image.jpg)
 
 Use this code:
 
@@ -184,7 +184,7 @@ Use this code:
 
 For this alignment:
 
-![Right-aligned image](/right-aligned-image.jpg)
+![Right-aligned image](/content/images/right-aligned-image.jpg)
 
 Use this code:
 
@@ -209,7 +209,7 @@ This code allows you to make a special navigation link that responds to mouse-ov
 
 For this arrow:
 
-![Arrow button](/arrow-button.jpg)
+![Arrow button](/content/images/arrow-button.jpg)
 
 Use this code:
 
@@ -229,7 +229,7 @@ There are many standard color combinations for this button. See the [Examples](h
 
 To make text larger (like for the first sentence of a page when implementing the page index), use the _emphasized_ CSS class. You can add it in the right menu.
 
-![Block section in WordPress with emphasized class code](emphasized-class-in-block.jpg)
+![Block section in WordPress with emphasized class code](/content/images/emphasized-class-in-block.jpg)
 
 ## ARIA labels
 
