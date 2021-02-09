@@ -37,7 +37,7 @@ This code creates a question & answer that will appear as a quick answer in site
 When you’d like a page or quick answer to appear in searches on a certain keyword, but you can’t seem to work that keyword into the visible text, you can add hidden keywords. The keyword below is hidden in the answer part of a quick answer.
 
 ```
-<div style="display:none;" class="wp-accordion-content"><!-- curfew --></div>
+<div style="display:none;" class="wp-accordion-content"><!-- county map --></div>
 ```
 
 ## Action link
