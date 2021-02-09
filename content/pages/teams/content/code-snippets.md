@@ -147,7 +147,7 @@ If you’d like to do this same thing without writing custom code, simply add th
 
 ## Centering an image
 
-WordPress offers a way to center an image, but it doesn’t work. So instead, convert your block to Custom HTML and add this ```<div>``` code around your image:
+WordPress offers a way to center an image, but it doesn’t work. So instead, convert your block to Custom HTML and add this div code around your image:
   
   ```
   <div class="text-center">
