@@ -4,7 +4,7 @@ date: Last Modified
 permalink: /teams/content/replace-pdf.html
 eleventyNavigation:
   key: Replace PDF
-  parent: Updating
+  parent: Uploading
   order: 224
 ---
 
