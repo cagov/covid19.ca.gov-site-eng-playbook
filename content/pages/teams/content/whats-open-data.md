@@ -69,9 +69,9 @@ The WordPress **What’s open data file** is where we make changes that are refl
 
 The Regional Stay Home Order triggered a region has fallen below 15% ICU beds available. This resulted in counties being put into a new status outside of the regular Blueprint tiers. The Regional Stay Home Order is no longer in effect, but the process for moving a region under the Order in the what's open search is as follows:
 
-1. To update the activities allowed in all counties in that region, go to the [RSHO post](https://as-go-covid19-d-001.azurewebsites.net/wp-admin/post.php?post=7402&action=edit) in WordPress and add the region name.
-2. You will need the exact region name, which can be found by searching on one of the affected counties in the What’s open search and checking its tile.
+* To update the activities allowed in all counties in that region, go to the [RSHO post](https://as-go-covid19-d-001.azurewebsites.net/wp-admin/post.php?post=7402&action=edit) in WordPress and add the region name.
+* You will need the exact region name, which can be found by searching on one of the affected counties in the What’s open search and checking its tile.
 
 ![Example of county with region](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/region-example.jpg)
 
-3. Once the region is added to this post and published, the What’s open search will return RSHO activity data for the counties in that region.
+* Once the region is added to this post and published, the What’s open search will return RSHO activity data for the counties in that region.
