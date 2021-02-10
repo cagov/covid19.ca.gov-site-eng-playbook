@@ -8,12 +8,12 @@ eleventyNavigation:
   order: 252
 ---
 
-Most 
+Almost everything related to the what's open search is managed through WordPress posts that are labeled as "fragments". The exception are the county tiers themselves, which are updated by the development team.
 
-## Step 1: Update schools tier
+## Update schools tier
 
 1. Schools data lives separately from what’s open data.
-  a. This in the **Schools may reopen...** WordPress file.
+  a. This in the **Schools may reopen in these counties** WordPress file.
   b. The list is updated based on the county tier Excel spreadsheet, specifically column H which will indicate _May Reopen_ if allowed to be open.
 2. Check all _May Reopen_ counties against the list in WordPress.
 3. If a county has been added, use the **Edit table** button to get the option to add a new row.
@@ -24,7 +24,7 @@ Most
 7. Publish the update by removing the _staging-only_ tag and pressing **Update**.
 8. This work has a lag time to publication and usually requires a purge by a developer to ensure that multiple updates publish when expected.
 
-## Step 2: What’s open data
+## Update what’s open data
 
 Content lives in two places: the Data for What's Open Search Google Sheet (where we track in progress changes) and WordPress file titled _What’s open data_ (what shows up on the Blueprint page).
 
@@ -64,6 +64,10 @@ The WordPress **What’s open data file** is where we make changes that are refl
   * Changes can come in as late as 11:15.
   * What’s open data takes longer to publish than the Industry guidance page, so publish what’s open data before Industry guidance to try to time them to update at the same time.
 * Begin working on the WordPress file no later than 11:00 as it takes time to get the data in due to the size of the file.
+
+## Schools tier descriptions
+
+Need to define this process.
 
 ## Regional Stay Home Order tiers
 
