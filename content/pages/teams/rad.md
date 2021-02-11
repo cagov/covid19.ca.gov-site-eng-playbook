@@ -1,5 +1,5 @@
 ---
-title: RAD
+title: RAD - Research - Analytics - Design
 date: Last Modified 
 permalink: /teams/rad/index.html
 eleventyNavigation:
@@ -8,6 +8,4 @@ eleventyNavigation:
   order: 300
 ---
 
-The Research Accessibility Design team (RAD) 
 
-This is RAD!!! 
