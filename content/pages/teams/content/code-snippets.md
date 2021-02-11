@@ -218,9 +218,10 @@ Use this code:
     <div class="col-md-3 bg-blue py-4">
         <a href="#" class="link-arrow-white">
             <div class="link-arrow-label">Arrow</div>
-<cagov-arrow></cagov-arrow>
+            <cagov-arrow></cagov-arrow>
         </a>
     </div>
+</div>
 ```
 
 There are many standard color combinations for this button. See the [Examples](https://staging.covid19.ca.gov/sample) page for a preview, and check its [Wordpress file](https://as-go-covid19-d-001.azurewebsites.net/wp-admin/post.php?post=6854&action=edit) for the code for each.
