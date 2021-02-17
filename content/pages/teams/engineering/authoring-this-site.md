@@ -9,5 +9,3 @@ eleventyNavigation:
 ---
 
 docs for this are on <a href="https://spacebook.app">https://spacebook.app</a>
-
-Here is an experimental change.
