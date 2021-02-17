@@ -8,7 +8,7 @@ eleventyNavigation:
   order: 226
 ---
 
-There are 5 languages that we have some guidance PDFs for, but which are not supported by a sitewide translation. They are Armenian, Hmong, Khmer, Russian, and Thai. We publish documents in those languages on a page called [Industry guidance in other languages](https://covid19.ca.gov/guidance-languages/). 
+There are 6 languages that we have some guidance PDFs for, but which are not supported by a sitewide translation. They are Armenian, Hmong, Khmer, Punjabi, Russian, and Thai. We publish documents in those languages on a page called [Industry guidance in other languages](https://covid19.ca.gov/guidance-languages/). 
 
 In general, PDFs should already have been uploaded, their URLs created and logged, and the rows with new content marked orange in the Translations Tracking Sheet. 
 
