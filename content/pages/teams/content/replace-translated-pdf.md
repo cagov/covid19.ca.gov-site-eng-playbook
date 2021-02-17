@@ -8,26 +8,34 @@ eleventyNavigation:
   order: 225
 ---
 
-1. Go to Google Drive folder for [Translated Guidance PDFs](https://drive.google.com/drive/folders/1Y-sbd6VN44T013eWpQc5aeIArHMpAGbZ).
-2. Go to the specific guidance folder (e.g., Agriculture). Make a new subfolder labeled _Archive - Date_ subfolder (e.g. _Archive - July 2_) and move all existing files in the folder into that subfolder.
-3. Go to your email and move all PDFs received, including EN (English), into the drive folder.
-  a. You can check all the dates of the translated PDFs at this point if you choose. See step 14c.
-4. Rename all of the translated PDFs (except for EN) with the **exact same name** as shown in the translations tracking sheet tab labeled _Policy guidance documents directory_.
-5. Download all of the renamed PDFs to your computer. 
-6. Go to https://github.com/cagov/covid-static.
-7. Select the **pdf** folder.
-8. In the upper-right corner, select the **Add file** button.
-9. Select **Upload files** from the dropdown menu.
-10. Upload your file by dragging it into the _Drag files here to add them to your repositor_y box or selecting **choose your files** and using the popup window. You can attach multiple files. **Do not upload the EN PDF** as it will replace the currently posted English PDF which may be more recent than the translated pdfs received.
-11. In the _Commit changes_ section, enter brief details (less than 50 characters) about what you're doing in the first line that contains the placeholder text _Add files via upload_. This information will be available in the Github history and #code-movement on Slack to identify what changes happened. 
-  a. Adding additional details in the larger box with the placeholder text _Add an optional extended description_ is only if you have extended information to add. If you are uploading translated guidance PDFs for the first time, note those language abbreviations here (for example, _NEW: ko, vi, hy, hmn, km, th_)
+1. Log into airtable.com.
+2. Open the ODI File Tracker base (purple). 
+3. Select the ODI File Tracker tab, and the ODI Publish Files view. 
+4. Scroll to the bottom and click the + to create a new row. 
+5. In this new row, go to the ODI Status field, click on the + sign, and select the "10.4 Translated guidance or checklist received" label.
+6. In the Language field, click on the + and then select the label for the language that is being published.
+7. In the ODI industry guidance category key field, click on the + sign, and then select the appropriate industry label. 
+8. In the PDF Template field, click on the + and select the "guidance" label.
+9. Add the filename and the permalink in the appropriate fields. 
+10. Move the finalized guidance pdf that is ready to be published to the Google Drive Publish folder: https://drive.google.com/drive/folders/1f8ZjcJcXxFt-he7NT6g3S7uJ69CfpwAz?usp=sharing. This file must be correctly named before moving to the Publish folder. 
+12. Once the file is in the google drive folder, copy the link to the file and paste it into the "URL google drive location" field in airtable. 
+13. In airtable, add a "Target web publish date" for this file. 
+14. Download the file from Google Drive Publish folder to your computer. 
+15. Go to https://github.com/cagov/covid-static.
+16. Select the **pdf** folder.
+17. In the upper-right corner, select the **Add file** button.
+18. Select **Upload files** from the dropdown menu.
+19. Upload your file by dragging it into the _Drag files here to add them to your repositor_y box or selecting **choose your files** and using the popup window. You can attach multiple files. **Do not upload the EN PDF** as it will replace the currently posted English PDF which may be more recent than the translated pdfs received.
+20. In the _Commit changes_ section, enter brief details (less than 50 characters) about what you're doing in the first line that contains the placeholder text _Add files via upload_. This information will be available in the Github history and #code-movement on Slack to identify what changes happened. 
+  a. Adding additional details in the larger box with the placeholder text _Add an optional extended description_ is only if you have extended information to add. If you are uploading translated guidance PDFs for the first time, note those language abbreviations here (for example, _NEW: ko, vi, hy, hmn, km, pa, th_)
 12. Select the green **Commit changes** button to submit the PDF for upload.
 13. To track the status of the PDF upload, select **Actions** in the menu at the top of the page. The text added in the _Add files via upload_ line from the _Commit changes_ section will be listed here. When a green check mark appears to the left of this text, the PDFs have been uploaded (~1 min). 
-14. Checking URLs, dates, and metadata: Return to the translations tracking sheet tab labeled _Policy guidance documents directory_ and select each of the URLs to confirm the new PDFs come up when the links are selected. Be aware that the text of the URL may appear correct, but the URL link itself may need to be corrected (these are errors from manual copy and paste). Keep these links open so you can check dates and metadata labels. 
-  a. If PDFs are not opening, confirm in #code-movement Slack channel that the PDF upload went through.
-  b. If this is the first translated PDF for a language, **create/add the URL** into the spreadsheet in the appropriate language column. The URL will be https://files.covid19.ca.gov/pdf/[filename.pdf] with the filename you created (for example, a filename ‘guidance-agriculture--ru.pdf’ would be linked as https://files.covid19.ca.gov/pdf/guidance-agriculture--ru.pdf). Once you've added the new urls to the tracking sheet, highlight them in orange so they can be added those new URLs to the WordPress page created for Industry guidance in other languages. This page houses translated guidance PDFs that are not supported (Hmong, Thai, Armenian, Russian, and Khmer).
-  c. On the translations tracking sheet tab labeled _Guidance dates_, update the date of the translated PDFs you've uploaded. You can check for the date on the EN PDF in the appropriate Google Drive folder.
-  d. Open each translated PDF file and check the date on the front page. If any do not match the date of the EN PDF, make a note in the appropriate spreadsheet column for date inconsistencies. Remove the orange highlight when the translated PDF date matches the English pdf date that is live on the site. 
-  e. Use the tab labeled _Metadata issues_ to keep track of each translated PDF that has a possible metadata issue. With the PDF open, check the label that appears in the upper left corner when you hover.
-15. Go to the issue that was assigned for this task and add a note indicating that the PDFs have been replaced. Do not mark as complete until you've completed checking the dates, metadata, and URLs. 
-  a. If you didn’t get assigned through anissue, you can create one for documentation. If you do not have an opportunity to do this, ping the product lead so they are aware that it's done.
+14. Copy the url in github, return to airtable, and paste the link in the "Github download URL" field, and also add the commit hash to the "git commit hash" field. 
+15. Click on the permalink in airtable to verify the the file has been uploaded. 
+16. Add the date and time to the "Date updated web" field.
+17. Return to ODI Status field, and click the + sign to add the "16 - File published" status.
+18. If the translated guidance is one of the 6 languages that are not fully supported on the site (Armenian, Hmong, Khmer, Punjabi, Russian, and Thai), create an issue in Jira to have these URLs added to the "Industry guidance in Other Languages" page. Once those are added to the site, return to airtable to document that in the "Internal log" field.
+19. If any metadata issues are identified with the file, use the "Internal log" field in the airtable record to document those.
+20. Open the translated guidance pdf and check the date on the cover page. If this date is not the same as the current English version, document that in the airtabel record using the "internal log" field. 
+21. Once you've published all availabe translations for this guidance, check the boxes in the "Notify Labor" field. 
+22. Go to the PDF Historical Files base in airtable (pink). Use the first tab on the left, and the "Grouped by industry category" view. Find all of the translated guidance pdfs for that language that have been uploaded, and make sure the box is checked in the "is same as public version in api" field for the most current file published.
