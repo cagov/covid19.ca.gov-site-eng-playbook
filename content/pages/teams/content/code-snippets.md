@@ -236,7 +236,7 @@ To make text larger (like for the first sentence of a page when implementing the
 
 ARIA labels provide alternate hyperlink text that a screen reader will use instead of the hyperlink as written. If you use the same hyperlink text with different URLs on a page, this will trigger an accessibility flag in SiteImprove. If you can’t reword the text to reflect the different URLs, ARIA labels will satisfy SiteImprove.
 
-To create an ARIA label, make a link like usual. View that section in Code editor and add the code beginning **aria-label***, as shown below.
+To create an ARIA label, make a link like usual. View that section in Code editor and add the code beginning **aria-label**, as shown below.
 
 ```
 <a href="https://covid19.ca.gov" aria-label="[the text you’d like the screen reader to read instead of the hyperlink text on the screen]">[hyperlink text]</a>
