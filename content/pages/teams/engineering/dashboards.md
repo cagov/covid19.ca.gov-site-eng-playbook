@@ -25,26 +25,6 @@ The choice of tech powering the charts had a big influence on our ability to mee
 
 The code for the [California's commitment to health equity](https://covid19.ca.gov/equity/) page uses D3 to meet these goals successfully. There are several examples of public facing dashboards the state has shipped which fail to meet these standards. They are extremely slow to render, do not attempt to integrate translations and skip deep accessibility. These shortfalls can make the information unusable for visitors with a cheaper phone, anybody temporarily in a low bandwidth environment, speakers of english as a foreign language or people who depend on assistive technology.
 
-## Building with D3
 
-ObservablesHQ is a great tool for experimenting with charts. Here are some basic examples which you can edit or fork without creating your own development environment.
 
-#### Bar chart with filled in background:
 
-<a href="https://observablehq.com/@aaronhans/test-background-fill"><img src="https://cagov.github.io/covid19.ca.gov-site-handbook/static/img/bar-chart.jpg" /></a>
-
-#### Using scales
-
-<a href="https://observablehq.com/@d3/learn-d3-scales?collection=@d3/learn-d3"><img src="https://cagov.github.io/covid19.ca.gov-site-handbook/static/img/d3-scales.jpg" /></a>
-
-#### Shapes
-
-<a href="https://observablehq.com/@d3/learn-d3-shapes?collection=@d3/learn-d3"><img src="https://cagov.github.io/covid19.ca.gov-site-handbook/static/img/d3-shapes.jpg" /></a>
-
-#### Colored county map with rollovers:
-
-<a href="https://observablehq.com/@aaronhans/ca-county-tiers"><img src="https://cagov.github.io/covid19.ca.gov-site-handbook/static/img/map-viz.jpg" /></a>
-
-#### Animating
-
-<a href="https://observablehq.com/@d3/learn-d3-animation?collection=@d3/learn-d3"><img src="https://cagov.github.io/covid19.ca.gov-site-handbook/static/img/d3-anim.jpg" /></a>
