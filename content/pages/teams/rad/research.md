@@ -231,6 +231,16 @@ Business owners find the homepage irrelevant to their needs. Page is perceived a
 |  	| People clicking the County map in Dashboard are redirected to status but are looking for a map. [P1] [P1] [P1--already have a ticket] 	| Make this link go directly to the map on the Blueprint page by A) an anchor link or B) moving the map to the top of the Blueprint page.<br>Alternatively, since the map is now on the State Dashboard, we could have a single link called "view all state and county data" 	|  	|
 |  	| Tests are perceived as a metric that could be useful for business owners by increasing their confidence in reopening P2 [Don't do] 	| Consider providing information regarding test numbers per county 	|  	|
 
+## Links to documents:
+
+- [PRD]()
+- [research plan]() & [Participants]()
+- [PPT report]() & [Document]()
+- [Recommendations]()
+
+![Homepage](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/homepage.jpg)
+
+
 
 ## Industry Guidance Redesign
 
