@@ -175,6 +175,8 @@ Ongoing activities undertaken to carry out the collection of feedback from our v
 - [Full documentation](https://docs.google.com/document/d/1NnjkKBpD169wF-J_HvC6VwH5LYvddT4HZ5dKZT469iQ/edit#)
 
 
+![Theme recognition ](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/audit.jpg)
+
 
 ---
 # Sample Projects
