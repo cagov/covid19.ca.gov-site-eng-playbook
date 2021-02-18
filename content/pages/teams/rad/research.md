@@ -185,6 +185,51 @@ Sample projects are the activities undertaken to carry out the research for spec
 
 ## Homepage Iteration
 
+### Intro
+The main challenge / theme with this iteration of the homepage was “realignment”. Making sure that it serves the core purpose of the website, satisfying visitors needs and it is also aligned with the voice and brand of the CA COVID response.
+
+### Research
+1. Goals:
+- Test with our audiences if the redesign is aligned with the websites core values and users needs
+- Test the user experience of our audience when performing key tasks
+- Test the look and feel of the new redesigned homepage
+
+### Objectives for the study:
+- Identify difficulties and roadblocks participants have when using the new homepage
+- Understand what participants are thinking and feeling as they execute tasks / prompts
+
+### Desired outcomes:
+- Recommend changes to informational architecture and navigation
+- Identify what new information needs to be collected to stimulate new learnings 
+
+### Process:
+- **Discover**: test homepage prototype with our audience
+1. Discover → evaluative research → usability testing sessions
+- **Define**: use research data and findings to identify opportunities for improvement
+2. Define → summarize findings → uncover patterns within homepage predefined sections → propose recommendations for V1, V2
+
+### Findings:
+
+- **Dashboard** → **Updates**:
+Uncertainty about the frequency of updates.
+- **Hero section** → **Visibility**:
+Some links present low visibility, specifically links on the dashboard.
+- **Navigation** → **Discoverability**:
+The hamburger navigation is not intuitive. 1 out of 10 participants discovered and clicked on the navigation. 
+- **User needs** → **Relevance**:
+Business owners find the homepage irrelevant to their needs. Page is perceived as consumer-driven. 
+
+ [To view all findings check this link](https://docs.google.com/spreadsheets/u/1/d/1a9yiaG27qTeRTMyH2P359nFyzKMaRDIb2mkcVNglQ24/edit#gid=0)
+
+| Section 	| Issue 	| Recommendations 	|  	|
+|-	|-	|-	|-	|
+| Tracking COVID-19 	| Uncertainty related to cases and deaths percentages [P2] 	| Consider adding a timeframe 	|  	|
+|  	| Participants expressed doubts about the frequency of the updates. The data is 2 days old, participants question why isn’t it updated every hour or at least the day before. [Don't do] 	|  	|  	|
+|  	| Participants also expressed doubts regarding the timeframe for the percentages. +0.7 up from last report?” yesterday? last week? last month? P1-clara, [Duplicate, B5] 	|  	|  	|
+|  	| Confusion around number of tests: unique or total P1-Clara, [P1] 	| Consider adding a clarification 	|  	|
+|  	| Cases and deaths are perceived as useless for business owners because they are not directly correlated to a business type/industry [Don't do] 	| Consider breaking cases by industry 	|  	|
+|  	| People clicking the County map in Dashboard are redirected to status but are looking for a map. [P1] [P1] [P1--already have a ticket] 	| Make this link go directly to the map on the Blueprint page by A) an anchor link or B) moving the map to the top of the Blueprint page.<br>Alternatively, since the map is now on the State Dashboard, we could have a single link called "view all state and county data" 	|  	|
+|  	| Tests are perceived as a metric that could be useful for business owners by increasing their confidence in reopening P2 [Don't do] 	| Consider providing information regarding test numbers per county 	|  	|
 
 
 ## Industry Guidance Redesign
