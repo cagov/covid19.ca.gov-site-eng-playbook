@@ -131,12 +131,28 @@ Ongoing activities undertaken to carry out the collection of feedback from our v
 
 ## Feedback Survey (Footer)
 
+- **Purpose**: provide a place on the website for visitors to give general website feedback, suggestions and comments
+- **Approach**: link on footer
+- **Tools**:  SurveyMonkey
+- **Setup and steps**:
+
+| Steps 	| Process 	| Tools 	| Team 	|
+|-	|-	|-	|-	|
+| Design survey and/or edit questions 	| Over time we have made some edits to the questions to support and complement other sources of feedback  	| Google docs + surveymonkey 	| Researcher 	|
+| Dump data daily 	| Karim downloads the data from SurveyMonkey and uploads it here. Karim reads through the feedback each morning 	| Spreadsheet 	| Karim (anyone with access to surveymonkey) 	|
+| Review of comments daily 	| Share meaningful comments with the team, mostly via slack channel 	| Slack or standup 	| Karim or anyone reading the comments and feedback 	|
 
 
+![Example of our Feedback link](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/Footer.jpg)
 
 
 ## UX Auditing
 
+
+- **Purpose**:  identify common pain points across key user flows 
+- **Method**: UX Audit where the internal team mapped out the entire user flow to get a clear picture of all the different pages and actions users take for specific tasks
+- **Tools**:  miro, google docs, google slides, spreadsheet, quicktime
+- **Setup and steps**: 
 
 
 | Steps 	| Process 	| Tools 	|
@@ -151,6 +167,14 @@ Ongoing activities undertaken to carry out the collection of feedback from our v
 | Define heuristics 	| Defined our own heuristics to reuse in future audits 	| Clara and Adam 	|
 | Score scenarios 	| Scored each flow with the usability rubric 	|  	|
 | Create list of quick wins and big improvements 	| For each theme, we created a list with small wins and big improvements<br>Small Wins: try to introduce them immediately. <br>Big Improvements:  large-scale improvements/problems that we would like to tackle in our next major redesign. 	| Clara and Adam 	|
+
+## Links to documents:
+
+- [Summary](https://docs.google.com/document/u/1/d/1fyfGQfloku5ovLj3Bq2tn6FQjYM8tw4lvDfe-Z0GbLY/edit#heading=h.6r8cy3o5529n)
+- [Themes](https://docs.google.com/document/u/1/d/1hk4J3etzyUev2IX6-EGPuGtU01TsSTRlnagDqVLv-hA/edit#heading=h.f6hemeb02rmh) & [Metrics](https://docs.google.com/document/u/1/d/1hk4J3etzyUev2IX6-EGPuGtU01TsSTRlnagDqVLv-hA/edit#heading=h.f6hemeb02rmh)
+- [Full documentation](https://docs.google.com/document/d/1NnjkKBpD169wF-J_HvC6VwH5LYvddT4HZ5dKZT469iQ/edit#)
+
+
 
 ---
 # Sample Projects
