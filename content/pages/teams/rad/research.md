@@ -113,11 +113,44 @@ Ongoing activities undertaken to carry out the collection of feedback from our v
 
 ## NPI Survey
 
+- **Purpose**: gather longitudinal data from visitors to covid19.ca.gov and ca.gov to discover how attitudes and behaviors change as influenced by changes in policy, local and/or state economy, etc
+- **Approach**: link display to every 50th visitor on covid19.ca.gov (homepage) and static link in ca.gov (homepage)
+- **Tools**:  surveymonkey
+- **Setup and steps**: 
+
+
+| Steps 	| Process 	| Tools 	| Improvements 	| Team 	|
+|-	|-	|-	|-	|-	|
+| Design survey 	| The insights team designed the first version early on in March. Most questions remain the same to gather longitudinal data.  <br>Have to work with the eng team if we want to make changes to the way and frequency of delivery. Currently delivering to every 50th visitor on covid19.ca.gov and a static link on ca.gov site 	| Google docs Surveymonkey 	|  	| Insights team (JP, Jeffrey)<br>Researcher 	|
+| Meet weekly 	| The insights team and some external volunteers meet on a weekly basis to discuss results and future iterations 	| Google meets 	|  	| Insights team, researcher , volunteers 	|
+| Dump data daily on spreadsheet 	| Every weekday morning, Karim (content designer) downloads SurveyMonkey data from the NPI survey from the previous day from 12:00 am to 11:59 pm and then uploads it to the NPI raw data sheet with a new date 	| NPI raw data sheet 	|  	| Karim (anyone with access to surveymonkey) 	|
+| Review of open ended questions to gather quotes 	| JP from Insights team will review open ended questions to gather quotes for the GO book.  Criteria to choose quotes: it’s really balancing themes that are constant, frequently mentioned, new ones that feel like we want to surface them, as well as edge cases that feel like we should shed light on 	|  	| Opportunity to follow up with interviews with participants who opted to provide email. Since 11/1 we collect emails but haven’t done much with it. 	| Insights team, content designer 	|
+
+![Example of our NPI](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/NPI.jpg)
+
 
 ## Feedback Survey (Footer)
 
 
+
+
+
 ## UX Auditing
+
+
+
+| Steps 	| Process 	| Tools 	|
+|-	|-	|-	|
+| Design study 	| A small team of one designer, one researcher and one data analyst met to design the study 	| Clara Gonzalez Sueyro (Researcher) and Adam Little ( designer) and Britt Allen (data analyst) 	|
+| Create scenarios 	| Based on google analytics, GO office priorities and other feedback sources we created 10 scenarios 	| Britt Allen(Data analyst) 	|
+| Assign scenarios 	| Each team member chose one or more scenarios to perform the audit 	| Britt, Clara, Adam and Jessica Lopez 	|
+| Execute audit 	| Each team member identified the parts of the website that provided an answer to the user’s question in the scenario. 	| Britt, Clara, Adam and Jessica Lopez 	|
+| Visualize audit 	| Each member created a map that showed all of the ways that a user might get there (including search). Each one chose to visualize the steps involved through a flow chart, mind map, or something similar. 	| Britt, Clara, Adam and Jessica Lopez 	|
+| Uncover pain points 	| For each step in the flow, the team identified:<br>potential “pain points” that made the process difficult (e.g. confusing labeling) 	| Britt, Clara, Adam and Jessica Lopez 	|
+| Find themes 	| As a group we synthesized pain points to determine themes/trends  	| Britt, Clara, Adam and Jessica Lopez 	|
+| Define heuristics 	| Defined our own heuristics to reuse in future audits 	| Clara and Adam 	|
+| Score scenarios 	| Scored each flow with the usability rubric 	|  	|
+| Create list of quick wins and big improvements 	| For each theme, we created a list with small wins and big improvements<br>Small Wins: try to introduce them immediately. <br>Big Improvements:  large-scale improvements/problems that we would like to tackle in our next major redesign. 	| Clara and Adam 	|
 
 ---
 # Sample Projects
