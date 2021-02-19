@@ -233,10 +233,10 @@ Business owners find the homepage irrelevant to their needs. Page is perceived a
 
 ## Links to documents:
 
-- [PRD]()
-- [research plan]() & [Participants]()
-- [PPT report]() & [Document]()
-- [Recommendations]()
+- [PRD](https://docs.google.com/document/u/1/d/1aMIttOJ8KniJTOxHQSdhaSK5tHs_uBEdoaVRTWjSnm0/edit#heading=h.i12kna90w10q)
+- [research plan](https://docs.google.com/document/d/1oyUppAQuXydKguyZ1vVPs-x8qGEDmZZ1ZDiHsmQa7rU/edit) & [Participants](https://docs.google.com/spreadsheets/u/1/d/1aTPJtv0DMKAX3Xzlc301f-AxG0olmD23/edit#gid=374032152)
+- [PPT report](https://docs.google.com/presentation/u/1/d/1Zw6XqqLOEv8XfL6zq9w8Dc_SzkGH600uiKs3qHfhNwY/edit#slide=id.g9a2de97527_0_0) 
+- [Recommendations](https://docs.google.com/spreadsheets/u/1/d/1a9yiaG27qTeRTMyH2P359nFyzKMaRDIb2mkcVNglQ24/edit#gid=0)
 
 ![Homepage](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/homepage.jpg)
 
