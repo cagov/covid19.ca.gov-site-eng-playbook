@@ -188,8 +188,7 @@ Sample projects are the activities undertaken to carry out the research for spec
 ### Intro
 The main challenge / theme with this iteration of the homepage was “realignment”. Making sure that it serves the core purpose of the website, satisfying visitors needs and it is also aligned with the voice and brand of the CA COVID response.
 
-### Research
-1. Goals:
+### Goals
 - Test with our audiences if the redesign is aligned with the websites core values and users needs
 - Test the user experience of our audience when performing key tasks
 - Test the look and feel of the new redesigned homepage
@@ -248,8 +247,7 @@ Business owners find the homepage irrelevant to their needs. Page is perceived a
 The industry guidance page is the fourth most visited page since May 2020. It has been a high priority for the Governor’s Office
 and haven’t had a significant update since May 12. This page is key to the work of many stakeholders: city and county officials, business owners, business associations and members of the public. With new restrictions in place, this page becomes a go-to resource for many businesses and it was in need of a redesign.
 
-### Research
-1. Goals:
+### Goals
 - Challenge existing assumptions by testing the usability and experience of the page with real visitors
 - Understand how our visitors use the page 
 
@@ -352,7 +350,52 @@ and haven’t had a significant update since May 12. This page is key to the wor
 
 ## Blueprint & What’s Open Search
 
+### Intro
+The Governor’s Office announced a new reopening framework for business sectors. This is a new state criteria for reopening businesses. More “prescriptive / dynamic criteria” based on local health officials and experience gained from the past months. 
+We have designed a new page to communicate this new framework and want to test it with business owners and members of the public.
 
+### Goals: 
+
+- Evaluate the understanding of the new framework
+- Assess the user experience of the page 
+
+### Purpose of the study:
+
+- Identify difficulties and roadblocks participants have when using the Blueprint page.
+- Understand what participants are thinking and feeling as they execute tasks / prompts.
+- Assess if the framework delivers a clear understanding of what businesses and individuals can do and why
+- Identify what new information needs to be provided
+- Align the new redesign and framework to people’s ability and understanding about what’s safe in their county
+
+
+### Research questions:
+- Are people able to accurately describe in their own words what purpose this page serves and what the different colors mean?
+
+### Activities:
+
+- Usability testing sessions with members of the public and business owners to uncover problems and points of confusion when using the Blueprint page
+- Usabiliy testing sessions to assess the understanding of the new framework.
+
+### Process:
+
+1. Summarize findings → cluster findings into UX and usability pain points and success moments → recommendations
+
+### Findings:
+- 8 out 10 haven’t heard about the new framework.
+- 9 out 10 haven’t been to this page before.
+- Participants appreciate the consistency of information, especially the visual coherence. **+ UX**. 
+
+**Section: Risk level graphic**
+- This section is easy to understand. **+UX**
+- Widespread color purple doesn’t represent the most dangerous tier. **- UX**
+- Labels are self-explanatory and memorable. **+UX**
+- Low recognition of how counties move from tiers. **-UX**
+
+**Section: Map**
+- Maps are highly desirable for creating awareness.  Participants find the map useful for uncovering the risk level of their county and compare it with neighbor counties and the overall state. **+UX**
+- Harder to navigate on mobile. **- UX**
+
+- Contrary to what we expected, participants didn’t seem confused by previous frameworks.
 
 
 ## Health Equity Dashboard
