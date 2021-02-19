@@ -340,12 +340,12 @@ and haven’t had a significant update since May 12. This page is key to the wor
 | Consumers 	| I want to have the latest information about which activities are allowed in my county. 	| Yes 	| Sometimes 	|
 
 ## Links to documents:
-- [Google drive Folder] (https://drive.google.com/drive/u/1/folders/1nw0mOxkP4hfSbhiI5gFPOXEpv-AbSfK-)
-- [PRD] (https://docs.google.com/document/d/10oBTgzbvQkZXzyWLcQUpMIvtaoq8q1oG17koRgLLnHs/edit#heading=h.5nwyk53zv7ia)
-- [Research plan] (https://docs.google.com/document/d/1ZRtWibr_0KEuf9tEcMBJhcj7Xu91BPgKUDcKjBtxO4E/edit)
-- [Report ppt] (https://docs.google.com/presentation/d/1oEfl3dPUewLbYmZfgDqGtbBx8wM6Qn75iDa3--nYD2w/edit) + report notion (same report in different formats) (https://www.notion.so/UX-Research-report-30772b6112ea49b1973a75169a7903d6) 
-- [Recommendations] (https://docs.google.com/spreadsheets/d/10h0SoDMv6gFgCFmJvBS0xxzLAHTFO_bifzIpMmobdoU/edit)
-- [Themes] (https://docs.google.com/document/u/1/d/1rPRdKhiaInXUGr3sOFeQrWm4sE1-6MahfAoha_pTlfo/edit#heading=h.pc2f0p49yjbv)
+- [Google drive Folder](https://drive.google.com/drive/u/1/folders/1nw0mOxkP4hfSbhiI5gFPOXEpv-AbSfK-)
+- [PRD](https://docs.google.com/document/d/10oBTgzbvQkZXzyWLcQUpMIvtaoq8q1oG17koRgLLnHs/edit#heading=h.5nwyk53zv7ia)
+- [Research plan](https://docs.google.com/document/d/1ZRtWibr_0KEuf9tEcMBJhcj7Xu91BPgKUDcKjBtxO4E/edit)
+- [Report ppt](https://docs.google.com/presentation/d/1oEfl3dPUewLbYmZfgDqGtbBx8wM6Qn75iDa3--nYD2w/edit) + [Report notion](https://www.notion.so/UX-Research-report-30772b6112ea49b1973a75169a7903d6) 
+- [Recommendations](https://docs.google.com/spreadsheets/d/10h0SoDMv6gFgCFmJvBS0xxzLAHTFO_bifzIpMmobdoU/edit)
+- [Themes](https://docs.google.com/document/u/1/d/1rPRdKhiaInXUGr3sOFeQrWm4sE1-6MahfAoha_pTlfo/edit#heading=h.pc2f0p49yjbv)
 
 
 ## Blueprint & What’s Open Search
@@ -406,7 +406,7 @@ We have designed a new page to communicate this new framework and want to test i
 To view full report  check  [PPT Report](https://docs.google.com/presentation/d/1ga2JmDpwBGK0bAGbDnub3g8VyAaph3ZjCScWVU6V2QA/edit)
 
 ## Links to documents
-- [Research plan]((https://docs.google.com/document/d/1oyUppAQuXydKguyZ1vVPs-x8qGEDmZZ1ZDiHsmQa7rU/edit) )& [Participants](https://docs.google.com/spreadsheets/u/1/d/1aTPJtv0DMKAX3Xzlc301f-AxG0olmD23/edit#gid=374032152)
+- [Research plan]((https://docs.google.com/document/d/1oyUppAQuXydKguyZ1vVPs-x8qGEDmZZ1ZDiHsmQa7rU/edit) & [Participants](https://docs.google.com/spreadsheets/u/1/d/1aTPJtv0DMKAX3Xzlc301f-AxG0olmD23/edit#gid=374032152)
 - [PPT Report](https://docs.google.com/presentation/u/1/d/1ga2JmDpwBGK0bAGbDnub3g8VyAaph3ZjCScWVU6V2QA/edit?usp=drive_web&ouid=100185044499007273486) & [Doc] (https://docs.google.com/document/d/1v0toMUSnWl1Ongf4eLAPW3qBJMdgrbE2Ot0oZon6pgY/edit)
 - [Priorities fixes](https://docs.google.com/document/d/1v0toMUSnWl1Ongf4eLAPW3qBJMdgrbE2Ot0oZon6pgY/edit)
 
