@@ -14,7 +14,7 @@ Research informs product decisions by either framing the problem we are trying t
 At ODI (Office of Digital Innovation)  we have used quantitative and qualitative methods and tools to actively and systematically engage with the public.
 
 ## Primary audience
-1. Another research team taking over the covid19.ca.gov
+1. Another research team taking over the  [covid19.ca.gov](covid19.ca.gov)
 2. Other web teams within CA state that might be interested in certain specific aspects of our internal how-to’s (e.g., if they want to understand how to use or set up their own intercept).
 
 ## Objectives for the documentation
@@ -73,7 +73,7 @@ Research activities undertaken to carry out the research of a diverse set of pro
 
 ## Usability Testing
 
-- **Purpose**: perform usability testing sessions with intended audiences to evaluate the performance of newly launched pages to evaluate the user experience and uncover usability issues
+- **Purpose**: perform usability testing sessions with intended audiences to test the performance of newly launched pages. Evaluate the user experience and uncover usability issues
 - **Method**: get people to interact with the page and observe their behavior when performing a specific task
 - **Tools**: [usertesting.com](https://www.usertesting.com/)
 - **Setup and steps**: 
