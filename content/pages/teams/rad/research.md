@@ -383,20 +383,33 @@ We have designed a new page to communicate this new framework and want to test i
 ### Findings:
 - 8 out 10 haven’t heard about the new framework.
 - 9 out 10 haven’t been to this page before.
-- Participants appreciate the consistency of information, especially the visual coherence. **+ UX**. 
+- [+] Participants appreciate the consistency of information, especially the visual coherence.  
 
 **Section: Risk level graphic**
-- This section is easy to understand. **+UX**
-- Widespread color purple doesn’t represent the most dangerous tier. **- UX**
-- Labels are self-explanatory and memorable. **+UX**
-- Low recognition of how counties move from tiers. **-UX**
+- [+] This section is easy to understand. 
+- [-] Widespread color purple doesn’t represent the most dangerous tier.
+- [+] Labels are self-explanatory and memorable.
+- [-] Low recognition of how counties move from tiers. 
 
 **Section: Map**
-- Maps are highly desirable for creating awareness.  Participants find the map useful for uncovering the risk level of their county and compare it with neighbor counties and the overall state. **+UX**
-- Harder to navigate on mobile. **- UX**
+- [+] Maps are highly desirable for creating awareness.  Participants find the map useful for uncovering the risk level of their county and compare it with neighbor counties and the overall state. 
+- [-] Harder to navigate on mobile. 
 
 - Contrary to what we expected, participants didn’t seem confused by previous frameworks.
 
+|   Sections 	| UX 	| Usability 	|   	|
+|-	|-	|-	|-	|
+| <br>   Status of activity 	| It’s  nice to have. Participants tend to find out about what’s open and closed at the local/business level by searching Yelp/Google. <br>Activities need further clarification. Some participants are confused by what the reach and meaning of activity is: is it about going to the beach or a business type? 	| Intuitive and easy to use. Some usability issues were uncovered (non-existent businesses create some friction.  Results on mobile present some delivery issues - see slide 20) 	|   	|
+|    Tiers 	| Labels are self-explanatory and meaningful. Widespread purple is not meaningful.<br>Case rate and positive rate are clear but some participants expect to see the real number for their counties.  	|  Easy to read and navigate. 	|   	|
+|   Map 	| Desirable and memorable. New information. Great piece to create awareness. 	| Non intuitive on mobile. (friction regarding searchability and clickability) 	|   	|
+
+To view full report  check  [PPT Report](https://docs.google.com/presentation/d/1ga2JmDpwBGK0bAGbDnub3g8VyAaph3ZjCScWVU6V2QA/edit)
+
+## Links to documents
+- [PRD]
+- [Research plan]((https://docs.google.com/document/d/1oyUppAQuXydKguyZ1vVPs-x8qGEDmZZ1ZDiHsmQa7rU/edit) )& [Participants](https://docs.google.com/spreadsheets/u/1/d/1aTPJtv0DMKAX3Xzlc301f-AxG0olmD23/edit#gid=374032152)
+- [PPT Report](https://docs.google.com/presentation/u/1/d/1ga2JmDpwBGK0bAGbDnub3g8VyAaph3ZjCScWVU6V2QA/edit?usp=drive_web&ouid=100185044499007273486) & [Doc] (https://docs.google.com/document/d/1v0toMUSnWl1Ongf4eLAPW3qBJMdgrbE2Ot0oZon6pgY/edit)
+- [Priorities fixes](https://docs.google.com/document/d/1v0toMUSnWl1Ongf4eLAPW3qBJMdgrbE2Ot0oZon6pgY/edit)
 
 ## Health Equity Dashboard
 
