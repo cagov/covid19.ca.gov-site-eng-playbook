@@ -341,8 +341,17 @@ and haven’t had a significant update since May 12. This page is key to the wor
 | Consumers 	| I want to fact check information regarding how businesses are following regulations in my county so I can decide what to do. 	| Yes 	| Sometimes 	|
 | Consumers 	| I want to have the latest information about which activities are allowed in my county. 	| Yes 	| Sometimes 	|
 
+## Links to documents:
+- [Google drive Folder] (https://drive.google.com/drive/u/1/folders/1nw0mOxkP4hfSbhiI5gFPOXEpv-AbSfK-)
+- [PRD] (https://docs.google.com/document/d/10oBTgzbvQkZXzyWLcQUpMIvtaoq8q1oG17koRgLLnHs/edit#heading=h.5nwyk53zv7ia)
+- [Research plan] (https://docs.google.com/document/d/1ZRtWibr_0KEuf9tEcMBJhcj7Xu91BPgKUDcKjBtxO4E/edit)
+- [Report ppt] (https://docs.google.com/presentation/d/1oEfl3dPUewLbYmZfgDqGtbBx8wM6Qn75iDa3--nYD2w/edit) + report notion (same report in different formats) (https://www.notion.so/UX-Research-report-30772b6112ea49b1973a75169a7903d6) 
+- [Recommendations] (https://docs.google.com/spreadsheets/d/10h0SoDMv6gFgCFmJvBS0xxzLAHTFO_bifzIpMmobdoU/edit)
+- [Themes] (https://docs.google.com/document/u/1/d/1rPRdKhiaInXUGr3sOFeQrWm4sE1-6MahfAoha_pTlfo/edit#heading=h.pc2f0p49yjbv)
+
 
 ## Blueprint & What’s Open Search
+
 
 
 
