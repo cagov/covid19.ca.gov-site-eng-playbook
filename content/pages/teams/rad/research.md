@@ -458,10 +458,10 @@ evaluate **understandability** for each audience and iterate until it reaches an
 
 ## Links to documents
 
-[PRD](https://docs.google.com/document/u/1/d/1pQNZNSv3xwg-ZRFhjs5b6jp_zBZxOgsl/edit?rtpof=true)
-[Research plan](https://docs.google.com/document/d/15LMz-iFguhTd8ZEOtd-4rFDZRrXAqVU0A01nGmAxlN0/edit)
-[Usability testing & recommendations](https://drive.google.com/drive/u/1/folders/1Z6tcHNNiswh3LKCCBsmNnkzrOLfp2jNN)
-[Survey & report](https://docs.google.com/document/d/1BMtmawWWpqfWfEgFZ2tDyAjZb6JCC9D8w7qGwMDkHrE/edit)
+- [PRD](https://docs.google.com/document/u/1/d/1pQNZNSv3xwg-ZRFhjs5b6jp_zBZxOgsl/edit?rtpof=true)
+- [Research plan](https://docs.google.com/document/d/15LMz-iFguhTd8ZEOtd-4rFDZRrXAqVU0A01nGmAxlN0/edit)
+- [Usability testing & recommendations](https://drive.google.com/drive/u/1/folders/1Z6tcHNNiswh3LKCCBsmNnkzrOLfp2jNN)
+- [Survey & report](https://docs.google.com/document/d/1BMtmawWWpqfWfEgFZ2tDyAjZb6JCC9D8w7qGwMDkHrE/edit)
 
 
 ---
