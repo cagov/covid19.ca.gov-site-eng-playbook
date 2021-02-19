@@ -10,8 +10,9 @@ eleventyNavigation:
 
 Sample projects are the activities undertaken to carry out the research for specific pages & themes. 
 
+---
 
-## Homepage Iteration
+# Homepage Iteration
 
 ### Intro
 The main challenge / theme with this iteration of the homepage was “realignment”. Making sure that it serves the core purpose of the website, satisfying visitors needs and it is also aligned with the voice and brand of the CA COVID response.
@@ -67,9 +68,9 @@ Business owners find the homepage irrelevant to their needs. Page is perceived a
 
 ![Homepage](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/homepage.jpg)
 
+---
 
-
-## Industry Guidance Redesign
+# Industry Guidance Redesign
 
 ### Intro
 The industry guidance page is the fourth most visited page since May 2020. It has been a high priority for the Governor’s Office
@@ -175,8 +176,9 @@ and haven’t had a significant update since May 12. This page is key to the wor
 - [Recommendations](https://docs.google.com/spreadsheets/d/10h0SoDMv6gFgCFmJvBS0xxzLAHTFO_bifzIpMmobdoU/edit)
 - [Themes](https://docs.google.com/document/u/1/d/1rPRdKhiaInXUGr3sOFeQrWm4sE1-6MahfAoha_pTlfo/edit#heading=h.pc2f0p49yjbv)
 
+---
 
-## Blueprint & What’s Open Search
+# Blueprint & What’s Open Search
 
 ### Intro
 The Governor’s Office announced a new reopening framework for business sectors. This is a new state criteria for reopening businesses. More “prescriptive / dynamic criteria” based on local health officials and experience gained from the past months. 
@@ -238,7 +240,9 @@ To view full report  check  [PPT Report](https://docs.google.com/presentation/d/
 - [PPT Report](https://docs.google.com/presentation/u/1/d/1ga2JmDpwBGK0bAGbDnub3g8VyAaph3ZjCScWVU6V2QA/edit?usp=drive_web&ouid=100185044499007273486) & [Doc](https://docs.google.com/document/d/1v0toMUSnWl1Ongf4eLAPW3qBJMdgrbE2Ot0oZon6pgY/edit)
 - [Priorities fixes](https://docs.google.com/document/d/1v0toMUSnWl1Ongf4eLAPW3qBJMdgrbE2Ot0oZon6pgY/edit)
 
-## Health Equity Dashboard
+---
+
+# Health Equity Dashboard
 
 ### Intro
 We soft-launched the equity page and wanted to take an opportunity to learn more about the visitors’ familiarity with the topic and assess their understanding of the data visualizations.
