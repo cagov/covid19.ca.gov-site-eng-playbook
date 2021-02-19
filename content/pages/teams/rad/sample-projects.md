@@ -1,15 +1,13 @@
-
 ---
 title: Sample Projects
 date: Last Modified 
 permalink: /teams/rad/research-sample-projects.html
 eleventyNavigation:
-  key: Sample Projects
-  parent: Research
-  order: 330
+key: Sample Projects
+parent: Research
+order: 330
 ---
 
----
 # Sample Projects
 Sample projects are the activities undertaken to carry out the research for specific pages & themes. 
 
