@@ -1,7 +1,7 @@
 ---
 title: Lessons learned
 date: Last Modified 
-permalink: /teams/rad/research.html
+permalink: /teams/rad/lessons-learned.html
 eleventyNavigation:
   key: Research
   parent: RAD

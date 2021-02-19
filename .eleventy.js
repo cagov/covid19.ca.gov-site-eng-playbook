@@ -60,6 +60,7 @@ module.exports = function(eleventyConfig) {
   // Tailwind pass through and watch target
   eleventyConfig.addWatchTarget("./_tmp/style.css");
   eleventyConfig.addPassthroughCopy({ "./_tmp/style.css": "./style.css" });
+  eleventyConfig.addPassthroughCopy({ "./CNAME": "./CNAME" });
 
   // Alpine.js pass through
   eleventyConfig.addPassthroughCopy({

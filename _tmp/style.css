@@ -2066,6 +2066,10 @@ nav ul li a.active {
   text-transform: uppercase !important;
 }
 
+.lowercase {
+  text-transform: lowercase !important;
+}
+
 .underline {
   text-decoration: underline !important;
 }
