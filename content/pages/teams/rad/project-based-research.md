@@ -11,7 +11,7 @@ eleventyNavigation:
 Research activities undertaken to carry out the research of a diverse set of projects.
 
 
-## Call Center
+# Call Center
 - **Purpose**: reach out to harder to reach previously identified groups such as Spanish speaking population who represent a higher % of the total population in California and have been highly impacted by covid-19. 
 - **Method**: interviews via call center referrals
 - **Tools**:  phone, spreadsheet
@@ -29,8 +29,9 @@ Research activities undertaken to carry out the research of a diverse set of pro
 | Pay incentive 	| Once the interview is finished the participant will receive a $20 gift card sent from ethnio software tool. One big pain point is due to the way our credit card is set up our chief of administration (Debra Waltman)  needs to call ethnio every time a payment is sent.   	| Ethnio 	| If ethnio is something we want to keep using we could add money to the platform and we will not have to call after every transaction. 	| Chief of Administration 	|
 
 
+---
 
-## Ethnio Intercepts
+# Ethnio Intercepts
 
 - **Purpose**: gather feedback from existing visitors we were unable to reach out with other tools such as usertesting.com. Circumstances matter a lot in user research, and someone who’s using the website in real timer, for real purposes, is going to behave differently–and probably more accurate feedback–than someone who’s just being told to accomplish some task via usertesting.com
 - **Method**: intercept visitors to learn from our existing user base. 
@@ -52,8 +53,9 @@ Research activities undertaken to carry out the research of a diverse set of pro
 ![ethnio intercept](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/ethnio-example.jpg)
 
 
+---
 
-## Usability Testing
+# Usability Testing
 
 - **Purpose**: perform usability testing sessions with intended audiences to test the performance of newly launched pages. Evaluate the user experience and uncover usability issues
 - **Method**: get people to interact with the page and observe their behavior when performing a specific task
@@ -71,8 +73,9 @@ Research activities undertaken to carry out the research of a diverse set of pro
 # Ongoing Feedback collection & Research
 Ongoing activities undertaken to carry out the collection of feedback from our visitors or intended audience.  
 
+---
 
-## Per Page Feedback
+# Per Page Feedback
 - **Purpose**: capture user feedback at a per page level in order to better understand what pages are useful and how we can improve them. Review the iteration process to satisfy the initial goal. 
 - **Method**: native form with additional information collected from a link we host on ethn.io
 - **Tools**: [sheets](https://docs.google.com/spreadsheets/d/1vFK8Xw41JThyJUa6M0Lv4qvAoJ-TQ4VK-TUc82FVFZA/edit#gid=1414096076)
@@ -92,8 +95,9 @@ Ongoing activities undertaken to carry out the collection of feedback from our v
 
 ![Per page feedback](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/per-page.jpg)
 
+---
 
-## NPI Survey
+# NPI Survey
 
 - **Purpose**: gather longitudinal data from visitors to covid19.ca.gov and ca.gov to discover how attitudes and behaviors change as influenced by changes in policy, local and/or state economy, etc
 - **Approach**: link display to every 50th visitor on covid19.ca.gov (homepage) and static link in ca.gov (homepage)
@@ -110,8 +114,9 @@ Ongoing activities undertaken to carry out the collection of feedback from our v
 
 ![Example of our NPI](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/NPI.jpg)
 
+---
 
-## Feedback Survey (Footer)
+# Feedback Survey (Footer)
 
 - **Purpose**: provide a place on the website for visitors to give general website feedback, suggestions and comments
 - **Approach**: link on footer
@@ -127,8 +132,9 @@ Ongoing activities undertaken to carry out the collection of feedback from our v
 
 ![Example of our Feedback link](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/Footer.jpg)
 
+---
 
-## UX Auditing
+# UX Auditing
 
 
 - **Purpose**:  identify common pain points across key user flows 
