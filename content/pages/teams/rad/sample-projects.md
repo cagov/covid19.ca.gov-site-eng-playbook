@@ -8,7 +8,6 @@ eleventyNavigation:
   order: 330
 ---
 
-# Sample Projects
 Sample projects are the activities undertaken to carry out the research for specific pages & themes. 
 
 
