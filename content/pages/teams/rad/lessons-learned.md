@@ -1,11 +1,11 @@
 ---
 title: Lessons learned
 date: Last Modified 
-permalink: /teams/rad/research.html
+permalink: /teams/rad/research-lessons-learned.html
 eleventyNavigation:
-  key: Research
-  parent: RAD
-  order: 310
+  key: Lessons learned
+  parent: Research
+  order: 340
 ---
 
 # Tips for Success (aka Lessons Learned)
