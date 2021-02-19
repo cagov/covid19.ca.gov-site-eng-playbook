@@ -412,6 +412,52 @@ To view full report  check  [PPT Report](https://docs.google.com/presentation/d/
 
 ## Health Equity Dashboard
 
+### Intro
+We soft-launched the equity page and wanted to take an opportunity to learn more about the visitors’ familiarity with the topic and assess their understanding of the data visualizations.
+
+### Goals:
+- Assess the visitors understanding of the page’s content 
+- Assess the usability of the page
+
+
+### Purpose of the study:
+- Understand our audiences ability and familiarity with the topic 
+- Identify our core segments and how to best address their needs
+- Identify our audiences knowledge gaps
+
+
+### Research questions:
+- Who visits this page?
+- What do they expect to find on this page?
+- How do they navigate the page?
+- What core message do they get out of the page? 
+- What sections are relevant to each audience?
+- How do they understand the data visualizations?
+
+
+
+### Activities:
+- Intercept visitors and learn from their experience as they navigate the page
+- Perform usability testing sessions with people with diverse background and familiarity with the issue of health equity.
+
+### Findings:
+
+- We have identified two segments of users with different prior knowledge, abilities and overall expectations.
+
+1. People who are familiar with the issue: this page is a great attempt to represent the issue. This group is looking for more data that they could use to perform their own analysis.   
+2. People who are not very familiar with the issue: for this group this page is quite sophisticated and it’s almost too advanced. The main two sections seem enough for a first attempt to learn about the issue and a great introduction to inequalities around race and ethnicity. 
+
+### Recommendations:
+There are possible approaches to our segmented audience:
+
+1. Design for all: by presenting the same exact information in different ways we will provide different perspectives in understanding and interpreting information. This approach will satisfy the needs of audiences with different prior knowledge and experiences. It means meeting people where they are. 
+2. Design for an intended audience and for a specific goal in mind: delivering information intentionally to satisfy those specific needs. 
+
+- For our next steps, we recommend that we decide if we strive to make information understandable for all audiences and, 
+evaluate **understandability** for each audience and iterate until it reaches an acceptable level of understanding. 
+
+## Links to documents
+
 
 
 ---
