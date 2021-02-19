@@ -22,6 +22,7 @@ Our documented research process will help the reader:
 1. learn from existing processes and tools
 2. identify gaps in the approaches
 3. inform priorities and allocate new resources
+4. gain context on the research that has been previously done
 
 ---
 
