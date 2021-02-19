@@ -2,10 +2,10 @@
 ---
 title: Sample Projects
 date: Last Modified 
-permalink: /teams/rad/research.html
+permalink: /teams/rad/research-sample-projects.html
 eleventyNavigation:
-  key: Research
-  parent: RAD
+  key: Sample Projects
+  parent: Research
   order: 330
 ---
 
