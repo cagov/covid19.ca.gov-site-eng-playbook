@@ -8,8 +8,6 @@ eleventyNavigation:
   order: 320
 ---
 
-
-# Project Based Research
 Research activities undertaken to carry out the research of a diverse set of projects.
 
 
