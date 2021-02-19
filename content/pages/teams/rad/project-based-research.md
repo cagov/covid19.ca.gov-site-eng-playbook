@@ -1,3 +1,12 @@
+---
+title: Project Based Research
+date: Last Modified 
+permalink: /teams/rad/research/project-based-research.html
+eleventyNavigation:
+  key: Research
+  parent: RAD
+  order: 320
+---
 
 
 # Project Based Research
