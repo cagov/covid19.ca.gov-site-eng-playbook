@@ -28,7 +28,7 @@ We feed user interaction data into our analytics tools so we can quickly see whi
 
 Before building our own tool we reviewed some related solutions provided by:
 - Open source work by governments like the Vermont Department of Health which was using some Azure tools to provide answers to people with a different UI: https://github.com/VermontDepartmentOfHealth/covid-bot 
-- Other teams like our friends in <a href="https://covid19.ca.gov">New Jersey</a> who’ve implemented an interesting solution that we’ve been inspired by. They used a hosted Saas service to provide similar features. This didn't have an API available we could integrate when we were looking for this feature. Now it has comparable features to Azure cognitive search.
+- Other teams like our friends in <a href="https://covid19.ca.gov">New Jersey</a> who’ve implemented an interesting solution that we’ve been inspired by. They used a hosted Saas service to provide similar features. This didn't have an API available we could integrate when we were looking for this feature. Now it has comparable features to the Azure cognitive search we are using.
 
 ### Additional info
 
