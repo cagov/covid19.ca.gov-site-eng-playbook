@@ -1,5 +1,5 @@
 ---
-title:🕛 Ongoing Feedback collection 
+title: Ongoing Feedback collection 
 date: Last Modified 
 permalink: /teams/rad/research/ongoing-research.html
 eleventyNavigation:
