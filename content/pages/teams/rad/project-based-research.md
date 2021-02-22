@@ -72,7 +72,7 @@ Research activities undertaken to carry out the research of a diverse set of pro
 ---
 ## Rubric with needed skills for each activity
 
-![Rubric](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/Rubric.jpg)
+![Rubric](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/rubric.jpg)
 
 ---
 
