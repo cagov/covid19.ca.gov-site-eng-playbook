@@ -20,7 +20,7 @@ Below are examples of code you can use in WordPress posts. HTML can be inserted 
 * Aligning an image to the right or left of text
 * Moving arrow button
 * Emphasized text
-* ARIA labels
+* Titles in links
 
 ## Hidden question & answer
 
@@ -232,12 +232,12 @@ To make text larger (like for the first sentence of a page when implementing the
 
 ![Block section in WordPress with emphasized class code](https://cagov.github.io/covid19.ca.gov-site-eng-playbook//content/images/emphasized-class-in-block.jpg)
 
-## ARIA labels
+## Titles in links
 
-ARIA labels provide alternate hyperlink text that a screen reader will use instead of the hyperlink as written. If you use the same hyperlink text with different URLs on a page, this will trigger an accessibility flag in SiteImprove. If you can’t reword the text to reflect the different URLs, ARIA labels will satisfy SiteImprove.
+If you use the same hyperlink text with different URLs on a page, this will trigger an accessibility flag in SiteImprove. Try to reword the text to reflect the different URLs. If you cannot, use a title with the link. This signals to screen readers that the link is different.
 
-To create an ARIA label, make a link like usual. View that section in Code editor and add the code beginning **aria-label**, as shown below.
+To add a title, make a link like usual. View that section in _Code editor_ and add the code beginning **title**, as shown below.
 
 ```
-<a href="https://covid19.ca.gov" aria-label="[the text you’d like the screen reader to read instead of the hyperlink text on the screen]">[hyperlink text]</a>
+<a href="https://covid19.ca.gov" title="[the text you’d like the screen reader to read instead of the hyperlink text on the screen]">[hyperlink text]</a>
 ```
