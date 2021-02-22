@@ -1,5 +1,5 @@
 ---
-title: Project Based Research
+title: 📄 Project Based Research
 date: Last Modified 
 permalink: /teams/rad/research/project-based-research.html
 eleventyNavigation:
@@ -11,7 +11,7 @@ eleventyNavigation:
 Research activities undertaken to carry out the research of a diverse set of projects.
 
 
-# Call Center
+# 📱 Call Center
 - **Purpose**: reach out to harder to reach previously identified groups such as Spanish speaking population who represent a higher % of the total population in California and have been highly impacted by covid-19. 
 - **Method**: interviews via call center referrals
 - **Tools**:  phone, spreadsheet
@@ -31,7 +31,7 @@ Research activities undertaken to carry out the research of a diverse set of pro
 
 ---
 
-# Ethnio Intercepts
+# 🔬 Ethnio Intercepts
 
 - **Purpose**: gather feedback from existing visitors we were unable to reach out with other tools such as usertesting.com. Circumstances matter a lot in user research, and someone who’s using the website in real timer, for real purposes, is going to behave differently–and probably more accurate feedback–than someone who’s just being told to accomplish some task via usertesting.com
 - **Method**: intercept visitors to learn from our existing user base. 
@@ -55,7 +55,7 @@ Research activities undertaken to carry out the research of a diverse set of pro
 
 ---
 
-# Usability Testing
+# 💻 Usability Testing
 
 - **Purpose**: perform usability testing sessions with intended audiences to test the performance of newly launched pages. Evaluate the user experience and uncover usability issues
 - **Method**: get people to interact with the page and observe their behavior when performing a specific task
