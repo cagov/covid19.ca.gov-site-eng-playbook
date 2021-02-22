@@ -7,15 +7,17 @@ eleventyNavigation:
   parent: Research
   order: 340
 ---
+
 Ongoing activities undertaken to carry out the collection of feedback from our visitors or intended audience.  
 
 ---
 
 # Per Page Feedback
 - **Purpose**: capture user feedback at a per page level in order to better understand what pages are useful and how we can improve them. 
-- **Method**: native form hosted on github and sheets with analysis with information collected from a link we host on ethnio plus Google analytics.
-- **Tools**: [sheets](https://docs.google.com/spreadsheets/d/1vFK8Xw41JThyJUa6M0Lv4qvAoJ-TQ4VK-TUc82FVFZA/edit#gid=1414096076)
- and [github](https://cagov.github.io/)
+- **Method**: native form with daily comments hosted on github and google sheets with weekly analysis collected from a link we host on ethnio plus Google analytics.
+- **Tools**: 
+- [sheets](https://docs.google.com/spreadsheets/d/1vFK8Xw41JThyJUa6M0Lv4qvAoJ-TQ4VK-TUc82FVFZA/edit#gid=1414096076)
+- [github](https://cagov.github.io/comment-reports/?code=Hv0cGBn1ysN97obrScf5awD1lZUs6JDyctdTmJgoAE6Py9bjy1foag==#filterA)
 - **Setup and steps**: 
 
 | Steps 	| Process 	| Tools 	| Improvements 	| Team 	|
@@ -80,7 +82,7 @@ Ongoing activities undertaken to carry out the collection of feedback from our v
 
 
 - **Purpose**:  identify common pain points across key user flows 
-- **Method**: UX Audit where the internal team mapped out the entire user flow to get a clear picture of all the different pages and actions users take for specific tasks
+- **Method**: UX Audit where the internal team mapped out the entire user flow to get a clear picture of all the different pages and actions users take to perform specific tasks
 - **Tools**:  miro, google docs, google slides, spreadsheet, quicktime
 - **Setup and steps**: 
 
