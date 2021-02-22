@@ -15,7 +15,7 @@ Sample projects are the activities undertaken to carry out the research for spec
 # Homepage Iteration
 
 ### 📝 Intro
-The main challenge / theme with this iteration of the homepage was “realignment”. Making sure that it serves the core purpose of the website, satisfying visitors needs and it is also aligned with the voice and brand of the CA COVID response.
+The main challenge / theme with this iteration of the homepage is “realignment”. Making sure that it serves the core purpose of the website, satisfying visitors needs and it is also aligned with the voice and brand of the CA COVID response.
 
 ### 🥅 Goals
 - Test with our audiences if the redesign is aligned with the websites core values and users needs
@@ -23,7 +23,7 @@ The main challenge / theme with this iteration of the homepage was “realignmen
 - Test the look and feel of the new redesigned homepage
 
 ### 🔎 Objectives of the study:
-- Identify difficulties and roadblocks participants have when using the new homepage
+- Identify difficulties and roadblocks participants experience when using the new homepage
 - Understand what participants are thinking and feeling as they execute tasks / prompts
 
 ### 🤞 Desired outcomes:
@@ -73,8 +73,7 @@ Business owners find the homepage irrelevant to their needs. Page is perceived a
 # Industry Guidance Redesign
 
 ### 📝 Intro
-The industry guidance page is the fourth most visited page since May 2020. It has been a high priority for the Governor’s Office
-and haven’t had a significant update since May 12. This page is key to the work of many stakeholders: city and county officials, business owners, business associations and members of the public. With new restrictions in place, this page becomes a go-to resource for many businesses and it was in need of a redesign.
+The industry guidance page is the fourth most visited page since May 2020. It has been a high priority for the Governor’s Office and haven’t had a significant update since May 12. This page is key to the work of many stakeholders: city and county officials, business owners, business associations and members of the public. With new restrictions in place, this page becomes a go-to resource for many businesses and it was in need of a redesign.
 
 ### 🥅 Goals
 - Challenge existing assumptions by testing the usability and experience of the page with real visitors
@@ -169,7 +168,6 @@ and haven’t had a significant update since May 12. This page is key to the wor
 | Consumers 	| I want to have the latest information about which activities are allowed in my county. 	| Yes 	| Sometimes 	|
 
 ## Links to documents:
-- [Google drive Folder](https://drive.google.com/drive/u/1/folders/1nw0mOxkP4hfSbhiI5gFPOXEpv-AbSfK-)
 - [PRD](https://docs.google.com/document/d/10oBTgzbvQkZXzyWLcQUpMIvtaoq8q1oG17koRgLLnHs/edit#heading=h.5nwyk53zv7ia)
 - [Research plan](https://docs.google.com/document/d/1ZRtWibr_0KEuf9tEcMBJhcj7Xu91BPgKUDcKjBtxO4E/edit)
 - [Report ppt](https://docs.google.com/presentation/d/1oEfl3dPUewLbYmZfgDqGtbBx8wM6Qn75iDa3--nYD2w/edit) + [Report notion](https://www.notion.so/UX-Research-report-30772b6112ea49b1973a75169a7903d6) 
