@@ -69,4 +69,10 @@ Research activities undertaken to carry out the research of a diverse set of pro
 | Define goals and desired outcomes for a specific test 	| Create a script and screener or duplicate an existing one and change name.<br>Define number of participants. 	| usertesting.com 	| Researcher, content designer and ux designer 	|
 | Create report and share findings 	| Usertesting records videos and can help create clips. There is a manual process to view videos and incorporate findings in a report 	| PPT/ usertesting.com 	| Researcher 	|
 
+---
+## Rubric with needed sills for each activity
+
+![Rubric](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/rubric.jpg)
+
+
 
