@@ -110,7 +110,7 @@ Ongoing activities undertaken to carry out the collection of feedback from our v
 ---
 ## Rubric with needed skills for each activity
 
-![Rubric](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/Rubric.jpg)
+![Rubric](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/rubric.jpg)
 
 ---
 
