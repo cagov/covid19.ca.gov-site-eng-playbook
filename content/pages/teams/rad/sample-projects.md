@@ -1,5 +1,5 @@
 ---
-title: Sample Projects
+title: 📃 Sample Projects
 date: Last Modified 
 permalink: /teams/rad/research-sample-projects.html
 eleventyNavigation:
