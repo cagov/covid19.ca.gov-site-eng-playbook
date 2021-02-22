@@ -74,5 +74,9 @@ Research activities undertaken to carry out the research of a diverse set of pro
 
 ![Rubric](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/rubric.jpg)
 
+---
+
+
+
 
 
