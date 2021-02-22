@@ -8,7 +8,7 @@ eleventyNavigation:
   order: 390
 ---
 
-# Tips for Success 
+# 🤔 Tips for Success 
 
 
 1. Set time for generative/discovery research and exploratory data analysis that will help inform new avenues to satisfy unmet needs and unmet segments.
