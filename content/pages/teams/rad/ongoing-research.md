@@ -7,14 +7,13 @@ eleventyNavigation:
   parent: Research
   order: 340
 ---
-
 Ongoing activities undertaken to carry out the collection of feedback from our visitors or intended audience.  
 
 ---
 
 # Per Page Feedback
-- **Purpose**: capture user feedback at a per page level in order to better understand what pages are useful and how we can improve them. Review the iteration process to satisfy the initial goal. 
-- **Method**: native form with additional information collected from a link we host on ethn.io
+- **Purpose**: capture user feedback at a per page level in order to better understand what pages are useful and how we can improve them. 
+- **Method**: native form hosted on github and sheets with analysis with information collected from a link we host on ethnio plus Google analytics.
 - **Tools**: [sheets](https://docs.google.com/spreadsheets/d/1vFK8Xw41JThyJUa6M0Lv4qvAoJ-TQ4VK-TUc82FVFZA/edit#gid=1414096076)
  and [github](https://cagov.github.io/)
 - **Setup and steps**: 
@@ -31,6 +30,10 @@ Ongoing activities undertaken to carry out the collection of feedback from our v
 **Example of our feature**
 
 ![Per page feedback](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/per-page.jpg)
+
+## Link to documents:
+[PRD](https://docs.google.com/document/d/13v2skLxkah2Jh_7HLytNqnwUlyHkOhe23v5gWNHol4w/edit#heading=h.49bsm1xjzv4h)
+[Document with iterations](https://docs.google.com/document/u/1/d/18GJtj2nrW_Hs9S7GuSGn15LaKUJaorjXYm7mc041mxE/edit)
 
 ---
 
@@ -51,6 +54,7 @@ Ongoing activities undertaken to carry out the collection of feedback from our v
 
 ![Example of our NPI](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/NPI.jpg)
 
+
 ---
 
 # Feedback Survey (Footer)
@@ -68,6 +72,7 @@ Ongoing activities undertaken to carry out the collection of feedback from our v
 
 
 ![Example of our Feedback link](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/Footer.jpg)
+
 
 ---
 
