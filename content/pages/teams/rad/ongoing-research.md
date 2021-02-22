@@ -101,7 +101,7 @@ Ongoing activities undertaken to carry out the collection of feedback from our v
 ## Links to documents:
 
 - [Summary](https://docs.google.com/document/u/1/d/1fyfGQfloku5ovLj3Bq2tn6FQjYM8tw4lvDfe-Z0GbLY/edit#heading=h.6r8cy3o5529n)
-- [Themes](https://docs.google.com/document/u/1/d/1hk4J3etzyUev2IX6-EGPuGtU01TsSTRlnagDqVLv-hA/edit#heading=h.f6hemeb02rmh) & [Metrics](https://docs.google.com/document/u/1/d/1hk4J3etzyUev2IX6-EGPuGtU01TsSTRlnagDqVLv-hA/edit#heading=h.f6hemeb02rmh)
+- [Themes](https://docs.google.com/document/u/1/d/1hk4J3etzyUev2IX6-EGPuGtU01TsSTRlnagDqVLv-hA/edit#heading=h.f6hemeb02rmh) 
 - [Full documentation](https://docs.google.com/document/d/1NnjkKBpD169wF-J_HvC6VwH5LYvddT4HZ5dKZT469iQ/edit#)
 
 
