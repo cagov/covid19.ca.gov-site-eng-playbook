@@ -1,6 +1,6 @@
 
 ---
-title: Design
+title: Design 
 date: Last Modified 
 permalink: /teams/rad/design.html
 eleventyNavigation:
