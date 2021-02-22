@@ -1,5 +1,5 @@
 ---
-title: RAD - Research - Analytics - Design
+title: 🎯 RAD - Research - Analytics - Design
 date: Last Modified 
 permalink: /teams/rad/index.html
 eleventyNavigation:
