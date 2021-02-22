@@ -23,8 +23,8 @@ Ongoing activities undertaken to carry out the collection of feedback from our v
 | Export feedback data and import in system 	| The data goes into Azure Cosmos DB (a cross region, managed database). We have a little webpage with a few web components on it in this  [repo](https://github.com/cagov/comment-reports)  that hits the cosmos db api and pulls out the data with query params - (@Aaron) 	| Simple graph views based on our APIs hosted on github pages 	|  	| Aaron Hans (engineer) 	|
 | Review data 	| Public facing: access data searchable by date, content captain and url<br>Every captain reviews their pages<br>Researcher reviews homepage  	| Access data here 	|  	| Content captains 	|
 | Download data from ethnio links 	| Additional information is collected with an ethnio link: download data from surveys on a weekly basis 	| Ethnio + spreadsheet 	| If we had the enterprise subscription we could use the API and create an automatic download.  	| Data analyst (Britt Allen) 	|
-| Import data to spreadsheet 	| We created a template to visualize the data from ethnio  	| Spreadsheet 	|  	| Britt (data analyst) 	|
-| Share template with team 	| Every week we share the dashboard + themes and findings from previous week  	| Spreadsheet + slack 	|  	| Researcher and data analyst 	|
+| Import data to spreadsheet 	| We created a [template](https://docs.google.com/spreadsheets/d/1vFK8Xw41JThyJUa6M0Lv4qvAoJ-TQ4VK-TUc82FVFZA/edit#gid=1414096076) to visualize the data from ethnio  	| Spreadsheet 	|  	| Britt (data analyst) 	|
+| Share template with team 	| Every week we share the dashboard + themes and findings from previous week  	| Email + slack 	|  	| Researcher and data analyst 	|
 
 
 **Example of our feature**
