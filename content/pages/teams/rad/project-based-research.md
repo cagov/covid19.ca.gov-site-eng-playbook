@@ -1,5 +1,5 @@
 ---
-title: 📄 Project Based Research
+title: Project Based Research
 date: Last Modified 
 permalink: /teams/rad/research/project-based-research.html
 eleventyNavigation:
