@@ -3,7 +3,7 @@ title: Design
 date: Last Modified 
 permalink: /teams/rad/design.html
 eleventyNavigation:
-  key: Research
+  key: Design
   parent: RAD
   order: 410
 ---
