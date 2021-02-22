@@ -14,9 +14,9 @@ Ongoing activities undertaken to carry out the collection of feedback from our v
 
 # 🗒️ Per Page Feedback
 - 🥅 **Purpose**: capture user feedback at a per page level in order to better understand what pages are useful and how we can improve them. 
-- **Method**: native form with daily comments hosted on github and google sheets with weekly analysis collected from a link we host on ethnio plus Google analytics.
-- **Tools**:[sheets](https://docs.google.com/spreadsheets/d/1vFK8Xw41JThyJUa6M0Lv4qvAoJ-TQ4VK-TUc82FVFZA/edit#gid=1414096076) and [github](https://cagov.github.io/comment-reports/?code=Hv0cGBn1ysN97obrScf5awD1lZUs6JDyctdTmJgoAE6Py9bjy1foag==#filterA)
-- **Setup and steps**: 
+- 🔦 **Method**: native form with daily comments hosted on github and google sheets with weekly analysis collected from a link we host on ethnio plus Google analytics.
+- 🧰 **Tools**:[sheets](https://docs.google.com/spreadsheets/d/1vFK8Xw41JThyJUa6M0Lv4qvAoJ-TQ4VK-TUc82FVFZA/edit#gid=1414096076) and [github](https://cagov.github.io/comment-reports/?code=Hv0cGBn1ysN97obrScf5awD1lZUs6JDyctdTmJgoAE6Py9bjy1foag==#filterA)
+- 🧩 **Setup and steps**: 
 
 | Steps 	| Process 	| Tools 	| Improvements 	| Team 	|
 |-	|-	|-	|-	|-	|
@@ -40,9 +40,9 @@ Ongoing activities undertaken to carry out the collection of feedback from our v
 # 🌡️ NPI Survey
 
 - 🥅 **Purpose**: gather longitudinal data from visitors to covid19.ca.gov and ca.gov to discover how attitudes and behaviors change as influenced by changes in policy, local and/or state economy, etc
-- **Approach**: link display to every 50th visitor on covid19.ca.gov (homepage) and static link in ca.gov (homepage)
-- **Tools**:  surveymonkey
-- **Setup and steps**: 
+- 🔦 **Approach**: link display to every 50th visitor on covid19.ca.gov (homepage) and static link in ca.gov (homepage)
+- 🧰 **Tools**:  surveymonkey
+- 🧩 **Setup and steps**: 
 
 
 | Steps 	| Process 	| Tools 	| Improvements 	| Team 	|
@@ -60,9 +60,9 @@ Ongoing activities undertaken to carry out the collection of feedback from our v
 # 🚧 Feedback Survey (Footer)
 
 - 🥅 **Purpose**: provide a place on the website for visitors to give general website feedback, suggestions and comments
-- **Approach**: link on footer
-- **Tools**:  SurveyMonkey
-- **Setup and steps**:
+- 🔦 **Approach**: link on footer
+- 🧰 **Tools**:  SurveyMonkey
+- 🧩 **Setup and steps**:
 
 | Steps 	| Process 	| Tools 	| Team 	|
 |-	|-	|-	|-	|
@@ -80,9 +80,9 @@ Ongoing activities undertaken to carry out the collection of feedback from our v
 
 
 - 🥅 **Purpose**:  identify common pain points across key user flows 
-- **Method**: UX Audit where the internal team mapped out the entire user flow to get a clear picture of all the different pages and actions users take to perform specific tasks
-- **Tools**:  miro, google docs, google slides, spreadsheet, quicktime
-- **Setup and steps**: 
+- 🔦 **Method**: UX Audit where the internal team mapped out the entire user flow to get a clear picture of all the different pages and actions users take to perform specific tasks
+- 🧰 **Tools**:  miro, google docs, google slides, spreadsheet, quicktime
+- 🧩 **Setup and steps**: 
 
 
 | Steps 	| Process 	| Tools 	|
