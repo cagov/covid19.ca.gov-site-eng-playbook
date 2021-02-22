@@ -80,7 +80,7 @@ The industry guidance page is the fourth most visited page since May 2020. It ha
 - Understand how our visitors use the page 
 
 ### 🔎 Objectives of the study:
-- Understand why each, previously identified, segment would visit the industry guidance
+- Understand why each segment would visit the industry guidance
 - Understand how they navigate the page 
 - Understand what they prioritize when checking the industry guidance page: what’s relevant and what’s not
 - Understand when would they revisit the page and for what purpose: returning visitors
@@ -189,7 +189,7 @@ We have designed a new page to communicate this new framework and want to test i
 
 ### 🔎 Purpose of the study:
 
-- Identify difficulties and roadblocks participants have when using the Blueprint page.
+- Identify difficulties and roadblocks participants experience when using the Blueprint page.
 - Understand what participants are thinking and feeling as they execute tasks / prompts.
 - Assess if the framework delivers a clear understanding of what businesses and individuals can do and why
 - Identify what new information needs to be provided
@@ -235,7 +235,7 @@ To view full report  check  [PPT Report](https://docs.google.com/presentation/d/
 
 ## Links to documents
 - [Research plan](https://docs.google.com/document/d/1oyUppAQuXydKguyZ1vVPs-x8qGEDmZZ1ZDiHsmQa7rU/edit) & [Participants](https://docs.google.com/spreadsheets/u/1/d/1aTPJtv0DMKAX3Xzlc301f-AxG0olmD23/edit#gid=374032152)
-- [PPT Report](https://docs.google.com/presentation/u/1/d/1ga2JmDpwBGK0bAGbDnub3g8VyAaph3ZjCScWVU6V2QA/edit?usp=drive_web&ouid=100185044499007273486) & [Doc](https://docs.google.com/document/d/1v0toMUSnWl1Ongf4eLAPW3qBJMdgrbE2Ot0oZon6pgY/edit)
+- [PPT Report](https://docs.google.com/presentation/u/1/d/1ga2JmDpwBGK0bAGbDnub3g8VyAaph3ZjCScWVU6V2QA/edit?usp=drive_web&ouid=100185044499007273486) & [Document](https://docs.google.com/document/d/1v0toMUSnWl1Ongf4eLAPW3qBJMdgrbE2Ot0oZon6pgY/edit)
 - [Priorities fixes](https://docs.google.com/document/d/1v0toMUSnWl1Ongf4eLAPW3qBJMdgrbE2Ot0oZon6pgY/edit)
 
 ---
@@ -282,8 +282,7 @@ There are possible approaches to our segmented audience:
 1. Design for all: by presenting the same exact information in different ways we will provide different perspectives in understanding and interpreting information. This approach will satisfy the needs of audiences with different prior knowledge and experiences. It means meeting people where they are. 
 2. Design for an intended audience and for a specific goal in mind: delivering information intentionally to satisfy those specific needs. 
 
-- For our next steps, we recommend that we decide if we strive to make information understandable for all audiences and, 
-evaluate **understandability** for each audience and iterate until it reaches an acceptable level of understanding. 
+- For our next steps, we recommend that we decide if we strive to make information understandable for all audiences and, evaluate **understandability** for each audience and iterate until it reaches an acceptable level of understanding. 
 
 ## Links to documents
 
