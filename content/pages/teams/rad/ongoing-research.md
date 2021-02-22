@@ -32,8 +32,8 @@ Ongoing activities undertaken to carry out the collection of feedback from our v
 ![Per page feedback](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/per-page.jpg)
 
 ## Link to documents:
-[PRD](https://docs.google.com/document/d/13v2skLxkah2Jh_7HLytNqnwUlyHkOhe23v5gWNHol4w/edit#heading=h.49bsm1xjzv4h)
-[Document with iterations](https://docs.google.com/document/u/1/d/18GJtj2nrW_Hs9S7GuSGn15LaKUJaorjXYm7mc041mxE/edit)
+- [PRD](https://docs.google.com/document/d/13v2skLxkah2Jh_7HLytNqnwUlyHkOhe23v5gWNHol4w/edit#heading=h.49bsm1xjzv4h)
+- [Document with iterations](https://docs.google.com/document/u/1/d/18GJtj2nrW_Hs9S7GuSGn15LaKUJaorjXYm7mc041mxE/edit)
 
 ---
 
