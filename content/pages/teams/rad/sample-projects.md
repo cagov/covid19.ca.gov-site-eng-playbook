@@ -77,7 +77,6 @@ The industry guidance page is the fourth most visited page since May 2020. It ha
 
 ### 🥅 Goals
 - Challenge existing assumptions by testing the usability and experience of the page with real visitors
-- Understand how our visitors use the page 
 
 ### 🔎 Objectives of the study:
 - Understand why each segment would visit the industry guidance
@@ -246,14 +245,14 @@ To view full report  check  [PPT Report](https://docs.google.com/presentation/d/
 We soft-launched the equity page and wanted to take an opportunity to learn more about the visitors’ familiarity with the topic and assess their understanding of the data visualizations.
 
 ### 🥅 Goals:
-- Assess the visitors understanding of the page’s content 
-- Assess the usability of the page
-
-
-### 🔎 Purpose of the study:
 - Understand our audiences ability and familiarity with the topic 
 - Identify our core segments and how to best address their needs
 - Identify our audiences knowledge gaps
+
+
+### 🔎 Purpose of the study:
+- Assess the visitors understanding of the page’s content 
+- Assess the usability of the page
 
 
 ### ❓ Research questions:
