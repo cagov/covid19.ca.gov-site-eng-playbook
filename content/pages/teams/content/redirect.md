@@ -16,6 +16,7 @@ Before you make a redirect, check these things first:
   * Removing the row that contains the link to the page that’s being redirected
   * Changing the link to go to the new URL
 * Is anywhere on our site linking to this URL? Search engines prefer that as few redirects as possible as used. Update the URL of these hyperlinks or remove them prior to putting a redirect in place.
+* Are there any anchor links on the page you need to account for?
 
 Once that’s done:
 
