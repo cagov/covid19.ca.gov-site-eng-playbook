@@ -67,7 +67,7 @@ The WordPress **What’s open data file** is where we make changes that are refl
 
 ## Schools tier descriptions
 
-Need to define this process.
+The description text for the Schools activity cannot be updated by the content team. Contact the development team to update this text.
 
 ## Regional Stay Home Order tiers
 
