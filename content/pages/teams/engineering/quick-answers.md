@@ -18,7 +18,7 @@ Users are often searching with specific questions in mind. When we succeed in pr
 
 We wanted to combine off the shelf, managed cloud services so it would be cheap and run without maintenance. We didn’t want to take on the overhead of managing a bunch of cloud infrastructure, custom code or force our editorial team to duplicate content management work in another CMS.
 
-We were able to achieve this in a way that any organization can duplicate. The cost to run this system is lwo because it falls under the cloud provider’s free tier even when our site gets a lot of traffic.
+We were able to achieve this in a way that any organization can duplicate. The cost to run this system is low because it falls under the cloud provider’s free tier even when our site gets a lot of traffic.
 
 We use Azure cognitive search quick answers to provide all the backend features: the content database, the query evaluation logic and the endpoints for our frontend to call
 
