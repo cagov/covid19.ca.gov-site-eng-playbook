@@ -10,12 +10,13 @@ eleventyNavigation:
 
 This process includes steps for uploading a PDF to replace an existing version (updating).
 
-Notes for pdf publishing (new process)
+Links and notes for pdf publishing (new process with airtable)
 
 ## Airtable:
 [**ODI File Tracker (Purple)**](https://airtable.com/tblIhJbHhqtWDqJoR/viwUwJHYOsYN4pIyl?blocks=hide)
 * Use this to start and track each pdf that is being published. 
 * Select tab labeled **ODI file tracker**.
+
 [**PDF Historical (Pink)**](https://airtable.com/tblIhJbHhqtWDqJoR/viwUwJHYOsYN4pIyl?blocks=hide)
 * Select tab labeled **Git history, PDF metadata, and active files**.
 * Select a view appropriate for what you need (e.g., **Grouped by Industry category key**).
