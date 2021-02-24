@@ -60,7 +60,7 @@ Use an external link icon to tell people a link will take them away from covid19
 
 For this external link icon:
 
-[External link icon](https://teamdocs.covid19.ca.gov//content/images/external link.png)
+[External link icon]
 
 The code is this:
 
