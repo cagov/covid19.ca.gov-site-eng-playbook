@@ -37,13 +37,17 @@ To replace a translated PDF, you'll start in Airtable before doing the actual up
   a. Adding additional details in the larger box with the placeholder text _Add an optional extended description_ is only if you have extended information to add.
 7. Select the green **Commit changes** button to submit the PDF for upload.
 8. To track the status of the PDF upload, select **Actions** in the menu at the top of the page. The text added in the _Add files via upload_ line from the _Commit changes_ section will be listed here. When a green check mark appears to the left of this text, the PDFs have been uploaded (~1 min). 
-9. Copy the URL in github, return to Airtable, and paste the link in the _Github download URL_ field, and also add the commit hash to the _git commit hash_ field. 
-10. Select the permalink in Airtable to verify the the file has been uploaded. Make sure the new date is showing on the file at this link. 
-11. Add the date and time of publication to the _Date updated web_ field.
-12. Return to the _ODI Status_ field, and select the **+ sign** to add the **16 - File published** status.
-13. If the translated guidance is one of the 6 languages that are not fully supported on the site (Armenian, Hmong, Khmer, Punjabi, Russian, and Thai), create an issue in Jira to have these URLs added to the _Industry guidance in Other Languages_ page. Once those are added to the site, return to Airtable to document that in the _Internal log_ field.
-14. If any metadata issues are identified with the file, use the _Internal log_ field in the Airtable record to document those.
-15. If the date on the front page of this translated guidance PDF is not the same as the current English version of this guidance, document that in the Airtable record using the _internal log_ field. 
-16. Once you've published all availabe translations for this guidance, check the boxes in the _Notify Labor_ field. 
-17. Go to the **PDF Historical Files** base in Airtable (pink). Use the first tab on the left, and the **Grouped by industry category** view. Find all of the translated guidance PDFs for that language that have been uploaded and make sure the box is checked in the _is same as public version in api_ field for the most current file published.
-23. Email stakeholders confirming when guidance has been published. 
+
+## Return to Airtable
+
+10. Copy the URL in github, return to Airtable, and paste the link in the _Github download URL_ field, and also add the commit hash to the _git commit hash_ field. 
+11. Select the permalink in Airtable to verify the the file has been uploaded. Make sure the new date is showing on the file at this link. 
+12. Add the date and time of publication to the _Date updated web_ field.
+13. Return to the _ODI Status_ field, and select the **+ sign** to add the **16 - File published** status.
+14. If the translated guidance is one of the 6 languages that are not fully supported on the site (Armenian, Hmong, Khmer, Punjabi, Russian, and Thai), create an issue in Jira to have these URLs added to the _Industry guidance in Other Languages_ page. Once those are added to the site, return to Airtable to document that in the _Internal log_ field.
+15. If any metadata issues are identified with the file, use the _Internal log_ field in the Airtable record to document those.
+16. If the date on the front page of this translated guidance PDF is not the same as the current English version of this guidance, document that in the Airtable record using the _internal log_ field. 
+17. Once you've published all availabe translations for this guidance, check the boxes in the _Notify Labor_ field. 
+18. Go to the **PDF Historical Files** base in Airtable (pink). Use the first tab on the left, and the **Grouped by industry category** view. Find all of the translated guidance PDFs for that language that have been uploaded and make sure the box is checked in the _is same as public version in api_ field for the most current file published.
+23. Email stakeholders confirming that guidance has been published. 
+24. Message developer to update CSV to pull lateste github information into Airtable records. 
