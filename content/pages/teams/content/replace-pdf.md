@@ -13,11 +13,11 @@ This process includes steps for uploading a PDF to replace an existing version (
 Links and notes for pdf publishing (new process with airtable)
 
 ## Airtable:
-[**ODI File Tracker**](https://airtable.com/tblIhJbHhqtWDqJoR/viwUwJHYOsYN4pIyl?blocks=hide)(Purple)
+[**ODI File Tracker**](https://airtable.com/tblIhJbHhqtWDqJoR/viwUwJHYOsYN4pIyl?blocks=hide) (Purple)
 * Use this to start and track each pdf that is being published. 
 * Select tab labeled **ODI file tracker**.
 
-[**PDF Historical**](https://airtable.com/tblIhJbHhqtWDqJoR/viwUwJHYOsYN4pIyl?blocks=hide)(Pink)
+[**PDF Historical**](https://airtable.com/tblIhJbHhqtWDqJoR/viwUwJHYOsYN4pIyl?blocks=hide) (Pink)
 * Select tab labeled _Git history, PDF metadata, and active files_.
 * Select a view appropriate for what you need (e.g., _Grouped by Industry category key_).
 
