@@ -54,6 +54,20 @@ The code is this:
 <a class="action-link" href="https://covid19.ca.gov/sign-up-for-county-alerts/"><span class="ca-gov-icon-warning-circle"></span><strong> Sign up for county alerts</strong></a>
 ```
 
+## External link icon
+
+Use an external link icon to tell people a link will take them away from covid19.ca.gov. This includes any sites that use a domain that includes covid19.ca.gov, but is not maintained by our team. It’s OK to use this formatting multiple times if there are multiple external links in one paragraph.
+
+For this external link icon:
+
+![Action link](https://cagov.github.io/covid19.ca.gov-site-eng-playbook//content/images/action-link.jpg)
+
+The code is this:
+
+```
+<p>After reading, you can request to <a href="https://state-of-california-agency.forms.fm/great-plates-delivered-food-provider-interest-form"volunteer> or provide meals<span class="ca-gov-icon-external-link link-icon" aria-hidden="true"></a>.</p>
+```
+
 ## Highlight box
 
 Urgent information can be highlighted at the top of a page with a highlight box. It can include a right-aligned image next to body text and an action link (button), or can stand alone without these elements.
