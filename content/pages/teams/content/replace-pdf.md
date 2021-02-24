@@ -13,24 +13,24 @@ This process includes steps for uploading a PDF to replace an existing version (
 Links and notes for pdf publishing (new process with airtable)
 
 ## Airtable:
-[**ODI File Tracker (Purple)**](https://airtable.com/tblIhJbHhqtWDqJoR/viwUwJHYOsYN4pIyl?blocks=hide)
+[**ODI File Tracker**](https://airtable.com/tblIhJbHhqtWDqJoR/viwUwJHYOsYN4pIyl?blocks=hide)(Purple)
 * Use this to start and track each pdf that is being published. 
 * Select tab labeled **ODI file tracker**.
 
-[**PDF Historical (Pink)**](https://airtable.com/tblIhJbHhqtWDqJoR/viwUwJHYOsYN4pIyl?blocks=hide)
-* Select tab labeled **Git history, PDF metadata, and active files**.
-* Select a view appropriate for what you need (e.g., **Grouped by Industry category key**).
+[**PDF Historical**](https://airtable.com/tblIhJbHhqtWDqJoR/viwUwJHYOsYN4pIyl?blocks=hide)(Pink)
+* Select tab labeled _Git history, PDF metadata, and active files_.
+* Select a view appropriate for what you need (e.g., _Grouped by Industry category key_).
 
 ## Google Drive [Publish](https://drive.google.com/drive/u/2/folders/1f8ZjcJcXxFt-he7NT6g3S7uJ69CfpwAz) folder:
-* First check that the pdfs appear to have the correct filenames. 
-* Put the files you are about to publish in the google drive **Publish** folder. 
+* First check that the pdfs appear to have the **correct** filenames. 
+* Then put the files you are about to publish in the google drive _Publish_ folder. 
 
 ## Github [Covid-Static PDF](https://github.com/cagov/covid-static/tree/master/pdf) folder:
 * This step will make your file “live” within minutes of upload. Staging first is not available. 
 * Make sure you are in the **pdf** folder: https://github.com/cagov/covid-static/tree/master/pdf
 * You may need to download the file onto your device to then upload it to covid-static. Dragging and dropping the pdf from Google Drive Publish folder into covid-static pdf folder hasn’t worked for several of us.
 * Once the upload to github is complete, make sure to test that it’s working by clicking on the link that you added in the airtable tracker for this file. 
-* Once confirmed that it’s live, change the _ODI file status_ to _Publish_ in the [ODI file tracker](https://airtable.com/tblIhJbHhqtWDqJoR/viwUwJHYOsYN4pIyl?blocks=hide) (purple airtable). Then check the [PDF Historical](https://airtable.com/tblIhJbHhqtWDqJoR/viwUwJHYOsYN4pIyl?blocks=hide) (Pink) airtable and verify that your newly uploaded file is there, and the _green check box_ is selected.
+* Once confirmed that it’s live, change the _ODI file status_ to _Publish_ in the [ODI file tracker](https://airtable.com/tblIhJbHhqtWDqJoR/viwUwJHYOsYN4pIyl?blocks=hide) (purple airtable). Then check the [PDF Historical](https://airtable.com/tblIhJbHhqtWDqJoR/viwUwJHYOsYN4pIyl?blocks=hide) (pink airtable) and verify that your newly uploaded file is there, and the _green check box_ is selected.
 
 ## Old process steps below - need to update
 1. If you’re uploading an updated version of a PDF, find the current version of your PDF on the live site. Find a difference between the current version and the one you’re uploading so you can confirm the new version uploads later.
