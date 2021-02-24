@@ -50,4 +50,4 @@ To replace a translated PDF, you'll start in Airtable before doing the actual up
 17. Once you've published all availabe translations for this guidance, check the boxes in the _Notify Labor_ field. 
 18. Go to the **PDF Historical Files** base in Airtable (pink). Use the first tab on the left, and the **Grouped by industry category** view. Find all of the translated guidance PDFs for that language that have been uploaded and make sure the box is checked in the _is same as public version in api_ field for the most current file published.
 23. Email stakeholders confirming that guidance has been published. 
-24. Message developer to update CSV to pull lateste github information into Airtable records. 
+24. Message developer to update CSV to pull latest github information into Airtable records. 
