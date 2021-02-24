@@ -8,7 +8,7 @@ eleventyNavigation:
   order: 225
 ---
 
-To replace a translated PDF, you'll start in Airtable before doing the actual upload through github.
+To replace a translated PDF, you'll start in Airtable before doing the actual upload through github, and then return to Airtable to finish. 
 
 ## Airtable
 
