@@ -67,6 +67,17 @@ The code is this:
 ```
 <p>After reading, you can request to <a href="https://state-of-california-agency.forms.fm/great-plates-delivered-food-provider-interest-form"volunteer> or provide meals<span class="ca-gov-icon-external-link link-icon" aria-hidden="true"></a>.</p>
 ```
+## PDF link icon
+
+Use a PDF link icon to tell people a link will take them to a PDF. Use this formatting on any link to a PDF document, regardless of who owns it. It’s OK to use this formatting multiple times if there are multiple external links in one paragraph.
+
+For this PDF link icon:
+
+[PDF link icon]
+
+```
+<p>More details about receiving meals are available in the <a href="https://files.covid19.ca.gov/pdf/great-plates-delivered-participants-faqs.pdf%22 participant> FAQ<span class="pdf-link-icon no-underline-icon" aria-hidden="true">PDF</span></a> .</p>
+```
 
 ## Highlight box
 
