@@ -8,7 +8,10 @@ eleventyNavigation:
   order: 232
 ---
 
-The content team can create redirects without help from a developer. Page URLs are created in WordPress using the _URL Slug_ field in the _Document_ tab of the right menu.
+The content team can create redirects without help from a developer. You'll need the URL of the:
+
+* Page you're replacing
+* Page you're creating (which you'll set in WordPress using the _URL Slug_ field in the _Document_ tab of the right menu)
 
 Before you make a redirect, check these things first:
 
