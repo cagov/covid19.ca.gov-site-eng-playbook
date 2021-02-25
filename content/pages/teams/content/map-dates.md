@@ -8,7 +8,7 @@ eleventyNavigation:
   order: 253
 ---
 
-The county map present on [Blueprint for a Safer Economy](https://covid19.ca.gov/safer-economy/) and the [state dashboard](https://covid19.ca.gov/state-dashboard/) has two dates that must be updated whenever new tier assignments are released. These updates are made in a WordPress post that updates both locations at once.
+The county map on [Blueprint for a Safer Economy](https://covid19.ca.gov/safer-economy/) and the [state dashboard](https://covid19.ca.gov/state-dashboard/) has two dates that must be updated whenever new tier assignments are released. These updates are made in a WordPress post that updates both locations at once.
 
 ![The county map with the date fields](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/county-map-dates.jpg)
 
