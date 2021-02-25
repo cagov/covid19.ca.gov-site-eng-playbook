@@ -4,7 +4,7 @@ date: Last Modified
 permalink: /teams/content/homepage.html
 eleventyNavigation:
   key: Homepage
-  parent: Backend
+  parent: Custom Content Management
   order: 235
 ---
 
