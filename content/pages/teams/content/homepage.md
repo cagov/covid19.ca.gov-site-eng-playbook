@@ -15,4 +15,4 @@ The covid19.ca.gov homepage is maintained through several fragments rather than 
 * [People want to know](https://as-go-covid19-d-001.azurewebsites.net/wp-admin/post.php?post=5143&action=edit) 
 * [The site menu/navigation](https://as-go-covid19-d-001.azurewebsites.net/wp-admin/post.php?post=7484&action=edit)
 
-Other pieces are maintained directly through [edits on github](https://github.com/cagov/covid19/tree/master/pages/manual-content/homepages).
+Other pieces are edited directly through [github](https://github.com/cagov/covid19/tree/master/pages/manual-content/homepages).
