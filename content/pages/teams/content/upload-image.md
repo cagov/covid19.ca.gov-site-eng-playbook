@@ -10,7 +10,7 @@ eleventyNavigation:
 
 We host images through github. One of the benefits of this approach is it gives us a version history if the image changes over time.
 
-1. Optimize the image using [Squoosh](https://squoosh.app/).
+1. Optimize the image using an image optimizer like [Squoosh](https://squoosh.app/).
   a. Smaller images load more easily on lower-performance devices. This is part of our commitment to accessibility.
 3. Give the image a descriptive name so you it's easy to find. Use hyphens between words.
   a. For example, if the image is of a woman wearing the mask, use the name _woman-wearing-mask.jpg_.
