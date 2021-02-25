@@ -27,7 +27,7 @@ Updating the link in a button requires editing in HTML view in Wordpress. This p
 
 ![Edit as HTML option in WordPress block dropdown menu](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/edit-as-html.jpg)
 
-* Replace the link inside the HTML chain. Replace everything inside the quotation marks.
+* Replace the link inside the HTML chain (everything inside the quotation marks).
 
 ![Example of code to replace inside HTML view](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/button-link-html-replacement.jpg)
 
