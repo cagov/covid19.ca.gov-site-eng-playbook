@@ -1,5 +1,5 @@
 ---
-title: What's open search data
+title: WIP - What's open search data
 date: Last Modified 
 permalink: /teams/content/whats-open.html
 eleventyNavigation:
@@ -62,11 +62,11 @@ To add or edit column 5 data:
     i. Make sure you do not accidentally put an extra set of td and /td in when you copy and paste.
   d. Return to the **Visual editor** through the three dot button. If the code is acceptable, the cell will be white. If it is not, the cell will be gray.
 5. Confirm all industry guidance links with the industry guidance content captain.
-6. Publication of what’s open data usually takes some time. A noon deadline for publication requires publishing by 11:30.
+6. Publication of what’s open data usually takes some time. A noon deadline for publication requires publishing by 11:30 am Pacific.
   a. It's usually not possible to stage the changes as it takes 20 minutes for the changes to reach the staging server.
-  b. Changes can come in as late as 11:15.
+  b. Changes can come in as late as 11:15 am Pacific.
   c. What’s open data takes longer to publish than the Industry guidance page, so publish what’s open data before Industry guidance to try to time them to update at the same time.
-7. Begin working on the WordPress file no later than 11:00 as it takes time to get the data in due to the size of the file.
+7. Begin working on the WordPress file no later than 11:00 am Pacific as it takes time to get the data in due to the size of the file.
 
 ## Regional Stay Home Order tiers
 
