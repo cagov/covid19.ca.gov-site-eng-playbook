@@ -1,9 +1,9 @@
 ---
-title: Backend content administration
+title: Managing content in custom widgets and pages
 date: Last Modified 
 permalink: /teams/content/backend.html
 eleventyNavigation:
-  key: Backend
+  key: Custom content management
   parent: Content
   order: 230
 ---
