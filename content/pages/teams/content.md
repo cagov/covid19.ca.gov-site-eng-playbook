@@ -8,7 +8,7 @@ eleventyNavigation:
   order: 200
 ---
 
-Most cntent is managed through [WordPress](https://as-go-covid19-d-001.azurewebsites.net/wp-login.php). Thanks to the development team (using rad ideas from our [Research, Analytics, and Design (RAD) teams](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/teams/rad/)) we've got a lot of custom elements we can use to create a great digital experience.
+Most content is managed through [WordPress](https://as-go-covid19-d-001.azurewebsites.net/wp-login.php). Thanks to the development team (using rad ideas from our [Research, Analytics, and Design (RAD) teams](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/teams/rad/)) we've got a lot of custom elements we can use to create a great digital experience.
 
 * Start with some general info about [editing content](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/teams/content/editing.html), including handy [code snippets](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/teams/content/code-snippets.html)
 * You can [upload files](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/teams/content/uploading.html) like:
