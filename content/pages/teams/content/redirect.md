@@ -20,10 +20,10 @@ Before you make a redirect, check these things first:
 
 Once that’s done:
 
-1. Open the WordPress fragment titled [Page Redirect Table](https://as-go-covid19-d-001.azurewebsites.net/wp-admin/post.php?post=1933&action=edit).
+1. Open the [Page Redirect Table](https://as-go-covid19-d-001.azurewebsites.net/wp-admin/post.php?post=1933&action=edit) WordPress post.
 2. Create a new row at the bottom of the table.
 3. In the _original_url_ column, enter the slug for the page you want to redirect.
-  a. Include forward slashes at the beginning and end of the slug. The redirect won’t work if the slashes aren’t included. Example: _/safer-economy/_
+  a. Include forward slashes at the beginning and end of the slug. The redirect will not work if the slashes are not included. Example: _/safer-economy/_
 4. In the _replacement_url_ column, enter the URL or the slug for the page you want to send people to when they visit that URL.
   a. Include forward slashes at the beginning and end of any slug you use here too.
 5. Leave the _Header label_ column blank.
