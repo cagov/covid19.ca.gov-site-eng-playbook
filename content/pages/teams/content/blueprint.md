@@ -4,7 +4,7 @@ date: Last Modified
 permalink: /teams/content/blueprint.html
 eleventyNavigation:
   key: Blueprint
-  parent: Backend
+  parent: Custom content management
   order: 250
 ---
 
