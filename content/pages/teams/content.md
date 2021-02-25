@@ -16,7 +16,7 @@ Broadly speaking, the content team:
 
 ## What's in this guide
 
-Almost all content is managed through [WordPress](https://as-go-covid19-d-001.azurewebsites.net/wp-login.php). Thanks to the development team (using rad ideas from our [Research, Analytics, and Design (RAD) teams](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/teams/rad/)) we've got a lot of custom elements we can use to create a great digital experience. General info about [editing content](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/teams/content/editing.html), including handy [code snippets](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/teams/content/code-snippets.html), is a good place to get started.
+Almost all content is managed through [WordPress](https://as-go-covid19-d-001.azurewebsites.net/wp-login.php). Thanks to the development team (using rad ideas from our [Research, Analytics, and Design (RAD) teams](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/teams/rad/)) we've got a lot of custom elements we can use to create a great digital experience. General info about [editing content](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/teams/content/editing.html), including handy [code snippets](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/teams/content/code-snippets.html), is a good place to start.
 
 We host images and files, like PDFs, through [github](https://github.com/cagov/covid19).
 
