@@ -14,7 +14,6 @@ Below are examples of code you can use in WordPress posts. HTML can be inserted 
 * Hidden keywords
 * Action link
 * Highlight box
-  * Yellow alert box - DEPRECATED
 * Making a header larger while preserving hierarchy
 * Centering an image
 * Aligning an image to the right or left of text
@@ -24,7 +23,7 @@ Below are examples of code you can use in WordPress posts. HTML can be inserted 
 
 ## Hidden question & answer
 
-This code creates a question & answer that will appear as a quick answer in site search, but will not appear on the page. Use sparingly, as most questions & answers would benefit users if they were seen.
+You can create a question & answer that appears as a quick answer in site search, but does not appear on the page. Use this sparingly, as most questions & answers would benefit people if they are seen on pages.
 
 ```
 <div style="display:none;" class="js-qa js-qa-question">Where can I find the list of essential critical infrastructure sectors?</div>
@@ -34,7 +33,7 @@ This code creates a question & answer that will appear as a quick answer in site
 
 ## Hidden keywords
 
-When you’d like a page or quick answer to appear in searches on a certain keyword, but you can’t seem to work that keyword into the visible text, you can add hidden keywords. The keyword below is hidden in the answer part of a quick answer.
+Add hidden keywords when you’d like a page or quick answer to appear in searches for a keyword, but cannot work that keyword into the visible text. The keyword below is hidden in the answer part of a quick answer.
 
 ```
 <div style="display:none;" class="wp-accordion-content"><!-- county map --></div>
@@ -42,13 +41,13 @@ When you’d like a page or quick answer to appear in searches on a certain keyw
 
 ## Action link
 
-An action link has special styling to help it stand out. It is used for a high-priority link near the top of the page. Use only one action link per page. Using a leading icon is preferred, but optional. Always put a space after the icon.
+An action link is styled as a button so it stands out. It is used for a high-priority link near the top of the page. Only use one action link per page. Using a leading icon is preferred, but optional. Always put a space after the icon.
 
 For this action link:
 
 ![Action link](https://cagov.github.io/covid19.ca.gov-site-eng-playbook//content/images/action-link.jpg)
 
-The code is this:
+The code is:
 
 ```
 <a class="action-link" href="https://covid19.ca.gov/sign-up-for-county-alerts/"><span class="ca-gov-icon-warning-circle"></span><strong> Sign up for county alerts</strong></a>
@@ -62,7 +61,7 @@ For this external link icon:
 
 [External link icon]
 
-The code is this:
+The code is:
 
 ```
 <p>After reading, you can request to <a href="https://state-of-california-agency.forms.fm/great-plates-delivered-food-provider-interest-form"volunteer> or provide meals<span class="ca-gov-icon-external-link link-icon" aria-hidden="true"></a>.</p>
@@ -75,6 +74,8 @@ For this PDF link icon:
 
 [PDF link icon]
 
+The code is:
+
 ```
 <p>More details about receiving meals are available in the <a href="https://files.covid19.ca.gov/pdf/great-plates-delivered-participants-faqs.pdf%22 participant> FAQ<span class="pdf-link-icon no-underline-icon" aria-hidden="true">PDF</span></a> .</p>
 ```
@@ -83,13 +84,13 @@ For this PDF link icon:
 
 Urgent information can be highlighted at the top of a page with a highlight box. It can include a right-aligned image next to body text and an action link (button), or can stand alone without these elements.
 
-Highlight boxes now take the place of yellow alert boxes. Use only one per page, and position at the top. Use sparingly, and get approval before publishing. Highlight boxes are an exception to page style, not a rule--there should not be one on every page.
+Use only one per page and position it at the top. Use it sparingly and get approval before publishing. Highlight boxes are an exception to our page style, not a rule--there should not be one on every page.
 
 For this highlight box with just text:
 
 ![Highlight box](https://cagov.github.io/covid19.ca.gov-site-eng-playbook//content/images/highlight-box.jpg)
 
-The code is this:
+The code is:
 
 ```
 <div class="highlight">
@@ -103,7 +104,7 @@ For this highlight box with text and action link:
 
 ![Highlight box with action link](https://cagov.github.io/covid19.ca.gov-site-eng-playbook//content/images/highlight-box-with-button.png)
 
-The code is this:
+The code is:
 
 ```
 <div class="highlight">
@@ -118,7 +119,7 @@ For this highlight box with text, image, and action link:
 
 ![Highlight box with image and action link](https://cagov.github.io/covid19.ca.gov-site-eng-playbook//content/images/highlight-box-with-image.jpg)
 
-The code is this:
+The code is:
 
 ```
 <div class="highlight">
@@ -142,8 +143,6 @@ The code is this:
 
 **We now use the highlight box instead of a yellow alert box. This code is being kept in case it's needed later.**
 
-Urgent information can be highlighted in a yellow alert box at the top of a page. Use sparingly, and get approval before adding an alert box to a page. 
-
 For this yellow alert box:
 
 ![Yellow alert box](https://cagov.github.io/covid19.ca.gov-site-eng-playbook//content/images/yellow-alert-box.jpg)
@@ -164,17 +163,17 @@ When does an H3 look like an H2? When you use this code:
 <!-- /wp:heading -->
 ```
 
-This is WordPress code you can insert using Code Editor. But don’t go crazy - headers really should go down in size as they go down in the hierarchy. 
+Insert it using Code Editor. Use this occasionally and in consultation with the Design team. Headers should go down in size as they go down in the hierarchy. 
 
-If you’d like to do this same thing without writing custom code, simply add the size you’d want your headers to appear as under Additional CSS classes. If there is already a class there, simply put a space between them.
+If you’d like to do this same thing without writing custom code, add the size you’d want your headers to appear as under Additional CSS classes. If there is already a class there, put a space between them.
 
 ![Block section in WordPress with header class code](https://cagov.github.io/covid19.ca.gov-site-eng-playbook//content/images/header-class-in-block.jpg)
 
 ## Centering an image
 
-WordPress offers a way to center an image, but it doesn’t work. So instead, convert your block to Custom HTML and add this div code around your image:
+WordPress offers a way to center an image, but it does not work. Instead, convert your block to **Custom HTML** and add this div code around your image:
   
-  ```
+```
   <div class="text-center">
 <img src="..." alt="...">
 </div>
@@ -228,9 +227,9 @@ Use this code:
   </di
 ```
 
-## Moving arrow button
+## Moving arrow button link
 
-This code allows you to make a special navigation link that responds to mouse-overs with motion and a color change. Use this only once per page.
+This code makes a special navigation link that responds to hover-overs with motion and a color change. Use this only once per page.
 
 For this arrow:
 
@@ -261,7 +260,7 @@ To make text larger (like for the first sentence of a page when implementing the
 
 If you use the same hyperlink text with different URLs on a page, this will trigger an accessibility flag in SiteImprove. Try to reword the text to reflect the different URLs. If you cannot, use a title with the link. This signals to screen readers that the link is different.
 
-To add a title, make a link like usual. View that section in _Code editor_ and add the code beginning **title**, as shown below.
+To add a title, make a link like usual. When finished, view that section in _Code editor_ and add the code beginning **title**, as shown below.
 
 ```
 <a href="https://covid19.ca.gov" title="[the text you’d like the screen reader to read instead of the hyperlink text on the screen]">[hyperlink text]</a>
