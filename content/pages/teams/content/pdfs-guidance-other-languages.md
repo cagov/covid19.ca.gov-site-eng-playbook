@@ -30,7 +30,7 @@ Then you’re ready to add PDFs to this page, with link titles in the native lan
 12. Go to the WordPress post, make a new bullet item at the bottom of the list, and paste your link there.
 13. Keep doing steps 1-12 until all the PDFs for that language have been linked in the post.
 14. When you’re finished with a language, select **Update** so it publishes. (If you close the browser window without updating your changes, they will be lost.)
-15. Make any necessary notes in the comments of the Jira ticket, and mark it as Done.
+15. Make any necessary notes in the comments of the Jira ticket, and mark it as **Done**.
 
 ## Housekeeping items
 
