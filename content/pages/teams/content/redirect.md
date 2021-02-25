@@ -4,7 +4,7 @@ date: Last Modified
 permalink: /teams/content/redirects.html
 eleventyNavigation:
   key: Redirects
-  parent: Backend
+  parent: Custom content management
   order: 232
 ---
 
