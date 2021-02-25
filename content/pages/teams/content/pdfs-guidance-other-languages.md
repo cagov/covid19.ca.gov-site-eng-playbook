@@ -34,6 +34,6 @@ Then you’re ready to add PDFs to this page, with link titles in the native lan
 
 ## Housekeeping items
 
-* If you upload new guidance PDFs, 
-  * Add their URLs to a Jira ticket
-  * Assign the ticket to the responsible content captain so they know to update the page.
+If you upload new guidance PDFs, 
+* Add their URLs to a Jira ticket, noting the language and subject of each PDF
+* Assign the ticket to the responsible content captain so they know to update the page.
