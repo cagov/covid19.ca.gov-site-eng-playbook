@@ -4,7 +4,7 @@ date: Last Modified
 permalink: /teams/content/icu-data.html
 eleventyNavigation:
   key: ICU data
-  parent: Backend
+  parent: Custom content management
   order: 260
 ---
 
