@@ -106,6 +106,8 @@ Ongoing activities undertaken to carry out the collection of feedback from our v
 - [Themes](https://docs.google.com/document/u/1/d/1hk4J3etzyUev2IX6-EGPuGtU01TsSTRlnagDqVLv-hA/edit#heading=h.f6hemeb02rmh) 
 - [Full documentation](https://docs.google.com/document/d/1NnjkKBpD169wF-J_HvC6VwH5LYvddT4HZ5dKZT469iQ/edit#)
 
+![UX Audit](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/audit.jpg)
+
 ---
 ## Rubric with needed skills for each tools
 This rubric will help the researcher identify skills needed to use each of the tools mentioned in this section.
