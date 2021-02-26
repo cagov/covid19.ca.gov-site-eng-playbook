@@ -32,9 +32,9 @@ Research activities undertaken to carry out the research of a diverse set of pro
 
 # 🦉 Ethnio Intercepts
 
-- Ethnio intercepts has been used as a tool to **gather feedback from existing visitors** we were unable to reach out with other tools. Circumstances and context matter in user research, and someone who’s using the website in **real time, for real purposes**, is going to behave differently than someone who’s just being told to accomplish some task via other platforms. We have also used ethnio intercepts as a **source for recruitment** 
+- **Ethnio intercepts** have been used as a tool to **gather feedback from existing visitors we were unable to reach out with other tools**. Circumstances and context matter in user research, and someone who’s using the website in **real time, for real purposes**, is going to behave differently than someone who’s just being told to accomplish some task via other platforms. We have also used ethnio intercepts as a **source for recruitment** 
 - We have used ethnio to **uncover visitor's context of use and motivations when using the site**. We have used that information to better address those contexts and **perform interviews** to dig deeper. 
-- **link**: [ethnio](https://ethn.io)
+- **Link**: [ethnio](https://ethn.io)
 - These are the steps taken to use the ethnio as a source for recruitment and data gathering tool: 
 
 
@@ -64,7 +64,7 @@ Research activities undertaken to carry out the research of a diverse set of pro
 
 | Steps 	| Process 	| Tools 	| Improvements 	|
 |-	|-	|-	|-	|
-| Get or renew subscription 	| Pay subscription. 	| usertesting.com 	| Chief of Administration<br>(Debra) 	|
+| Get or renew subscription 	| Pay subscription. 	| usertesting.com 	| Chief of Administration	|
 | Assign seats 	| Negotiate the numbers of tests and seats 	| usertesting.com 	| Debra 	|
 | Define goals and desired outcomes for a specific test 	| Create a script and screener or duplicate an existing one and change name.<br>Define number of participants. 	| usertesting.com 	| Researcher, content designer and ux designer 	|
 | Create report and share findings 	| Usertesting records videos and can help create clips. There is a manual process to view videos and incorporate findings in a report 	| PPT/ usertesting.com 	| Researcher 	|
