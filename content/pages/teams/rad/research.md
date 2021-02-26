@@ -25,7 +25,7 @@ This was written for:
 ##  Why is this document relevant?
 Our objective is to ensure a researcher can feel comfortable with the tools and processes and apply them to a task at hand.
 
-## What would you find in this docuement?
+## What would you find in this document?
 We organized the document in three categories of research. Each category describes the tools used and steps taken to make use of them.
 1.  Project based research: activities undertaken to carry out the research of a diverse set of projects.
 2.  Ongoing research: activities undertaken to carry out the collection of feedback from our visitors 
