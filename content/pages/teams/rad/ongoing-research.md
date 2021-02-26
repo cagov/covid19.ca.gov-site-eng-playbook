@@ -80,7 +80,7 @@ Ongoing activities undertaken to carry out the collection of feedback from our v
 ## 🔏 UX Auditing
 
 
-- We performed an **ux audit** to **identify common pain points across key user flows**. The audit's goal is to uncover pain points, roadbloacks and success points when performing a task. With this information we can then imporve the overall flow, instead of just focusing on a specific page. 
+- We performed an **ux audit** to **identify common pain points across key user flows**. The audit's goal is to uncover pain points, roadbloacks and success points when performing a task. With this information we can then improve the overall flow, instead of just focusing on a specific page. 
 - We recruited a team of a designer, researcher and analyst and assigned different tasks to each member. We mapped out the entire user flow to get a clear picture of all the different pages and actions users take to perform specific tasks. 
 - **Tools**:  miro, google docs, google slides, spreadsheet, quicktime
 - These are the steps taken to create and implement an UX Audit:
