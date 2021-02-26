@@ -75,30 +75,30 @@ Ongoing activities undertaken to carry out the collection of feedback from our v
 
 ![Example of our Feedback link](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/Footer.jpg)
 
-
 ---
 
 ## 🔏 UX Auditing
 
 
-- 🥅 **Purpose**:  identify common pain points across key user flows 
-- 🔦 **Method**: UX Audit where the internal team mapped out the entire user flow to get a clear picture of all the different pages and actions users take to perform specific tasks
-- 🧰 **Tools**:  miro, google docs, google slides, spreadsheet, quicktime
-- 🧩 **Setup and steps**: 
+- We performed an **ux audit** to **identify common pain points across key user flows**. The audit's goal is to uncover pain points, roadbloacks and success points when performing a task. With this information we can then imporve the overall flow, instead of just focusing on a specific page. 
+- We recruited a team of a designer, researcher and analyst and assigned different tasks to each member. We mapped out the entire user flow to get a clear picture of all the different pages and actions users take to perform specific tasks. 
+- **Tools**:  miro, google docs, google slides, spreadsheet, quicktime
+- These are the steps taken to create and implement an UX Audit:
+
 
 
 | Steps 	| Process 	| Tools 	|
 |-	|-	|-	|
-| Design study 	| A small team of one designer, one researcher and one data analyst met to design the study 	| Clara Gonzalez Sueyro (Researcher) and Adam Little ( designer) and Britt Allen (data analyst) 	|
-| Create scenarios 	| Based on google analytics, GO office priorities and other feedback sources we created 10 scenarios 	| Britt Allen(Data analyst) 	|
-| Assign scenarios 	| Each team member chose one or more scenarios to perform the audit 	| Britt, Clara, Adam and Jessica Lopez 	|
-| Execute audit 	| Each team member identified the parts of the website that provided an answer to the user’s question in the scenario. 	| Britt, Clara, Adam and Jessica Lopez 	|
-| Visualize audit 	| Each member created a map that showed all of the ways that a user might get there (including search). Each one chose to visualize the steps involved through a flow chart, mind map, or something similar. 	| Britt, Clara, Adam and Jessica Lopez 	|
-| Uncover pain points 	| For each step in the flow, the team identified:<br>potential “pain points” that made the process difficult (e.g. confusing labeling) 	| Britt, Clara, Adam and Jessica Lopez 	|
-| Find themes 	| As a group we synthesized pain points to determine themes/trends  	| Britt, Clara, Adam and Jessica Lopez 	|
-| Define heuristics 	| Defined our own heuristics to reuse in future audits 	| Clara and Adam 	|
+| Design study 	| A small team of one designer, one researcher and one data analyst met to design the study 	| Researcher, designer and data analyst 	|
+| Create scenarios 	| Based on google analytics, GO office priorities and other feedback sources we created 10 scenarios 	| Data analyst 	|
+| Assign scenarios 	| Each team member chose one or more scenarios to perform the audit 	| Researcher, designer and data analyst 	|
+| Execute audit 	| Each team member identified the parts of the website that provided an answer to the user’s question in the scenario. 	| Researcher, designer and data analyst 	|
+| Visualize audit 	| Each member created a map that showed all of the ways that a user might get there (including search). Each one chose to visualize the steps involved through a flow chart, mind map, or something similar. 	| Researcher, designer and data analyst  	|
+| Uncover pain points 	| For each step in the flow, the team identified:<br>potential “pain points” that made the process difficult (e.g. confusing labeling) 	| Researcher, designer and data analyst  	|
+| Find themes 	| As a group we synthesized pain points to determine themes/trends  	| Researcher, designer and data analyst  	|
+| Define heuristics 	| Defined our own heuristics to reuse in future audits 	| Researcher and designer	|
 | Score scenarios 	| Scored each flow with the usability rubric 	|  	|
-| Create list of quick wins and big improvements 	| For each theme, we created a list with small wins and big improvements<br>Small Wins: try to introduce them immediately. <br>Big Improvements:  large-scale improvements/problems that we would like to tackle in our next major redesign. 	| Clara and Adam 	|
+| Create list of quick wins and big improvements 	| For each theme, we created a list with small wins and big improvements<br>Small Wins: try to introduce them immediately. <br>Big Improvements:  large-scale improvements/problems that we would like to tackle in our next major redesign. 	| Researcher and designer 	|
 
 ## Links to documents:
 
@@ -106,13 +106,11 @@ Ongoing activities undertaken to carry out the collection of feedback from our v
 - [Themes](https://docs.google.com/document/u/1/d/1hk4J3etzyUev2IX6-EGPuGtU01TsSTRlnagDqVLv-hA/edit#heading=h.f6hemeb02rmh) 
 - [Full documentation](https://docs.google.com/document/d/1NnjkKBpD169wF-J_HvC6VwH5LYvddT4HZ5dKZT469iQ/edit#)
 
-
-![Theme recognition ](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/audit.jpg)
-
 ---
-## Rubric with needed skills for each activity
+## Rubric with needed skills for each tools
+We hope this rubric helps you identify skills needed to use each of the tools.
 
-![Rubric](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/rubric.jpg)
+![Rubric](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/rubric-ongoing.jpg)
 
 ---
 
