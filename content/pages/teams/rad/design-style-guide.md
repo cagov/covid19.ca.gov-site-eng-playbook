@@ -37,33 +37,35 @@ The principles that we use for covid19.ca.gov are the same as Alpha which levera
 
 The foundational layer of the design components are based on [Bootstrap v4](https://getbootstrap.com) as well as the latest version of the [CA state web template](https://beta.template.webstandards.ca.gov). While the design of covid19.ca.gov was initially modelled after the [Alpha website](https://www.alpha.ca.gov/), it has since taken on it's own unique look and feel.
 
-## Typography
+Below is a summary of key styles. For more detail, please refer to the [components and styles](https://teamdocs.covid19.ca.gov/components/) portion of this documentation.
+
+### Typography
 The main [COVID19](https://covid19.ca.gov) website uses Roboto and Montserrat typefaces. Mainly headings 1 through 4 are used throughout webpages. 
 
-### Headings 
+#### Headings 
 * **Heading 1:** Montserrat bold 700, font-size 2.3rem
 * **Heading 2:** Montserrat bold 700, font-size 2rem
 * **Heading 3:** Roboto bold 700, font-size 1.5rem
 * **Heading 4:** Roboto bold 700, font-size 1.4rem
 
-### Paragraph text 
+#### Paragraph text 
 * **paragraph:** Roboto regular 300, color #00000, font-size 1.2rem,  line height 1.5, paragraph spacing 1.2rem
 
-## Colors
+### Colors
 * **Primary color:** #1f2574
 * **Secondary color:** #003d9d
 * **Accent color:** #f2f5fc
 * **Accent color:** #ff8000
 * **Accent color:** #92C5DE
 
-## Icons
+### Icons
 The state web template includes an [icon font](https://beta.template.webstandards.ca.gov/sample/icon-fonts.html) and has several COVID related icons available. Additionally an open source [COVID icon font](https://fontawesome.com/icons?d=gallery&q=covid-19&m=free) is also available and complements the state icon font. 
 
-## Branding 
+### Branding 
 
 * **Logos:** [California for all](https://govca.app.box.com/s/8wsb5ytp1sv2ivh5o0seqzz82sbt1oe5)
 * **Images:** [Hero banner/Backgrounds](https://govca.app.box.com/s/1vk3x2d20fjplsciqonrrohdrlr8vzs3)
 
-## Web Toolkit
+### Web Toolkit
 A toolkit website that contains communications materials as well as graphical banners and imagery is also available at [COVID19 Response Toolkit](https://toolkit.covid19.ca.gov/partners/).
  
