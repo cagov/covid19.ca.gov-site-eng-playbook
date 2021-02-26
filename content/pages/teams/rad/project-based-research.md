@@ -16,7 +16,7 @@ Research activities undertaken to carry out the research of a diverse set of pro
 3. Usertesting.com
 
 
-- Each tool requires a collaborative approach across different roles and skill sets. We have created a rubric that showcases the roles and involvement needed to successfully use each of the tools. 
+- Each tool requires a collaborative approach across different roles and skill sets. We have created a rubric that showcases the skills needed to successfully use each of the tools. 
 
 
 
@@ -81,7 +81,7 @@ Research activities undertaken to carry out the research of a diverse set of pro
 ---
 ## Rubric with needed skills for each technique and tools
 
-This rubric will help you identify roles and responsibilities needed to successfully use the tool. 
+This rubric will help you identify roles and responsibilities needed to use each of the tools. 
 
 ![Rubric](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/rubric-project-base.jpg)
 
