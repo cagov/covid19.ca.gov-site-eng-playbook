@@ -108,7 +108,7 @@ Ongoing activities undertaken to carry out the collection of feedback from our v
 
 ---
 ## Rubric with needed skills for each tools
-We hope this rubric helps you identify skills needed to use each of the tools.
+This rubric will help the researcher identify skills needed to use each of the tools mentioned in this section.
 
 ![Rubric](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/rubric-ongoing.jpg)
 
