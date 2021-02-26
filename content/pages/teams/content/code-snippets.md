@@ -13,6 +13,8 @@ Below are examples of code you can use in WordPress posts. HTML can be inserted 
 * Hidden question & answer
 * Hidden keywords
 * Action link
+* External link icon
+* PDF link icon
 * Highlight box
 * Making a header larger while preserving hierarchy
 * Centering an image
@@ -53,26 +55,26 @@ The code is:
 <a class="action-link" href="https://covid19.ca.gov/sign-up-for-county-alerts/"><span class="ca-gov-icon-warning-circle"></span><strong> Sign up for county alerts</strong></a>
 ```
 
-## WIP - External link icon
+## External link icon
 
 Use an external link icon to tell people a link will take them away from covid19.ca.gov. This includes any sites that use a domain that includes covid19.ca.gov, but is not maintained by our team. It’s OK to use this formatting multiple times if there are multiple external links in one paragraph.
 
 For this external link icon:
 
-[External link icon]
+![External link icon](https://cagov.github.io/covid19.ca.gov-site-eng-playbook//content/images/external-link.png)
 
 The code is:
 
 ```
 <p>After reading, you can request to <a href="https://state-of-california-agency.forms.fm/great-plates-delivered-food-provider-interest-form"volunteer> or provide meals<span class="ca-gov-icon-external-link link-icon" aria-hidden="true"></a>.</p>
 ```
-## WIP - PDF link icon
+## PDF link icon
 
 Use a PDF link icon to tell people a link will take them to a PDF. Use this formatting on any link to a PDF document, regardless of who owns it. It’s OK to use this formatting multiple times if there are multiple external links in one paragraph.
 
 For this PDF link icon:
 
-[PDF link icon]
+![PDF link icon](https://cagov.github.io/covid19.ca.gov-site-eng-playbook//content/images/pdf-link-icon.png)
 
 The code is:
 
