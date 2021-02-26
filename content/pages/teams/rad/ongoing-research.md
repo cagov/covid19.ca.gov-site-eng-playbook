@@ -8,22 +8,23 @@ eleventyNavigation:
   order: 340
 ---
 
-Ongoing activities undertaken to carry out the collection of feedback from our visitors or intended audience.  
+Ongoing activities undertaken to carry out the collection of feedback from our visitors.  
 
 ---
 
 ## 🗒️ Per Page Feedback
-- 🥅 **Purpose**: capture user feedback at a per page level in order to better understand what pages are useful and how we can improve them. 
-- 🔦 **Method**: native form with daily comments hosted on github and google sheets with weekly analysis collected from a link we host on ethnio plus Google analytics.
-- 🧰 **Tools**: [sheets](https://docs.google.com/spreadsheets/d/1vFK8Xw41JThyJUa6M0Lv4qvAoJ-TQ4VK-TUc82FVFZA/edit#gid=1414096076) and [github](https://cagov.github.io/comment-reports/?code=Hv0cGBn1ysN97obrScf5awD1lZUs6JDyctdTmJgoAE6Py9bjy1foag==#filterA)
-- 🧩 **Setup and steps**: 
+- We use this feature to capture **user feedback at a per page level** in order to better understand what pages are useful, what within the page is meanigful, confusing, distracting and how we can improve them **to make them relevant to user needs**. 
+- We use a **native form with daily comments hosted on github** and **google sheets with a weekly syntehsis and analysis** with responses collected from a link we host on ethn.io that is displayed after the visitor give a comment.
+- **Links**: [sheets](https://docs.google.com/spreadsheets/d/1vFK8Xw41JThyJUa6M0Lv4qvAoJ-TQ4VK-TUc82FVFZA/edit#gid=1414096076) and [github](https://cagov.github.io/comment-reports/?code=Hv0cGBn1ysN97obrScf5awD1lZUs6JDyctdTmJgoAE6Py9bjy1foag==#filterA)
+- These are the steps taken to use the per page feedback feature:
+
 
 | Steps 	| Process 	| Tools 	| Improvements 	| Team 	|
 |-	|-	|-	|-	|-	|
-| Export feedback data and import in system 	| The data goes into Azure Cosmos DB (a cross region, managed database). We have a little webpage with a few web components on it in this  [repo](https://github.com/cagov/comment-reports)  that hits the cosmos db api and pulls out the data with query params - (@Aaron) 	| Simple graph views based on our APIs hosted on github pages 	|  	| Aaron Hans (engineer) 	|
+| Export feedback data and import in system 	| The data goes into Azure Cosmos DB (a cross region, managed database). We have a little webpage with a few web components on it in this  [repo](https://github.com/cagov/comment-reports)  that hits the cosmos db api and pulls out the data with query params	| Simple graph views based on our APIs hosted on github pages 	|  	| Engineer 	|
 | Review data 	| Public facing: access data searchable by date, content captain and url<br>Every captain reviews their pages<br>Researcher reviews homepage  	| Access data here 	|  	| Content captains 	|
-| Download data from ethnio links 	| Additional information is collected with an ethnio link: download data from surveys on a weekly basis 	| Ethnio + spreadsheet 	| If we had the enterprise subscription we could use the API and create an automatic download.  	| Data analyst (Britt Allen) 	|
-| Import data to spreadsheet 	| We created a [template](https://docs.google.com/spreadsheets/d/1vFK8Xw41JThyJUa6M0Lv4qvAoJ-TQ4VK-TUc82FVFZA/edit#gid=1414096076) to visualize the data from ethnio  	| Spreadsheet 	|  	| Britt (data analyst) 	|
+| Download data from ethnio links 	| Additional information is collected with an ethnio link: download data from surveys on a weekly basis 	| Ethnio + spreadsheet 	| If we had the enterprise subscription we could use the API and create an automatic download.  	| Data analyst  	|
+| Import data to spreadsheet 	| We created a [template](https://docs.google.com/spreadsheets/d/1vFK8Xw41JThyJUa6M0Lv4qvAoJ-TQ4VK-TUc82FVFZA/edit#gid=1414096076) to visualize the data from ethnio  	| Spreadsheet 	|  	| Britt  	|
 | Share template with team 	| Every week we share the dashboard + themes and findings from previous week  	| Email + slack 	|  	| Researcher and data analyst 	|
 
 
@@ -33,24 +34,25 @@ Ongoing activities undertaken to carry out the collection of feedback from our v
 
 ## Link to documents:
 - [PRD](https://docs.google.com/document/d/13v2skLxkah2Jh_7HLytNqnwUlyHkOhe23v5gWNHol4w/edit#heading=h.49bsm1xjzv4h)
-- [Document with iterations](https://docs.google.com/document/u/1/d/18GJtj2nrW_Hs9S7GuSGn15LaKUJaorjXYm7mc041mxE/edit)
+- [Document tracking iterations & improvements](https://docs.google.com/document/u/1/d/18GJtj2nrW_Hs9S7GuSGn15LaKUJaorjXYm7mc041mxE/edit)
 
 ---
 
 ## 🌡️ NPI Survey
 
-- 🥅 **Purpose**: gather longitudinal data from visitors to covid19.ca.gov and ca.gov to discover how attitudes and behaviors change as influenced by changes in policy, local and/or state economy, etc
-- 🔦 **Approach**: link display to every 50th visitor on covid19.ca.gov (homepage) and static link in ca.gov (homepage)
-- 🧰 **Tools**:  surveymonkey
-- 🧩 **Setup and steps**: 
+- We have used the **NPI survey** to gather longitudinal data from visitors to covid19.ca.gov and ca.gov to **discover how attitudes and behaviors change as influenced by changes in policy, local and/or state economy** and other factors.
+- We showcase the link to the survey to every 50th visitor on covid19.ca.gov (homepage) and static link in ca.gov (homepage)
+- **Link**: https://www.surveymonkey.com/
+- These are the steps taken to create and update the NPI survey:
+
 
 
 | Steps 	| Process 	| Tools 	| Improvements 	| Team 	|
 |-	|-	|-	|-	|-	|
-| Design survey 	| The insights team, and the former researcher Hilary Hoeber, designed the first version early on in March. Most questions remain the same to gather longitudinal data.  <br>Have to work with the eng team if we want to make changes to the frequency of delivery. Currently delivering to every 50th visitor on covid19.ca.gov and a static link on ca.gov site 	| Google docs Surveymonkey 	|  	| Insights team (JP, Jeffrey)<br>Researcher 	|
+| Design survey 	| The insights team designed the first version early on in March. Most questions remain the same to gather longitudinal data.  <br>Have to work with the eng team if we want to make changes to the frequency of delivery. Currently delivering to every 50th visitor on covid19.ca.gov and a static link on ca.gov site 	| Surveymonkey 	|  	| Insights team and <br>Researcher 	|
 | Meet weekly 	| The insights team and some external volunteers meet on a weekly basis to discuss results and future iterations 	| Google meets 	|  	| Insights team, researcher , volunteers 	|
-| Dump data daily on spreadsheet 	| Every weekday morning, Karim (content designer) downloads SurveyMonkey data from the NPI survey from the previous day from 12:00 am to 11:59 pm and then uploads it to the NPI raw data sheet with a new date 	| [NPI raw data sheet](https://docs.google.com/spreadsheets/d/1mVNx5z21wByufIULhd0HVaFVhODgSzxHvPPVyBdyAxU/edit?pli=1#gid=1397690428) 	|  	| Karim (anyone with access to surveymonkey) 	|
-| Review of open ended questions to gather quotes 	| JP from Insights team will review open ended questions to gather quotes for the GO book.  The criteria to choose quotes is a balance between constant and frequently mentioned themes, new themes we want to surface and edge cases that we should shed light on 	|  	| Opportunity to follow up with interviews with participants who opted to provide email. Since 11/1 we collect emails but haven’t done much with it. 	| Insights team, content designer 	|
+| Dump data daily on spreadsheet 	| Every weekday morning we download SurveyMonkey data from the NPI survey from the previous day from 12:00 am to 11:59 pm and then uploads it to the NPI raw data sheet with a new date 	| [NPI raw data sheet](https://docs.google.com/spreadsheets/d/1mVNx5z21wByufIULhd0HVaFVhODgSzxHvPPVyBdyAxU/edit?pli=1#gid=1397690428) 	|  	| Aanyone with access to surveymonkey 	|
+| Review open ended questions to gather quotes 	| Insights team will review open ended questions to gather quotes for the GO book which is deliver weekly.  The criteria to choose quotes is a balance between constant and frequently mentioned themes, new themes we want to surface and edge cases that we should shed light on 	|  	| Opportunity to follow up with interviews with participants who opted to provide email. Since 11/1 we collect emails but haven’t done much with it. 	| Insights team, researcher 	|
 
 ![Example of our NPI](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/NPI.jpg)
 
@@ -59,16 +61,16 @@ Ongoing activities undertaken to carry out the collection of feedback from our v
 
 ## 🚧 Feedback Survey (Footer)
 
-- 🥅 **Purpose**: provide a place on the website for visitors to give general website feedback, suggestions and comments
-- 🔦 **Approach**: link on footer
-- 🧰 **Tools**:  SurveyMonkey
-- 🧩 **Setup and steps**:
+- We created a **survey link** to provide a place on the website for visitors to **give general website feedback, suggestions and comments**. 
+- We added a link on the footer. We believe the location on the footer follows other websites best practices and it doesn't interfere with the user tasks. 
+- **Link**:  SurveyMonkey
+- These are the steps taken to make us of the NPI survey:
 
 | Steps 	| Process 	| Tools 	| Team 	|
 |-	|-	|-	|-	|
-| Design survey and/or edit questions 	| Over time we have made some edits to the questions to support and complement other sources of feedback  	| Google docs + surveymonkey 	| Researcher 	|
-| Dump data daily 	| Karim downloads the data from SurveyMonkey and uploads it [here](https://docs.google.com/spreadsheets/d/1W_rowHqsi1kIEEUkkbyjdoWcDhGuf4ctj44nER5aDxU/edit#gid=325946802). Karim reads through the feedback each morning 	| Spreadsheet 	| Karim (anyone with access to surveymonkey) 	|
-| Review of comments daily 	| Share meaningful comments with the team, mostly via slack channel 	| Slack or standup 	| Karim or anyone reading the comments and feedback 	|
+| Design survey and/or edit questions 	| Over time we have made some edits to the questions to complement other sources of feedback and avoid cannibalization 	| Google docs + surveymonkey 	| Researcher 	|
+| Dump data daily 	|  Download the data from SurveyMonkey and upload it [here](https://docs.google.com/spreadsheets/d/1W_rowHqsi1kIEEUkkbyjdoWcDhGuf4ctj44nER5aDxU/edit#gid=325946802). Read through the feedback each morning 	| Spreadsheet 	| Anyone with access to surveymonkey 	|
+| Review comments daily 	| Share meaningful comments with the team, mostly via slack channel 	| Slack or standup 	| Anyone reading the comments 	|
 
 
 ![Example of our Feedback link](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/Footer.jpg)
