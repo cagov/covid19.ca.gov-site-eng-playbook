@@ -21,29 +21,29 @@ Each project had a slightly different approach in terms of goals, activities and
 
 ## Homepage Iteration
 
-### 📝 Intro
+### Intro
 The main challenge / theme with this iteration of the homepage is “realignment”. Making sure that it serves the core purpose of the website, satisfying visitors needs and it is also aligned with the voice and brand of the CA COVID response.
 
-### 🥅 Goals
+### Goals
 - Test with our audiences if the redesign is aligned with the websites core values and users needs
 - Test the user experience of our audience when performing key tasks
 - Test the look and feel of the new redesigned homepage
 
-### 🔎 Objectives of the study:
+### Objectives of the study:
 - Identify difficulties and roadblocks participants experience when using the new homepage
 - Understand what participants are thinking and feeling as they execute tasks / prompts
 
-### 🤞 Desired outcomes:
+### Desired outcomes:
 - Recommend changes to informational architecture and navigation
 - Identify what new information needs to be collected to stimulate new learnings 
 
-### 🧳 Process:
+### Process:
 - **Discover**: test homepage prototype with our audience
 1. Discover → evaluative research → usability testing sessions
 - **Define**: use research data and findings to identify opportunities for improvement
 2. Define → summarize findings → uncover patterns within homepage predefined sections → propose recommendations for V1, V2
 
-### 🔦 Findings:
+### Findings:
 
 - **Dashboard** → **Updates**:
 Uncertainty about the frequency of updates.
@@ -79,25 +79,25 @@ Business owners find the homepage irrelevant to their needs. Page is perceived a
 
 ## Industry Guidance Redesign
 
-### 📝 Intro
+### Intro
 The industry guidance page is the fourth most visited page since May 2020. It has been a high priority for the Governor’s Office and haven’t had a significant update since May 12. This page is key to the work of many stakeholders: city and county officials, business owners, business associations and members of the public. With new restrictions in place, this page becomes a go-to resource for many businesses and it was in need of a redesign.
 
-### 🥅 Goals
+### Goals
 - Challenge existing assumptions by testing the usability and experience of the page with real visitors
 
-### 🔎 Objectives of the study:
+### Objectives of the study:
 - Understand why each segment would visit the industry guidance
 - Understand how they navigate the page 
 - Understand what they prioritize when checking the industry guidance page: what’s relevant and what’s not
 - Understand when would they revisit the page and for what purpose: returning visitors
 
-### 🧳 Process:
+### Process:
 1. Discover: interview stakeholders, perform user testing sessions and intercept visitors while performing a task
 2. Define: use research data to identify opportunities for improvement.
 -  summarize findings → uncover patterns and themes → create insights → content gap analysis → propose recommendations for MPV and V1
 
 
-### 🏹 Activities:
+### Activities:
 - **Intercept visitors** as they navigate the Industry guidance page to understand who they were and what they were trying to accomplish. 
 - **Interview key stakeholders** such as GoBiz and business representatives to understand about their jobs and how do they use the page to serve their customers
 - **Perform usability testing sessions** to evaluate our existing page in terms of usability and UX focusing on relevance, hierarchy and accessibility.
@@ -184,16 +184,16 @@ The industry guidance page is the fourth most visited page since May 2020. It ha
 
 ## Blueprint & What’s Open Search
 
-### 📝 Intro
+### Intro
 The Governor’s Office announced a new reopening framework for business sectors. This is a new state criteria for reopening businesses. More “prescriptive / dynamic criteria” based on local health officials and experience gained from the past months. 
 We have designed a new page to communicate this new framework and want to test it with business owners and members of the public.
 
-### 🥅 Goals: 
+### Goals: 
 
 - Evaluate the understanding of the new framework
 - Assess the user experience of the page 
 
-### 🔎 Purpose of the study:
+### Purpose of the study:
 
 - Identify difficulties and roadblocks participants experience when using the Blueprint page.
 - Understand what participants are thinking and feeling as they execute tasks / prompts.
@@ -202,19 +202,19 @@ We have designed a new page to communicate this new framework and want to test i
 - Align the new redesign and framework to people’s ability and understanding about what’s safe in their county
 
 
-### ❓ Research questions:
+### Research questions:
 - Are people able to accurately describe in their own words what purpose this page serves and what the different colors mean?
 
-### 🏹 Activities:
+### Activities:
 
 - Usability testing sessions with members of the public and business owners to uncover problems and points of confusion when using the Blueprint page
 - Usabiliy testing sessions to assess the understanding of the new framework.
 
-### 🧳 Process:
+### Process:
 
 1. Summarize findings → cluster findings into UX and usability pain points and success moments → recommendations
 
-### 🔦 Findings:
+### Findings:
 - 8 out 10 haven’t heard about the new framework.
 - 9 out 10 haven’t been to this page before.
 - [+] Participants appreciate the consistency of information, especially the visual coherence.  
@@ -248,21 +248,21 @@ To view full report  check  [PPT Report](https://docs.google.com/presentation/d/
 
 ## Health Equity Dashboard
 
-### 📝 Intro
+### Intro
 We soft-launched the equity page and wanted to take an opportunity to learn more about the visitors’ familiarity with the topic and assess their understanding of the data visualizations.
 
-### 🥅 Goals:
+### Goals:
 - Understand our audiences ability and familiarity with the topic 
 - Identify our core segments and how to best address their needs
 - Identify our audiences knowledge gaps
 
 
-### 🔎 Purpose of the study:
+### Purpose of the study:
 - Assess the visitors understanding of the page’s content 
 - Assess the usability of the page
 
 
-### ❓ Research questions:
+### Research questions:
 - Who visits this page?
 - What do they expect to find on this page?
 - How do they navigate the page?
@@ -271,11 +271,11 @@ We soft-launched the equity page and wanted to take an opportunity to learn more
 - How do they understand the data visualizations?
 
 
-### 🏹 Activities:
+### Activities:
 - Intercept visitors and learn from their experience as they navigate the page
 - Perform usability testing sessions with people with diverse background and familiarity with the issue of health equity.
 
-### 🔦 Findings:
+### Findings:
 
 - We have identified two segments of users with different prior knowledge, abilities and overall expectations.
 
