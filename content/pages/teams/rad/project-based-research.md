@@ -12,7 +12,7 @@ Research activities undertaken to carry out the research of a diverse set of pro
 
 
 # 📱 Call Center
-- The **call center** has been used as a **source for recruitment** to reach out to harder to reach previously identified groups such as Spanish speaking population who represent a higher % of the total population in California and have been highly impacted by covid-19. 
+- The **call center** has been used as a **source for recruitment** to reach out to **harder to reach** previously identified groups such as Spanish speaking population who represent a higher % of the total population in California and have been highly impacted by covid-19. 
 - We have used the referrals from the call center to perform **interviews**. 
 - These are the steps taken to use the call center as a source for recruitment: 
 
@@ -30,22 +30,23 @@ Research activities undertaken to carry out the research of a diverse set of pro
 
 ---
 
-# 🔬 Ethnio Intercepts
+# 🦉 Ethnio Intercepts
 
-- 🥅 **Purpose**: gather feedback from existing visitors we were unable to reach out with other tools such as usertesting.com. Circumstances matter a lot in user research, and someone who’s using the website in real timer, for real purposes, is going to behave differently–and probably more accurate feedback–than someone who’s just being told to accomplish some task via usertesting.com
-- 🔦 **Method**: intercept visitors to learn from our existing user base. 
-- 🧰 **Tools**: [ethnio](https://ethn.io)
-- 🧩 **Setup and steps**: 
+- Ethnio intercepts has been used as a tool to **gather feedback from existing visitors** we were unable to reach out with other tools. Circumstances and context matter in user research, and someone who’s using the website in **real time, for real purposes**, is going to behave differently than someone who’s just being told to accomplish some task via other platforms. We have also used ethnio intercepts as a **source for recruitment** 
+- We have used ethnio to **uncover visitor's context of use and motivations when using the site**. We have used that information to better address those contexts and **perform interviews** to dig deeper. 
+- **link**: [ethnio](https://ethn.io)
+- These are the steps taken to use the ethnio as a source for recruitment and data gathering tool: 
+
 
 
 | Steps 	| Process 	| Tools 	| Improvements 	| Roles and team at covid19 	|
 |-	|-	|-	|-	|-	|
-| Get or renew a subscription 	| Pay a subscription. 	| ethnio 	| We were able to get additional features for free due to the nature of our work. 	| Chief of Administration<br>(Debra) 	|
-| Onboard and assign seats 	| Debra needs to manually add or reassign seats  	| ethnio 	|  	| Debra 	|
+| Get or renew a subscription 	| Pay a subscription. 	| ethnio 	| We were able to get additional features for free due to the nature of our work. 	| Chief of Administration 	|
+| Onboard and assign seats 	| The chief of administration needs to manually add or reassign seats  	| ethnio 	|  	| Chief of Administration 	|
 | Design study 	| Create a script and screener or duplicate an existing one and change name 	| screener 	|  	| Researcher 	|
-| Define recruitment method: intercept, link or native app intercept.  	| If choosing an intercept the researcher needs to share the javascript code with the engineer team to add to the desired page. <br>If choosing a link there is no need to share.  	| javascript code 	| Every time an intercept is turned off it is ideal to request the team to remove the line of javascript. Not only is in favor of accessibility practices but also it consumes pageviews which we have a limited amount per billing cycle.  	| Researcher 	|
+| Define recruitment method: intercept, link or native app intercept.  	| If choosing an intercept the researcher needs to share the javascript code with the engineer team or content captain for the page to add to the desired page. <br>If choosing a link there is no need to share.  	| javascript code 	| Every time an intercept is turned off it is ideal to request the team to remove the line of javascript. Not only is in favor of accessibility practices but also it consumes pageviews which we have a limited amount per billing cycle.  	| Researcher 	|
 | Turn intercept on 	| There is an on-off switch in the dashboard next to each screener. 	| ethnio 	|  	| Researcher 	|
-| Download responses and create a report 	| Download all responses to: XLSX or CSV or XML. There is also a pdf option with predetermined graphs for some questions.  	| ethnio/ export data 	|  	| Researcher 	|
+| Download responses and create a report 	| Download all responses to: XLSX or CSV or XML. There is also a pdf option with predetermined graphs for closed ended questions.  	| ethnio/ export data 	|  	| Researcher 	|
 
 **Example of an intercept**
 
