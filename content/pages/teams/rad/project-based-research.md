@@ -10,13 +10,12 @@ eleventyNavigation:
 
 Research activities undertaken to carry out the research of a diverse set of projects.
 
-- Techniques and tools:
 1. Call center
 2. Ethnio intercepts
-3. Usertesting.com
+3. User Testing
 
 
-- Each tool requires a collaborative approach across different roles and skill sets. We have created a rubric that showcases the skills needed to successfully use each of the tools. 
+- Each tool requires a collaborative approach across different skill sets. We have created a rubric that showcases the skills needed to successfully use each of the tools. 
 
 
 
@@ -79,9 +78,9 @@ Research activities undertaken to carry out the research of a diverse set of pro
 | Create report and share findings 	| Usertesting records videos and can help create clips. There is a manual process to view videos and incorporate findings in a report 	| PPT/ usertesting.com 	| Researcher 	|
 
 ---
-## Rubric with needed skills for each technique and tools
+## Rubric with needed skills for each tools
 
-This rubric will help you identify roles and responsibilities needed to use each of the tools. 
+We hope this rubric helps you identify skills needed to use each of the tools. 
 
 ![Rubric](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/rubric-project-base.jpg)
 
