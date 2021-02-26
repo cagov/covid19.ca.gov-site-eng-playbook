@@ -12,10 +12,9 @@ Research activities undertaken to carry out the research of a diverse set of pro
 
 
 # 📱 Call Center
-- 🥅  **Purpose**: reach out to harder to reach previously identified groups such as Spanish speaking population who represent a higher % of the total population in California and have been highly impacted by covid-19. 
-- 🔦 **Method**: interviews via call center referrals
-- 🧰 **Tools**:  phone, spreadsheet
-- 🧩 **Setup and steps**: 
+- The **call center** has been used as a **source for recruitment** to reach out to harder to reach previously identified groups such as Spanish speaking population who represent a higher % of the total population in California and have been highly impacted by covid-19. 
+- We have used the referrals from the call center to perform interviews. 
+- Steps taken to use the call center as a recruiting source: 
 
 | **Steps** 	| **Process** 	| **Tools** 	| **Improvements** 	| **Roles and team at covid19** 	|
 |-	|-	|-	|-	|-	|
