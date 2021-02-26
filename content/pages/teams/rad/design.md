@@ -30,7 +30,7 @@ Design collaborates on research by helping think through research approaches, cr
 
 ## What's in this guide
 
-1. Instructions on how to use the s[tyle guide](#)
+1. Instructions on how to use the s[tyle guide](https://teamdocs.covid19.ca.gov/teams/rad/design-style-guide.html)
 2. Overview of [process and tools](https://teamdocs.covid19.ca.gov/teams/rad/design-process-and-tools.html)
 
 
