@@ -13,8 +13,8 @@ Research activities undertaken to carry out the research of a diverse set of pro
 
 # 📱 Call Center
 - The **call center** has been used as a **source for recruitment** to reach out to harder to reach previously identified groups such as Spanish speaking population who represent a higher % of the total population in California and have been highly impacted by covid-19. 
-- We have used the referrals from the call center to perform interviews. 
-- Steps taken to use the call center as a recruiting source: 
+- We have used the referrals from the call center to perform **interviews**. 
+- These are the steps taken to use the call center as a source for recruitment: 
 
 | **Steps** 	| **Process** 	| **Tools** 	| **Improvements** 	| **Roles and team at covid19** 	|
 |-	|-	|-	|-	|-	|
