@@ -9,15 +9,15 @@ eleventyNavigation:
 ---
 
 
-## Why do we do research?
+## Why do we research?
 - Our primary goal is to listen and engage with the public to address their needs and improve their overall journey when performing their tasks. 
 - Research has informed product decisions by either framing the problem we were trying to solve or testing assumptions and hypotheses we previously had. 
 
-## What do we do?
+## How do we research?
 We have used quantitative and qualitative techniques and tools to actively and systematically engage with the public.
 We have used surveys on specific topics, feedback on site, intercepts, call center referals, usability testing, interviews amongst other techniques. 
 
-## How do we do research?
+## When do we research?
 In general the trigger for research starts with: 
 1. the product manager request to better understand the users of a specific page or a specific audience 
 2. the desire to further explore groups or needs uncovered by exisiting data collection sources such as surveys or google analytics
