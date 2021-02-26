@@ -12,7 +12,7 @@ Sample projects are the activities undertaken to carry out the research for spec
 
 ---
 
-# Homepage Iteration
+## Homepage Iteration
 
 ### 📝 Intro
 The main challenge / theme with this iteration of the homepage is “realignment”. Making sure that it serves the core purpose of the website, satisfying visitors needs and it is also aligned with the voice and brand of the CA COVID response.
@@ -70,7 +70,7 @@ Business owners find the homepage irrelevant to their needs. Page is perceived a
 
 ---
 
-# Industry Guidance Redesign
+## Industry Guidance Redesign
 
 ### 📝 Intro
 The industry guidance page is the fourth most visited page since May 2020. It has been a high priority for the Governor’s Office and haven’t had a significant update since May 12. This page is key to the work of many stakeholders: city and county officials, business owners, business associations and members of the public. With new restrictions in place, this page becomes a go-to resource for many businesses and it was in need of a redesign.
@@ -175,7 +175,7 @@ The industry guidance page is the fourth most visited page since May 2020. It ha
 
 ---
 
-# Blueprint & What’s Open Search
+## Blueprint & What’s Open Search
 
 ### 📝 Intro
 The Governor’s Office announced a new reopening framework for business sectors. This is a new state criteria for reopening businesses. More “prescriptive / dynamic criteria” based on local health officials and experience gained from the past months. 
@@ -239,7 +239,7 @@ To view full report  check  [PPT Report](https://docs.google.com/presentation/d/
 
 ---
 
-# Health Equity Dashboard
+## Health Equity Dashboard
 
 ### 📝 Intro
 We soft-launched the equity page and wanted to take an opportunity to learn more about the visitors’ familiarity with the topic and assess their understanding of the data visualizations.
