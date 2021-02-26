@@ -10,6 +10,15 @@ eleventyNavigation:
 
 Research activities undertaken to carry out the research of a diverse set of projects.
 
+- Techniques and tools:
+1. Call center
+2. Ethnio intercepts
+3. Usertesting.com
+
+
+- Each tool requires a collaborative approach across different roles and skill sets. We have created a rubric that showcases the roles and involvement needed to successfully use each of the tools. 
+
+
 
 # 📱 Call Center
 - The **call center** has been used as a **source for recruitment** to reach out to **harder to reach** previously identified groups such as Spanish speaking population who represent a higher % of the total population in California and have been highly impacted by covid-19. 
@@ -55,24 +64,26 @@ Research activities undertaken to carry out the research of a diverse set of pro
 
 ---
 
-# 💻 Usability Testing
+# 💻 Usertesting.com
 
-- 🥅 **Purpose**: perform usability testing sessions with intended audiences to test the performance of newly launched pages. Evaluate the user experience and uncover usability issues
-- 🔦 **Method**: get people to interact with the page and observe their behavior when performing a specific task
-- 🧰 **Tools**: [usertesting.com](https://www.usertesting.com/)
-- 🧩 **Setup and steps**: 
+- We have performed **usability testing sessions** with specific audiences to **test the performance of newly launched pages or soon to be launch ones**. We used the sessions to evaluate the user experience and uncover usability issues for the specific pages. 
+- We have used usertesting.com to observe people as they interact with the page and perform a specific task.
+- **Link**: [usertesting.com](https://www.usertesting.com/)
+- These are the steps taken to use the usertesting.com as a tool to perform usability testing sessions.
 
 | Steps 	| Process 	| Tools 	| Improvements 	|
 |-	|-	|-	|-	|
 | Get or renew subscription 	| Pay subscription. 	| usertesting.com 	| Chief of Administration	|
-| Assign seats 	| Negotiate the numbers of tests and seats 	| usertesting.com 	| Debra 	|
+| Assign seats 	| Negotiate the numbers of tests and seats 	| usertesting.com 	|  Chief of Administration 	|
 | Define goals and desired outcomes for a specific test 	| Create a script and screener or duplicate an existing one and change name.<br>Define number of participants. 	| usertesting.com 	| Researcher, content designer and ux designer 	|
 | Create report and share findings 	| Usertesting records videos and can help create clips. There is a manual process to view videos and incorporate findings in a report 	| PPT/ usertesting.com 	| Researcher 	|
 
 ---
-## Rubric with needed skills for each activity
+## Rubric with needed skills for each technique and tools
 
-![Rubric](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/rubric.jpg)
+This rubric will help you identify roles and responsibilities needed to successfully use the tool. 
+
+![Rubric](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/rubric-project-base.jpg)
 
 ---
 
