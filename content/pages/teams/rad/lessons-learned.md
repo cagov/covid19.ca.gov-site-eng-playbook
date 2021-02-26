@@ -18,4 +18,4 @@ eleventyNavigation:
 
 
 
-![Drop the mic](https://media.giphy.com/media/h8sLVUavCwMhy/giphy.gif)
+![Drop the mic](https://media.giphy.com/media/87gXpXVGhITccO2UvV/giphy.gif)
