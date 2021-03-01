@@ -25,6 +25,12 @@ Each project had a slightly different approach in terms of goals, activities and
 The homepage iteration is a project we did to better understand the users perception about a newly redesign homepage for covid19.ca.gov.
 The main challenge with this iteration of the homepage was “realignment”. The overall goal was to make sure that it served the core purpose of the website by satisfying visitors needs and that it was also aligned with the voice and brand of the CA covid-19 response approach.
 
+
+Old version           |  New design
+:-------------------------:|:-------------------------:
+![Older version](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/older-version.jpg) )  |  ![New design](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/new-design.jpg)
+
+
 - **Old version**
 
 ![Older version](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/older-version.jpg) 
