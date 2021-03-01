@@ -43,6 +43,5 @@ Design collaborates with the Product Team by contributing to product decisions o
 
 1. Instructions on how to use the [style guide](https://teamdocs.covid19.ca.gov/teams/rad/design-style-guide.html)
 2. Overview of [process and tools](https://teamdocs.covid19.ca.gov/teams/rad/design-process-and-tools.html)
-3. A few tips based on [lessons learned](https://teamdocs.covid19.ca.gov/teams/rad/design-lessons-learned.html)
 
 
