@@ -14,7 +14,7 @@ eleventyNavigation:
 Design on covid19.ca.gov collaborates with research, content, product and engigneering teams to visualize and prototype website updates.
 
 The design team has the following skills:
-- User Experience Stragegy: ability to translate research insights and business requirements into accessible and user-friendly online experiences.
+- User Experience Strategy: ability to translate research insights and business requirements into accessible and user-friendly online experiences.
 - User Interface Design: ability to design and prototype high-fidelity mockups for desktop and mobile websites and maintain a library of UI patterns.
 - Brand and Visual Design: ability to design and apply a consistent look and feel across channels and platforms.
 
