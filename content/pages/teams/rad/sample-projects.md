@@ -10,13 +10,13 @@ eleventyNavigation:
 
 Sample projects is the section that introduces the activities undertaken to carry out the research for specific pages.
 
-- This section will introduce 4 different projects with a step-by-step understanding of how we have approached each of them.
+This section will introduce 4 different projects with a step-by-step understanding of how we have approached each of them.
 
 
-- The research for the **[homepage redesign](#homepage-redesign)** was focusing on making sure the new redesign was satisfying the needs of our variuous audiences while keeping the alignment with the state voice and brand. 
-- The **[Industry guidance](#industruy-guidance-redesign)** focus was to understand why and how diferrent audiences use the page so we provide relevant information to facilitate each segments tasks.
-- The **[Blueprint for a safer economy page](#blueprint-for-a-safer-economy-page)** research  was to evaluate the understanding of the new framework the governor had announced and underdstand how businesses and the public use the page. 
-- The **[Health Equity page](#health-equity-page)** was a new page focusing on showcasing the inequities around health for certain communities and the research work was to discover how people with different prior knowledge and background on the topic experience the page and the content display in the visualizations. 
+- The goal for the **[homepage redesign](#homepage-redesign)** was to make sure the new redesign was satisfying the needs of our visitors while keeping the alignment with the state's voice and brand. 
+- The goal for **[Industry guidance redesign](#industruy-guidance-redesign)** was to understand why and how different visitors use the page so we could provide relevant information to facilitate their tasks.
+- The goal for the **[Blueprint for a safer economy page design](#blueprint-for-a-safer-economy-page)** was to evaluate the understanding of the new framework the governor had announced and underdstand how businesses and the public use the page. 
+- The **[Health Equity page](#health-equity-page)** was a page that wanted to highlight the existing inequities in health for certain communities. The goal of the research was to discover how people with different prior knowledge and background on the topic experience the page and the content from the visualizations. 
 
 
 ---
@@ -40,7 +40,7 @@ Index:
  ---
 
 ### Context
-The homepage iteration is a project we did to better understand the users perception about a newly redesign homepage for covid19.ca.gov.
+The homepage redesign is a project we did to better understand the visitors perception of a new homepage redesign for covid19.ca.gov.
 The main challenge with this iteration of the homepage was “realignment”. The overall goal was to make sure that it served the core purpose of the website by satisfying visitors needs and that it was also aligned with the voice and brand of the CA covid-19 response approach.
 
 
@@ -53,11 +53,11 @@ Old version           |  New design
 
 Overall, the project took a total of one and a half months. 
 
-Discussing the project: 1 week
-Designing research proposal: 1 week
-Recruiting and conducting research: 1 week
-Analysis: 2 weeks:
-Report: 1 week
+- Discussing the project: 1 week
+- Designing research proposal: 1 week
+- Recruiting and conducting research: 1 week
+- Analysis: 2 weeks:
+- Report: 1 week
 
 
 ### Research goals
@@ -157,30 +157,94 @@ Challenges:
 
 ## Industry Guidance Redesign
 
-### Intro
+Index:
+1. [Context](#Context)
+2. [Timeline](#Timeline)
+3. [Research goals](#research-goals)
+4. [Research objectives](#objectives)
+5. [Research methodology](#research-methodology)
+6. [Recruitment criteria and process](#recruitment-criteria)
+7. [Activities](#usability-script)
+8. [Analysis and synthesis process](#analysis-and-synthesis)
+9. [Outputs/deliverables](#outputs-and-deliverables)
+10. [Impact](#impact)
+11. [Links to other documents](#links-to-other-documents)
+12. [Reflections](#reflections)
+ 
+
+### Context
 The industry guidance page is the fourth most visited page since May 2020. It has been a high priority for the Governor’s Office and haven’t had a significant update since May 12. This page is key to the work of many stakeholders: city and county officials, business owners, business associations and members of the public. With new restrictions in place, this page becomes a go-to resource for many businesses and it was in need of a redesign.
 
-### Goals
-- Challenge existing assumptions by testing the usability and experience of the page with real visitors
+### Timeline
+Overall, the project took a total of 10 weeks.
 
-### Objectives of the study:
-- Understand why each segment would visit the industry guidance
-- Understand how they navigate the page 
-- Understand what they prioritize when checking the industry guidance page: what’s relevant and what’s not
-- Understand when would they revisit the page and for what purpose: returning visitors
-
-### Process:
-1. Discover: interview stakeholders, perform user testing sessions and intercept visitors while performing a task
-2. Define: use research data to identify opportunities for improvement.
--  summarize findings → uncover patterns and themes → create insights → content gap analysis → propose recommendations for MPV and V1
+- Discussing the project: 1 week
+- Recruitment: 2 weeks
+- Conducting research: 3 weeks
+- Analysis: 2 weeks
+- Report: 2 weeks
 
 
-### Activities:
-- **Intercept visitors** as they navigate the Industry guidance page to understand who they were and what they were trying to accomplish. 
-- **Interview key stakeholders** such as GoBiz and business representatives to understand about their jobs and how do they use the page to serve their customers
-- **Perform usability testing sessions** to evaluate our existing page in terms of usability and UX focusing on relevance, hierarchy and accessibility.
+### Research Goals
+- With this reasearch we wanted to challenge our existing assumptions by testing the usability and experience of the page with real visitors and define the priorities and tasks for each of our groups. 
 
-### 🔦 Findings:
+### Objectives:
+- Understand the motivations for each user segment to visit the industry guidance.
+- Understand how they navigate the page.
+- Understand what users prioritize when checking the industry guidance page.
+- Understand if the taxonomy of industries is relevant to each segment’s business type.
+- Understand when would they revisit the page and for what purpose.
+
+### Research methodology:
+For this project, we decided on three different methods to fit the timeline and the research goals:
+
+
+1.  **Intercept visitors** as they navigate the Industry guidance page to understand who they were and what they were trying to accomplish. 
+- Intercept 70 people visiting the industry guidance page and follow up with 20 phone interviews
+3.  **Interview key stakeholders** such as GoBiz (California Governor's Office of Business and Economic Development) and business representatives to understand about their jobs and how do they use the page to serve their customers
+4.  **Perform usability testing sessions** to evaluate our existing page in terms of usability and UX focusing on relevance, hierarchy and accessibility.
+- Usability testing sessions with 5 business owners in California
+
+
+### Recruitment criteria 
+Some of our recruitment criteria were:
+
+- A diverse set of visitors: business owners, goverement employees, members of the public, business associations
+- Business owners from a diverse set of industries and diverse buisness size
+- Users with a different frequency of visits
+- Live in CA
+
+
+### Outputs and deliverables
+
+- We put together a report with a summary of the key takeaways and pain points. We also included videos and links to more information. 
+- We segmented the visitors in three groups and delivered detailed information for each segment. As a team we had many assumptions about who was using our page and why. These groups enabled the team to anchor decision-making, and what should be prioritized next.
+
+Business owners           |  Government officials          |  Members of the public         |    
+:-------------------------:|:-------------------------:
+![Business owmers](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/business.jpg)  |  ![Government officials](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/government.jpg) | ![Public](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/public.jpg)
+
+Our core visitor is the **county and city official** because they: 
+
+- Visit industry page multiple times a week
+- Refer others to the state website
+- Use page in detail
+- Content is key to the execution of their job
+- Information and content is copied and cascaded to county websites
+
+Our secondary audience is the **business owner**. They:
+
+- Visit industry page when moving to new tier or after the governor's briefing
+- Not fully motivated to open the PDF
+- Get most of the information from the accordions
+- Get advice from county officials and business alliances on specifics when definitions such as ”with modifications” are unclear or state and county roles are conflicting.
+
+![Public](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/engagement.jpg)
+
+
+- We also put together a spreadsheet with key findings and recommendations for the team to prioritize.
+
+- This is a snapshot of the spreadsheet with key findings:
 
 | Section 	| Issue 	| Recommendations 	| User Segment 	|
 |-	|-	|-	|-	|
@@ -192,51 +256,8 @@ The industry guidance page is the fourth most visited page since May 2020. It ha
 |  	| The different routes to access the industry guidance page are inconsistent:<br>what’s open, county status, How can I safely open my business. Industry guidance (footer) menu -> working safely -> Industry guidance 	| Design: Consider adding a section addressing business needs on the homepage. 	| Business owners 	|
 |  	| When coming from the homepage, the visitor has no information about tiers. Which tier are we now? 	| Design: Consider adding or replicating the what’s open search in the industry guidance for people coming directly or from homepage. 	| All of the users 	|
 
-### Themes --> Inisghts
 
-**Theme: Format of content (i.e. overcoming constraints of PDFs)**
-- Only 14% open a PDF. We know people are coming to better understand what modifications do they need to follow with the current or new guidance.
-- Visitors can’t easily recognize which parts of the PDF have changed/ are updated.
-- From an analytic and research perspective PDFs present a challenge: can’t track what people are doing
-- Length
-- Too many links that create friction and distraction
-- Loading time
-- Cookies
-**Possible Approaches**
-- Publish guidance in a database so that guidance can be accessed outside of a PDF and accessed by section (not a whole)
-- Change structure or organization of PDFs to make them easier for users to skim
-**Discussion Question**
-- Are there opportunities to publish content outside of the PDF format?
-
-**Theme: Hierarchy of content (i.e. making modifications more evident)**
-- Since information inside accordions in a web page is the most important and relevant content, we want to add some key bullet points there for easy discoverability and accessibility.
-- Most businesses and even consumers come to the site to check more about what “with modifications mean” and what things should businesses follow.
-**Possible Approaches**
-- Coordinate all of the “modifications” in one place/page
-**Discussion Question**
-- How can we better communicate modifications without opening a PDF or by linking to the right area?
-- How can we use the same language (modifications) and clearly communicate what those activities are in the accordion?
-- What is the argument for displaying content in the current way
-- Can we put all modifications together? Can we address the section with the word modifications to be consistent with the language used in the Blueprint. 
-
-**Theme: Recency of content (i.e. showing latest updates)**
-- Visitors can’t easily recognize which parts of the PDF have changed/ are updated.
-- Visitors that see their guidelines being dated, even when they have changed tiers, feel anxious. This undermines the mission of the site as a source of truth.
-**Possible Approaches**
-- Consider highlighting/commenting sections that have changed or consider adding a summary with current updates. This will help city officials when they have to summarize changes for the people in their counties.
-- Consider adding a comment to remove friction: “this guidance is still current or in effect regardless the date”
-**Discussion Question**
-- Can we find a way to easily communicate those changes for visitors to easily recognize what has changed?
-
-**Theme: Specificity of content (i.e. making it easier to get to industry-specific guidance)**
-- Most relevant content is specific to their business and it is found inside the accordion
-- The content in the Reopen your business section and Employer’s section is a nice to have but it’s not what drives visitors to this page
-**Possible Approaches**
-- Separate “general” content from industry-specific content so that users can more easily find what is unique to their industry
-**Discussion Question**
-- Is there a possibility to remove general content from PDF and put in the webpage so that PDFs are specific to each business?
-
-### Content gap analysis
+- We also delivered a content gap analysis to compare the current content with the desired content performance for each segment.
 
 | User segment 	| User need 	| Does content exist? 	| Can they find it and use it? 	|
 |-	|-	|-	|-	|
@@ -251,12 +272,36 @@ The industry guidance page is the fourth most visited page since May 2020. It ha
 | Consumers 	| I want to fact check information regarding how businesses are following regulations in my county so I can decide what to do. 	| Yes 	| Sometimes 	|
 | Consumers 	| I want to have the latest information about which activities are allowed in my county. 	| Yes 	| Sometimes 	|
 
-## Links to documents:
+### Impact
+
+- Post-launch feedback from users, user research, and analysis of data identified some gaps and opportunities in both the Industry Guidance page and how it intersects with the Blueprint Framework.
+
+- The core team decided that the best solution was solution was an updated Blueprint design that incorporates industry guidance in a unified context. This solution addresses most of existing problems, streamlines the experience, and makes Industry Guidance easier to update, maintain and track.
+
+
+| Prioritized Challenges 	| Solution 	| Success Metric 	|
+|-	|-	|-	|
+| Industry Guidance difficult to find (“find the guidance I’m interested in faster”). Users had to go through list manually  	| Add all industries to What’s open search (e.g., Agriculture, Cohorts, Manufacturing, Communications, Public transit, Mining, etc.). 	| Reduction in complaints re difficulty in finding guidance. 	|
+| Users had to know the precise industry category term to find the relevant guidance. 	| Search and display of results now distinguish activities (such as Yoga) from Industry Categories (such as Gyms & Fitness Centers), so users no longer need to specify the exact term to find the relevant guidance, and specify precisely that “activity-name must follow guidance for industry-name.” 	| Reduction in complaints along the lines of “I searched yoga but you showed me gyms”. 	|
+| Business users have not always realized that they may need to take heed of guidances from related industries. 	| The What’s Open search results for a given industry now also cite other industry guidances that might also be relevant, for example a gym might also have a cafe so this possibility is highlighted. 	| Metric to benchmark and track to see if goal gets achieved? 	|
+| Site search is driving a larger than anticipated general public audience to the Industry Guidance page. 	| Incorporation of Industry Guidance information into the Blueprint context serves all audiences without increasing complexity.  	| Reduction in requests for support from general public users trying to make sense of the dedicated IG page. 	|
+| Only 14% open PDFs, and it’s hard to see what part of a PDF was updated even if you do open it. 	| Guidance and Checklist PDFs are presented in context for the relevant industry without requiring a separate effort to find. 	| Hard to compare without an IG landing page, but the percentage of people who open PDFs after expanding the details of a search result should go up, as should the overall percentage of visitors who open PDFs. Target should be 2x to start. 	|
+| Guidance depends on what tier your county is in but the IG page isn’t context-aware about what tier your county is in. 	| Because the Industry Guidance content is displayed as part of What’s Open search results the specified county’s tier is shown in the same context. 	| Reduction in complaints that tier information is lacking from Guidance PDFs. 	|
+| Some users want to anticipate what the guidance will be if the tier changes. 	| The user can see the information for all tiers by leaving out the county information or by searching on a county that is in another tier. 	| Metric to benchmark and track to see if goal gets achieved? 	|
+| Users seeking industry guidance are not always aware that there may be related county guidance that goes beyond the state mandates. 	| The new design is more intentional about the language to make this clear, and offers links to relevant county websites. 	| Metric to benchmark and track to see if goal gets achieved? 	|
+
+
+
+### Links to documents:
 - [PRD](https://docs.google.com/document/d/10oBTgzbvQkZXzyWLcQUpMIvtaoq8q1oG17koRgLLnHs/edit#heading=h.5nwyk53zv7ia)
 - [Research plan](https://docs.google.com/document/d/1ZRtWibr_0KEuf9tEcMBJhcj7Xu91BPgKUDcKjBtxO4E/edit)
 - [Report ppt](https://docs.google.com/presentation/d/1oEfl3dPUewLbYmZfgDqGtbBx8wM6Qn75iDa3--nYD2w/edit) + [Report notion](https://www.notion.so/UX-Research-report-30772b6112ea49b1973a75169a7903d6) 
 - [Recommendations](https://docs.google.com/spreadsheets/d/10h0SoDMv6gFgCFmJvBS0xxzLAHTFO_bifzIpMmobdoU/edit)
 - [Themes](https://docs.google.com/document/u/1/d/1rPRdKhiaInXUGr3sOFeQrWm4sE1-6MahfAoha_pTlfo/edit#heading=h.pc2f0p49yjbv)
+
+### Reflections
+
+
 
 ---
 
