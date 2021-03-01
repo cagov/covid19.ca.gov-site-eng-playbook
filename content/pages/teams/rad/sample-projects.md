@@ -8,17 +8,19 @@ eleventyNavigation:
   order: 360
 ---
 
-Sample projects are the activities undertaken to carry out the research for specific pages & themes. 
-This section will introduce 4 different stories about projects we have accomplished and we will give the audience a step-by-step understanding of how we have approached them.
-Each project had a slightly different approach in terms of goals, activities and stakeholders.
-- The research for the **homepage redesign** was focusing on making sure the new redesign was satisfying the needs of our variuous audiences while keeping the alignment with the state voice and brand. 
+Sample projects is the section that introduces the activities undertaken to carry out the research for specific pages & themes. 
+
+- This section will introduce 4 different projects with a step-by-step understanding of how we have approached each of them.
+
+
+- The research for the **[homepage redesign](#homepage-redesign)** was focusing on making sure the new redesign was satisfying the needs of our variuous audiences while keeping the alignment with the state voice and brand. 
 - The **Industry guidance** focus was to understand why and how diferrent audiences use the page so we provide relevant information to facilitate each segments tasks.
 - The **blueprint for a safer economy** research  was to evaluate the understanding of the new framework the governor had announced and underdstand how businesses and the public use the page. 
 - The **Equity page** was a new page focusing on showcasing the inequities around health for certain communities and the research work was to discover how people with different prior knowledge and background on the topic experience the page and the content display in the visualizations. 
 
 
 ---
-## Homepage Iteration
+## Homepage Redesign
 
 Index:
 1. [Context](#Context)
