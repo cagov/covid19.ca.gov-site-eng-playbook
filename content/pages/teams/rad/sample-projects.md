@@ -292,7 +292,7 @@ Our secondary audience is the **business owner**. They:
 
 The lead designer prototyped the Industry guidance and blueprint merge MVP which still relies on communicating information through PDFs, but it also incorporates the value of the “Search Results” prototype because now a user can find their industry guidance through the search features that we offer on our “What's Open” search and also get information about theit tier. 
 
-![Public](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/mvp.jpg)
+![MVP](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/mvp.jpg)
 
 
 ### Links to documents:
@@ -305,10 +305,12 @@ The lead designer prototyped the Industry guidance and blueprint merge MVP which
 ### Reflections
 
 What went well:
-esources to improving the publication flow. While this gave us fewer resources to improve the front-end user experience, I think it will pay off in the long run.
+- With the merge of the industry guidance and the blueprint we are improving the publication flow which helps the stakeholders with their day to day work.
+- We have a created a more collaborative workflow with stakeholders than we had previously have.
+
 
 Challenges:
-
+- We know that only 14% of visitors open the PDF. We also know that some of the reasons has to do with discoverability issues. Eventhough we are redesigning the page to make the guidance and checklist PDFs presented in context for the relevant industry without requiring a separate effort to find, we are assuming a big risk since data is showing low open rate.
 
 
 ---
