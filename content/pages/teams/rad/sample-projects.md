@@ -18,9 +18,8 @@ Each project had a slightly different approach in terms of goals, activities and
 
 
 ---
-
 ## Homepage Iteration
----
+
 Index:
 1. [Context](#Context)
 2. [Timeline](#Timeline)
