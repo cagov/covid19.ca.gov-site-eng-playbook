@@ -9,7 +9,7 @@ eleventyNavigation:
 ---
 
 Sample projects are the activities undertaken to carry out the research for specific pages & themes. 
-This section will introduce 4 different projects.
+This section will introduce 4 different stories about projects we have accomplished and we will give the audience a step-by-step understanding of how we have approached them.
 Each project had a slightly different approach in terms of goals, activities and stakeholders.
 - The research for the **homepage redesign** was focusing on making sure the new redesign was satisfying the needs of our variuous audiences while keeping the alignment with the state voice and brand. 
 - The **Industry guidance** focus was to understand why and how diferrent audiences use the page so we provide relevant information to facilitate each segments tasks.
@@ -21,27 +21,59 @@ Each project had a slightly different approach in terms of goals, activities and
 
 ## Homepage Iteration
 
-### Intro
-The main challenge / theme with this iteration of the homepage is “realignment”. Making sure that it serves the core purpose of the website, satisfying visitors needs and it is also aligned with the voice and brand of the CA COVID response.
+### Context
+The homepage iteration is a project we did to better understand the users perception about a newly redesign homepage for covid19.ca.gov.
+The main challenge with this iteration of the homepage was “realignment”. The overall goal was to make sure that it served the core purpose of the website by satisfying visitors needs and that it was also aligned with the voice and brand of the CA covid-19 response approach.
 
-### Goals
-- Test with our audiences if the redesign is aligned with the websites core values and users needs
-- Test the user experience of our audience when performing key tasks
-- Test the look and feel of the new redesigned homepage
+Older version
+
+
+
+
+New design
+
+
+
+### Timeline
+
+insert graphic
+
+### Research goals
+- Test if the redesign is aligned with the websites core values 
+- Test the user experience of our visitors when performing key tasks
+- Test the look and feel of the new homepage
 
 ### Objectives of the study:
 - Identify difficulties and roadblocks participants experience when using the new homepage
 - Understand what participants are thinking and feeling as they execute tasks / prompts
 
-### Desired outcomes:
-- Recommend changes to informational architecture and navigation
-- Identify what new information needs to be collected to stimulate new learnings 
+### Research methodology:
+For this project, we decided to perform **10 usability testing sessions**. 
 
-### Process:
-- **Discover**: test homepage prototype with our audience
-1. Discover → evaluative research → usability testing sessions
-- **Define**: use research data and findings to identify opportunities for improvement
-2. Define → summarize findings → uncover patterns within homepage predefined sections → propose recommendations for V1, V2
+### Recruitment criteria and tools:
+
+Criteria:
+- Income: range betwen less than 40,000 to mre than 100,000
+- Device: 5 on mobile devices and 5 on desktop
+- Age: across ages
+- Geography: California only
+- Language: English
+
+We used the following tool for recruitment:
+
+- usertesting.com
+
+### Usability script
+
+Tasks
+1. Before we show you the web page, please share what you know about the coronavirus, COVID-19. What are the most important topics you want to know about? Why those?
+2. Launch URL
+You have been taken to a new page about COVID-19. Please give honest feedback about what makes sense and what is not clear.
+3. First, read through the home page. What are your first impressions? Does it seem like a reliable and trustworthy source of information? Who do you think is responsible for this web page? Does this page answer your initial questions about COVID-19?
+4. Now, let's assume you want to find information about the monitoring list. Where do you go to find that information? Once you are on the page about monitoring lists, read through the information. What is useful information? What is not useful? [Success: Yes, No]
+5. Now, go back to the Home page. Scroll down to the "People want to know" section. What do you think about the questions? Do they answer your initial questions about COVID-19? What other questions do you have?
+6. Please stay on the Home page. If you haven't yet, click the question “What's open in my county?” and tell me what you think. What do you think about the other questions? Are they relevant? Irrelevant? Is anything missing? What do you think about the overall navigation? As news and information have been changing a lot about COVID-19, how often would you check this site?
+7. I would trust this site. [9-point Rating Scale: Strongly disagree to Strongly agree]
 
 ### Findings:
 
