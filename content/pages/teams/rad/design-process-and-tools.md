@@ -1,5 +1,5 @@
 ---
-title: Process and Tools
+title: Design Process and Tools
 date: Last Modified 
 permalink: /teams/rad/design-process-and-tools.html
 eleventyNavigation:
@@ -7,7 +7,7 @@ eleventyNavigation:
   parent: Design
   order: 490
 ---
-## Process
+## Design Process
 
 ### 1. Identify a need
 The design process typically starts with a request from the Product Team which may be responding to the following types of challenges. Depending on the type of challenge, the Product Team will have defined the requirements based on input from research, analytics, stakeholder requirements, etc.
@@ -23,6 +23,8 @@ Often, design will respond to a challenge faced by by the conten or engineering 
 
 ### 2. Prototype approaches
 Based on research data and product requirements, design will explore a range of solutions and prototype them with Figma. This is often done in collaboration with the broader team. Miro is used to facilitate group ideation for larger projects. Slack and Jira can be used to share ideas for smaller projects.
+
+Engineering resources are often a bottleneck: find low-lift solutions whenever possible, and when designing new UI components, priortize things that can be used throughout the website.
 
 ### 3. Collect feedback and iterate
 Depending on the project, the prototype may be used by the Research Team to collect feedback from users. In other projects, prototypes are only shared internally.
