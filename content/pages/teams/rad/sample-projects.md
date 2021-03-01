@@ -22,7 +22,7 @@ Each project had a slightly different approach in terms of goals, activities and
 ## Homepage Iteration
 ---
 Index:
-1. Context [Context](### Context)
+1. Context [Context](#Context)
 2. Timeline
 3. Research goals
 4. Research objectives
