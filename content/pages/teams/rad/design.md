@@ -13,6 +13,13 @@ eleventyNavigation:
 
 Design on covid19.ca.gov collaborates with research, content, product and engigneering teams to visualize and prototype website updates.
 
+The design team has the following skills:
+- User Experience Stragegy: ability to translate research insights and business requirements into accessible and user-friendly online experiences.
+- User Interface Design: ability to design and prototype high-fidelity mockups for desktop and mobile websites and maintain a library of UI patterns.
+- Brand and Visual Design: ability to design and apply a consistent look and feel across channels and platforms.
+
+Day to day, design does the following types of work:
+
 ### Custom page designs
 Design helps conceptualize and prototype new pages or features that can not be created by the content team in Wordpress (i.e. anything that would require engineering support). This ensures that the team can explore a range of ideas, test with users, and collect stakeholder feedback before investing in engineering resources. Examples of custom page designs include the Health [Equity Dashboard](https://covid19.ca.gov/equity/), [State Dashboard](https://covid19.ca.gov/state-dashboard/), and [Blueprint page](https://covid19.ca.gov/safer-economy).
 
@@ -27,6 +34,10 @@ Design provides feedback and guidance on page designs led by the content team. T
 
 ### Research support 
 Design collaborates on research by helping think through research approaches, creating prototypes and translating findings into approaches for new designs.
+
+### Product strategy
+Design collaborates with the Product Team by contributing to product decisions on how to approach new requests from stakeholders and also alignment with external campaigns or other State sites. 
+
 
 ## What's in this guide
 
