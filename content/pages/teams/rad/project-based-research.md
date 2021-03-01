@@ -23,6 +23,7 @@ We reccomend a collaborative approach across different skill sets to successfull
 | Auditing 	| Designer 	|
 | Prototyping 	| Designer 	|
 | Analyzing analytics 	| Analyst 	|
+| Survey functionality 	| Engineer 	|
 
 
 ----
