@@ -208,7 +208,7 @@ For this project, we decided on three different methods to fit the timeline and 
 
 Intercept           |  Interviews            |  Usability testing
 :-------------------------:|:-------------------------:|:-------------------------:
-[![Intercept](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/intercept-ig.jpg)](https://www.youtube.com/watch?v=e9iE6mOs2OE&feature=emb_logo)  |  ![Interviews](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/interviews.jpg)  |  [![Usability](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/usability.jpg)](https://www.youtube.com/watch?v=SdM15B0X2_A&feature=emb_logo)
+[![Intercept](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/intercept-ig.jpg)](https://www.youtube.com/watch?v=e9iE6mOs2OE&feature=emb_logo) |  ![Interviews](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/interviews.jpg)  |  [![Usability](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/usability.jpg)](https://www.youtube.com/watch?v=SdM15B0X2_A&feature=emb_logo)
 
 
 ### Recruitment criteria 
