@@ -22,18 +22,18 @@ Each project had a slightly different approach in terms of goals, activities and
 ## Homepage Iteration
 ---
 Index:
-1. Context [Context](#Context)
-2. Timeline
-3. Research goals
-4. Research objectives
-5. Research methodology
-6. Recruitment criteria and process
-7. Usability script
-8. Analysis and synthesis process
-9. Outputs/deliverables
-10. Impact
-11. Links to other documents
-12. Reflections
+1. [Context](#Context)
+2. [Timeline](#Timeline)
+3. [Research goals](#research-goals)
+4. [Research objectives](#objectives)
+5. [Research methodology](#research-methodology)
+6. [Recruitment criteria and process](#recruitment-criteria)
+7. [Usability script](#usability-script)
+8. [Analysis and synthesis process](#analysis-and-synthesis)
+9. [Outputs/deliverables](#outputs-and-deliverables)
+10.[Impact](#impact)
+11.[Links to other documents](#links-to-other-documents)
+12.[Reflections](#reflections)
  
 
  ---
@@ -64,14 +64,14 @@ Report: 1 week
 - Test the user experience of our visitors when performing key tasks
 - Test the look and feel of the new homepage
 
-### Objectives of the study:
+### Objectives:
 - Identify difficulties and roadblocks participants experience when using the new homepage
 - Understand what participants are thinking and feeling as they execute tasks / prompts
 
 ### Research methodology:
 For this project, we decided to perform **10 usability testing sessions**. 
 
-### Recruitment criteria and tools:
+### Recruitment criteria:
 
 **Criteria:**
 - Income: range betwen less than 40,000 to mre than 100,000
@@ -97,7 +97,7 @@ You have been taken to a new page about COVID-19. Please give honest feedback ab
 7. I would trust this site. [9-point Rating Scale: Strongly disagree to Strongly agree]
 
 
-### Analysis and synthesis process
+### Analysis and synthesis 
 
 I syntehsize each usability testing session after reviewing the videos. I took notes directly into a google document and then coded the data with key tasks into a spreadsheet. I also used this opportunity to highlight relevant quotes. 
 
