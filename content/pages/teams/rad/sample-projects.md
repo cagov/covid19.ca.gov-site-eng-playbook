@@ -31,9 +31,9 @@ Index:
 7. [Usability script](#usability-script)
 8. [Analysis and synthesis process](#analysis-and-synthesis)
 9. [Outputs/deliverables](#outputs-and-deliverables)
-10.[Impact](#impact)
-11.[Links to other documents](#links-to-other-documents)
-12.[Reflections](#reflections)
+10. [Impact](#impact)
+11. [Links to other documents](#links-to-other-documents)
+12. [Reflections](#reflections)
  
 
  ---
