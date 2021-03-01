@@ -109,7 +109,7 @@ I syntehsize each usability testing session after reviewing the videos. I took n
 
 - We put together a report. In this report, we summarized the key takeaways and pain points we were finding. In this report, we included videos and links to more information.
 
-- We also put together a sreadsheet with key findings and recommendations for the team to prioritize.
+- We also put together a spreadsheet with key findings and recommendations for the team to prioritize.
 
 - This is a snapshot of the spreadsheet with key findings:
 
@@ -317,16 +317,42 @@ Challenges:
 
 ## Blueprint for a safer economy page
 
-### Intro
-The Governor’s Office announced a new reopening framework for business sectors. This is a new state criteria for reopening businesses. More “prescriptive / dynamic criteria” based on local health officials and experience gained from the past months. 
-We have designed a new page to communicate this new framework and want to test it with business owners and members of the public.
+## Industry Guidance Redesign
 
-### Goals: 
+Index:
+1. [Context](#Context)
+2. [Timeline](#Timeline)
+3. [Research goals](#research-goals)
+4. [Research objectives](#objectives)
+5. [Research methodology](#research-methodology)
+6. [Recruitment criteria and process](#recruitment-criteria)
+7. [Usability script](#usability-script)
+8. [Analysis and synthesis process](#analysis-and-synthesis)
+9. [Outputs/deliverables](#outputs-and-deliverables)
+10. [Impact](#impact)
+11. [Links to other documents](#links-to-other-documents)
+12. [Reflections](#reflections)
+ 
+
+### Context
+On August 28th, 2020, the Governor’s office announced a new reopening framework for business sectors. This is a new state criteria for reopening businesses. More “prescriptive / dynamic criteria” based on local health officials and experience gained from the past months. 
+We have designed a new page to communicate this new framework and want to test it with business owners and members of the public to test awareness and underdtanding of the framework.  
+
+### Timeline:
+Overall, the project took a total of 5 weeks.
+
+- Designing the research: 1 week
+- Recruitment: 1 week
+- Conducting research: 1 week
+- Analysis: 1 week
+- Report: 1 week
+
+### Research goals: 
 
 - Evaluate the understanding of the new framework
 - Assess the user experience of the page 
 
-### Purpose of the study:
+### Objectives:
 
 - Identify difficulties and roadblocks participants experience when using the Blueprint page.
 - Understand what participants are thinking and feeling as they execute tasks / prompts.
@@ -335,34 +361,62 @@ We have designed a new page to communicate this new framework and want to test i
 - Align the new redesign and framework to people’s ability and understanding about what’s safe in their county
 
 
-### Research questions:
-- Are people able to accurately describe in their own words what purpose this page serves and what the different colors mean?
+### Research methodology:
+- We performed 10 usability testing sessions with members of the public and business owners to uncover problems and points of confusion when reviewing the Blueprint page and assess the understanding of the new framework
 
-### Activities:
+### Recruitment and criteria:
+Some of our recruitment criteria were:
 
-- Usability testing sessions with members of the public and business owners to uncover problems and points of confusion when using the Blueprint page
-- Usabiliy testing sessions to assess the understanding of the new framework.
+- 5 members of the public
+- Individuals with and without kids
+- 5 business owners in different industries, business sizes,income and counties in CA
+- Age: 18-65+
+- Geography: CA
+- Language: English
+- Devices: mobile and desktop
 
-### Process:
+We used the following tools for recruitment:
+- Usertesting.com
 
-1. Summarize findings → cluster findings into UX and usability pain points and success moments → recommendations
+### Usability script:
 
-### Findings:
-- 8 out 10 haven’t heard about the new framework.
-- 9 out 10 haven’t been to this page before.
-- [+] Participants appreciate the consistency of information, especially the visual coherence.  
+1. Briefly share how COVID-19 has impacted you and your family.
+2. Have you heard about the new framework California is using to manage restrictions in counties? 
+3. Have you been to this page before? First, read through the page and tell us what would you want to know about activities?
+4. Choose an activity/business and find information about it in your county. Tell us what you think about the results.  Was anything confusing? Anything missing? 
+5. Now, look at the County risk level graphic. What do you think about the levels/tiers? Are the labels/names meaningful? Why do you feel that way? What about the colors? How would you describe each level/tier in your own words?
+What do you want to know about your county? Now, scroll down to the map. Search for your county. What information stands out? What’s next? What is useful about the map? What is confusing?
+6. Now, find Tehama county. Do you understand why Tehama is in purple/widespread risk level? If so, explain why it is in this tier.
+7. Based on the information on this page, can you explain how a county moves forward or backward to another level/tier?
+8. After reviewing this page, do you think it helps people know what’s safe, what’s not, and how this system works? 
 
-**Section: Risk level graphic**
-- [+] This section is easy to understand. 
-- [-] Widespread color purple doesn’t represent the most dangerous tier.
-- [+] Labels are self-explanatory and memorable.
-- [-] Low recognition of how counties move from tiers. 
 
-**Section: Map**
-- [+] Maps are highly desirable for creating awareness.  Participants find the map useful for uncovering the risk level of their county and compare it with neighbor counties and the overall state. 
-- [-] Harder to navigate on mobile. 
+### Analysis and synthesis process:
+I syntehsize each usability testing session after reviewing the videos. I took notes directly into a google document and then coded the data with key tasks into a spreadsheet. I also used this opportunity to highlight relevant quotes. 
 
+![Homepage](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/coding-blueprint.jpg)
+
+
+### Outputs and deliverables
+- We put together a report. In this report, we summarized the key takeaways and pain points we were finding. In this report, we included videos and links to more information.
+
+| **Awareness** 	|
+| - 8 out 10 haven’t heard about the new framework. 	|
+| - 9 out 10 haven’t been to this page before. 	|
+| **Section: Risk level graphic** 	|
+| - [+] This section is easy to understand. 	|
+| - [-] Widespread color purple doesn’t represent the most dangerous tier. 	|
+| - [+] Labels are self-explanatory and memorable. 	|
+| - [-] Low recognition of how counties move from tiers. 	|
+| **Section: Map** 	|
+| - [+] Maps are highly desirable for creating awareness. 	|
+| - [-] Harder to navigate on mobile. 	|
 - Contrary to what we expected, participants didn’t seem confused by previous frameworks.
+
+
+### Impact
+
+This research helped the agency understand how users experience the page. The findings and insights were used in the prioritization process and were taken into consideration when finalizing the design.
 
 |   Sections 	| UX 	| Usability 	|   	|
 |-	|-	|-	|-	|
@@ -372,10 +426,12 @@ We have designed a new page to communicate this new framework and want to test i
 
 To view full report  check  [PPT Report](https://docs.google.com/presentation/d/1ga2JmDpwBGK0bAGbDnub3g8VyAaph3ZjCScWVU6V2QA/edit)
 
-## Links to documents
+
+### Links to documents
 - [Research plan](https://docs.google.com/document/d/1oyUppAQuXydKguyZ1vVPs-x8qGEDmZZ1ZDiHsmQa7rU/edit) & [Participants](https://docs.google.com/spreadsheets/u/1/d/1aTPJtv0DMKAX3Xzlc301f-AxG0olmD23/edit#gid=374032152)
 - [PPT Report](https://docs.google.com/presentation/u/1/d/1ga2JmDpwBGK0bAGbDnub3g8VyAaph3ZjCScWVU6V2QA/edit?usp=drive_web&ouid=100185044499007273486) & [Document](https://docs.google.com/document/d/1v0toMUSnWl1Ongf4eLAPW3qBJMdgrbE2Ot0oZon6pgY/edit)
 - [Priorities fixes](https://docs.google.com/document/d/1v0toMUSnWl1Ongf4eLAPW3qBJMdgrbE2Ot0oZon6pgY/edit)
+
 
 ---
 
