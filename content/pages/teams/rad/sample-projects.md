@@ -317,8 +317,6 @@ Challenges:
 
 ## Blueprint for a safer economy page
 
-## Industry Guidance Redesign
-
 Index:
 1. [Context](#Context)
 2. [Timeline](#Timeline)
@@ -401,6 +399,7 @@ I syntehsize each usability testing session after reviewing the videos. I took n
 - We put together a report. In this report, we summarized the key takeaways and pain points we were finding. In this report, we included videos and links to more information.
 
 | **Awareness** 	|
+|-	|
 | - 8 out 10 haven’t heard about the new framework. 	|
 | - 9 out 10 haven’t been to this page before. 	|
 | **Section: Risk level graphic** 	|
@@ -411,12 +410,11 @@ I syntehsize each usability testing session after reviewing the videos. I took n
 | **Section: Map** 	|
 | - [+] Maps are highly desirable for creating awareness. 	|
 | - [-] Harder to navigate on mobile. 	|
-- Contrary to what we expected, participants didn’t seem confused by previous frameworks.
 
 
 ### Impact
 
-This research helped the agency understand how users experience the page. The findings and insights were used in the prioritization process and were taken into consideration when finalizing the design.
+This research helped informed the team about the visitors points of confusion around the framework and issues around the usability of the page. We proposed changes in the content hierarchy that were taken into consideration and implemented in newwer iterations of the page.
 
 |   Sections 	| UX 	| Usability 	|   	|
 |-	|-	|-	|-	|
