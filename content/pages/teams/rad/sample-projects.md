@@ -290,6 +290,9 @@ Our secondary audience is the **business owner**. They:
 | Some users want to anticipate what the guidance will be if the tier changes. 	| The user can see the information for all tiers by leaving out the county information or by searching on a county that is in another tier. 	| Metric to benchmark and track to see if goal gets achieved? 	|
 | Users seeking industry guidance are not always aware that there may be related county guidance that goes beyond the state mandates. 	| The new design is more intentional about the language to make this clear, and offers links to relevant county websites. 	| Metric to benchmark and track to see if goal gets achieved? 	|
 
+The lead designer prototyped the Industry guidance and blueprint merge MVP which still relies on communicating information through PDFs, but it also incorporates the value of the “Search Results” prototype because now a user can find their industry guidance through the search features that we offer on our “What's Open” search and also get information about theit tier. 
+
+![Public](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/mvp.jpg)
 
 
 ### Links to documents:
@@ -300,6 +303,11 @@ Our secondary audience is the **business owner**. They:
 - [Themes](https://docs.google.com/document/u/1/d/1rPRdKhiaInXUGr3sOFeQrWm4sE1-6MahfAoha_pTlfo/edit#heading=h.pc2f0p49yjbv)
 
 ### Reflections
+
+What went well:
+esources to improving the publication flow. While this gave us fewer resources to improve the front-end user experience, I think it will pay off in the long run.
+
+Challenges:
 
 
 
