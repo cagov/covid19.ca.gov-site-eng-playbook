@@ -126,7 +126,7 @@ I syntehsize each usability testing session after reviewing the videos. I took n
 This research helped the agency hired to design the homepage understand how users experience the page. The findings and insights were used in the prioritization process and were taken into consideration when finalizing the design.
 
 
-## Links to other documents:
+### Links to other documents:
 
 - [PRD](https://docs.google.com/document/u/1/d/1aMIttOJ8KniJTOxHQSdhaSK5tHs_uBEdoaVRTWjSnm0/edit#heading=h.i12kna90w10q)
 - [Research plan](https://docs.google.com/document/d/1oyUppAQuXydKguyZ1vVPs-x8qGEDmZZ1ZDiHsmQa7rU/edit) & [Participants](https://docs.google.com/spreadsheets/u/1/d/1aTPJtv0DMKAX3Xzlc301f-AxG0olmD23/edit#gid=374032152)
