@@ -15,9 +15,17 @@ Research activities undertaken to carry out the research of a diverse set of pro
 3. User Testing
 
 
-- Each tool requires a collaborative approach across different skill sets. We have created a rubric that showcases the skills needed to successfully use each of the tools. 
+We reccomend a collaborative approach across different skill sets to successfully execute each activity. We have created a rubric that shows the roles we have used.
+
+| Skills: 	| Role 	|
+|-	|-	|
+| Copy editing  	| Content designer 	|
+| Auditing 	| Designer 	|
+| Prototyping 	| Designer 	|
+| Analyzing analytics 	| Analyst 	|
 
 
+----
 
 ## 📱 Call Center
 - The **call center** has been used as a **source for recruitment** to reach out to **harder to reach** previously identified groups such as Spanish speaking population who represent a higher % of the total population in California and have been highly impacted by covid-19. 
