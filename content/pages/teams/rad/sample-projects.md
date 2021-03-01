@@ -206,6 +206,11 @@ For this project, we decided on three different methods to fit the timeline and 
 - Usability testing sessions with 5 business owners in California
 
 
+Intercept           |  Interviews            |  Usability testing
+:-------------------------:|:-------------------------:|:-------------------------:
+![Intercept](https://www.youtube.com/watch?v=e9iE6mOs2OE&feature=emb_logo)  |  ![Interviews](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/interviews.jpg)  |  ![Usability](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/usability.jpg)
+
+
 ### Recruitment criteria 
 Some of our recruitment criteria were:
 
@@ -358,7 +363,6 @@ Overall, the project took a total of 5 weeks.
 - Identify what new information needs to be provided
 - Align the new redesign and framework to people’s ability and understanding about what’s safe in their county
 
-
 ### Research methodology:
 - We performed 10 usability testing sessions with members of the public and business owners to uncover problems and points of confusion when reviewing the Blueprint page and assess the understanding of the new framework
 
@@ -435,16 +439,32 @@ To view full report  check  [PPT Report](https://docs.google.com/presentation/d/
 
 ## Health Equity page
 
-### Intro
-We soft-launched the equity page and wanted to take an opportunity to learn more about the visitors’ familiarity with the topic and assess their understanding of the data visualizations.
+Index:
+1. [Context](#Context)
+2. [Timeline](#Timeline)
+3. [Research goals](#research-goals)
+4. [Research objectives](#objectives)
+5. [Research questions](#research-questions)
+6. [Research methodology](#research-methodology)
+7. [Recruitment criteria and process](#recruitment-criteria)
+8. [Sample questions](#sample-questions)
+9. [Analysis and synthesis process](#analysis-and-synthesis)
+10. [Outputs/deliverables](#outputs-and-deliverables)
+11. [Impact](#impact)
+12. [Links to other documents](#links-to-other-documents)
+13. [Reflections](#reflections)
 
-### Goals:
-- Understand our audiences ability and familiarity with the topic 
-- Identify our core segments and how to best address their needs
-- Identify our audiences knowledge gaps
+### Context
+The Equity page wants to elevate the disparities in covid-19 so they can be focused on and addressed. This is part of a greater initiative to spur counties to demonstrate that they’re using their ELC or CARES funding to support the communities most impacted.
 
+We soft-launched the equity page to elevate these disparities. We wanted to take an opportunity to learn more about the visitors’ familiarity with the topic and assess their understanding of the data visualizations.
 
-### Purpose of the study:
+### Research goals:
+We wanted to understand what visitors know about health equity and how they interact with our content to improve our page experience.
+
+### Research objective:
+
+- Understand our visitors ability and familiarity with the topic 
 - Assess the visitors understanding of the page’s content 
 - Assess the usability of the page
 
@@ -458,11 +478,34 @@ We soft-launched the equity page and wanted to take an opportunity to learn more
 - How do they understand the data visualizations?
 
 
-### Activities:
+### Research methodology
+For this project, we decided on two different methods:
+
 - Intercept visitors and learn from their experience as they navigate the page
 - Perform usability testing sessions with people with diverse background and familiarity with the issue of health equity.
 
-### Findings:
+### Recruitment criteria
+
+Some of our recruitment criteria were:
+Have ordered food online at least once in the past month
+Has used an online food delivery app
+Age: 25–45
+Geography: the US only
+Language: English
+
+We used the following tools for recruitment:
+
+- Ethnio intercepts
+- Friends & family
+
+### Sample questions or usability tasks
+
+Ethnio intercept questions:
+
+Images usert testing
+add text
+
+Findings:
 
 - We have identified two segments of users with different prior knowledge, abilities and overall expectations.
 
