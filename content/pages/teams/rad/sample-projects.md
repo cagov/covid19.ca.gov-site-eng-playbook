@@ -221,7 +221,7 @@ Some of our recruitment criteria were:
 - We segmented the visitors in three groups and delivered detailed information for each segment. As a team we had many assumptions about who was using our page and why. These groups enabled the team to anchor decision-making, and what should be prioritized next.
 
 Business owners           |  Government officials          |  Members of the public         |    
-:-------------------------:|:-------------------------:
+:-------------------------:|:-------------------------: |:-------------------------:
 ![Business owmers](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/business.jpg)  |  ![Government officials](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/government.jpg) | ![Public](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/public.jpg)
 
 Our core visitor is the **county and city official** because they: 
@@ -239,7 +239,7 @@ Our secondary audience is the **business owner**. They:
 - Get most of the information from the accordions
 - Get advice from county officials and business alliances on specifics when definitions such as ”with modifications” are unclear or state and county roles are conflicting.
 
-![Public](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/engagement.jpg)
+![Engagement](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/engagement.jpg)
 
 
 - We also put together a spreadsheet with key findings and recommendations for the team to prioritize.
