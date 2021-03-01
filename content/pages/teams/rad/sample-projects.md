@@ -125,7 +125,15 @@ I syntehsize each usability testing session after reviewing the videos. I took n
 
 ### Impact
 
-This research helped the agency hired to design the homepage understand how users experience the page. The findings and insights were used in the prioritization process and were taken into consideration when finalizing the design.
+This research helped the agency understand how users experience the page. The findings and insights were used in the prioritization process and were taken into consideration when finalizing the design.
+
+|   Sections 	| UX 	| Usability 	|
+|-	|-	|-	|
+|  Tracking COVID-19 	| Memorable and useful<br>Impactful 	| Participants are finding labels to be incomplete and not fully descriptive 	|
+|  News banner 	| Relevant to individuals, not as much to business owners. Nice to have section. 	| Some concerns around the representation of the icon that is giving the wrong message: danger 	|
+|  Video Resources 	| Not memorable or useful.  	|   	|
+| People want to know 	| Highly valuable and meaningful section.  Relevant questions to the public but not much to business owners. 	|   	|
+| Latest news 	| Participants didn’t find this section relevant to their needs.  	|   	|
 
 
 ### Links to other documents:
@@ -139,7 +147,7 @@ This research helped the agency hired to design the homepage understand how user
 
 What went well:
 1.  The agency used the research to make improvements.
-2.  Usability testing became the norm when launching new pages.
+3.  Usability testing became the norm when launching new pages.
 
 Challenges:
 1. The research team was approached quite late in the process when the design was almost done. An early prototype would have given us more time to test with a diverse set of users. 
