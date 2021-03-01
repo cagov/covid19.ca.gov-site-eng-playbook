@@ -28,21 +28,19 @@ The main challenge with this iteration of the homepage was “realignment”. Th
 
 Old version           |  New design
 :-------------------------:|:-------------------------:
-![Older version](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/older-version.jpg) )  |  ![New design](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/new-design.jpg)
-
-
-- **Old version**
-
-![Older version](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/older-version.jpg) 
-
-- **New design**
-
-![New design](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/new-design.jpg)
+![Older version](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/older-version.jpg)  |  ![New design](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/new-design.jpg)
 
 
 ### Timeline
 
-insert graphic
+Overall, the project took a total of one and a half months. 
+
+Discussing the project: 1 week
+Designing research proposal: 1 week
+Recruiting and conducting research: 1 week
+Analysis: 2 weeks:
+Report: 1 week
+
 
 ### Research goals
 - Test if the redesign is aligned with the websites core values 
@@ -81,18 +79,21 @@ You have been taken to a new page about COVID-19. Please give honest feedback ab
 6. Please stay on the Home page. If you haven't yet, click the question “What's open in my county?” and tell me what you think. What do you think about the other questions? Are they relevant? Irrelevant? Is anything missing? What do you think about the overall navigation? As news and information have been changing a lot about COVID-19, how often would you check this site?
 7. I would trust this site. [9-point Rating Scale: Strongly disagree to Strongly agree]
 
-### Findings:
 
-- **Dashboard** → **Updates**:
-Uncertainty about the frequency of updates.
-- **Hero section** → **Visibility**:
-Some links present low visibility, specifically links on the dashboard.
-- **Navigation** → **Discoverability**:
-The hamburger navigation is not intuitive. 1 out of 10 participants discovered and clicked on the navigation. 
-- **User needs** → **Relevance**:
-Business owners find the homepage irrelevant to their needs. Page is perceived as consumer-driven. 
+### Analysis and synthesis process
 
- [To view all findings check this link](https://docs.google.com/spreadsheets/u/1/d/1a9yiaG27qTeRTMyH2P359nFyzKMaRDIb2mkcVNglQ24/edit#gid=0)
+I syntehsize each usability testing session after reviewing the videos. I took notes directly into a google document and then coded the data with key tasks into a spreadsheet. I also used this opportunity to highlight relevant quotes. 
+
+![Homepage](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/coding.jpg)
+
+
+### Output and deliverables:
+
+- We put together a report. In this report, we summarized the key takeaways and pain points we were finding. In this report, we included videos and links to more information.
+
+- We also put together a sreadsheet with key findings and recommendations for the team to prioritize.
+
+- This is a snapshot of the spreadsheet with key findings:
 
 | Section 	| Issue 	| Recommendations 	|  	|
 |-	|-	|-	|-	|
@@ -104,7 +105,8 @@ Business owners find the homepage irrelevant to their needs. Page is perceived a
 |  	| People clicking the County map in Dashboard are redirected to status but are looking for a map. [P1] [P1] [P1--already have a ticket] 	| Make this link go directly to the map on the Blueprint page by A) an anchor link or B) moving the map to the top of the Blueprint page.<br>Alternatively, since the map is now on the State Dashboard, we could have a single link called "view all state and county data" 	|  	|
 |  	| Tests are perceived as a metric that could be useful for business owners by increasing their confidence in reopening P2 [Don't do] 	| Consider providing information regarding test numbers per county 	|  	|
 
-## Links to documents:
+
+## Links to other documents:
 
 - [PRD](https://docs.google.com/document/u/1/d/1aMIttOJ8KniJTOxHQSdhaSK5tHs_uBEdoaVRTWjSnm0/edit#heading=h.i12kna90w10q)
 - [Research plan](https://docs.google.com/document/d/1oyUppAQuXydKguyZ1vVPs-x8qGEDmZZ1ZDiHsmQa7rU/edit) & [Participants](https://docs.google.com/spreadsheets/u/1/d/1aTPJtv0DMKAX3Xzlc301f-AxG0olmD23/edit#gid=374032152)
