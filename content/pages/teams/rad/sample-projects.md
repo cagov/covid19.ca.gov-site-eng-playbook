@@ -20,6 +20,23 @@ Each project had a slightly different approach in terms of goals, activities and
 ---
 
 ## Homepage Iteration
+---
+Index:
+1. Context [Markdown - Link](### Context)
+2. Timeline
+3. Research goals
+4. Research objectives
+5. Research methodology
+6. Recruitment criteria and process
+7. Usability script
+8. Analysis and synthesis process
+9. Outputs/deliverables
+10. Impact
+11. Links to other documents
+12. Reflections
+ 
+
+ ---
 
 ### Context
 The homepage iteration is a project we did to better understand the users perception about a newly redesign homepage for covid19.ca.gov.
@@ -105,6 +122,10 @@ I syntehsize each usability testing session after reviewing the videos. I took n
 |  	| People clicking the County map in Dashboard are redirected to status but are looking for a map. [P1] [P1] [P1--already have a ticket] 	| Make this link go directly to the map on the Blueprint page by A) an anchor link or B) moving the map to the top of the Blueprint page.<br>Alternatively, since the map is now on the State Dashboard, we could have a single link called "view all state and county data" 	|  	|
 |  	| Tests are perceived as a metric that could be useful for business owners by increasing their confidence in reopening P2 [Don't do] 	| Consider providing information regarding test numbers per county 	|  	|
 
+### Impact
+
+This research helped the agency hired to design the homepage understand how users experience the page. The findings and insights were used in the prioritization process and were taken into consideration when finalizing the design.
+
 
 ## Links to other documents:
 
@@ -113,7 +134,15 @@ I syntehsize each usability testing session after reviewing the videos. I took n
 - [PPT report](https://docs.google.com/presentation/u/1/d/1Zw6XqqLOEv8XfL6zq9w8Dc_SzkGH600uiKs3qHfhNwY/edit#slide=id.g9a2de97527_0_0) 
 - [Recommendations](https://docs.google.com/spreadsheets/u/1/d/1a9yiaG27qTeRTMyH2P359nFyzKMaRDIb2mkcVNglQ24/edit#gid=0)
 
-![Homepage](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/homepage.jpg)
+### Reflections
+
+What went well:
+1.  The agency used the research to make improvements.
+2.  Usability testing became the norm when launching new pages.
+
+Challenges:
+1. The research team was approached quite late in the process when the design was almost done. An early prototype would have given us more time to test with a diverse set of users. 
+
 
 ---
 
