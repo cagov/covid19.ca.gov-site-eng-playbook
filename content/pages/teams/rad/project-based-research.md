@@ -10,12 +10,12 @@ eleventyNavigation:
 
 Research activities undertaken to carry out the research of a diverse set of projects.
 
-1. Call center
-2. Ethnio intercepts
-3. User Testing
+1. **Call center** as a source of recruitment
+2. **Ethnio intercepts** to gather data from existing visitors
+3. **User Testing** to evaluate the ux and usability of a specific page
 
 
-We reccomend a collaborative approach across different skill sets to successfully execute each activity. We have created a rubric that shows the roles we have used.
+We reccomend a collaborative approach across different skill sets to successfully execute each activity. We have created a rubric that shows the roles we have used for each activity.
 
 | Skills: 	| Role 	|
 |-	|-	|
@@ -25,6 +25,11 @@ We reccomend a collaborative approach across different skill sets to successfull
 | Analyzing analytics 	| Analyst 	|
 | Survey functionality 	| Engineer 	|
 
+## Rubric with skills set
+
+These are the roles/skills we have used when taken advantage each of the tools mentioned above.
+
+![Rubric](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/rubric-1.jpg)
 
 ----
 
@@ -85,13 +90,6 @@ We reccomend a collaborative approach across different skill sets to successfull
 | Assign seats 	| Negotiate the numbers of tests and seats 	| usertesting.com 	|  Chief of Administration 	|
 | Define goals and desired outcomes for a specific test 	| Create a script and screener or duplicate an existing one and change name.<br>Define number of participants. 	| usertesting.com 	| Researcher, content designer and ux designer 	|
 | Create report and share findings 	| Usertesting records videos and can help create clips. There is a manual process to view videos and incorporate findings in a report 	| PPT/ usertesting.com 	| Researcher 	|
-
----
-## Rubric with needed skills for each tools
-
-These are the roles/skills we have used when using each of the tools mentioned above.
-
-![Rubric](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/rubric-1.jpg)
 
 ---
 
