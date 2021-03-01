@@ -89,7 +89,7 @@ We reccomend a collaborative approach across different skill sets to successfull
 ---
 ## Rubric with needed skills for each tools
 
-We hope this rubric helps you identify skills needed to use each of the tools. 
+These are the roles/skills we have used when using each of the tools mentioned above.
 
 ![Rubric](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/rubric-1.jpg)
 
