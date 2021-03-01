@@ -449,7 +449,7 @@ Index:
 7. [Recruitment criteria and process](#recruitment-criteria)
 8. [Sample questions](#sample-questions)
 9. [Analysis and synthesis process](#analysis-and-synthesis)
-10. [Outputs/deliverables](#outputs-and-deliverables)
+10. [Next steps](#next steps)
 11. [Impact](#impact)
 12. [Links to other documents](#links-to-other-documents)
 13. [Reflections](#reflections)
@@ -481,8 +481,8 @@ We wanted to understand what visitors know about health equity and how they inte
 ### Research methodology
 For this project, we decided on two different methods:
 
-- Intercept visitors and learn from their experience as they navigate the page
-- Perform usability testing sessions with people with diverse background and familiarity with the issue of health equity.
+- Intercept 87 visitors and learn from their experience as they navigate the page
+- Perform 5 usability testing sessions with people with diverse background and familiarity with the issue of health equity.
 
 ### Recruitment criteria
 
@@ -502,18 +502,61 @@ We used the following tools for recruitment:
 
 Ethnio intercept questions:
 
-Images usert testing
-add text
+1. Why did you visit California's commitment to health equity page?
 
-Findings:
+- How familiar are you with the issue of health equity?
+- Not at all familiar
+- Somewhat familiar
+- Very familiar
+
+2. Based on what you’ve read, what do you take away from this page?
+
+3. Is there other information you want to see on this page?
+- No
+- Yes (we’d like to know what it is)
+
+4. What do you intend to do with this information? (Select all that apply.)
+- Share it with colleagues and friends
+- Read more about health and equity
+- Digest it and come back later
+- Contact a community based organization to collaborate with them
+- Contact my local officials to learn more about what’s being done in my county and/or city
+- Not much else
+- Other (if you’d like to share, feel free) 
+
+5. Which best describes you?
+- I work for a city or county government 
+- I am policymaker with a city or county government
+- I'm a member of the public
+- I work for a data provider (like a health system or a lab)
+- I’m a member of the press
+- Other
+
+6. With which community do you identify? (This question is optional and you can select as apply)
+- White
+- Black or African American
+- American Indian or Alaska Native
+- Asian
+- Native Hawaiian or other Pacific Islander
+- Hispanic or Latino
+- Another community
+
+### Analysis and synthesis
+We reviewed the data from the intercepts and the usability testing sessions and we created a document with the findings for both methods. 
+
+We also created a spreadsheet with findings, hypothesis and recommendations. 
+
+![Equity](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/equity.jpg)
+
+### Next steps
 
 - We have identified two segments of users with different prior knowledge, abilities and overall expectations.
 
-1. People who are familiar with the issue: this page is a great attempt to represent the issue. This group is looking for more data that they could use to perform their own analysis.   
-2. People who are not very familiar with the issue: for this group this page is quite sophisticated and it’s almost too advanced. The main two sections seem enough for a first attempt to learn about the issue and a great introduction to inequalities around race and ethnicity. 
+1. For the people who are familiar with the issue, this page is a great attempt but it falls shorty. This group is looking for more data that they could use to perform their own analysis.   
+2. For people who are not very familiar with the issue, this page is quite sophisticated and it’s almost too advanced. The main two sections seem enough for a first attempt to learn about the issue and a great introduction to inequalities around race and ethnicity. 
 
-### Recommendations:
-There are possible approaches to our segmented audience:
+
+There are two possible approaches to our segmented audience:
 
 1. Design for all: by presenting the same exact information in different ways we will provide different perspectives in understanding and interpreting information. This approach will satisfy the needs of audiences with different prior knowledge and experiences. It means meeting people where they are. 
 2. Design for an intended audience and for a specific goal in mind: delivering information intentionally to satisfy those specific needs. 
