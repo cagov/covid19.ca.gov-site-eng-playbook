@@ -8,15 +8,15 @@ eleventyNavigation:
   order: 360
 ---
 
-Sample projects is the section that introduces the activities undertaken to carry out the research for specific pages & themes. 
+Sample projects is the section that introduces the activities undertaken to carry out the research for specific pages.
 
 - This section will introduce 4 different projects with a step-by-step understanding of how we have approached each of them.
 
 
 - The research for the **[homepage redesign](#homepage-redesign)** was focusing on making sure the new redesign was satisfying the needs of our variuous audiences while keeping the alignment with the state voice and brand. 
-- The **Industry guidance** focus was to understand why and how diferrent audiences use the page so we provide relevant information to facilitate each segments tasks.
-- The **blueprint for a safer economy** research  was to evaluate the understanding of the new framework the governor had announced and underdstand how businesses and the public use the page. 
-- The **Equity page** was a new page focusing on showcasing the inequities around health for certain communities and the research work was to discover how people with different prior knowledge and background on the topic experience the page and the content display in the visualizations. 
+- The **[Industry guidance](#industruy-guidance-redesign)** focus was to understand why and how diferrent audiences use the page so we provide relevant information to facilitate each segments tasks.
+- The **[Blueprint for a safer economy page](#blueprint-for-a-safer-economy-page)** research  was to evaluate the understanding of the new framework the governor had announced and underdstand how businesses and the public use the page. 
+- The **[Health Equity page](#health-equity-page)** was a new page focusing on showcasing the inequities around health for certain communities and the research work was to discover how people with different prior knowledge and background on the topic experience the page and the content display in the visualizations. 
 
 
 ---
@@ -252,7 +252,7 @@ The industry guidance page is the fourth most visited page since May 2020. It ha
 
 ---
 
-## Blueprint & What’s Open Search
+## Blueprint for a safer economy page
 
 ### Intro
 The Governor’s Office announced a new reopening framework for business sectors. This is a new state criteria for reopening businesses. More “prescriptive / dynamic criteria” based on local health officials and experience gained from the past months. 
@@ -316,7 +316,7 @@ To view full report  check  [PPT Report](https://docs.google.com/presentation/d/
 
 ---
 
-## Health Equity Dashboard
+## Health Equity page
 
 ### Intro
 We soft-launched the equity page and wanted to take an opportunity to learn more about the visitors’ familiarity with the topic and assess their understanding of the data visualizations.
