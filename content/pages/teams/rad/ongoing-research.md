@@ -10,6 +10,15 @@ eleventyNavigation:
 
 Ongoing activities undertaken to carry out the collection of feedback from our visitors.  
 
+
+1. **Per page feedback**
+2. **NPI**
+3. **feedback survey**
+4. **UX Audit**
+
+We reccomend a collaborative approach across different skill sets to successfully execute each activity. 
+
+
 ## Rubric with needed skills for each tools
 This rubric will help the researcher identify skills/roles needed to use each of the tools mention in this section.
 
