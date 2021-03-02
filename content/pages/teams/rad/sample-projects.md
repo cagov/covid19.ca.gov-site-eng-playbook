@@ -424,65 +424,58 @@ This research informed the team about the visitors' points of confusion around t
 ## Health Equity page
 
 Index:
-1. [Context](#Context)
-2. [Timeline](#Timeline)
-3. [Research goals](#research-goals)
-4. [Research objectives](#objectives)
-5. [Research questions](#research-questions)
-6. [Research methodology](#research-methodology)
-7. [Recruitment criteria and process](#recruitment-criteria)
-8. [Sample questions](#sample-questions)
-9. [Analysis and synthesis process](#analysis-and-synthesis)
-10. [Next steps](#next steps)
-11. [Impact](#impact)
-12. [Links to other documents](#links-to-other-documents)
-13. [Reflections](#reflections)
+1. [Context](#health-equity-context)
+2. [Research goals](#health-equity-research-goals)
+3. [Research objectives](#health-equity-objectives)
+4. [Research questions](#health-equity-research-questions)
+5. [Research methodology](#health-equity-research-methodology)
+6. [Recruitment criteria and process](#health-equity-recruitment-criteria)
+7. [Sample questions](#health-equity-sample-questions)
+8. [Analysis and synthesis process](#health-equity-analysis-and-synthesis)
+9. [Next steps](#health-equity-next steps)
+10. [Links to documents](#health-equity-links-to-documents)
 
-### Context
-The Equity page wants to elevate the disparities in covid-19 so they can be focused on and addressed. This is part of a greater initiative to spur counties to demonstrate that they’re using their ELC or CARES funding to support the communities most impacted.
+### Health Equity Context
+The Equity page goal is to elevate the disparities in covid-19 so they can be focused on and addressed. This is part of a greater initiative to spur counties to demonstrate that they’re using their funding to support the communities most impacted.
 
-We soft-launched the equity page to elevate these disparities. We wanted to take an opportunity to learn more about the visitors’ familiarity with the topic and assess their understanding of the data visualizations.
+### Health Equity Research goals:
+We soft-launched the equity page to elevate these disparities. We wanted to take an opportunity to learn more about the visitors’ familiarity with the Health equity topic and assess their understanding of the data visualizations.
 
-### Research goals:
-We wanted to understand what visitors know about health equity and how they interact with our content to improve our page experience.
+### Health Equity Research objective:
 
-### Research objective:
-
-- Understand our visitors ability and familiarity with the topic 
-- Assess the visitors understanding of the page’s content 
-- Assess the usability of the page
+- Understand our visitors ability and familiarity with the topic. 
+- Assess the visitors' understanding of the data visualizations.
+- Assess the usability of the page.
 
 
-### Research questions:
+### Health Equity Research questions:
 - Who visits this page?
 - What do they expect to find on this page?
 - How do they navigate the page?
 - What core message do they get out of the page? 
 - What sections are relevant to each audience?
-- How do they understand the data visualizations?
+- How do they understand and explain the content of the data visualizations?
 
 
-### Research methodology
+### Health Equity Research methodology
 For this project, we decided on two different methods:
 
-- Intercept 87 visitors and learn from their experience as they navigate the page
-- Perform 5 usability testing sessions with people with diverse background and familiarity with the issue of health equity.
+- Intercepted 87 visitors and learnt from their experience as they navigate the page.
+- Performed 5 usability testing sessions with people with diverse background and familiarity with the topic of health equity.
 
-### Recruitment criteria
+### Health Equity Recruitment criteria
 
 Some of our recruitment criteria were:
-Have ordered food online at least once in the past month
-Has used an online food delivery app
-Age: 25–45
-Geography: the US only
-Language: English
+
+- Different familiarity and background.
+- Different profficiency in the use of technology.
 
 We used the following tools for recruitment:
 
-- Ethnio intercepts
-- Friends & family
+- Ethnio intercepts.
+- Friends & family for usability testing sessions.
 
-### Sample questions or usability tasks
+### Health Equity Sample questions
 
 Ethnio intercept questions:
 
@@ -525,29 +518,27 @@ Ethnio intercept questions:
 - Hispanic or Latino
 - Another community
 
-### Analysis and synthesis
-We reviewed the data from the intercepts and the usability testing sessions and we created a document with the findings for both methods. 
-
-We also created a spreadsheet with findings, hypothesis and recommendations. 
+### Health Equity Analysis and synthesis
+We reviewed the data from the intercepts and the usability testing sessions and we created a word document and presentation with the findings from both methods. We also created a spreadsheet with findings, hyphotesis and recommendations. 
 
 ![Equity](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/equity.jpg)
 
-### Next steps
+### Health Equity Next steps
 
 - We have identified two segments of users with different prior knowledge, abilities and overall expectations.
 
-1. For the people who are familiar with the issue, this page is a great attempt but it falls shorty. This group is looking for more data that they could use to perform their own analysis.   
-2. For people who are not very familiar with the issue, this page is quite sophisticated and it’s almost too advanced. The main two sections seem enough for a first attempt to learn about the issue and a great introduction to inequalities around race and ethnicity. 
-
+1. For the people who are familiar with the topic, this page is a great attempt but it falls short. This group is looking for more data that they could use to perform their own analysis.   
+2. For people who are not very familiar with the issue, this page is quite sophisticated and it’s almost too advanced. The first two sections seem enough for a first attempt to learn about the issue and a great introduction to inequalities around race and ethnicity. This group is looking for more educational resources and a more of a guided experience. 
 
 There are two possible approaches to our segmented audience:
 
 1. Design for all: by presenting the same exact information in different ways we will provide different perspectives in understanding and interpreting information. This approach will satisfy the needs of audiences with different prior knowledge and experiences. It means meeting people where they are. 
-2. Design for an intended audience and for a specific goal in mind: delivering information intentionally to satisfy those specific needs. 
+2. Design for one specific audience by delivering information intentionally to satisfy those specific needs. 
 
 - For our next steps, we recommend that we decide if we strive to make information understandable for all audiences and, evaluate **understandability** for each audience and iterate until it reaches an acceptable level of understanding. 
+- In the short term, we can make raw data accessible to people who are interested in using it for their own research. This will not only empower these users but also strenghthen our approach towards more transdparency in government.
 
-## Links to documents
+## Health Equity Links to documents
 
 - [PRD](https://docs.google.com/document/u/1/d/1pQNZNSv3xwg-ZRFhjs5b6jp_zBZxOgsl/edit?rtpof=true)
 - [Research plan](https://docs.google.com/document/d/15LMz-iFguhTd8ZEOtd-4rFDZRrXAqVU0A01nGmAxlN0/edit)
