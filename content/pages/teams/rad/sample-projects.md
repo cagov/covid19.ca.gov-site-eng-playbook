@@ -530,6 +530,9 @@ We reviewed the data from the intercepts and the usability testing sessions and 
 1. For the people who are familiar with the topic, this page is a great attempt but it falls short. This group is looking for more data that they could use to perform their own analysis.   
 2. For people who are not very familiar with the issue, this page is quite sophisticated and it’s almost too advanced. The first two sections seem enough for a first attempt to learn about the issue and a great introduction to inequalities around race and ethnicity. This group is looking for more educational resources and a more of a guided experience. 
 
+![Equity](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/segments.jpg)
+
+
 There are two possible approaches to our segmented audience:
 
 1. Design for all: by presenting the same exact information in different ways we will provide different perspectives in understanding and interpreting information. This approach will satisfy the needs of audiences with different prior knowledge and experiences. It means meeting people where they are. 
