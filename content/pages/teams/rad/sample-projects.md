@@ -281,7 +281,7 @@ Our secondary audience is the **business owner**. They:
 
 - Post-launch feedback from users, user research, and analysis of data identified some gaps and opportunities in both the Industry Guidance page and how it intersects with the Blueprint Framework.
 
-- The core team decided that the best solution was solution was an updated Blueprint design that incorporates industry guidance in a unified context. This solution addresses most of existing problems, streamlines the experience, and makes Industry Guidance easier to update, maintain and track.
+- The core team decided that the best solution was an updated Blueprint design that incorporates industry guidance in a unified context. This solution addresses most of existing problems, streamlines the experience, and makes Industry Guidance easier to update, maintain and track.
 
 
 | Prioritized Challenges 	| Solution 	| Success Metric 	|
