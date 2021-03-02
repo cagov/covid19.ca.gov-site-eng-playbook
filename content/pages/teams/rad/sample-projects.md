@@ -323,7 +323,7 @@ Index:
 2. [Timeline](#blueprint-timeline)
 3. [Research goals](#blueprint-research-goals)
 4. [Research objectives](#blueprint-objectives)
-5. [Research methodology](#research-methodology)
+5. [Research methodology](#blueprintresearch-methodology)
 6. [Recruitment criteria and process](#blueprint-recruitment-criteria)
 7. [Usability script](#blueprint-usability-script)
 8. [Analysis and synthesis process](#blueprint-analysis-and-synthesis)
@@ -388,7 +388,7 @@ What do you want to know about your county? Now, scroll down to the map. Search 
 8. After reviewing this page, do you think it helps people know what’s safe, what’s not, and how this system works? 
 
 
-### Blueprint Analysis and synthesis process:
+### Blueprint Analysis and synthesis:
 I syntehsize each usability testing session after reviewing the videos. I took notes directly into a google document and then coded the data with key tasks into a spreadsheet. I also used this opportunity to highlight relevant quotes. 
 
 ![Homepage](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/coding-blueprint.jpg)
