@@ -67,7 +67,7 @@ These are the roles/skills we have used when implementing each of the tools ment
 
 ---
 
-## :writing_hand::skin-tone-4: User Testing
+## 📝 User Testing
 
 - We have performed **usability testing sessions** with specific audiences to **test the performance of newly launched pages or soon to be launch ones**. We used the sessions to evaluate the user experience and uncover usability issues for the specific pages. 
 - We have used usertesting.com to observe people as they interact with the page and perform a specific task.
