@@ -158,8 +158,8 @@ Challenges:
 ## Industry Guidance Redesign
 
 Index:
-1. [Context](#Context)
-2. [Timeline](#Timeline)
+1. [Context](#context)
+2. [Timeline](#timeline)
 3. [Research goals](#research-goals)
 4. [Research objectives](#objectives)
 5. [Research methodology](#research-methodology)
