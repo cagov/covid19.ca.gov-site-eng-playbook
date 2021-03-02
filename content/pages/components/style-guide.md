@@ -3,9 +3,9 @@ title: Content style guide
 date: Last Modified 
 permalink: /components/when/content-style-guide.html
 eleventyNavigation:
-  key: Content style guide
-  parent: When it's applied
-  order: 51.5
+  key: Style guide
+  parent: Content
+  order: 205
 ---
 
 We write for all Californians. Our content bridges the gap between Californians and the information and services they need.
@@ -200,9 +200,10 @@ Use a button with a form or to highlight something the user wants to do. Links a
 * Start with an active verb like **Apply**, **Submit**, or **Search**. This keeps the focus on the user’s needs.
 * Do not use _See more_, _Here_, or _View more_. They do not give the user a good idea where they’ll go. These phrases also assume everyone can see.
 * Limit number of links so as to make the text more readable. If you have several relevant links, put them in a bulleted list after your main text.
-* Have links support comprehension, not disrupt it. Do not link until it's alright to send the user away (after you've conveyed your point).
+* Have links support comprehension, not disrupt it. Do not link until it's all right to send the user away (after you've conveyed your point).
 * Open links in the [the same tab and window](https://www.w3.org/TR/WCAG20-TECHS/G200.html). Only open content in a new tab or window when there's a good reason to do so. Give them [warning](https://www.w3.org/TR/WCAG20-TECHS/G201.html) when a new tab or window will open.
   * See the [examples](https://staging.covid19.ca.gov/sample) page to see what code to use in WordPress to create linked to other sites and PDFs.
+* When you end a sentence with a link, do not include the period in the hyperlink.
 
 ### Notes and disclaimers
 When info (especially data in tables or graphs) needs an explanation, follow it with a note to provide clarity. Make the note smaller to signal to the reader that it is secondary info. In WordPress, use this code in the HTML view to create smaller text: `<p class="small-text"> … </p>`
