@@ -32,3 +32,7 @@ Carter figured out how to automatically create the same hash github uses to iden
 ## Debugging and running crons
 
 Carter has disabled a bunch of crons in the file launch settings file. The launch settings file is used by the VSCode debugger to trigger a single service inside of a repository that contains multiple. You can run it independently, point at a single file to execute and add breakpoints.
+
+## Debugging the WordPress publishing service
+
+This service is alone in a repo so you can run it locally more easily than the grouped Cron services. Locally you will be using a different github token from the one assigned to the wpserviceuser that the Azure function uses when running regularly in the cloud. We had a problem a couple times when we downgraded the permissioins of the wpservice user to write from admin which stops it from being allowed to merge directly to production without approvals. The wpservice user should maintain github admin rights on the covid19 repo to be able to publish continuously.
