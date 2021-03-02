@@ -10,6 +10,11 @@ eleventyNavigation:
 
 Ongoing activities undertaken to carry out the collection of feedback from our visitors.  
 
+## Rubric with needed skills for each tools
+This rubric will help the researcher identify skills/roles needed to use each of the tools mention in this section.
+
+![Rubric](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/rubric-ongoing-1.jpg)
+
 ---
 
 ## 🗒️ Per Page Feedback
@@ -108,11 +113,6 @@ Ongoing activities undertaken to carry out the collection of feedback from our v
 
 ![UX Audit](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/audit.jpg)
 
----
-## Rubric with needed skills for each tools
-This rubric will help the researcher identify skills/roles needed to use each of the tools mentioned in this section.
-
-![Rubric](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/rubric-ongoing-1.jpg)
 
 ---
 
