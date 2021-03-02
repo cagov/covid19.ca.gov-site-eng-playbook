@@ -10,19 +10,17 @@ eleventyNavigation:
 
 Ongoing UX methods and activities undertaken to carry out the collection of feedback from our visitors.  
 
-
-1. **Per page feedback**
-2. **NPI**
-3. **feedback survey**
-4. **UX Audit**
+1. **Per page feedback** to gather feedback at a page level
+2. **NPI** to gather longitudinal data
+3. **Feedback survey** to gather comments about the website
+4. **UX Audit** to review user flows across pages
 
 We reccomend a collaborative approach across different skill sets to successfully execute each activity. 
 
-
 ## Rubric with needed skills for each tools
-This rubric will help the researcher identify skills/roles needed to use each of the tools mention in this section.
+This rubric will help the researcher identify skills/roles recommende to use each of the tools.
 
-![Rubric](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/rubric-ongoing-1.jpg)
+![Rubric](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/rubric-ongoing-base.jpg)
 
 ---
 
