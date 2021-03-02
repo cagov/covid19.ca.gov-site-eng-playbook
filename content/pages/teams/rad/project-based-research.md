@@ -24,7 +24,7 @@ These are the roles/skills we have used when implementing each of the tools ment
 ----
 
 ## 📱 Call Center
-- The **call center** has been used as a **source for recruitment** to reach out to **harder to reach** previously identified groups such as Spanish speaking population who represent a higher % of the total population in California and have been highly impacted by covid-19. 
+- The **call center** is being used as a **source for recruitment** to reach out to **harder to reach** previously identified groups such as Spanish speaking population who represent a higher % of the total population in California and have been highly impacted by covid-19. 
 - We have used the referrals from the call center to perform **interviews**. 
 - These are the steps taken to use the call center as a source for recruitment: 
 
@@ -44,8 +44,8 @@ These are the roles/skills we have used when implementing each of the tools ment
 
 ## 🦉 Ethnio Intercepts
 
-- **Ethnio intercepts** have been used as a tool to **gather feedback from existing visitors we were unable to reach out with other tools**. Circumstances and context matter in user research, and someone who’s using the website in **real time, for real purposes**, is going to behave differently than someone who’s just being told to accomplish some task via other platforms. We have also used ethnio intercepts as a **source for recruitment** 
-- We have used ethnio to **uncover visitor's context of use and motivations when using the site**. We have used that information to better address those contexts and **perform interviews** to dig deeper. 
+- **Ethnio intercepts** are used as a tool to **gather feedback from existing visitors we were unable to reach out with other tools**. Circumstances and context matter in user research, and someone who’s using the website in **real time, for real purposes**, is going to behave differently than someone who’s just being told to accomplish some task via other platforms. We have also used ethnio intercepts as a **source for recruitment** 
+- We use ethnio to **uncover visitor's context of use and motivations when using the site**. We have used that information to better address those contexts and **perform interviews** to dig deeper. 
 - **Link**: [ethnio](https://ethn.io)
 - These are the steps taken to use the ethnio as a source for recruitment and data gathering tool: 
 
@@ -69,8 +69,8 @@ These are the roles/skills we have used when implementing each of the tools ment
 
 ## 📝 User Testing
 
-- We have performed **usability testing sessions** with specific audiences to **test the performance of newly launched pages or soon to be launch ones**. We used the sessions to evaluate the user experience and uncover usability issues for the specific pages. 
-- We have used usertesting.com to observe people as they interact with the page and perform a specific task.
+- We performe **usability testing sessions** with specific audiences to **test the performance of newly launched pages or soon to be launch ones**. We use the sessions to evaluate the user experience and uncover usability issues for the specific pages. 
+- We use usertesting.com to observe people as they interact with the page and perform a specific task.
 - **Link**: [usertesting.com](https://www.usertesting.com/)
 - These are the steps taken to use User Testing as a tool to perform usability testing sessions.
 
