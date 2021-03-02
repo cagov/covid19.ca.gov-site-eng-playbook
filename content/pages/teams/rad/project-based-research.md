@@ -8,10 +8,10 @@ eleventyNavigation:
   order: 320
 ---
 
-Research activities undertaken to carry out the research of a diverse set of projects.
+User experience methods and activities undertaken to carry out the research of a diverse set of projects.
 
-1. **Call center** as a source of recruitment
-2. **Ethnio intercepts** to gather data from existing visitors
+1. **Call center** as a source of recruitment to perform interviews
+2. **Ethnio intercepts** to gather data from visitors
 3. **User Testing** to evaluate the ux and usability of a specific page
 
 We reccomend a collaborative approach across different skill sets to successfully execute each activity. 
