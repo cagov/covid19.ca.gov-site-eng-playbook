@@ -319,18 +319,17 @@ Challenges:
 ## Blueprint for a safer economy page
 
 Index:
-1. [Context](#Context)
-2. [Timeline](#Timeline)
-3. [Research goals](#research-goals)
-4. [Research objectives](#objectives)
+1. [Context](#blueprint-context)
+2. [Timeline](#blueprint-timeline)
+3. [Research goals](#blueprint-research-goals)
+4. [Research objectives](#blueprint-objectives)
 5. [Research methodology](#research-methodology)
-6. [Recruitment criteria and process](#recruitment-criteria)
-7. [Usability script](#usability-script)
-8. [Analysis and synthesis process](#analysis-and-synthesis)
-9. [Outputs/deliverables](#outputs-and-deliverables)
-10. [Impact](#impact)
-11. [Links to other documents](#links-to-other-documents)
-12. [Reflections](#reflections)
+6. [Recruitment criteria and process](#blueprint-recruitment-criteria)
+7. [Usability script](#blueprint-usability-script)
+8. [Analysis and synthesis process](#blueprint-analysis-and-synthesis)
+9. [Outputs/deliverables](#blueprint-outputs-and-deliverables)
+10. [Impact](#blueprint-impact)
+11. [Links to  documents](#blueprint-links-to-documents)
  
 
 ### Context
