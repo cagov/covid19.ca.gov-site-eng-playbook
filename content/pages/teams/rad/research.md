@@ -47,7 +47,4 @@ We organized the document in three categories of research.
 3.  Sample projecs: activities undertaken to carry out the research for **specific pages**.
 
 
- Ongoing           |  Pages        |     
-:-------------------------:|:-------------------------:
-![Ongoing](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/ongoing.jpg)  |  ![Sample research](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/pages.jpg) |
-
+![Document](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/ongoing.jpg)  
