@@ -8,7 +8,7 @@ eleventyNavigation:
   order: 360
 ---
 
-Sample projects is the section that introduces the activities undertaken to carry out the research for specific pages.
+Sample projects is the section that introduces UX methods and activities undertaken to carry out the research for specific pages.
 
 This section will introduce 4 different projects with a step-by-step understanding of how we have approached each of them.
 
