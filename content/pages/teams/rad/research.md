@@ -24,8 +24,6 @@ In general the trigger for research starts with:
 2. the **internal team** desire to further explore needs uncovered by exisiting data collection sources such as surveys or google analytics.
 3. the request from an **external stakeholder** to further explore a topic or a group.
 
-![Homepage](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/uxresearch.jpg)
-
 
 ---
 
@@ -46,5 +44,3 @@ We organized the document in three categories of research.
 2.  Ongoing research: activities undertaken to carry out the collection of **feedback from our visitors** 
 3.  Sample projecs: activities undertaken to carry out the research for **specific pages**.
 
-
-![Document](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/ongoing.jpg)  
