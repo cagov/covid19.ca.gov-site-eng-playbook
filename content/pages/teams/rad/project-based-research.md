@@ -14,8 +14,14 @@ Research activities undertaken to carry out the research of a diverse set of pro
 2. **Ethnio intercepts** to gather data from existing visitors
 3. **User Testing** to evaluate the ux and usability of a specific page
 
+We reccomend a collaborative approach across different skill sets to successfully execute each activity. 
 
-We reccomend a collaborative approach across different skill sets to successfully execute each activity. We have created a rubric that shows the roles we have used for each activity.
+## Rubric with skills set
+
+These are the roles/skills we have used when implementing each of the tools mentioned above.
+
+![Rubric](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/rubric-1.jpg)
+
 
 | Skills: 	| Role 	|
 |-	|-	|
@@ -24,12 +30,7 @@ We reccomend a collaborative approach across different skill sets to successfull
 | Prototyping 	| Designer 	|
 | Analyzing analytics 	| Analyst 	|
 | Survey functionality 	| Engineer 	|
-
-## Rubric with skills set
-
-These are the roles/skills we have used when taken advantage each of the tools mentioned above.
-
-![Rubric](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/rubric-1.jpg)
+| Research 	| Researcher 	|
 
 ----
 
