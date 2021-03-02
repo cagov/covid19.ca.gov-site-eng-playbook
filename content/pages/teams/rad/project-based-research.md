@@ -18,7 +18,7 @@ We reccomend a collaborative approach across different skill sets to successfull
 
 These are the roles/skills we have used when implementing each of the tools mentioned above.
 
-![Rubric](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/rubric-1.jpg)
+![Rubric](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/rubric-project-base.jpg)
 
 
 | Skills: 	| Role 	|
