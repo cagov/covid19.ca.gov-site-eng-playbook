@@ -172,7 +172,7 @@ Index:
 12. [Reflections](#reflections)
  
 
-### Context
+### Industry Guidance Context
 The industry guidance page is the fourth most visited page since May 2020. It has been a high priority for the Governor’s Office and haven’t had a significant update since May 12. This page is key to the work of many stakeholders: city and county officials, business owners, business associations and members of the public. With new restrictions in place, this page becomes a go-to resource for many businesses and it was in need of a redesign.
 
 ### Timeline
