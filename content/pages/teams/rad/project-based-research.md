@@ -16,8 +16,6 @@ User experience research methods and activities undertaken to carry out the rese
 
 We reccomend a collaborative approach across different skill sets to successfully execute each activity. 
 
-## Rubric with skills set
-
 These are the roles/skills we have used when implementing each of the tools mentioned above.
 
 ![Rubric](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/rubric-1.jpg)
