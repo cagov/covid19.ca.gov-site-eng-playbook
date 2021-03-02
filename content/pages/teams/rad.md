@@ -1,9 +1,9 @@
 ---
-title: RAD - Research - Analytics - Design
+title: Research, Analytics and Design (Team RAD)
 date: Last Modified 
 permalink: /teams/rad/index.html
 eleventyNavigation:
-  key: RAD
+  key: Research, Analytics and Design (RAD)
   parent: Functional teams
   order: 300
 ---
