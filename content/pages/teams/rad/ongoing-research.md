@@ -8,7 +8,7 @@ eleventyNavigation:
   order: 340
 ---
 
-Ongoing activities undertaken to carry out the collection of feedback from our visitors.  
+Ongoing UX methods and activities undertaken to carry out the collection of feedback from our visitors.  
 
 
 1. **Per page feedback**
