@@ -432,7 +432,7 @@ Index:
 6. [Recruitment criteria and process](#health-equity-recruitment-criteria)
 7. [Sample questions](#health-equity-sample-questions)
 8. [Analysis and synthesis process](#health-equity-analysis-and-synthesis)
-9. [Next steps](#health-equity-next steps)
+9. [Next steps](#health-equity-next-steps)
 10. [Links to documents](#health-equity-links-to-documents)
 
 ### Health Equity Context
