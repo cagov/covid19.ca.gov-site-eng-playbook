@@ -158,23 +158,23 @@ Challenges:
 
 Index:
 1. [Context](#industry-guidance-context)
-2. [Timeline](#timeline)
-3. [Research goals](#research-goals)
-4. [Research objectives](#objectives)
-5. [Research methodology](#research-methodology)
-6. [Recruitment criteria and process](#recruitment-criteria)
-7. [Activities](#usability-script)
-8. [Analysis and synthesis process](#analysis-and-synthesis)
-9. [Outputs/deliverables](#outputs-and-deliverables)
-10. [Impact](#impact)
-11. [Links to other documents](#links-to-other-documents)
-12. [Reflections](#reflections)
+2. [Timeline](#industry-guidance-timeline)
+3. [Research goals](#industry-guidance-research-goals)
+4. [Research objectives](#industry-guidance-objectives)
+5. [Research methodology](#industry-guidance-research-methodology)
+6. [Recruitment criteria and process](#industry-guidance-recruitment-criteria)
+7. [Activities](#industry-guidance-usability-script)
+8. [Analysis and synthesis process](#industry-guidance-analysis-and-synthesis)
+9. [Outputs/deliverables](#industry-guidance-outputs-and-deliverables)
+10. [Impact](#industry-guidance-impact)
+11. [Links to other documents](#industry-guidance-links-to-other-documents)
+12. [Reflections](#industry-guidance-reflections)
  
 
 ### Industry Guidance Context
 The industry guidance page is the fourth most visited page since May 2020. It has been a high priority for the Governor’s Office and haven’t had a significant update since May 12. This page is key to the work of many stakeholders: city and county officials, business owners, business associations and members of the public. With new restrictions in place, this page becomes a go-to resource for many businesses and it was in need of a redesign.
 
-### Timeline
+### Industry Guidance Timeline
 Overall, the project took a total of 10 weeks.
 
 - Discussing the project: 1 week
@@ -184,19 +184,18 @@ Overall, the project took a total of 10 weeks.
 - Report: 2 weeks
 
 
-### Research Goals
+### Industry Guidance Research Goals
 - With this reasearch we wanted to challenge our existing assumptions by testing the usability and experience of the page with real visitors and define the priorities and tasks for each of our groups. 
 
-### Objectives:
+### Industry Guidance Objectives:
 - Understand the motivations for each user segment to visit the industry guidance.
 - Understand how they navigate the page.
 - Understand what users prioritize when checking the industry guidance page.
 - Understand if the taxonomy of industries is relevant to each segment’s business type.
 - Understand when would they revisit the page and for what purpose.
 
-### Research methodology:
+### Industry Guidance Research methodology:
 For this project, we decided on three different methods to fit the timeline and the research goals:
-
 
 1.  **Intercept visitors** as they navigate the Industry guidance page to understand who they were and what they were trying to accomplish. 
 - Intercept 70 people visiting the industry guidance page and follow up with 20 phone interviews
@@ -210,7 +209,7 @@ Intercept           |  Interviews            |  Usability testing
 [![Intercept](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/intercept-ig.jpg)](https://www.youtube.com/watch?v=e9iE6mOs2OE&feature=emb_logo) |  ![Interviews](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/interviews.jpg)  |  [![Usability](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/usability.jpg)](https://www.youtube.com/watch?v=SdM15B0X2_A&feature=emb_logo)
 
 
-### Recruitment criteria 
+### Industry Guidance Recruitment criteria 
 Some of our recruitment criteria were:
 
 - A diverse set of visitors: business owners, goverement employees, members of the public, business associations
@@ -219,7 +218,7 @@ Some of our recruitment criteria were:
 - Live in CA
 
 
-### Outputs and deliverables
+### Industry Guidance Outputs and deliverables
 
 - We put together a report with a summary of the key takeaways and pain points. We also included videos and links to more information. 
 - We segmented the visitors in three groups and delivered detailed information for each segment. As a team we had many assumptions about who was using our page and why. These groups enabled the team to anchor decision-making, and what should be prioritized next.
@@ -276,7 +275,7 @@ Our secondary audience is the **business owner**. They:
 | Consumers 	| I want to fact check information regarding how businesses are following regulations in my county so I can decide what to do. 	| Yes 	| Sometimes 	|
 | Consumers 	| I want to have the latest information about which activities are allowed in my county. 	| Yes 	| Sometimes 	|
 
-### Impact
+### Industry Guidance Impact
 
 - Post-launch feedback from users, user research, and analysis of data identified some gaps and opportunities in both the Industry Guidance page and how it intersects with the Blueprint Framework.
 
@@ -299,14 +298,14 @@ The lead designer prototyped the proposed solution which still relies on communi
 ![MVP](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/mvp.jpg)
 
 
-### Links to documents:
+### Industry Guidance Links to documents:
 - [PRD](https://docs.google.com/document/d/10oBTgzbvQkZXzyWLcQUpMIvtaoq8q1oG17koRgLLnHs/edit#heading=h.5nwyk53zv7ia)
 - [Research plan](https://docs.google.com/document/d/1ZRtWibr_0KEuf9tEcMBJhcj7Xu91BPgKUDcKjBtxO4E/edit)
 - [Report ppt](https://docs.google.com/presentation/d/1oEfl3dPUewLbYmZfgDqGtbBx8wM6Qn75iDa3--nYD2w/edit) + [Report notion](https://www.notion.so/UX-Research-report-30772b6112ea49b1973a75169a7903d6) 
 - [Recommendations](https://docs.google.com/spreadsheets/d/10h0SoDMv6gFgCFmJvBS0xxzLAHTFO_bifzIpMmobdoU/edit)
 - [Themes](https://docs.google.com/document/u/1/d/1rPRdKhiaInXUGr3sOFeQrWm4sE1-6MahfAoha_pTlfo/edit#heading=h.pc2f0p49yjbv)
 
-### Reflections
+### Industry Guidance Reflections
 
 What went well:
 - With the merge of the industry guidance and the blueprint page we are improving the publication flow which helps the stakeholders with their day to day work.
