@@ -8,7 +8,7 @@ eleventyNavigation:
   order: 320
 ---
 
-User experience methods and activities undertaken to carry out the research of a diverse set of projects.
+User experience research methods and activities undertaken to carry out the research of a diverse set of projects.
 
 1. **Call center** as a source of recruitment to perform interviews
 2. **Ethnio intercepts** to gather data from visitors
