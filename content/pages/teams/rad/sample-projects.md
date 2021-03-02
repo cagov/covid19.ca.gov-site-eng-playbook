@@ -323,7 +323,7 @@ Index:
 2. [Timeline](#blueprint-timeline)
 3. [Research goals](#blueprint-research-goals)
 4. [Research objectives](#blueprint-objectives)
-5. [Research methodology](#blueprintresearch-methodology)
+5. [Research methodology](#blueprint-research-methodology)
 6. [Recruitment criteria and process](#blueprint-recruitment-criteria)
 7. [Usability script](#blueprint-usability-script)
 8. [Analysis and synthesis process](#blueprint-analysis-and-synthesis)
@@ -334,7 +334,7 @@ Index:
 
 ### Blueprint Context
 On August 28th, 2020, the Governor’s office announced a new reopening framework for business sectors. This is a new state criteria for reopening businesses. More “prescriptive / dynamic criteria” based on local health officials and experience gained from the past months. 
-We have designed a new page to communicate this new framework and want to test it with business owners and members of the public to test awareness and underdtanding of the framework.  
+As part of the administration’s focus on the reopening, we designed a new page to communicate this new framework and want to test it with business owners and members of the public to evaluate people's understanding  of the framework and test the usability of the page to get the message out.  
 
 ### Blueprint Timeline:
 Overall, the project took a total of 5 weeks.
@@ -347,30 +347,30 @@ Overall, the project took a total of 5 weeks.
 
 ### Blueprint Research goals: 
 
-- Evaluate the understanding of the new framework
-- Assess the user experience of the page 
+- Evaluate the understanding of the new framework.
+- Assess the user experience of the page.
 
 ### Blueprint Objectives:
 
 - Identify difficulties and roadblocks participants experience when using the Blueprint page.
 - Understand what participants are thinking and feeling as they execute tasks / prompts.
-- Assess if the framework delivers a clear understanding of what businesses and individuals can do and why
-- Identify what new information needs to be provided
-- Align the new redesign and framework to people’s ability and understanding about what’s safe in their county
+- Assess if the framework delivers a clear understanding of what businesses and individuals can do and why.
+- Identify what new information needs to be provided.
+- Align the new redesign and framework to people’s ability and understanding about what’s safe in their county.
 
 ### Blueprint Research methodology:
-- We performed 10 usability testing sessions with members of the public and business owners to uncover problems and points of confusion when reviewing the Blueprint page and assess the understanding of the new framework
+- We performed 10 usability testing sessions with members of the public and business owners to uncover problems and points of confusion when reviewing the Blueprint page and assessing the understanding of the new framework.
 
 ### Blueprint Recruitment criteria:
 Some of our recruitment criteria were:
 
-- 5 members of the public
-- Individuals with and without kids
-- 5 business owners in different industries, business sizes,income and counties in CA
+- 5 members of the public.
+- Individuals with and without kids.
+- 5 business owners in different industries, business sizes, various income brackets and counties in California.
 - Age: 18-65+
-- Geography: CA
-- Language: English
-- Devices: mobile and desktop
+- Geography: California.
+- Language: English.
+- Devices: mobile and desktop.
 
 We used the following tools for recruitment:
 - Usertesting.com
@@ -389,31 +389,15 @@ What do you want to know about your county? Now, scroll down to the map. Search 
 
 
 ### Blueprint Analysis and synthesis:
-I syntehsize each usability testing session after reviewing the videos. I took notes directly into a google document and then coded the data with key tasks into a spreadsheet. I also used this opportunity to highlight relevant quotes. 
+We syntehsized each usability testing session after reviewing the videos. We took notes directly into a google document and then coded the data about tasks into a spreadsheet. We also used this opportunity to highlight relevant quotes. 
 
 ![Homepage](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/coding-blueprint.jpg)
 
 
 ### Blueprint Outputs and deliverables
-- We put together a report. In this report, we summarized the key takeaways and pain points we were finding. In this report, we included videos and links to more information.
+- We put together a report. In this report, we summarized the key takeaways and pain points we were finding. In this report, we also included videos and links to more information.
 
-| **Awareness** 	|
-|-	|
-| - 8 out 10 haven’t heard about the new framework. 	|
-| - 9 out 10 haven’t been to this page before. 	|
-| **Section: Risk level graphic** 	|
-| - [+] This section is easy to understand. 	|
-| - [-] Widespread color purple doesn’t represent the most dangerous tier. 	|
-| - [+] Labels are self-explanatory and memorable. 	|
-| - [-] Low recognition of how counties move from tiers. 	|
-| **Section: Map** 	|
-| - [+] Maps are highly desirable for creating awareness. 	|
-| - [-] Harder to navigate on mobile. 	|
-
-
-### Blueprint Impact
-
-This research helped informed the team about the visitors points of confusion around the framework and issues around the usability of the page. We proposed changes in the content hierarchy that were taken into consideration and implemented in newwer iterations of the page.
+- This is a snapshot of some findings around usability and user experience:
 
 |   Sections 	| UX 	| Usability 	|   	|
 |-	|-	|-	|-	|
@@ -422,6 +406,11 @@ This research helped informed the team about the visitors points of confusion ar
 |   Map 	| Desirable and memorable. New information. Great piece to create awareness. 	| Non intuitive on mobile. (friction regarding searchability and clickability) 	|   	|
 
 To view full report  check  [PPT Report](https://docs.google.com/presentation/d/1ga2JmDpwBGK0bAGbDnub3g8VyAaph3ZjCScWVU6V2QA/edit)
+
+
+### Blueprint Impact
+
+This research informed the team about the visitors' points of confusion around the framework and issues around the usability of the page. We proposed changes in the content hierarchy that were taken into consideration and implemented in newwer iterations of the page.
 
 
 ### Blueprint Links to documents
