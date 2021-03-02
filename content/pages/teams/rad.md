@@ -3,7 +3,7 @@ title: Research, Analytics and Design (Team RAD)
 date: Last Modified 
 permalink: /teams/rad/index.html
 eleventyNavigation:
-  key: Research, Analytics and Design (RAD)
+  key: RAD
   parent: Functional teams
   order: 300
 ---
@@ -15,7 +15,7 @@ eleventyNavigation:
 The section describes the function of Research, Analytics and Design (affectionately known as Team RAD).
 
 ### Research
-Research listens and engages with the public to address their needs and improve their overall journey when performing their tasks. Research informs product decisions by either framing the problem we were trying to solve or testing assumptions and hypotheses.
+Research listens and engages with the public to address their needs and improve their overall journey when performing their tasks. Research informs product decisions by either framing the problem we are trying to solve or testing assumptions and hypotheses.
 
 [Learn more](https://teamdocs.covid19.ca.gov/teams/rad/research.html)
 
@@ -37,7 +37,7 @@ Our objective is to ensure a researcher, analysts and designers can feel comfort
 
 
 ## What's in this section?
-We organized the document by the three functions of Team RAD:
+We organized this section by the three functions of Team RAD:
 
 1.  [Research](https://teamdocs.covid19.ca.gov/teams/rad/research.html)
 2.  [Analytics](https://teamdocs.covid19.ca.gov/teams/rad/analytics.html)
