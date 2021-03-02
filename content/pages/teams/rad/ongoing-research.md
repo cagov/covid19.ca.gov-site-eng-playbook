@@ -26,9 +26,9 @@ This rubric will help the researcher identify skills/roles recommende to use eac
 
 ## 🗒️ Per Page Feedback
 - We use this feature to capture **user feedback at a per page level** in order to better understand what pages are useful, what within the page is meanigful, confusing, distracting and how we can improve them **to make them relevant to user needs**. 
-- We use a **native form with daily comments hosted on github** and **google sheets with a weekly syntehsis and analysis** with responses collected from a link we host on ethn.io that is displayed after the visitor give a comment.
+- We use a **native form with daily comments hosted on github** and **google sheets with a weekly syntehsis and analysis** with responses collected from a link we host on ethn.io.
 - **Links**: [sheets](https://docs.google.com/spreadsheets/d/1vFK8Xw41JThyJUa6M0Lv4qvAoJ-TQ4VK-TUc82FVFZA/edit#gid=1414096076) and [github](https://cagov.github.io/comment-reports/?code=Hv0cGBn1ysN97obrScf5awD1lZUs6JDyctdTmJgoAE6Py9bjy1foag==#filterA)
-- These are the steps taken to use the per page feedback feature:
+- These are the steps to take to use the per page feedback feature:
 
 
 | Steps 	| Process 	| Tools 	| Improvements 	| Team 	|
@@ -52,10 +52,10 @@ This rubric will help the researcher identify skills/roles recommende to use eac
 
 ## 🌡️ NPI Survey
 
-- We have used the **NPI survey** to gather longitudinal data from visitors to covid19.ca.gov and ca.gov to **discover how attitudes and behaviors change as influenced by changes in policy, local and/or state economy** and other factors.
+- We use the **NPI survey** to gather longitudinal data from visitors to covid19.ca.gov and ca.gov to **discover how attitudes and behaviors change as influenced by changes in policy, local and/or state economy** and other factors.
 - We showcase the link to the survey to every 50th visitor on covid19.ca.gov (homepage) and static link in ca.gov (homepage)
 - **Link**: https://www.surveymonkey.com/
-- These are the steps taken to create and update the NPI survey:
+- These are the steps to take to create and update the NPI survey:
 
 
 
@@ -73,10 +73,9 @@ This rubric will help the researcher identify skills/roles recommende to use eac
 
 ## 🚧 Feedback Survey (Footer)
 
-- We created a **survey link** to provide a place on the website for visitors to **give general website feedback, suggestions and comments**. 
-- We added a link on the footer. We believe the location on the footer follows other websites best practices and it doesn't interfere with the user tasks. 
+- We add a **survey link** on the footer to provide a place on the website for visitors to **give general website feedback, suggestions and comments**.  
 - **Link**:  SurveyMonkey
-- These are the steps taken to make us of the NPI survey:
+- These are the steps to take to make us of the NPI survey:
 
 | Steps 	| Process 	| Tools 	| Team 	|
 |-	|-	|-	|-	|
@@ -92,10 +91,10 @@ This rubric will help the researcher identify skills/roles recommende to use eac
 ## 🔏 UX Auditing
 
 
-- We performed an **ux audit** to **identify common pain points across key user flows**. The audit's goal is to uncover pain points, roadbloacks and success points when performing a task. With this information we can then improve the overall flow, instead of just focusing on a specific page. 
-- We recruited a team of a designer, researcher and analyst and assigned different tasks to each member. We mapped out the entire user flow to get a clear picture of all the different pages and actions users take to perform specific tasks. 
+- We perform an **ux audit** to **identify common pain points across key user flows**. The audit's goal is to uncover pain points, roadbloacks and success points when performing a task. With this information we can then improve the overall flow, instead of just focusing on a specific page. 
+- A team of a designer, researcher and analyst chose different tasks. We mapped out the entire user flow to get a clear picture of all the different pages and actions users take to perform specific tasks. 
 - **Tools**:  miro, google docs, google slides, spreadsheet, quicktime
-- These are the steps taken to create and implement an UX Audit:
+- These are the steps to take to create and implement an UX Audit:
 
 
 
