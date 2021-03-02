@@ -16,7 +16,7 @@ This section will introduce 4 different projects with a step-by-step understandi
 - The goal for the **[homepage redesign](#homepage-redesign)** was to make sure the new redesign was satisfying the needs of our visitors while keeping the alignment with the state's voice and brand. 
 - The goal for **[Industry guidance redesign](#industry-guidance-redesign)** was to understand why and how different visitors use the page so we could provide relevant information to facilitate their tasks.
 - The goal for the **[Blueprint for a safer economy page design](#blueprint-for-a-safer-economy-page)** was to evaluate the understanding of the new framework the governor had announced and underdstand how businesses and the public use the page. 
-- The **[Health Equity page](#health-equity-page)** was a page that wanted to highlight the existing inequities in health for certain communities. The goal of the research was to discover how people with different prior knowledge and background on the topic experience the page and the content from the visualizations. 
+- The **[Health Equity page](#health-equity-page)** was a page that wanted to highlight the existing inequities in health for certain communities. The goal of the research was to discover how people with different prior knowledge and background on the topic experience the information and data visualizations. 
 
 
 ---
@@ -262,7 +262,7 @@ Our secondary audience is the **business owner**. They:
 |  	| When coming from the homepage, the visitor has no information about tiers. Which tier are we now? 	| Design: Consider adding or replicating the what’s open search in the industry guidance for people coming directly or from homepage. 	| All of the users 	|
 
 
-- We also delivered a content gap analysis to compare the current content with the desired content performance for each segment.
+- We also delivered a content gap analysis to discover “gaps” in the existing content:
 
 | User segment 	| User need 	| Does content exist? 	| Can they find it and use it? 	|
 |-	|-	|-	|-	|
@@ -281,7 +281,7 @@ Our secondary audience is the **business owner**. They:
 
 - Post-launch feedback from users, user research, and analysis of data identified some gaps and opportunities in both the Industry Guidance page and how it intersects with the Blueprint Framework.
 
-- The core team decided that the best solution was an updated Blueprint design that incorporates industry guidance in a unified context. This solution addresses most of existing problems, streamlines the experience, and makes Industry Guidance easier to update, maintain and track.
+- The core team decided that the best solution was an updated Blueprint design that incorporates Industry guidance in a unified context. This solution addresses most of existing problems, streamlines the experience, and makes Industry Guidance easier to update, maintain and track.
 
 
 | Prioritized Challenges 	| Solution 	| Success Metric 	|
@@ -295,7 +295,7 @@ Our secondary audience is the **business owner**. They:
 | Some users want to anticipate what the guidance will be if the tier changes. 	| The user can see the information for all tiers by leaving out the county information or by searching on a county that is in another tier. 	| Metric to benchmark and track to see if goal gets achieved? 	|
 | Users seeking industry guidance are not always aware that there may be related county guidance that goes beyond the state mandates. 	| The new design is more intentional about the language to make this clear, and offers links to relevant county websites. 	| Metric to benchmark and track to see if goal gets achieved? 	|
 
-The lead designer prototyped the Industry guidance and blueprint merge MVP which still relies on communicating information through PDFs, but it also incorporates the value of the “Search Results”  because now a user can find their industry guidance through the search features and also get information about their tier in context. 
+The lead designer prototyped the proposed solution which still relies on communicating information through PDFs, but it also incorporates the value of the “Search Results”. Now a user can find their industry guidance through the search features and also get information about their tier in context. Two of the core unmet needs found during the discovery process. 
 
 ![MVP](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/mvp.jpg)
 
@@ -310,12 +310,12 @@ The lead designer prototyped the Industry guidance and blueprint merge MVP which
 ### Reflections
 
 What went well:
-- With the merge of the industry guidance and the blueprint we are improving the publication flow which helps the stakeholders with their day to day work.
-- We have a created a more collaborative workflow with stakeholders than we had previously have.
+- With the merge of the industry guidance and the blueprint page we are improving the publication flow which helps the stakeholders with their day to day work.
+- We have a created a more collaborative workflow with stakeholders than we have previously had.
 
 
 Challenges:
-- We know that only 14% of visitors open the PDF. We also know that some of the reasons has to do with discoverability issues. Eventhough we are redesigning the page to make the guidance and checklist PDFs presented in context for the relevant industry without requiring a separate effort to find, we are assuming a big risk since data is showing low open rate.
+- We know that only 14% of visitors open the PDF. We also know that some of the reasons have to do with discoverability issues. Eventhough we are redesigning the page to make the guidance and checklist PDFs presented in context for the relevant industry without requiring a separate effort to find, we are taking a big risk that can lead to a lower user satisfaction since data is showing low open rate for PDFs.
 
 
 ---
