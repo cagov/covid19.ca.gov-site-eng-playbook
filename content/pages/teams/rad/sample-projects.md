@@ -61,13 +61,13 @@ Overall, the project took a total of one and a half months.
 
 
 ### Research goals
-- Test if the redesign is aligned with the websites core values 
-- Test the user experience of our visitors when performing key tasks
-- Test the look and feel of the new homepage
+- Test if the redesign is aligned with the websites core values. 
+- Test the user experience of our visitors when performing key tasks.
+- Test the look and feel of the new homepage.
 
 ### Objectives:
-- Identify difficulties and roadblocks participants experience when using the new homepage
-- Understand what participants are thinking and feeling as they execute tasks / prompts
+- Identify difficulties and roadblocks participants experience when using the new homepage.
+- Understand what participants are thinking and feeling as they execute tasks / prompts.
 
 ### Research methodology:
 For this project, we decided to perform **10 usability testing sessions**. 
@@ -75,11 +75,11 @@ For this project, we decided to perform **10 usability testing sessions**.
 ### Recruitment criteria:
 
 **Criteria:**
-- Income: range betwen less than 40,000 to mre than 100,000
-- Device: 5 on mobile devices and 5 on desktop
-- Age: across ages
-- Geography: California only
-- Language: English
+- Income: range betwen less than 40,000 to more than 100,000.
+- Device: 5 users on mobile devices and 5 on desktop.
+- Age: across ages.
+- Geography: California only but diverse set of counties.
+- Language: English.
 
 We used the following **tool for recruitment**:
 
@@ -100,7 +100,7 @@ You have been taken to a new page about COVID-19. Please give honest feedback ab
 
 ### Analysis and synthesis 
 
-I syntehsize each usability testing session after reviewing the videos. I took notes directly into a google document and then coded the data with key tasks into a spreadsheet. I also used this opportunity to highlight relevant quotes. 
+We syntehsized each usability testing session after reviewing the videos. We took notes directly into a google document and then coded the data with  tasks completion scrores into a spreadsheet. We also used this opportunity to highlight relevant quotes. 
 
 ![Homepage](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/coding.jpg)
 
@@ -125,7 +125,7 @@ I syntehsize each usability testing session after reviewing the videos. I took n
 
 ### Impact
 
-This research helped the agency understand how users experience the page. The findings and insights were used in the prioritization process and were taken into consideration when finalizing the design.
+This research helped the agency, that was hired to design the new page, understand how users experience the page. The findings and insights were used in the prioritization process and were taken into consideration when finalizing the design and reorganizing the content. 
 
 |   Sections 	| UX 	| Usability 	|
 |-	|-	|-	|
@@ -146,12 +146,11 @@ This research helped the agency understand how users experience the page. The fi
 ### Reflections
 
 What went well:
-1.  The agency used the research to make improvements.
+1.  The agency used the research to make improvements to the final vresion based on user feedback.
 3.  Usability testing became the norm when launching new pages.
 
 Challenges:
-1. The research team was approached quite late in the process when the design was almost done. An early prototype would have given us more time to test with a diverse set of users. 
-
+1. The research team was approached quite late in the process when the design was almost finalized. An early prototype would have given us more time to test with a diverse set of users and provide more insightful feedback early on. 
 
 ---
 
