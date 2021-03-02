@@ -350,7 +350,7 @@ Overall, the project took a total of 5 weeks.
 - Evaluate the understanding of the new framework
 - Assess the user experience of the page 
 
-### Objectives:
+### Blueprint Objectives:
 
 - Identify difficulties and roadblocks participants experience when using the Blueprint page.
 - Understand what participants are thinking and feeling as they execute tasks / prompts.
@@ -361,7 +361,7 @@ Overall, the project took a total of 5 weeks.
 ### Blueprint Research methodology:
 - We performed 10 usability testing sessions with members of the public and business owners to uncover problems and points of confusion when reviewing the Blueprint page and assess the understanding of the new framework
 
-### Blueprint Recruitment and criteria:
+### Blueprint Recruitment criteria:
 Some of our recruitment criteria were:
 
 - 5 members of the public
