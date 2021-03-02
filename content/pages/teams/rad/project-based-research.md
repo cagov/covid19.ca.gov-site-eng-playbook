@@ -21,15 +21,6 @@ These are the roles/skills we have used when implementing each of the tools ment
 ![Rubric](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/rubric-project-base.jpg)
 
 
-| Skills: 	| Role 	|
-|-	|-	|
-| Copy editing  	| Content designer 	|
-| Auditing 	| Designer 	|
-| Prototyping 	| Designer 	|
-| Analyzing analytics 	| Analyst 	|
-| Survey functionality 	| Engineer 	|
-| Research 	| Researcher 	|
-
 ----
 
 ## 📱 Call Center
