@@ -165,7 +165,7 @@ Index:
 6. [Recruitment criteria and process](#industry-guidance-recruitment-criteria)
 7. [Outputs and deliverables](#industry-guidance-outputs-and-deliverables)
 8. [Impact](#industry-guidance-impact)
-9. [Links to other documents](#industry-guidance-links-to-other-documents)
+9. [Links to documents](#industry-guidance-links-to-documents)
 10. [Reflections](#industry-guidance-reflections)
  
 
