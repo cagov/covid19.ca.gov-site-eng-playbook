@@ -163,12 +163,10 @@ Index:
 4. [Research objectives](#industry-guidance-objectives)
 5. [Research methodology](#industry-guidance-research-methodology)
 6. [Recruitment criteria and process](#industry-guidance-recruitment-criteria)
-7. [Activities](#industry-guidance-usability-script)
-8. [Analysis and synthesis process](#industry-guidance-analysis-and-synthesis)
-9. [Outputs/deliverables](#industry-guidance-outputs-and-deliverables)
-10. [Impact](#industry-guidance-impact)
-11. [Links to other documents](#industry-guidance-links-to-other-documents)
-12. [Reflections](#industry-guidance-reflections)
+7. [Outputs and deliverables](#industry-guidance-outputs-and-deliverables)
+8. [Impact](#industry-guidance-impact)
+9. [Links to other documents](#industry-guidance-links-to-other-documents)
+10. [Reflections](#industry-guidance-reflections)
  
 
 ### Industry Guidance Context
