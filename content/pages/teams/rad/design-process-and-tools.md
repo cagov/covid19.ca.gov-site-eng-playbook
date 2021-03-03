@@ -24,16 +24,16 @@ Often, design will respond to a challenge faced by by the conten or engineering 
 ### 2. Prototype approaches
 Based on research data and product requirements, design will explore a range of solutions and prototype them with Figma. This is often done in collaboration with the broader team. Miro is used to facilitate group ideation for larger projects. Slack and Jira can be used to share ideas for smaller projects.
 
-Engineering resources are often a bottleneck: find low-lift solutions whenever possible, and when designing new UI components, priortize things that can be used throughout the website.
+Engineering resources are often a bottleneck: find low-lift solutions whenever possible. When designing new UI components, priortize things that can be used throughout the website (i.e. avoid one-off solutions).
 
 ### 3. Collect feedback and iterate
-Depending on the project, the prototype may be used by the Research Team to collect feedback from users. In other projects, prototypes are only shared internally.
+Depending on the project, the prototype may be used by the [Research Team](https://teamdocs.covid19.ca.gov/teams/rad/research.html) to collect feedback from users. In other projects, prototypes are only shared internally.
 
 ### 4. Document and handoff
-Design often takes responsibility for putting designs and requirements into Jira to ensure the engineering knows what to build.
+Design often takes responsibility for putting designs and requirements into Jira to ensure the engineering understands what to build. We ensure that requirements are in scope by collaborating with Engineering.
 
 ### 5. QA
-Throughout the development and launch of a product, it is Design's responsibility to help do QA and support engineering with any additional documentation or revisions that may be required.
+Throughout the development and launch of a product, it is Design's responsibility to help do QA and support engineering with any additional documentation or revisions that may be required. During QA, we are putting bugs and design improvements into Jira.
 
 ## Tools
 
