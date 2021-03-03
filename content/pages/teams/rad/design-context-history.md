@@ -13,15 +13,15 @@ eleventyNavigation:
 
 ### V1
 
-![v1](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/covid19.ca.gov%01.png)
+![v1](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/website-design-01.png)
 
 ### V2
 
-![v2](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/covid19.ca.gov%02.png)
+![v2](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/website-design-02.png)
 
 ### V3
 
-![v2](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/covid19.ca.gov%03.png)
+![v2](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/website-design-03.png)
 
 
 
