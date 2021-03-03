@@ -20,7 +20,7 @@ This section will introduce 4 different projects with a step-by-step understandi
 
 
 ---
-🏠  ## Homepage Redesign
+ ## Homepage Redesign 🏠 
 
 Index:
 1. [Context](#context)
