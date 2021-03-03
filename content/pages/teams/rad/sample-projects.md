@@ -20,7 +20,7 @@ This section will introduce 4 different projects with a step-by-step understandi
 
 
 ---
-## Homepage Redesign
+## 🏠 Homepage Redesign
 
 Index:
 1. [Context](#context)
@@ -154,7 +154,7 @@ Challenges:
 
 ---
 
-## Industry Guidance Redesign
+## 🏭 Industry Guidance Redesign
 
 Index:
 1. [Context](#industry-guidance-context)
@@ -316,7 +316,7 @@ Challenges:
 
 ---
 
-## Blueprint for a safer economy page
+## 🗂️ Blueprint for a safer economy page
 
 Index:
 1. [Context](#blueprint-context)
@@ -421,7 +421,7 @@ This research informed the team about the visitors' points of confusion around t
 
 ---
 
-## Health Equity page
+## 👨🏾‍🌾 Health Equity page
 
 Index:
 1. [Context](#health-equity-context)
