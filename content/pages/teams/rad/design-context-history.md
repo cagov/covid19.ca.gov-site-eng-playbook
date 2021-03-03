@@ -5,7 +5,7 @@ permalink: /teams/rad/design-context-history.html
 eleventyNavigation:
   key: Context and History
   parent: Design
-  order: 481
+  order: 479
 ---
 Since launching [covid19.ca.gov](https://covid19.ca.gov/), the website has gone through 3 main design revisions.
 
