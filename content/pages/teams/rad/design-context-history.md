@@ -1,3 +1,27 @@
+---
+title: Context and History
+date: Last Modified 
+permalink: /teams/rad/design-context-history.html
+eleventyNavigation:
+  key: Context and History
+  parent: Design
+  order: 481
+---
+## Context
+
+## History
+
+### V1
+
+![v1](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/covid19.ca.gov 01.png)
+
+### V2
+
+![v2](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/covid19.ca.gov 02.png)
+
+### V3
+
+![v2](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/covid19.ca.gov 03.png)
 
 
-![Rubric](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/rubric-project-base.jpg)
+
