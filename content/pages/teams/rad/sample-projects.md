@@ -195,11 +195,11 @@ Overall, the project took a total of 10 weeks.
 ### Industry Guidance Research methodology:
 For this project, we decided on three different methods to fit the timeline and the research goals:
 
-1.  **Intercept visitors** as they navigate the Industry guidance page to understand who they were and what they were trying to accomplish. 
-- Intercept 70 people visiting the industry guidance page and follow up with 20 phone interviews
-3.  **Interview key stakeholders** such as GoBiz (California Governor's Office of Business and Economic Development) and business representatives to understand about their jobs and how do they use the page to serve their customers
-4.  **Perform usability testing sessions** to evaluate our existing page in terms of usability and UX focusing on relevance, hierarchy and accessibility.
-- Usability testing sessions with 5 business owners in California
+1.  **Intercept visitors** as they navigate the industry guidance page to understand who they were and what they were trying to accomplish. 
+- Intercept 70 people visiting the industry guidance page and follow up with 20 phone interviews.
+3.  **Interview key stakeholders** such as GoBiz (California Governor's Office of Business and Economic Development) and business representatives to understand about their jobs and how do they use the page to serve their customers.
+4.  **Perform usability testing sessions** to evaluate our existing page in terms of usability and ux focusing on relevance, hierarchy and accessibility.
+- Usability testing sessions with 5 business owners in California.
 
 
 Intercept           |  Interviews            |  Usability testing
@@ -210,35 +210,34 @@ Intercept           |  Interviews            |  Usability testing
 ### Industry Guidance Recruitment criteria 
 Some of our recruitment criteria were:
 
-- A diverse set of visitors: business owners, goverement employees, members of the public, business associations
-- Business owners from a diverse set of industries and diverse buisness size
-- Users with a different frequency of visits
-- Live in CA
+- A diverse set of visitors: business owners, goverment employees, members of the public, business associations.
+- Business owners from a diverse set of industries and diverse buisness size.
+- Users with a different frequency of visits.
+- Live amd work in California.
 
 
-### Industry Guidance Outputs and deliverables
+### Industry Guidance outputs and deliverables
 
 - We put together a report with a summary of the key takeaways and pain points. We also included videos and links to more information. 
-- We segmented the visitors in three groups and delivered detailed information for each segment. As a team we had many assumptions about who was using our page and why. These groups enabled the team to anchor decision-making, and what should be prioritized next.
+- We segmented the visitors in three groups and delivered detailed information for each segment. These groups enabled the team to define what to prioritize next.
 
 Business owners           |  Government officials          |  Members of the public         |    
 :-------------------------:|:-------------------------: |:-------------------------:
 ![Business owmers](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/business.jpg)  |  ![Government officials](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/government.jpg) | ![Public](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/public.jpg)
 
-Our core visitor is the **county and city official** because they: 
+Our core visitor is the **county and city official** because: 
 
-- Visit industry page multiple times a week
-- Refer others to the state website
-- Use page in detail
-- Content is key to the execution of their job
-- Information and content is copied and cascaded to county websites
+- they visit industry page multiple times a week.
+- they refer others to the state website.
+- they use the page in detail.
+- content is key to the execution of their job.
+- information and content is copied and cascaded to county websites.
 
 Our secondary audience is the **business owner**. They:
 
-- Visit industry page when moving to new tier or after the governor's briefing
-- Not fully motivated to open the PDF
-- Get most of the information from the accordions
-- Get advice from county officials and business alliances on specifics when definitions such as ”with modifications” are unclear or state and county roles are conflicting.
+- visit industry page when moving to new tier or after the governor's briefing.
+- get most of the information from the accordions.
+- get advice from county officials and business alliances on specifics when definitions such as ”with modifications” are unclear or state and county roles are conflicting.
 
 ![Engagement](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/engagement.jpg)
 
@@ -247,7 +246,7 @@ Our secondary audience is the **business owner**. They:
 
 - This is a snapshot of the spreadsheet with key findings:
 
-| Section 	| Issue 	| Recommendations 	| User Segment 	|
+| Section 	| Findings 	| Recommendations 	| User Segment 	|
 |-	|-	|-	|-	|
 | Navigation (from Blueprint) 	| When visiting directly from the blueprint page, essential business can’t find any additional information and assume there are no restrictions. 	| Content: Consider adding essential business in the list of activities. 	| All of the users 	|
 |  	| In the Blueprint page, the link to the industry guidance gets lost in the results. 	| Design: Consider making the link more relevant. 	| All of the users 	|
@@ -258,7 +257,7 @@ Our secondary audience is the **business owner**. They:
 |  	| When coming from the homepage, the visitor has no information about tiers. Which tier are we now? 	| Design: Consider adding or replicating the what’s open search in the industry guidance for people coming directly or from homepage. 	| All of the users 	|
 
 
-- We also delivered a content gap analysis to discover “gaps” in the existing content:
+- We also delivered a content gap analysis to discover “gaps” in addressing visitors' needs with the existing content:
 
 | User segment 	| User need 	| Does content exist? 	| Can they find it and use it? 	|
 |-	|-	|-	|-	|
@@ -275,9 +274,9 @@ Our secondary audience is the **business owner**. They:
 
 ### Industry Guidance Impact
 
-- Post-launch feedback from users, user research, and analysis of data identified some gaps and opportunities in both the Industry Guidance page and how it intersects with the Blueprint Framework.
+- The post-launch feedback user research, and analysis of data identified some gaps and opportunities in both the industry guidance page and how it intersects with the blueprint Framework.
 
-- The core team decided that the best solution was an updated Blueprint design that incorporates Industry guidance in a unified context. This solution addresses most of existing problems, streamlines the experience, and makes Industry Guidance easier to update, maintain and track.
+- The team decided that the best solution was an updated blueprint page design that incorporates industry guidance in a unified context. This solution addresses most of existing problems, streamlines the experience, and makes industry guidance easier to update, maintain and track.
 
 
 | Prioritized Challenges 	| Solution 	| Success Metric 	|
@@ -291,7 +290,7 @@ Our secondary audience is the **business owner**. They:
 | Some users want to anticipate what the guidance will be if the tier changes. 	| The user can see the information for all tiers by leaving out the county information or by searching on a county that is in another tier. 	| Metric to benchmark and track to see if goal gets achieved? 	|
 | Users seeking industry guidance are not always aware that there may be related county guidance that goes beyond the state mandates. 	| The new design is more intentional about the language to make this clear, and offers links to relevant county websites. 	| Metric to benchmark and track to see if goal gets achieved? 	|
 
-The lead designer prototyped the proposed solution which still relies on communicating information through PDFs, but it also incorporates the value of the “Search Results”. Now a user can find their industry guidance through the search features and also get information about their tier in context. Two of the core unmet needs found during the discovery process. 
+The lead designer prototyped the proposed solution which still relies on communicating information through PDFs, but it also incorporates the value of the “Search Results”. Now a user can find their industry guidance through the search features and also get information about their tier in context. Two of the unmet needs uncovered during the resesarch process. 
 
 ![MVP](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/mvp.jpg)
 
@@ -307,11 +306,11 @@ The lead designer prototyped the proposed solution which still relies on communi
 
 What went well:
 - With the merge of the industry guidance and the blueprint page we are improving the publication flow which helps the stakeholders with their day to day work.
-- We have a created a more collaborative workflow with stakeholders than we have previously had.
+- We have a created a more collaborative workflow with stakeholders than what we had.
 
 
 Challenges:
-- We know that only 14% of visitors open the PDF. We also know that some of the reasons have to do with discoverability issues. Eventhough we are redesigning the page to make the guidance and checklist PDFs presented in context for the relevant industry without requiring a separate effort to find, we are taking a big risk that can lead to a lower user satisfaction since data is showing low open rate for PDFs.
+- We know that only 14% of visitors open the PDF but we are redesigning the page with PDFs as the core piece. We are redesigning the page to make the guidance and checklist PDFs presented in context for the relevant industry without requiring a separate effort to find but we are taking a big risk that can lead to a lower user satisfaction if we don't do a great job since data is showing low open rate for PDFs with current page.
 
 
 ---
@@ -346,7 +345,6 @@ Overall, the project took a total of 5 weeks.
 - Report: 1 week
 
 ### Blueprint Research goals: 
-
 - Evaluate the understanding of the new framework.
 - Assess the user experience of the page.
 
@@ -359,14 +357,13 @@ Overall, the project took a total of 5 weeks.
 - Align the new redesign and framework to people’s ability and understanding about what’s safe in their county.
 
 ### Blueprint Research methodology:
-- We performed 10 usability testing sessions with members of the public and business owners to uncover problems and points of confusion when reviewing the Blueprint page and assessing the understanding of the new framework.
+- We performed 10 usability testing sessions with members of the public and business owners to uncover problems and points of confusion when reviewing the blueprint page and assessing the understanding of the new framework.
 
 ### Blueprint Recruitment criteria:
 Some of our recruitment criteria were:
 
-- 5 members of the public.
-- Individuals with and without kids.
-- 5 business owners in different industries, business sizes, various income brackets and counties in California.
+- Members of the public with and without kids.
+- Business owners in different industries, business sizes, various income brackets and counties in California.
 - Age: 18-65+
 - Geography: California.
 - Language: English.
@@ -405,12 +402,12 @@ We syntehsized each usability testing session after reviewing the videos. We too
 |    Tiers 	| Labels are self-explanatory and meaningful. Widespread purple is not meaningful.<br>Case rate and positive rate are clear but some participants expect to see the real number for their counties.  	|  Easy to read and navigate. 	|   	|
 |   Map 	| Desirable and memorable. New information. Great piece to create awareness. 	| Non intuitive on mobile. (friction regarding searchability and clickability) 	|   	|
 
-To view full report  check  [PPT Report](https://docs.google.com/presentation/d/1ga2JmDpwBGK0bAGbDnub3g8VyAaph3ZjCScWVU6V2QA/edit)
+To view full report  check  [Report](https://docs.google.com/presentation/d/1ga2JmDpwBGK0bAGbDnub3g8VyAaph3ZjCScWVU6V2QA/edit)
 
 
 ### Blueprint Impact
 
-This research informed the team about the visitors' points of confusion around the framework and issues around the usability of the page. We proposed changes in the content hierarchy that were taken into consideration and implemented in newwer iterations of the page.
+This research informed the team about the visitors' points of confusion around the framework and issues around the usability of the page. We proposed changes in the content hierarchy that were taken into consideration and implemented in newer iterations of the page.
 
 
 ### Blueprint Links to documents
@@ -519,19 +516,18 @@ Ethnio intercept questions:
 - Another community
 
 ### Health Equity Analysis and synthesis
-We reviewed the data from the intercepts and the usability testing sessions and we created a word document and presentation with the findings from both methods. We also created a spreadsheet with findings, hyphotesis and recommendations. 
+We reviewed the data from the intercepts and the usability testing sessions and created a word document and presentation with the findings from both methods. We also created a spreadsheet with findings, hyphotesis and recommendations. 
 
 ![Equity](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/equity.jpg)
-
-### Health Equity Next steps
 
 - We have identified two segments of users with different prior knowledge, abilities and overall expectations.
 
 1. For the people who are familiar with the topic, this page is a great attempt but it falls short. This group is looking for more data that they could use to perform their own analysis.   
-2. For people who are not very familiar with the issue, this page is quite sophisticated and it’s almost too advanced. The first two sections seem enough for a first attempt to learn about the issue and a great introduction to inequalities around race and ethnicity. This group is looking for more educational resources and a more of a guided experience. 
+2. For people who are not very familiar with the issue, this page is quite sophisticated and it’s almost too advanced. The first two sections seem enough for a first attempt to learn about the issue and a great introduction to inequalities around race and ethnicity. This group is looking for more educational resources and a guided experience. 
 
 ![Equity](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/segments.jpg)
 
+### Health Equity Next steps
 
 There are two possible approaches to our segmented audience:
 
@@ -539,7 +535,7 @@ There are two possible approaches to our segmented audience:
 2. Design for one specific audience by delivering information intentionally to satisfy those specific needs. 
 
 - For our next steps, we recommend that we decide if we strive to make information understandable for all audiences and, evaluate **understandability** for each audience and iterate until it reaches an acceptable level of understanding. 
-- In the short term, we can make raw data accessible to people who are interested in using it for their own research. This will not only empower these users but also strenghthen our approach towards more transdparency in government.
+- In the short term, we can make raw data accessible to people who are interested in using it for their own research. This will not only empower these users but also strenghthen our approach towards transparency in government.
 
 ## Health Equity Links to documents
 
