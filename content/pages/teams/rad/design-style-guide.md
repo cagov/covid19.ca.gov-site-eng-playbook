@@ -11,7 +11,7 @@ eleventyNavigation:
 
 Our design principles help teams and stakeholders to align on design vision and decision-making. They give us a shared understanding to help us prioritize our next steps.
 
-The principles that we use for covid19.ca.gov are the same as Alpha which leverage the proven work and best practices of teams like 18F and the UK Government Digital Services. 
+The principles that we use for [covid19.ca.gov](http://covid19.ca.gov) are the same as Alpha which leverage the proven work and best practices of teams like [18F](https://methods.18f.gov/decide/design-principles/) and the [UK Government Digital Services](https://www.gov.uk/guidance/government-design-principles). 
 
 ### The Alpha.CA.gov design principles include:
 * Start with user needs
@@ -27,11 +27,6 @@ The principles that we use for covid19.ca.gov are the same as Alpha which levera
 * Prioritize security, respect privacy (Something new we added to the list. A recognition of how incredibly important both security and privacy are.)
 * Optimize performance (Another new one. Slow load times cost people money. That’s an accessibility and equity issue.)
 * These principles will inform our product design. And we’ll continue to iterate and refine them as we learn by doing.
-
-### Resources
-[GOV.UK Government Design Principles](https://www.gov.uk/guidance/government-design-principles)
-
-[18F Design Principles](https://methods.18f.gov/decide/design-principles/)
 
 ## Style Guide
 
