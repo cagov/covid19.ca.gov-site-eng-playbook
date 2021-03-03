@@ -26,6 +26,8 @@ Based on research data and product requirements, design will explore a range of 
 
 Engineering resources are often a bottleneck: find low-lift solutions whenever possible. When designing new UI components, priortize things that can be used throughout the website (i.e. avoid one-off solutions).
 
+Please see the [Getting Started](https://www.figma.com/file/LrzsOu8U5KcMAjJTQ1O3BG/covid19.ca.gov-screens?node-id=5967%3A0) page in Figma for documentation on how Figma files are organized.
+
 ### 3. Collect feedback and iterate
 Depending on the project, the prototype may be used by the [Research Team](https://teamdocs.covid19.ca.gov/teams/rad/research.html) to collect feedback from users. In other projects, prototypes are only shared internally.
 
@@ -38,7 +40,7 @@ Throughout the development and launch of a product, it is Design's responsibilit
 ## Tools
 
 ### Figma
-Figma is our design tool of choice. We use it to explore ideas, share approaches, collaborate, and manage assets. 
+Figma is our design tool of choice. We use it to explore ideas, share approaches, collaborate, and manage assets. Please see the [Getting Started](https://www.figma.com/file/LrzsOu8U5KcMAjJTQ1O3BG/covid19.ca.gov-screens?node-id=5967%3A0) page in Figma for documentation on how Figma files are organized.
 
 ### Miro
 We us Miro for collaborative whiteboarding sessions. As a design tool, it is used to facilitate workshops with other team members.
