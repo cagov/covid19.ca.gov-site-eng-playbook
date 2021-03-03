@@ -40,10 +40,17 @@ Throughout the development and launch of a product, it is Design's responsibilit
 ## Tools
 
 ### Figma
-Figma is our design tool of choice. We use it to explore ideas, share approaches, collaborate, and manage assets. Please see the [Getting Started](https://www.figma.com/file/LrzsOu8U5KcMAjJTQ1O3BG/covid19.ca.gov-screens?node-id=5967%3A0) page in Figma for documentation on how Figma files are organized.
+Figma is our design tool of choice. We use it to explore ideas, share approaches, collaborate, and manage assets. 
+
+Our content designers, engineers and product managers all have access to Figma and often leave comments directly in the applicaiton. In some cases, content designers will update text directly in Figma. Engineers can export assets and styles from Figma.
+
+Please see the [Getting Started](https://www.figma.com/file/LrzsOu8U5KcMAjJTQ1O3BG/covid19.ca.gov-screens?node-id=5967%3A0) page in Figma for documentation on how Figma files are organized.
 
 ### Miro
 We us Miro for collaborative whiteboarding sessions. As a design tool, it is used to facilitate workshops with other team members.
 
 ### Jira
 We use Jira to track progress of all tasks. For design, Jira is a way to share designs for feedback, track progress, and perform QA as the project moves into development. 
+
+#### Google Docs
+In some cases, content designers will update text directly in Figma. In other cases, they work in Google Docs. In the latter case, Design will need to reference Google Docs to ensure that content in the Figma prototypes are up to date. Depending on the project, it may be OK to use placeholder content in the designs in Figma.
