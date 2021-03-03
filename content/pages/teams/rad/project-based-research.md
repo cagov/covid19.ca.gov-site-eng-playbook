@@ -28,6 +28,7 @@ We reccomend a collaborative approach across different skill sets to successfull
 ## 📱 Call Center
 - The **call center** is being used as a **source for recruitment** to reach out to **harder to reach** previously identified groups such as Spanish speaking population who represent a higher % of the total population in California and have been highly impacted by covid-19. 
 - We use the referrals from the call center to perform **interviews**. 
+- Projects where we have used the call center: learning about vaccines from spanish speaking callers.
 - These are the steps to use the call center as a source for recruitment: 
 
 | **Steps** 	| **Process** 	| **Tools** 	| **Improvements** 	| **Roles and team at covid19** 	|
@@ -49,6 +50,7 @@ We reccomend a collaborative approach across different skill sets to successfull
 - We use **ethnio intercepts** to **gather feedback from existing visitors we are unable to reach out with other tools**. Circumstances and context matter in user research, and someone who’s using the website in **real time, for real purposes**, is going to behave differently than someone who’s just being told to accomplish some task via other platforms. We also use ethnio intercepts as a **source for recruitment** 
 - We use ethnio to **uncover visitor's context of use and motivations when using the site**. We use this information to better address those contexts and **perform interviews** to dig deeper into those motivations. 
 - **Link**: [ethnio](https://ethn.io)
+- Projects where we have used ethnio intercepts: vaccines page (english and spanish), health equity page, industry guidance page and help for seniors.
 - These are the steps to use ethnio as a source for recruitment and data gathering tool: 
 
 
@@ -74,6 +76,7 @@ We reccomend a collaborative approach across different skill sets to successfull
 - We perform **usability testing sessions** with specific audiences to **test the performance of newly launched pages or prototypes**. We use the sessions to evaluate the user experience and uncover usability issues for the specific pages. 
 - We use usertesting.com to observe people as they interact with the page and perform a specific task.
 - **Link**: [usertesting.com](https://www.usertesting.com/)
+- Projects where we have used user testing: homepage redesign, industry guidance page and blueprint page.
 - These are the steps to use User Testing as a tool to perform usability testing sessions.
 
 | Steps 	| Process 	| Tools 	| Improvements 	|
