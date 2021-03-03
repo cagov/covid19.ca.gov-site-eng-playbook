@@ -125,7 +125,7 @@ We syntehsized each usability testing session after reviewing the videos. We too
 
 ### Impact
 
-This research helped the agency, that was hired to design the new page, understand how users experience the page. The findings and insights were used in the prioritization process and were taken into consideration when finalizing the design and reorganizing the content. 
+This research helped the agency, that was hired to design the new page, understand how users experience the page. The findings and insights were used in the prioritization process and were taken into consideration when finalizing the design and reorganizing the content hierarchy. 
 
 |   Sections 	| UX 	| Usability 	|
 |-	|-	|-	|
