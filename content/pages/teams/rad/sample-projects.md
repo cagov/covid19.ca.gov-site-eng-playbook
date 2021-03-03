@@ -26,7 +26,7 @@ Index:
 1. [Context](#context)
 2. [Timeline](#timeline)
 3. [Research goals](#research-goals)
-4. [Research objectives](#objectives)
+4. [Research objectives](#research-objectives)
 5. [Research methodology](#research-methodology)
 6. [Recruitment criteria and process](#recruitment-criteria)
 7. [Usability script](#usability-script)
@@ -65,7 +65,7 @@ Overall, the project took a total of one and a half months.
 - Test the user experience of our visitors when performing key tasks.
 - Test the look and feel of the new homepage.
 
-### Objectives:
+### Research Objectives:
 - Identify difficulties and roadblocks participants experience when using the new homepage.
 - Understand what participants are thinking and feeling as they execute tasks / prompts.
 
@@ -100,7 +100,7 @@ You have been taken to a new page about COVID-19. Please give honest feedback ab
 
 ### Analysis and synthesis 
 
-We syntehsized each usability testing session after reviewing the videos. We took notes directly into a google document and then coded the data with  tasks completion scrores into a spreadsheet. We also used this opportunity to highlight relevant quotes. 
+We syntehsized each usability testing session after reviewing the videos. We took notes directly into a google document and then coded the data with  tasks completion scores into a spreadsheet. We also used this opportunity to highlight relevant quotes. 
 
 ![Homepage](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/coding.jpg)
 
@@ -121,7 +121,7 @@ We syntehsized each usability testing session after reviewing the videos. We too
 |  	| Confusion around number of tests: unique or total P1-Clara, [P1] 	| Consider adding a clarification 	|  	|
 |  	| Cases and deaths are perceived as useless for business owners because they are not directly correlated to a business type/industry [Don't do] 	| Consider breaking cases by industry 	|  	|
 |  	| People clicking the County map in Dashboard are redirected to status but are looking for a map. [P1] [P1] [P1--already have a ticket] 	| Make this link go directly to the map on the Blueprint page by A) an anchor link or B) moving the map to the top of the Blueprint page.<br>Alternatively, since the map is now on the State Dashboard, we could have a single link called "view all state and county data" 	|  	|
-|  	| Tests are perceived as a metric that could be useful for business owners by increasing their confidence in reopening P2 [Don't do] 	| Consider providing information regarding test numbers per county 	|  	|
+|  	| Tests are perceived as a metric that could be useful for business owners by increasing their confidence in reopening P2 [Don't do] 	| Consider providing information regarding test numbers per county. 	|  	|
 
 ### Impact
 
@@ -146,7 +146,7 @@ This research helped the agency, that was hired to design the new page, understa
 ### Reflections
 
 What went well:
-1.  The agency used the research to make improvements to the final vresion based on user feedback.
+1.  The agency used the research to make improvements to the final version based on user feedback.
 3.  Usability testing became the norm when launching new pages.
 
 Challenges:
