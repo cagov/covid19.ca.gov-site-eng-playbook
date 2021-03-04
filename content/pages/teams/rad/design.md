@@ -11,9 +11,9 @@ eleventyNavigation:
 
 ## Overview
 
-Design on covid19.ca.gov collaborates with research, content, product and engigneering teams to visualize and prototype website updates.
+Design on covid19.ca.gov collaborates with [Research](https://teamdocs.covid19.ca.gov/teams/rad/research.html), [Content](https://teamdocs.covid19.ca.gov/teams/content/), [Product](https://teamdocs.covid19.ca.gov/teams/product/) and [Engigneering](https://teamdocs.covid19.ca.gov/teams/engineering/) teams to visualize and prototype website updates.
 
-The design team has the following skills:
+The design team offers the following competencies:
 - User Experience Strategy: ability to translate research insights and business requirements into accessible and user-friendly online experiences.
 - User Interface Design: ability to design and prototype high-fidelity mockups for desktop and mobile websites and maintain a library of UI patterns.
 - Brand and Visual Design: ability to design and apply a consistent look and feel across channels and platforms.
@@ -41,7 +41,8 @@ Design collaborates with the Product Team by contributing to product decisions o
 
 ## What's in this guide
 
-1. Instructions on how to use the [style guide](https://teamdocs.covid19.ca.gov/teams/rad/design-style-guide.html)
-2. Overview of [process and tools](https://teamdocs.covid19.ca.gov/teams/rad/design-process-and-tools.html)
+1. [Context](https://teamdocs.covid19.ca.gov/teams/rad/design-context-history.html) about the evolution of the design of [covid19.ca.gov](https://covid19.ca.gov)
+2. Instructions on how to use the [style guide](https://teamdocs.covid19.ca.gov/teams/rad/design-style-guide.html)
+3. Overview of [process and tools](https://teamdocs.covid19.ca.gov/teams/rad/design-process-and-tools.html)
 
 
