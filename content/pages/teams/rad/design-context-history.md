@@ -12,17 +12,22 @@ Since launching [covid19.ca.gov](https://covid19.ca.gov/), the website has gone 
 ## V1
 In March 2020, at the time of the first Stay Home Order, covid19.ca.gov was launched. The design was largely based on the design of [alpha.ca.gov](https://www.alpha.ca.gov/).
 
-![v1](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/website-design-01.png)
+![Screeshot of V1 homepage](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/website-design-01.png)
 
 ## V2
 The first major revision was launched on INSERT DATE based on user feedback.
 
-![v2](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/website-design-02.png)
+![Screeshot of V2 homepage](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/website-design-02.png)
 
 ## V3
-The current design was launched in Septemeber 2020. The look and feel of this design was created by a vendor to the Governor's Office. This revision was focused on giving a stronger voice to the website, richer media, and visual alignment with the California for All campaign.
+The second major revision was launched in Septemeber 2020. The look and feel of this design was created by a vendor to the Governor's Office. This revision was focused on giving a stronger voice to the website, richer media, and visual alignment with the California for All campaign.
 
-![v2](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/website-design-03.png)
+![Screeshot of V3 homepage](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/website-design-03.png)
 
+
+## Current
+The design has not undergone any major revisions since September 2020 but it has seen iterations to the homepage and the addition of many new pages and features. These includes more focus on the neeeds of businesses in California, new and improved data dashboards, more content and features to tell the story of equity and a myriad of updates related to California's vaccine rollout. See [Sample Projects](https://teamdocs.covid19.ca.gov/teams/rad/research-sample-projects.html) in the Research portion of this documentation to learn about what has driven many of these updates.
+
+![Screeshot of current homepage](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/website-design-04.png)
 
 
