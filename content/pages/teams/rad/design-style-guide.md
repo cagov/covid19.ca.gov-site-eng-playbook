@@ -34,7 +34,7 @@ The principles that we use for [covid19.ca.gov](http://covid19.ca.gov) are the s
 
 ### Responsive Design
 
-Approximately 60% of traffic to [covid19.ca.gov](http://covid19.ca.gov) was on mobile devices. All design decisions consider mobile and desktop platforms simultaneously and place a special empahsis on optimizing performance for low-end mobile devices. For example, we have worked hard to take data dashboards published on Tableau and redesign them for D3 to ensure they load faster on a wider range of devices.
+Approximately 60% of traffic to the English version of [covid19.ca.gov](http://covid19.ca.gov) and 90% of the Spanish version was on mobile devices. All design decisions consider mobile and desktop platforms simultaneously and place a special emphasis on optimizing performance for low-end mobile devices. For example, we have worked hard to take data dashboards published on Tableau and redesign them for D3 to ensure they load faster on a wider range of devices.
 
 As the design principle above states: Slow load times cost people money. That’s an accessibility and equity issue.
 
