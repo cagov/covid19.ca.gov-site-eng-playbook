@@ -34,7 +34,7 @@ The principles that we use for [covid19.ca.gov](http://covid19.ca.gov) are the s
 
 ### Responsive Design
 
-At the time of writing this documentation, ##% of traffic to [covid19.ca.gov](http://covid19.ca.gov) was on mobile devices. All design decisions consider mobile and desktop platforms simultaneously and place a special empahsis on optimizing performance for low-end mobile devices. For example, we have worked hard to take data dashboards published on Tableau and redesign them for D3 to ensure they load faster on a wider range of devices.
+Approximately 60% of traffic to [covid19.ca.gov](http://covid19.ca.gov) was on mobile devices. All design decisions consider mobile and desktop platforms simultaneously and place a special empahsis on optimizing performance for low-end mobile devices. For example, we have worked hard to take data dashboards published on Tableau and redesign them for D3 to ensure they load faster on a wider range of devices.
 
 As the design principle above states: Slow load times cost people money. That’s an accessibility and equity issue.
 
@@ -73,4 +73,8 @@ The state web template includes an [icon font](https://beta.template.webstandard
 
 ### Web Toolkit
 A toolkit website that contains communications materials as well as graphical banners and imagery is also available at [COVID19 Response Toolkit](https://toolkit.covid19.ca.gov/partners/).
+
+### UI Patterns and Components
+
+For a comprehensive list of re-usable design patterns, please visit the [Component and styles](https://teamdocs.covid19.ca.gov/components/) portion of this documenation.
  
