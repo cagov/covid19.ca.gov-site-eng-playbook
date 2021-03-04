@@ -28,6 +28,16 @@ The principles that we use for [covid19.ca.gov](http://covid19.ca.gov) are the s
 * Optimize performance (Another new one. Slow load times cost people money. That’s an accessibility and equity issue.)
 * These principles will inform our product design. And we’ll continue to iterate and refine them as we learn by doing.
 
+### Accessibile and Inclusive Design
+
+[covid19.ca.gov](http://covid19.ca.gov) aligns with Web Content Accessibility Guideline (WCAG) 2.1 Level AA Standards in addition to the requirements of Section 508 (29 U.S.C. 794d), which you can read more about at [https://webstandards.ca.gov/accessibility](https://webstandards.ca.gov/accessibility/). Needless to say, design plays a role in this through use of color contrast, layout and heirarchy, sizes of touch targets, data visualization, and more. We recommend [accessibility.digital.gov](https://accessibility.digital.gov/) as a resource to learn more about accessible and inclusive design.
+
+### Responsive Design
+
+At the time of writing this documentation, ##% of traffic to [covid19.ca.gov](http://covid19.ca.gov) was on mobile devices. All design decisions consider mobile and desktop platforms simultaneously and place a special empahsis on optimizing performance for low-end mobile devices. For example, we have worked hard to take data dashboards published on Tableau and redesign them for D3 to ensure they load faster on a wider range of devices.
+
+As the design principle above states: Slow load times cost people money. That’s an accessibility and equity issue.
+
 ## Style Guide
 
 The foundational layer of the design components are based on [Bootstrap v4](https://getbootstrap.com) as well as the latest version of the [CA state web template](https://beta.template.webstandards.ca.gov). While the design of covid19.ca.gov was initially modelled after the [Alpha website](https://www.alpha.ca.gov/), it has since taken on it's own unique look and feel.
