@@ -19,7 +19,7 @@ We use quantitative and qualitative techniques and tools to actively and systema
 
 ## When do we do research?
 In general the trigger for research starts with: 
-1. the **product manager** request to better understand the visitors for a specific page. 
+1. the **product manager** request to better understand the visitors for a specific page,  to inform feature updates, or product direction.
 2. the **internal team** desire to further explore needs uncovered by exisiting data collection sources such as surveys or google analytics.
 3. the request from an **external stakeholder** to further explore a topic or a group.
 
