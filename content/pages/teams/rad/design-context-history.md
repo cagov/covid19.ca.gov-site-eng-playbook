@@ -26,7 +26,7 @@ The second major revision was launched in Septemeber 2020. The look and feel of 
 
 
 ## Current
-The design has not undergone any major revisions since September 2020 but it has seen iterations to the homepage and the addition of many new pages and features. These includes more focus on the neeeds of businesses in California, new and improved data dashboards, more content and features to tell the story of equity and a myriad of updates related to California's vaccine rollout. See [Sample Projects](https://teamdocs.covid19.ca.gov/teams/rad/research-sample-projects.html) in the Research portion of this documentation to learn about what has driven many of these updates.
+The design has not undergone any major revisions since September 2020 but it has seen iterations to the homepage and the addition of many new pages and features. These include more focus on the neeeds of businesses in California, new and improved data dashboards, more content and features to tell the story of equity and a myriad of updates related to California's vaccine rollout. See [Sample Projects](https://teamdocs.covid19.ca.gov/teams/rad/research-sample-projects.html) in the Research portion of this documentation to learn about what has driven many of these updates.
 
 ![Screeshot of current homepage](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/website-design-04.png)
 
