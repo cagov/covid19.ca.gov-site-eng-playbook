@@ -18,9 +18,9 @@ Below are examples of code you can use in WordPress posts. HTML can be inserted 
 * Highlight box
 * Making a header larger while preserving hierarchy
 * Centering an image
-* Adding a caption to an image
+* Adding a caption to an image - COMING SOON
 * Aligning an image to the right or left of text
-* Adding a caption to an image aligned right or left
+* Adding a caption to an image aligned right or left - COMING SOON
 * Moving arrow button
 * Emphasized text
 * Titles in links
@@ -236,9 +236,11 @@ Use this code:
 
 ## Adding a caption to an image aligned right or left
 
-To have image with a wrapping caption to the left or right of the text, use a Custom HTML block with 2 columns such as col-md-8. Number 8 means that this column will occupy 8 out of 12 grid columns (or 2/3 of the page width). If the first column has a number 8 in it, that means that second column for the image needs to have a number 4, or col-md-4 (because 8 + 4 = 12). In the image columns right under the image, you can insert the paragraph text with class "caption".
+To have an image with a wrapping caption to the left or right of the text, use a Custom HTML block with 2 columns such as col-md-8. Number 8 means that this column will occupy 8 out of 12 grid columns (or 2/3 of the page width). If the first column has a number 8 in it, that means that second column for the image needs to have a number 4, or col-md-4 (because 8 + 4 = 12). In the image columns right under the image, you can insert the paragraph text with class "caption".
 
+```
 <p class="caption">Caption text</p>
+```
 
 So for this alignment:
 
