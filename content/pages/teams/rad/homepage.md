@@ -17,9 +17,9 @@ Index:
 6. [Recruitment criteria and process](#recruitment-criteria)
 7. [Usability script](#usability-script)
 8. [Analysis and synthesis process](#analysis-and-synthesis)
-9. [Outputs anddeliverables](#outputs-and-deliverables)
+9. [Outputs and deliverables](#outputs-and-deliverables)
 10. [Impact](#impact)
-11. [Links to other documents](#links-to-documents)
+11. [Links to documents](#links-to-documents)
 12. [Reflections](#reflections)
  
 
