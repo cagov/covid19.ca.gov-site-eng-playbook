@@ -8,7 +8,7 @@ eleventyNavigation:
   order: 215
 ---
 
-Below are examples of code you can use in WordPress posts. HTML can be inserted using a **Custom HTML** block. CSS classes can be added via a Block’s **Advanced** drop-down.
+Below are examples of code you can use in WordPress posts. HTML can be inserted using a **Custom HTML** block. CSS classes can be added via a Block’s **Advanced** drop-down when they apply to a whole block, or inserted into an HTML tag when they don't.
 
 * Hidden question & answer
 * Hidden keywords
@@ -22,6 +22,7 @@ Below are examples of code you can use in WordPress posts. HTML can be inserted 
 * Moving arrow button
 * Emphasized text
 * Titles in links
+* Image captions
 
 ## Hidden question & answer
 
@@ -267,3 +268,7 @@ To add a title, make a link like usual. When finished, view that section in _Cod
 ```
 <a href="https://covid19.ca.gov" title="[the text you’d like the screen reader to read instead of the hyperlink text on the screen]">[hyperlink text]</a>
 ```
+
+## Image captions
+
+(In development)
