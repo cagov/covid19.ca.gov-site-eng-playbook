@@ -19,7 +19,7 @@ Index:
 8. [Analysis and synthesis process](#analysis-and-synthesis)
 9. [Outputs anddeliverables](#outputs-and-deliverables)
 10. [Impact](#impact)
-11. [Links to other documents](#links-to-other-documents)
+11. [Links to other documents](#links-to-documents)
 12. [Reflections](#reflections)
  
 
@@ -122,7 +122,7 @@ This research helped the agency, that was hired to design the new page, understa
 | Latest news 	| Participants didn’t find this section relevant to their needs.  	|   	|
 
 
-### Links to other documents:
+### Links to documents:
 
 - [PRD](https://docs.google.com/document/u/1/d/1aMIttOJ8KniJTOxHQSdhaSK5tHs_uBEdoaVRTWjSnm0/edit#heading=h.i12kna90w10q)
 - [Research plan](https://docs.google.com/document/d/1oyUppAQuXydKguyZ1vVPs-x8qGEDmZZ1ZDiHsmQa7rU/edit) & [Participants](https://docs.google.com/spreadsheets/u/1/d/1aTPJtv0DMKAX3Xzlc301f-AxG0olmD23/edit#gid=374032152)
