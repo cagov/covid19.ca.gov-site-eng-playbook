@@ -18,11 +18,12 @@ Below are examples of code you can use in WordPress posts. HTML can be inserted 
 * Highlight box
 * Making a header larger while preserving hierarchy
 * Centering an image
+* Adding a caption to an image
 * Aligning an image to the right or left of text
+* Adding a caption to an image aligned right or left
 * Moving arrow button
 * Emphasized text
 * Titles in links
-* Image captions
 
 ## Hidden question & answer
 
@@ -181,6 +182,9 @@ WordPress offers a way to center an image, but it does not work. Instead, conver
 <img src="..." alt="...">
 </div>
 ```
+## Adding a caption to an image
+
+(In development.)
 
 ## Aligning an image to the right or left of text
 
@@ -230,6 +234,10 @@ Use this code:
   </di
 ```
 
+## Adding a caption to an image aligned right or left
+
+(In development.)
+
 ## Moving arrow button link
 
 This code makes a special navigation link that responds to hover-overs with motion and a color change. Use this only once per page.
@@ -268,7 +276,3 @@ To add a title, make a link like usual. When finished, view that section in _Cod
 ```
 <a href="https://covid19.ca.gov" title="[the text you’d like the screen reader to read instead of the hyperlink text on the screen]">[hyperlink text]</a>
 ```
-
-## Image captions
-
-(In development.)
