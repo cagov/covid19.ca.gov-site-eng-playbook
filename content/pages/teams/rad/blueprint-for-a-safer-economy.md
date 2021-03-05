@@ -22,11 +22,11 @@ Index:
 11. [Links to  documents](#links-to-documents)
  
 
-### Blueprint Context
+### Context
 On August 28th, 2020, the Governor’s office announced a new reopening framework for business sectors. This is a new state criteria for reopening businesses. More “prescriptive / dynamic criteria” based on local health officials and experience gained from the past months. 
 As part of the administration’s focus on the reopening, we designed a new page to communicate this new framework and want to test it with business owners and members of the public to evaluate people's understanding  of the framework and test the usability of the page to get the message out.  
 
-### Blueprint Timeline:
+### Timeline:
 Overall, the project took a total of 5 weeks.
 
 - Designing the research: 1 week
@@ -35,11 +35,11 @@ Overall, the project took a total of 5 weeks.
 - Analysis: 1 week
 - Report: 1 week
 
-### Blueprint Research goals: 
+### Research goals: 
 - Evaluate the understanding of the new framework.
 - Assess the user experience of the page.
 
-### Blueprint Objectives:
+### Objectives:
 
 - Identify difficulties and roadblocks participants experience when using the Blueprint page.
 - Understand what participants are thinking and feeling as they execute tasks / prompts.
@@ -47,10 +47,10 @@ Overall, the project took a total of 5 weeks.
 - Identify what new information needs to be provided.
 - Align the new redesign and framework to people’s ability and understanding about what’s safe in their county.
 
-### Blueprint Research methodology:
+### Research methodology:
 - We performed 10 usability testing sessions with members of the public and business owners to uncover problems and points of confusion when reviewing the blueprint page and assessing the understanding of the new framework.
 
-### Blueprint Recruitment criteria:
+### Recruitment criteria:
 Some of our recruitment criteria were:
 
 - Members of the public with and without kids.
@@ -63,7 +63,7 @@ Some of our recruitment criteria were:
 We used the following tools for recruitment:
 - Usertesting.com
 
-### Blueprint Usability script:
+### Usability script:
 
 1. Briefly share how COVID-19 has impacted you and your family.
 2. Have you heard about the new framework California is using to manage restrictions in counties? 
@@ -76,13 +76,13 @@ What do you want to know about your county? Now, scroll down to the map. Search 
 8. After reviewing this page, do you think it helps people know what’s safe, what’s not, and how this system works? 
 
 
-### Blueprint Analysis and synthesis:
+### Analysis and synthesis:
 We syntehsized each usability testing session after reviewing the videos. We took notes directly into a google document and then coded the data about tasks into a spreadsheet. We also used this opportunity to highlight relevant quotes. 
 
 ![Homepage](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/coding-blueprint.jpg)
 
 
-### Blueprint Outputs and deliverables
+### Outputs and deliverables
 - We put together a report. In this report, we summarized the key takeaways and pain points we were finding. In this report, we also included videos and links to more information.
 
 - This is a snapshot of some findings around usability and user experience:
@@ -96,12 +96,12 @@ We syntehsized each usability testing session after reviewing the videos. We too
 To view full report  check  [Report](https://docs.google.com/presentation/d/1ga2JmDpwBGK0bAGbDnub3g8VyAaph3ZjCScWVU6V2QA/edit)
 
 
-### Blueprint Impact
+### Impact
 
 This research informed the team about the visitors' points of confusion around the framework and issues around the usability of the page. We proposed changes in the content hierarchy that were taken into consideration and implemented in newer iterations of the page.
 
 
-### Blueprint Links to documents
+### Links to documents
 - [Research plan](https://docs.google.com/document/d/1oyUppAQuXydKguyZ1vVPs-x8qGEDmZZ1ZDiHsmQa7rU/edit) & [Participants](https://docs.google.com/spreadsheets/u/1/d/1aTPJtv0DMKAX3Xzlc301f-AxG0olmD23/edit#gid=374032152)
 - [PPT Report](https://docs.google.com/presentation/u/1/d/1ga2JmDpwBGK0bAGbDnub3g8VyAaph3ZjCScWVU6V2QA/edit?usp=drive_web&ouid=100185044499007273486) & [Document](https://docs.google.com/document/d/1v0toMUSnWl1Ongf4eLAPW3qBJMdgrbE2Ot0oZon6pgY/edit)
 - [Priorities fixes](https://docs.google.com/document/d/1v0toMUSnWl1Ongf4eLAPW3qBJMdgrbE2Ot0oZon6pgY/edit)
