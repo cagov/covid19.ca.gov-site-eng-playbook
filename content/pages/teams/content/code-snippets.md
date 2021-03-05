@@ -236,7 +236,15 @@ Use this code:
 
 ## Adding a caption to an image aligned right or left
 
-(In development.)
+For this alignment:
+
+![Right-aligned image with caption](https://cagov.github.io/covid19.ca.gov-site-eng-playbook//content/images/caption-aligned-right.png)
+
+Use this code:
+
+```
+
+```
 
 ## Moving arrow button link
 
