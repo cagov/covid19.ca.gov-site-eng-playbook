@@ -80,7 +80,7 @@ For this PDF link icon:
 The code is:
 
 ```
-<p>More details about receiving meals are available in the <a class="pdf" href="https://files.covid19.ca.gov/pdf/great-plates-delivered-participants-faqs.pdf%22 participant>FAQ</a>.</p>
+<p>More details about receiving meals are available in the <a class="pdf" href="https://files.covid19.ca.gov/pdf/great-plates-delivered-participants-faqs.pdf">participant FAQ</a>.</p>
 ```
 
 ## Highlight box
