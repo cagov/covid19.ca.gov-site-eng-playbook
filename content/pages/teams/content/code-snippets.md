@@ -163,7 +163,7 @@ When does an H3 look like an H2? When you use this code:
 
 ```
 <!-- wp:heading {"level":3,"className":"h2"} -->
-<h3 class="h2" >Regions</h3>
+<h3 class="h2">Regions</h3>
 <!-- /wp:heading -->
 ```
 
@@ -184,7 +184,7 @@ WordPress offers a way to center an image, but it does not work. Instead, conver
 ```
 ## Adding a caption to an image
 
-If you want to caption an image, use a Custom HTML block to insert the "caption" class after the code for that image. This will give your caption text the standard styling, which is small text, italicized, with left alignment. Even better, if caption style changes later, then by using this class you will get the new styling without having to make any changes.
+If you want to caption an image, use a Custom HTML block to insert a paragraph with the "caption" class after the code for that image. This will give your caption text the standard styling, which is small text, italicized, with left alignment. Even better, if caption style changes later, then by using this class you will get the new styling without having to make any changes.
 
 For this caption:
 
