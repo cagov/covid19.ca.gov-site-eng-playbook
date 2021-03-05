@@ -9,31 +9,31 @@ eleventyNavigation:
 ---
 
 Index:
-1. [Context](#health-equity-context)
-2. [Research goals](#health-equity-research-goals)
-3. [Research objectives](#health-equity-objectives)
-4. [Research questions](#health-equity-research-questions)
-5. [Research methodology](#health-equity-research-methodology)
-6. [Recruitment criteria and process](#health-equity-recruitment-criteria)
-7. [Sample questions](#health-equity-sample-questions)
-8. [Analysis and synthesis process](#health-equity-analysis-and-synthesis)
-9. [Next steps](#health-equity-next-steps)
-10. [Links to documents](#health-equity-links-to-documents)
+1. [Context](#context)
+2. [Research goals](#research-goals)
+3. [Research objectives](#objectives)
+4. [Research questions](#research-questions)
+5. [Research methodology](#research-methodology)
+6. [Recruitment criteria and process](#recruitment-criteria)
+7. [Sample questions](#sample-questions)
+8. [Analysis and synthesis process](#analysis-and-synthesis)
+9. [Next steps](#next-steps)
+10. [Links to documents](#links-to-documents)
 
-### Health Equity Context
+### Context
 The Equity page goal is to elevate the disparities in covid-19 so they can be focused on and addressed. This is part of a greater initiative to spur counties to demonstrate that they’re using their funding to support the communities most impacted.
 
-### Health Equity Research goals:
+### Research goals:
 We soft-launched the equity page to elevate these disparities. We wanted to take an opportunity to learn more about the visitors’ familiarity with the Health equity topic and assess their understanding of the data visualizations.
 
-### Health Equity Research objective:
+### Research objective:
 
 - Understand our visitors ability and familiarity with the topic. 
 - Assess the visitors' understanding of the data visualizations.
 - Assess the usability of the page.
 
 
-### Health Equity Research questions:
+### Research questions:
 - Who visits this page?
 - What do they expect to find on this page?
 - How do they navigate the page?
@@ -42,13 +42,13 @@ We soft-launched the equity page to elevate these disparities. We wanted to take
 - How do they understand and explain the content of the data visualizations?
 
 
-### Health Equity Research methodology
+### Research methodology
 For this project, we decided on two different methods:
 
 - Intercepted 87 visitors and learnt from their experience as they navigate the page.
 - Performed 5 usability testing sessions with people with diverse background and familiarity with the topic of health equity.
 
-### Health Equity Recruitment criteria
+### Recruitment criteria
 
 Some of our recruitment criteria were:
 
@@ -60,7 +60,7 @@ We used the following tools for recruitment:
 - Ethnio intercepts.
 - Friends & family for usability testing sessions.
 
-### Health Equity Sample questions
+### Sample questions
 
 Ethnio intercept questions:
 
@@ -103,7 +103,7 @@ Ethnio intercept questions:
 - Hispanic or Latino
 - Another community
 
-### Health Equity Analysis and synthesis
+### Analysis and synthesis
 We reviewed the data from the intercepts and the usability testing sessions and created a word document and presentation with the findings from both methods. We also created a spreadsheet with findings, hyphotesis and recommendations. 
 
 ![Equity](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/equity.jpg)
@@ -115,7 +115,7 @@ We reviewed the data from the intercepts and the usability testing sessions and 
 
 ![Equity](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/segments.jpg)
 
-### Health Equity Next steps
+### Next steps
 
 There are two possible approaches to our segmented audience:
 
@@ -125,7 +125,7 @@ There are two possible approaches to our segmented audience:
 - For our next steps, we recommend that we decide if we strive to make information understandable for all audiences and, evaluate **understandability** for each audience and iterate until it reaches an acceptable level of understanding. 
 - In the short term, we can make raw data accessible to people who are interested in using it for their own research. This will not only empower these users but also strenghthen our approach towards transparency in government.
 
-## Health Equity Links to documents
+## Links to documents
 
 - [PRD](https://docs.google.com/document/u/1/d/1pQNZNSv3xwg-ZRFhjs5b6jp_zBZxOgsl/edit?rtpof=true)
 - [Research plan](https://docs.google.com/document/d/15LMz-iFguhTd8ZEOtd-4rFDZRrXAqVU0A01nGmAxlN0/edit)
