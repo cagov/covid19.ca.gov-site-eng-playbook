@@ -1,5 +1,3 @@
-
-
 ---
 title: Health Equity Page
 date: Last Modified 
