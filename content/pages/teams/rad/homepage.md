@@ -5,7 +5,7 @@ permalink: /teams/rad/homepage.html
 eleventyNavigation:
   key: Homepage Redesign
   parent: Sample Projects
-  order: 440
+  order: 385
 ---
 
 Index:
