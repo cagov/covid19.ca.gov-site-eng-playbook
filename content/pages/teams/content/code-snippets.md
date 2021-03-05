@@ -67,7 +67,7 @@ For this external link icon:
 The code is:
 
 ```
-<p>After reading, you can request to <a href="https://state-of-california-agency.forms.fm/great-plates-delivered-food-provider-interest-form"volunteer> or provide meals<span class="ca-gov-icon-external-link link-icon" aria-hidden="true"></a>.</p>
+<p>After reading, you can request to <a class="external" href="https://state-of-california-agency.forms.fm/great-plates-delivered-food-provider-interest-form">volunteer or provide meals</a>.</p>
 ```
 ## PDF link icon
 
@@ -80,7 +80,7 @@ For this PDF link icon:
 The code is:
 
 ```
-<p>More details about receiving meals are available in the <a href="https://files.covid19.ca.gov/pdf/great-plates-delivered-participants-faqs.pdf%22 participant> FAQ<span class="pdf-link-icon no-underline-icon" aria-hidden="true">PDF</span></a> .</p>
+<p>More details about receiving meals are available in the <a class="pdf" href="https://files.covid19.ca.gov/pdf/great-plates-delivered-participants-faqs.pdf%22 participant>FAQ</a>.</p>
 ```
 
 ## Highlight box
