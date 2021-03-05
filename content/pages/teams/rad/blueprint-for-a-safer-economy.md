@@ -5,7 +5,7 @@ permalink: /teams/rad/blueprint.html
 eleventyNavigation:
   key: Blueprint
   parent: Sample Projects
-  order: 385
+  order: 375
 ---
 
 Index:
