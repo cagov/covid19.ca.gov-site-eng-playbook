@@ -17,7 +17,7 @@ Index:
 6. [Recruitment criteria and process](#recruitment-criteria)
 7. [Usability script](#usability-script)
 8. [Analysis and synthesis process](#analysis-and-synthesis)
-9. [Outputs/deliverables](#outputs-and-deliverables)
+9. [Outputs anddeliverables](#outputs-and-deliverables)
 10. [Impact](#impact)
 11. [Links to other documents](#links-to-other-documents)
 12. [Reflections](#reflections)
@@ -91,7 +91,7 @@ We syntehsized each usability testing session after reviewing the videos. We too
 ![Homepage](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/coding.jpg)
 
 
-### Output and deliverables:
+### Outputs and deliverables:
 
 - We put together a report. In this report, we summarized the key takeaways and pain points we were finding. In this report, we included videos and links to more information.
 
