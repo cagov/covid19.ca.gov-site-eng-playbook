@@ -9,7 +9,6 @@ eleventyNavigation:
   parent: Sample Projects
   order: 385
 ---
----
 
 Index:
 1. [Context](#health-equity-context)
