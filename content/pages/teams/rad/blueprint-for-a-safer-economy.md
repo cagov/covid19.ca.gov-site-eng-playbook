@@ -1,9 +1,9 @@
 ---
 title: Blueprint for a safer economy
 date: Last Modified 
-permalink: /teams/rad/blueprint.html
+permalink: /teams/rad/blueprint-safer.html
 eleventyNavigation:
-  key: Blueprint
+  key: Blueprint for a safer economy
   parent: Sample Projects
   order: 375
 ---
