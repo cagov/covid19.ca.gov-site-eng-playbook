@@ -1,9 +1,9 @@
 ---
-title: Homepage Redesign
+title: Industry Guidance page
 date: Last Modified 
-permalink: /teams/rad/homepage.html
+permalink: /teams/rad/industry-guidance.html
 eleventyNavigation:
-  key: Homepage Redesign
+  key: Industry Guidance
   parent: Sample Projects
   order: 375
 ---
