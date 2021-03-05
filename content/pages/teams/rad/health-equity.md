@@ -2,11 +2,11 @@
 ---
 title: Health Equity page
 date: Last Modified 
-permalink: /teams/rad/health-equity.html
+permalink: /teams/rad/health-equity-page.html
 eleventyNavigation:
   key: Health equity page
   parent: Sample Projects
-  order: 395
+  order: 385
 ---
 
 Index:
