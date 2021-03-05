@@ -184,7 +184,21 @@ WordPress offers a way to center an image, but it does not work. Instead, conver
 ```
 ## Adding a caption to an image
 
-(In development.)
+If you want to caption an image, use a Custom HTML block to insert the "caption" class after the code for that image. This will give your caption text the standard styling, which is small text, italicized, with left alignment. Even better, if caption style changes later, then by using this class you will get the new styling without having to make any changes.
+
+For this caption:
+
+![Default image with caption](https://cagov.github.io/covid19.ca.gov-site-eng-playbook//content/images/caption.png)
+
+The code is this:
+
+```
+<div>
+<img src="https://files.covid19.ca.gov/img/Women-getting-vaccinated.png" alt="Illustration of a women getting tape on vaccination site" style="width: 920px;">
+      
+<p class="caption">Every Californian 16 and up will have access to vaccines this spring</p>
+</div>
+```
 
 ## Aligning an image to the right or left of text
 
