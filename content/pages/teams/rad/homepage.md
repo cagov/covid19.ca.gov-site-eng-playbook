@@ -7,7 +7,6 @@ eleventyNavigation:
   parent: Sample Projects
   order: 440
 ---
- ## Homepage Redesign 
 
 Index:
 1. [Context](#context)
