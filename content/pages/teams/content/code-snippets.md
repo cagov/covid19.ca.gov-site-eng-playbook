@@ -271,4 +271,4 @@ To add a title, make a link like usual. When finished, view that section in _Cod
 
 ## Image captions
 
-(In development)
+(In development.)
