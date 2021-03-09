@@ -38,3 +38,7 @@ Variations included:
 
 * Smell of the day
 * Thought of the day
+
+## Unstructured check ins
+
+When things move fast, it's easy to feel like you're in a silo. To combat this, some teams have standing meetings for the sole purpose of checking in with everyone. This helps people feel less alone and provide a space to voice if they're feeling overwhelmed. This time can also be used for general discussion. If the team does not have much to talk about, it provides protected time in their schedules.
