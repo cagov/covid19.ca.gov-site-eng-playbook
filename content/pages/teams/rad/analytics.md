@@ -21,7 +21,7 @@ There are two analytics views we use for reporting.
 
 For historical reporting, we must combine data from both views. For the Alpha view, we start with the date range of 3/18/2020 and end on 3/24/2020. Then we combine that data with data from the covid19 view starting on 3/25/2020.
 
-## Data Studio
+### Data Studio
 
 There are three automated dashboards/reports:
 - [COVID-19 Website Daily Report](https://datastudio.google.com/reporting/0a380d5d-2087-4c68-adf5-b461545fd4a0/page/jailB)
@@ -33,3 +33,6 @@ The COVID-19 Website Daily Report has two pages that get updated, one gets updat
 The COVID-19 content analytics dashboard gets automatically sent to members of the content team to keep a pulse on site content, internal searches, and accordion clicks every Monday at 8 am pst.
 
 The Vaccines Page & MyTurn Analytics Report gets automatically sent to a few COVID-19 team members and external stakeholders (Accenture, Blue Shield, CDPH) Mondays at 7 am pst.
+
+### Event Tracking
+We set up custom events to help us collect additional data about our users, page elements, etc. to supplement research and reporting. Please see the [Analytics - Event Tracking](https://teamdocs.covid19.ca.gov/teams/engineering/tracking-data/) section of the Engineering team docs for more further details.
