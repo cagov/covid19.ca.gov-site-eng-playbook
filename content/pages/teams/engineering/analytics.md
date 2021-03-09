@@ -1,5 +1,5 @@
 ---
-title: Analytics
+title: Analytics - Event Tracking
 date: Last Modified 
 permalink: /teams/engineering/tracking-data/index.html
 eleventyNavigation:
@@ -7,6 +7,8 @@ eleventyNavigation:
   parent: Engineering
   order: 120
 ---
+## Overview
+There are many custom events we created to give us added context into user behavior on our site. They are all listed and defined below. These were all added at different times and the dates at which they started collecting data (or were turned off) can be deduced from Google Analytics with the date dimension. Some events are implemented globally and some are page specific, we’ll identify which are such below.  
 
 ## Event hooks conventions
 
@@ -14,7 +16,7 @@ If a specific query selector is needed to attach an event create a new classname
 
 ## Accordion clicks
 
-These events are attached to any of our accordion elements which can be on any page
+These events are attached to any of our accordion elements which can be on any page.
 
 | Category  | Action | Label | Notes |
 | ------------- | ------------- | ------------- | ------------- |
@@ -22,7 +24,7 @@ These events are attached to any of our accordion elements which can be on any p
 | "accordion"  | "click"  | accordion header string  | for historical reporting |
 
 
-## Is this page useful
+## Is this page useful - global
 
 We have a widget in the footer that asks users: Is this page useful? We send events to google analytics when they click Yes or No. The comments are collected separately in a database outside of GA. The Yes/No button clicks event data is:
 
@@ -30,21 +32,24 @@ We have a widget in the footer that asks users: Is this page useful? We send eve
 | ------------- | ------------- | ------------- |
 | "rating"  | "helpful"  | "yes" or "no"  |
 
-## Offsite links
+## Offsite links - global
 
+We record when a user clicks on a link that directs them to another url that is not on our site. e.g. https://www.cdc.gov/coronavirus/2019-ncov/vaccines/safety.html
 | Category  | Action | Label |
 | ------------- | ------------- | ------------- |
 | "click"  | "offsite"  | url  |
 
-## pdf links
+## PDF links - global
+
+We record when a user clicks on a pdf link.
 
 | Category  | Action | Label |
 | ------------- | ------------- | ------------- |
 | "click"  | "pdf"  | url  |
 
-## Search
+## Search - global
 
-We record the search terms used when searches are performed to see if we need to create more quick answer content. The "got_quick_answers" and "no_quick_answers" actions are used to show when one or more quick answers were found for the search query
+We record the search terms used when searches are performed to see if we need to create more quick answer content. The "got_quick_answers" and "no_quick_answers" actions are used to show when one or more quick answers were found for the search query.
 
 | Category  | Action | Label |
 | ------------- | ------------- | ------------- |
@@ -52,7 +57,7 @@ We record the search terms used when searches are performed to see if we need to
 | "search"  | "no_quick_answers"  | search terms  |
 
 
-## Surveys
+## Surveys - global
 
 We track several events related to inviting users to take surveys like the survey prompt display, clicking on the button to take the survey or dismissing the prompt.
 
