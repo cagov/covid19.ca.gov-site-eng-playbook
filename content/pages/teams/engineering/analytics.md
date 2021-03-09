@@ -77,7 +77,7 @@ These are events that are tied to specific pages.
 
 ### Homepage
 
-When we redesigned and relaunched the homepage we began tracking several elements to understand what was prime real estate and what information users wanted.
+When we redesigned and relaunched the [homepage](https://covid19.ca.gov/) we began tracking several elements to understand what was prime real estate and what information users wanted.
 
 | Category  | Action | Label |
 | ------------- | ------------- | ------------- |
@@ -92,8 +92,23 @@ When we redesigned and relaunched the homepage we began tracking several element
 
 ### Safer Economy (Blueprint) page
 
-When we launched the Safer Economy page we began tracking how users interacted with the what's open search box. If the user selected county is _(not set)_ that means they did not select a county, but are instead looking at acitivity statuses statewide. Similarly, if the user selected activity is _(not set)_ that means they are looking at all activities rather than a specific one
+When we launched the [Safer Economy page](https://covid19.ca.gov/safer-economy/) we wanted to track how users interacted with the what's open search box. If the user selected county is _(not set)_ that means they did not select a county, but are instead looking at acitivity statuses statewide. Similarly, if the user selected activity is _(not set)_ that means they are looking at all activities rather than a specific one.
 
 | Category  | Action | Label |
 | ------------- | ------------- | ------------- |
-| "activity-status"  | "<user-selected county>" or (not set)  | "<user-selected county>" or (not set) |
+| "activity-status"  | "{user-selected-county}" or "(not set)"  | "({user-selected-activity}" or "(not set)" |
+
+### Equity page
+
+When we launched the [Equity page](https://covid19.ca.gov/equity/) we wanted to track how users interacted with the page and chart data.
+
+| Category  | Action | Label |
+| ------------- | ------------- | ------------- |
+| "activity-status"  | "county-select" | "{user-selected-county}" |
+| "click"  | "tab-select" | "chart-name" |
+| "scroll"  | "scroll-25" | "scroll-25-equity" |
+| "scroll"  | "scroll-50" | "scroll-50-equity" |
+| "scroll"  | "scroll-75" | "scroll-75-equity" |
+| "scroll"  | "scroll-90" | "scroll-90-equity" |
+| "scroll"  | "chart-in-view" | "chart-name" |
+
