@@ -96,4 +96,4 @@ When we launched the Safer Economy page we began tracking how users interacted w
 
 | Category  | Action | Label |
 | ------------- | ------------- | ------------- |
-| "activity-status"  | <user-selected county> or (not set)  | <user-selected county> or (not set) |
+| "activity-status"  | "<user-selected county>" or (not set)  | "<user-selected county>" or (not set) |
