@@ -23,7 +23,6 @@ These events are attached to any of our accordion elements which can be on any p
 | "click"  | "accordion"  | accordion header string  | for current reporting |
 | "accordion"  | "click"  | accordion header string  | for historical reporting |
 
-
 ## Is this page useful - global
 
 We have a widget in the footer that asks users: Is this page useful? We send events to google analytics when they click Yes or No. The comments are collected separately in a database outside of GA. The Yes/No button clicks event data is:
@@ -56,7 +55,6 @@ We record the search terms used when searches are performed to see if we need to
 | "search"  | "got_quick_answers"  | search terms  |
 | "search"  | "no_quick_answers"  | search terms  |
 
-
 ## Surveys - global
 
 We track several events related to inviting users to take surveys like the survey prompt display, clicking on the button to take the survey or dismissing the prompt.
@@ -81,6 +79,10 @@ When we redesigned and relaunched the [homepage](https://covid19.ca.gov/) we beg
 | "click"  | "homepage-menu"  | "url"  |
 | "click"  | "homepage-video"  | "url"  |
 | "click"  | "homepage-latest news"  | "url or 'view more'"  |
+| "scroll"  | "scroll-25" | "scroll-25-homepage" |
+| "scroll"  | "scroll-50" | "scroll-50-homepage" |
+| "scroll"  | "scroll-75" | "scroll-75-homepage" |
+| "scroll"  | "scroll-90" | "scroll-90-homepage" |
 
 ## Safer Economy (Blueprint) - page-level
 
@@ -103,4 +105,3 @@ When we launched the [Equity page](https://covid19.ca.gov/equity/) we wanted to 
 | "scroll"  | "scroll-75" | "scroll-75-equity" |
 | "scroll"  | "scroll-90" | "scroll-90-equity" |
 | "scroll"  | "chart-in-view" | "chart-name" |
-
