@@ -7,7 +7,9 @@ eleventyNavigation:
   order: 998
 ---
 
-The COVID-19 pandemic has been a life-changing, history-altering event. With so much going on in maintaining covid19.ca.gov and our personal lives, things can sometimes get a little heavy. It helps to have a little bit of levity during the day.
+Changing how things get done in government is difficult. Doing it during a life-changing, history-altering event like the COVID-19 pandemic can be beyond stressful. With so much going on in maintaining covid19.ca.gov and our personal lives, things can get a little heavy.
+
+That's why we take time in the day to create a supportive, fun culture that helps us deliver our best work for Californians.
 
 ## Appreciations
 
