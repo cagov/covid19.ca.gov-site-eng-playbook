@@ -7,7 +7,9 @@ eleventyNavigation:
   order: 998
 ---
 
-The COVID-19 pandemic has been a life-changing, history-altering event. With so much going on in maintaining covid19.ca.gov and our personal lives, things can sometimes get a little heavy. It helps to have a little bit of levity during the day.
+Changing how things get done in government is difficult. Doing it during a life-changing, history-altering event like the COVID-19 pandemic can be beyond stressful. With so much going on in maintaining covid19.ca.gov and our personal lives, things can get a little heavy.
+
+That's why we take time in the day to create a supportive, fun culture that helps us deliver our best work for Californians.
 
 ## Appreciations
 
@@ -36,3 +38,7 @@ Variations included:
 
 * Smell of the day
 * Thought of the day
+
+## Unstructured check ins
+
+When things move fast, it's easy to feel like you're in a silo. To combat this, some teams have standing meetings for the sole purpose of checking in with everyone. This helps people feel less alone and provide a space to voice if they're feeling overwhelmed. This time can also be used for general discussion. If the team does not have much to talk about, it provides protected time in their schedules.

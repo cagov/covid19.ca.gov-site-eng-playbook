@@ -1,5 +1,5 @@
 ---
-title: Analytics
+title: Analytics - Event Tracking
 date: Last Modified 
 permalink: /teams/engineering/tracking-data/index.html
 eleventyNavigation:
@@ -7,22 +7,23 @@ eleventyNavigation:
   parent: Engineering
   order: 120
 ---
+### Overview
+There are many custom events we created to give us added context into user behavior on our site. They are all listed and defined below. These were all added at different times and the dates at which they started collecting data (or were turned off) can be deduced from Google Analytics with the date dimension. Some events are implemented globally and some are implemented at a page-level, we’ll identify which are such below.  
 
-## Event hooks conventions
+### Event hooks conventions
 
 If a specific query selector is needed to attach an event create a new classname with a ```js-``` prefix. Using that only for javascript event attachment makes it obvious to a developer only concerned with layout that they are affecting javascript when they are modifying HTML.
 
-## Accordion clicks
+## Accordion clicks - global
 
-These events are attached to any of our accordion elements which can be on any page
+These events are attached to any of our accordion elements which can be on any page.
 
 | Category  | Action | Label | Notes |
 | ------------- | ------------- | ------------- | ------------- |
 | "click"  | "accordion"  | accordion header string  | for current reporting |
 | "accordion"  | "click"  | accordion header string  | for historical reporting |
 
-
-## Is this page useful
+## Is this page useful - global
 
 We have a widget in the footer that asks users: Is this page useful? We send events to google analytics when they click Yes or No. The comments are collected separately in a database outside of GA. The Yes/No button clicks event data is:
 
@@ -30,29 +31,31 @@ We have a widget in the footer that asks users: Is this page useful? We send eve
 | ------------- | ------------- | ------------- |
 | "rating"  | "helpful"  | "yes" or "no"  |
 
-## Offsite links
+## Offsite links - global
+
+We record when a user clicks on a link that directs them to another url that is not on our site. e.g. https://www.cdc.gov/coronavirus/2019-ncov/vaccines/safety.html
+| Category  | Action | Label |
+| ------------- | ------------- | ------------- |
+| "click"  | "offsite"  | "url"  |
+
+## PDF links - global
+
+We record when a user clicks on a pdf link.
 
 | Category  | Action | Label |
 | ------------- | ------------- | ------------- |
-| "click"  | "offsite"  | url  |
+| "click"  | "pdf"  | "url"  |
 
-## pdf links
+## Search - global
 
-| Category  | Action | Label |
-| ------------- | ------------- | ------------- |
-| "click"  | "pdf"  | url  |
-
-## Search
-
-We record the search terms used when searches are performed to see if we need to create more quick answer content. The "got_quick_answers" and "no_quick_answers" actions are used to show when one or more quick answers were found for the search query
+We record the search terms used when searches are performed to see if we need to create more quick answer content. The "got_quick_answers" and "no_quick_answers" actions are used to show when one or more quick answers were found for the search query.
 
 | Category  | Action | Label |
 | ------------- | ------------- | ------------- |
 | "search"  | "got_quick_answers"  | search terms  |
 | "search"  | "no_quick_answers"  | search terms  |
 
-
-## Surveys
+## Surveys - global
 
 We track several events related to inviting users to take surveys like the survey prompt display, clicking on the button to take the survey or dismissing the prompt.
 
@@ -61,3 +64,44 @@ We track several events related to inviting users to take surveys like the surve
 | "survey"  | "click"  | "surveyDisplay"  |
 | "survey"  | "click"  | "openSurvey"  |
 | "survey"  | "click"  | "dismissSurvey"  |
+
+## Home - page-level
+
+When we redesigned and relaunched the [homepage](https://covid19.ca.gov/) we began tracking several elements to understand what was prime real estate and what information users wanted.
+
+| Category  | Action | Label |
+| ------------- | ------------- | ------------- |
+| "click"  | "homepage-tracking covid"  | "url"  |
+| "click"  | "homepage-hero text"  | "url"  |
+| "click"  | "homepage-alerts section"  | "url"  |
+| "click"  | "homepage-want to know"  | "url"  |
+| "click"  | "homepage-footer"  | "url"  |
+| "click"  | "homepage-menu"  | "url"  |
+| "click"  | "homepage-video"  | "url"  |
+| "click"  | "homepage-latest news"  | "url or 'view more'"  |
+| "scroll"  | "scroll-25" | "scroll-25-homepage" |
+| "scroll"  | "scroll-50" | "scroll-50-homepage" |
+| "scroll"  | "scroll-75" | "scroll-75-homepage" |
+| "scroll"  | "scroll-90" | "scroll-90-homepage" |
+
+## Safer Economy (Blueprint) - page-level
+
+When we launched the [Safer Economy page](https://covid19.ca.gov/safer-economy/) we wanted to track how users interacted with the what's open search box. If the user selected county is _(not set)_ that means they did not select a county, but are instead looking at acitivity statuses statewide. Similarly, if the user selected activity is _(not set)_ that means they are looking at all activities rather than a specific one.
+
+| Category  | Action | Label |
+| ------------- | ------------- | ------------- |
+| "activity-status"  | "{user-selected-county}" or "(not set)"  | "{user-selected-activity}" or "(not set)" |
+
+## Equity - page-level
+
+When we launched the [Equity page](https://covid19.ca.gov/equity/) we wanted to track how users interacted with the page and chart data.
+
+| Category  | Action | Label |
+| ------------- | ------------- | ------------- |
+| "activity-status"  | "county-select" | "{user-selected-county}" |
+| "click"  | "tab-select" | "chart-name" |
+| "scroll"  | "scroll-25" | "scroll-25-equity" |
+| "scroll"  | "scroll-50" | "scroll-50-equity" |
+| "scroll"  | "scroll-75" | "scroll-75-equity" |
+| "scroll"  | "scroll-90" | "scroll-90-equity" |
+| "scroll"  | "chart-in-view" | "chart-name" |
