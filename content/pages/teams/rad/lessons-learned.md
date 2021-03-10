@@ -5,7 +5,7 @@ permalink: /teams/rad/research-lessons-learned.html
 eleventyNavigation:
   key: Lessons learned
   parent: Research
-  order: 390
+  order: 395
 ---
 
 # 🤔 Tips for Success 

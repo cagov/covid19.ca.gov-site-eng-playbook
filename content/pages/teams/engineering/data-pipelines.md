@@ -5,7 +5,7 @@ permalink: /teams/engineering/data-pipelines/index.html
 eleventyNavigation:
   key: Data pipelines
   parent: Engineering
-  order: 188
+  order: 114
 ---
 
 We run data pipelines to power data points displayed on the site homepage and dashboard pages like:

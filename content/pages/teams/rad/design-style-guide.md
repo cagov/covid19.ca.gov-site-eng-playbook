@@ -11,7 +11,7 @@ eleventyNavigation:
 
 Our design principles help teams and stakeholders to align on design vision and decision-making. They give us a shared understanding to help us prioritize our next steps.
 
-The principles that we use for covid19.ca.gov are the same as Alpha which leverage the proven work and best practices of teams like 18F and the UK Government Digital Services. 
+The principles that we use for [covid19.ca.gov](http://covid19.ca.gov) are the same as Alpha which leverage the proven work and best practices of teams like [18F](https://methods.18f.gov/decide/design-principles/) and the [UK Government Digital Services](https://www.gov.uk/guidance/government-design-principles). 
 
 ### The Alpha.CA.gov design principles include:
 * Start with user needs
@@ -28,10 +28,15 @@ The principles that we use for covid19.ca.gov are the same as Alpha which levera
 * Optimize performance (Another new one. Slow load times cost people money. That’s an accessibility and equity issue.)
 * These principles will inform our product design. And we’ll continue to iterate and refine them as we learn by doing.
 
-### Resources
-[GOV.UK Government Design Principles](https://www.gov.uk/guidance/government-design-principles)
+### Accessibile and Inclusive Design
 
-[18F Design Principles](https://methods.18f.gov/decide/design-principles/)
+[covid19.ca.gov](http://covid19.ca.gov) aligns with Web Content Accessibility Guideline (WCAG) 2.1 Level AA Standards in addition to the requirements of Section 508 (29 U.S.C. 794d), which you can read more about at [https://webstandards.ca.gov/accessibility](https://webstandards.ca.gov/accessibility/). Needless to say, design plays a role in this through use of color contrast, layout and heirarchy, sizes of touch targets, data visualization, and more. We recommend [accessibility.digital.gov](https://accessibility.digital.gov/) as a resource to learn more about accessible and inclusive design.
+
+### Responsive Design
+
+Approximately 60% of traffic to the English version of [covid19.ca.gov](http://covid19.ca.gov) and 90% of the Spanish version was on mobile devices. All design decisions consider mobile and desktop platforms simultaneously and place a special emphasis on optimizing performance for low-end mobile devices. For example, we have worked hard to take data dashboards published on Tableau and redesign them for D3 to ensure they load faster on a wider range of devices.
+
+As the design principle above states: Slow load times cost people money. That’s an accessibility and equity issue.
 
 ## Style Guide
 
@@ -68,4 +73,8 @@ The state web template includes an [icon font](https://beta.template.webstandard
 
 ### Web Toolkit
 A toolkit website that contains communications materials as well as graphical banners and imagery is also available at [COVID19 Response Toolkit](https://toolkit.covid19.ca.gov/partners/).
+
+### UI Patterns and Components
+
+For a comprehensive list of re-usable design patterns, please visit the [Component and styles](https://teamdocs.covid19.ca.gov/components/) portion of this documenation.
  

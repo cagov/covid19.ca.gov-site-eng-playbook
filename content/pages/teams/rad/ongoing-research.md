@@ -10,33 +10,33 @@ eleventyNavigation:
 
 Ongoing UX methods and activities undertaken to carry out the collection of feedback from our visitors.  
 
-1. **Per page feedback** to gather feedback at a page level
-2. **NPI** to gather longitudinal data
-3. **Feedback survey** to gather comments about the website
-4. **UX Audit** to review user flows across pages
+1. **Per page feedback** to gather feedback at a page level.
+2. **NPI** to gather longitudinal data.
+3. **Feedback survey** to gather comments about the overall website.
+4. **UX Audit** to review user flows across pages.
 
-We reccomend a collaborative approach across different skill sets to successfully execute each activity. 
+We reccomend a collaborative approach across different skill sets to execute each activity. 
 
 ## Rubric with needed skills for each tools
-This rubric will help the researcher identify skills/roles recommende to use each of the tools.
+This rubric will help the researcher identify skills/roles recommended to use each tool.
 
 ![Rubric](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/rubric-ongoing-base.jpg)
 
 ---
 
 ## 🗒️ Per Page Feedback
-- We use this feature to capture **user feedback at a per page level** in order to better understand what pages are useful, what within the page is meanigful, confusing, distracting and how we can improve them **to make them relevant to user needs**. 
-- We use a **native form with daily comments hosted on github** and **google sheets with a weekly syntehsis and analysis** with responses collected from a link we host on ethn.io.
+- We use this feature to capture **user feedback at a per page level** in order to better understand what pages are useful, what within the page is meanigful, confusing, distracting and how we can improve **to make them relevant to user needs**. 
+- We use a **native form with daily comments hosted on github** and **google sheets with a weekly syntehsis and analysis** with responses collected from a link we host on ethnio.
 - **Links**: [sheets](https://docs.google.com/spreadsheets/d/1vFK8Xw41JThyJUa6M0Lv4qvAoJ-TQ4VK-TUc82FVFZA/edit#gid=1414096076) and [github](https://cagov.github.io/comment-reports/?code=Hv0cGBn1ysN97obrScf5awD1lZUs6JDyctdTmJgoAE6Py9bjy1foag==#filterA)
-- These are the steps to take to use the per page feedback feature:
+- These are the steps to use the per page feedback feature:
 
 
 | Steps 	| Process 	| Tools 	| Improvements 	| Team 	|
 |-	|-	|-	|-	|-	|
 | Export feedback data and import in system 	| The data goes into Azure Cosmos DB (a cross region, managed database). We have a little webpage with a few web components on it in this  [repo](https://github.com/cagov/comment-reports)  that hits the cosmos db api and pulls out the data with query params	| Simple graph views based on our APIs hosted on github pages 	|  	| Engineer 	|
-| Review data 	| Public facing: access data searchable by date, content captain and url<br>Every captain reviews their pages<br>Researcher reviews homepage  	| Access data here 	|  	| Content captains 	|
+| Review data 	| Public facing: access data searchable by date, content captain and url<br>Every captain reviews their pages<br>Researcher reviews homepage  	| [webpage](https://cagov.github.io/comment-reports/?code=Hv0cGBn1ysN97obrScf5awD1lZUs6JDyctdTmJgoAE6Py9bjy1foag==#filterA)	|  	| Content captains 	|
 | Download data from ethnio links 	| Additional information is collected with an ethnio link: download data from surveys on a weekly basis 	| Ethnio + spreadsheet 	| If we had the enterprise subscription we could use the API and create an automatic download.  	| Data analyst  	|
-| Import data to spreadsheet 	| We created a [template](https://docs.google.com/spreadsheets/d/1vFK8Xw41JThyJUa6M0Lv4qvAoJ-TQ4VK-TUc82FVFZA/edit#gid=1414096076) to visualize the data from ethnio  	| Spreadsheet 	|  	| Britt  	|
+| Import data to spreadsheet 	| We created a [template](https://docs.google.com/spreadsheets/d/1vFK8Xw41JThyJUa6M0Lv4qvAoJ-TQ4VK-TUc82FVFZA/edit#gid=1414096076) to visualize the data from ethnio  	| Spreadsheet 	|  	| Analyst  	|
 | Share template with team 	| Every week we share the dashboard + themes and findings from previous week  	| Email + slack 	|  	| Researcher and data analyst 	|
 
 
@@ -55,13 +55,13 @@ This rubric will help the researcher identify skills/roles recommende to use eac
 - We use the **NPI survey** to gather longitudinal data from visitors to covid19.ca.gov and ca.gov to **discover how attitudes and behaviors change as influenced by changes in policy, local and/or state economy** and other factors.
 - We showcase the link to the survey to every 50th visitor on covid19.ca.gov (homepage) and static link in ca.gov (homepage)
 - **Link**: https://www.surveymonkey.com/
-- These are the steps to take to create and update the NPI survey:
+- These are the steps to create and update the NPI survey:
 
 
 
 | Steps 	| Process 	| Tools 	| Improvements 	| Team 	|
 |-	|-	|-	|-	|-	|
-| Design survey 	| The insights team designed the first version early on in March. Most questions remain the same to gather longitudinal data.  <br>Have to work with the eng team if we want to make changes to the frequency of delivery. Currently delivering to every 50th visitor on covid19.ca.gov and a static link on ca.gov site 	| Surveymonkey 	|  	| Insights team and <br>Researcher 	|
+| Design survey 	| The insights team designed the first version early on in March. Most questions remain the same to gather longitudinal data.  <br>We work with the engineering team if we want to make changes to the frequency. Currently delivering to every 50th visitor on covid19.ca.gov and a static link on ca.gov site 	| SurveyMonkey 	|  	| Insights team and <br>Researcher 	|
 | Meet weekly 	| The insights team and some external volunteers meet on a weekly basis to discuss results and future iterations 	| Google meets 	|  	| Insights team, researcher , volunteers 	|
 | Dump data daily on spreadsheet 	| Every weekday morning we download SurveyMonkey data from the NPI survey from the previous day from 12:00 am to 11:59 pm and then uploads it to the NPI raw data sheet with a new date 	| [NPI raw data sheet](https://docs.google.com/spreadsheets/d/1mVNx5z21wByufIULhd0HVaFVhODgSzxHvPPVyBdyAxU/edit?pli=1#gid=1397690428) 	|  	| Aanyone with access to surveymonkey 	|
 | Review open ended questions to gather quotes 	| Insights team will review open ended questions to gather quotes for the GO book which is deliver weekly.  The criteria to choose quotes is a balance between constant and frequently mentioned themes, new themes we want to surface and edge cases that we should shed light on 	|  	| Opportunity to follow up with interviews with participants who opted to provide email. Since 11/1 we collect emails but haven’t done much with it. 	| Insights team, researcher 	|
@@ -75,13 +75,13 @@ This rubric will help the researcher identify skills/roles recommende to use eac
 
 - We add a **survey link** on the footer to provide a place on the website for visitors to **give general website feedback, suggestions and comments**.  
 - **Link**:  SurveyMonkey
-- These are the steps to take to make us of the NPI survey:
+- These are the steps to update the survey:
 
 | Steps 	| Process 	| Tools 	| Team 	|
 |-	|-	|-	|-	|
-| Design survey and/or edit questions 	| Over time we have made some edits to the questions to complement other sources of feedback and avoid cannibalization 	| Google docs + surveymonkey 	| Researcher 	|
-| Dump data daily 	|  Download the data from SurveyMonkey and upload it [here](https://docs.google.com/spreadsheets/d/1W_rowHqsi1kIEEUkkbyjdoWcDhGuf4ctj44nER5aDxU/edit#gid=325946802). Read through the feedback each morning 	| Spreadsheet 	| Anyone with access to surveymonkey 	|
-| Review comments daily 	| Share meaningful comments with the team, mostly via slack channel 	| Slack or standup 	| Anyone reading the comments 	|
+| Design survey and/or edit questions 	| Over time we have made some edits to the questions to avoid cannibalization with other sources of feedback  	| Google docs + SurveyMonkey 	| Researcher 	|
+| Dump data daily 	|  Download the data from SurveyMonkey and upload it [here](https://docs.google.com/spreadsheets/d/1W_rowHqsi1kIEEUkkbyjdoWcDhGuf4ctj44nER5aDxU/edit#gid=325946802). Read through the feedback each morning 	| Spreadsheet 	| Anyone with access to SurveyMonkey 	|
+| Review comments daily 	| Share meaningful comments with the team, mostly via slack channel 	| Slack or standup 	| Anyone with access to SurveyMonkey 	|
 
 
 ![Example of our Feedback link](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/Footer.jpg)
@@ -92,24 +92,24 @@ This rubric will help the researcher identify skills/roles recommende to use eac
 
 
 - We perform an **ux audit** to **identify common pain points across key user flows**. The audit's goal is to uncover pain points, roadbloacks and success points when performing a task. With this information we can then improve the overall flow, instead of just focusing on a specific page. 
-- A team of a designer, researcher and analyst chose different tasks. We mapped out the entire user flow to get a clear picture of all the different pages and actions users take to perform specific tasks. 
-- **Tools**:  miro, google docs, google slides, spreadsheet, quicktime
-- These are the steps to take to create and implement an UX Audit:
+- A team of a designer, researcher and analyst define key user tasks. They map out the entire user flow to get a clear picture of all the different pages and actions users take to perform the previously selected tasks. 
+- **Tools**:  Miro, Google Docs, Google Slides, Spreadsheet, Quicktime.
+- These are the steps to create and implement an UX Audit:
 
 
 
 | Steps 	| Process 	| Tools 	|
 |-	|-	|-	|
 | Design study 	| A small team of one designer, one researcher and one data analyst met to design the study 	| Researcher, designer and data analyst 	|
-| Create scenarios 	| Based on google analytics, GO office priorities and other feedback sources we created 10 scenarios 	| Data analyst 	|
+| Create scenarios 	| Based on google analytics, GO office priorities and other feedback sources we created 10 scenarios 	| Researcher, designer and data analyst  	|
 | Assign scenarios 	| Each team member chose one or more scenarios to perform the audit 	| Researcher, designer and data analyst 	|
 | Execute audit 	| Each team member identified the parts of the website that provided an answer to the user’s question in the scenario. 	| Researcher, designer and data analyst 	|
 | Visualize audit 	| Each member created a map that showed all of the ways that a user might get there (including search). Each one chose to visualize the steps involved through a flow chart, mind map, or something similar. 	| Researcher, designer and data analyst  	|
 | Uncover pain points 	| For each step in the flow, the team identified:<br>potential “pain points” that made the process difficult (e.g. confusing labeling) 	| Researcher, designer and data analyst  	|
-| Find themes 	| As a group we synthesized pain points to determine themes/trends  	| Researcher, designer and data analyst  	|
-| Define heuristics 	| Defined our own heuristics to reuse in future audits 	| Researcher and designer	|
-| Score scenarios 	| Scored each flow with the usability rubric 	|  	|
-| Create list of quick wins and big improvements 	| For each theme, we created a list with small wins and big improvements<br>Small Wins: try to introduce them immediately. <br>Big Improvements:  large-scale improvements/problems that we would like to tackle in our next major redesign. 	| Researcher and designer 	|
+| Find themes 	| The team synthesized pain points to determine themes/trends  	| Researcher, designer and data analyst  	|
+| Define heuristics 	| The team created their own heuristics to reuse in future audits 	| Researcher and designer	|
+| Score scenarios 	| The team scored each flow with the heuristics/usability rubric 	| Researcher and designer   	|
+| The team created a list of quick wins and big improvements 	| For each theme, the team created a list with small wins and big improvements<br>Small Wins: try to introduce them immediately. <br>Big Improvements:  large-scale improvements/problems that the team would like to tackle in the next major redesign. 	| Researcher and designer 	|
 
 ## Links to documents:
 

@@ -5,7 +5,7 @@ permalink: /teams/engineering/dashboards/index.html
 eleventyNavigation:
   key: Public dashboards
   parent: Engineering
-  order: 150
+  order: 116
 ---
 
 Public facing dashboards need to be held to more stringent performance and accessibility requirements in order to successfully serve an audience using a large variety of devices and connection strengths.

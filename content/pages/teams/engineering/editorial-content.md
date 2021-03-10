@@ -5,7 +5,7 @@ permalink: /teams/engineering/content-management/index.html
 eleventyNavigation:
   key: Content management in WordPress
   parent: Engineering
-  order: 170
+  order: 113
 ---
 
 ### Overview ###

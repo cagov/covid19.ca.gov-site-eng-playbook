@@ -8,7 +8,7 @@ eleventyNavigation:
   order: 215
 ---
 
-Below are examples of code you can use in WordPress posts. HTML can be inserted using a **Custom HTML** block. CSS classes can be added via a Block’s **Advanced** drop-down.
+Below are examples of code you can use in WordPress posts. HTML can be inserted using a **Custom HTML** block. CSS classes can be added via a Block’s **Advanced** drop-down when they apply to a whole block, or inserted into an HTML tag when they don't.
 
 * Hidden question & answer
 * Hidden keywords
@@ -18,7 +18,9 @@ Below are examples of code you can use in WordPress posts. HTML can be inserted 
 * Highlight box
 * Making a header larger while preserving hierarchy
 * Centering an image
+* Adding a caption to an image - COMING SOON
 * Aligning an image to the right or left of text
+* Adding a caption to an image aligned right or left - COMING SOON
 * Moving arrow button
 * Emphasized text
 * Titles in links
@@ -66,7 +68,7 @@ For this external link icon:
 The code is:
 
 ```
-<p>After reading, you can request to <a href="https://state-of-california-agency.forms.fm/great-plates-delivered-food-provider-interest-form"volunteer> or provide meals<span class="ca-gov-icon-external-link link-icon" aria-hidden="true"></a>.</p>
+<p>After reading, you can request to <a class="external" href="https://state-of-california-agency.forms.fm/great-plates-delivered-food-provider-interest-form">volunteer or provide meals</a>.</p>
 ```
 ## PDF link icon
 
@@ -79,7 +81,7 @@ For this PDF link icon:
 The code is:
 
 ```
-<p>More details about receiving meals are available in the <a href="https://files.covid19.ca.gov/pdf/great-plates-delivered-participants-faqs.pdf%22 participant> FAQ<span class="pdf-link-icon no-underline-icon" aria-hidden="true">PDF</span></a> .</p>
+<p>More details about receiving meals are available in the <a class="pdf" href="https://files.covid19.ca.gov/pdf/great-plates-delivered-participants-faqs.pdf">participant FAQ</a>.</p>
 ```
 
 ## Highlight box
@@ -161,7 +163,7 @@ When does an H3 look like an H2? When you use this code:
 
 ```
 <!-- wp:heading {"level":3,"className":"h2"} -->
-<h3 class="h2" >Regions</h3>
+<h3 class="h2">Regions</h3>
 <!-- /wp:heading -->
 ```
 
@@ -178,6 +180,23 @@ WordPress offers a way to center an image, but it does not work. Instead, conver
 ```
   <div class="text-center">
 <img src="..." alt="...">
+</div>
+```
+## Adding a caption to an image
+
+If you want to caption an image, use a Custom HTML block to insert a paragraph with the "caption" class after the code for that image. This will give your caption text the standard styling, which is small text, italicized, with left alignment. Even better, if caption style changes later, then by using this class you will get the new styling without having to make any changes.
+
+For this caption:
+
+![Default image with caption](https://cagov.github.io/covid19.ca.gov-site-eng-playbook//content/images/caption.png)
+
+The code is this:
+
+```
+<div>
+<img src="https://files.covid19.ca.gov/img/Women-getting-vaccinated.png" alt="Illustration of a women getting tape on vaccination site" style="width: 920px;">
+      
+<p class="caption">Every Californian 16 and up will have access to vaccines this spring</p>
 </div>
 ```
 
@@ -227,6 +246,38 @@ Use this code:
       <img src="https://files.covid19.ca.gov/img/Asset4at2x1.png" alt="illustration of man on phone" style="width: 250px;">
     </div>
   </di
+```
+
+## Adding a caption to an image aligned right or left
+
+To have an image with a wrapping caption to the left or right of the text, use a Custom HTML block with 2 columns such as col-md-8. Number 8 means that this column will occupy 8 out of 12 grid columns (or 2/3 of the page width). If the first column has a number 8 in it, that means that second column for the image needs to have a number 4, or col-md-4 (because 8 + 4 = 12). In the image columns right under the image, you can insert the paragraph text with class "caption".
+
+```
+<p class="caption">Caption text</p>
+```
+
+So for this alignment:
+
+![Right-aligned image with caption](https://cagov.github.io/covid19.ca.gov-site-eng-playbook//content/images/caption-aligned-right.png)
+
+Use this code:
+
+```
+<div class="container py-4">
+    <div class="row">
+      <div class="col-md-8">
+        <p><strong>Contact tracing works when you answer the call or text.</strong></p><p>All you have to do is answer the phone call or respond to the text message survey sent by your local health department.</p>
+  <p>Contact tracing is an anonymous way to do your part. The more people answer the call or text, the more lives and jobs California will save and the faster we can re-open schools and businesses and keep them open. Your information is always kept confidential.
+  </p>
+      </div>
+  <div class="col-md-4">
+        <img src="https://files.covid19.ca.gov/img/Asset4at2x1.png" alt="illustration of man on phone" style="width: 250px;">
+      
+    <p class="caption">Image caption could be really long. And if the caption is longer than this one, it pushes the image and body text within that paragraph weirdly left, creating empty space on the right.</p>
+<p class="caption">We'd like the caption text to be smaller, italicized, and wrap under the image without creating empty space. </p>
+    </div>
+    </div>
+  </div>
 ```
 
 ## Moving arrow button link

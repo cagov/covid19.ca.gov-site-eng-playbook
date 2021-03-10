@@ -5,7 +5,7 @@ permalink: /teams/engineering/frontend-build/index.html
 eleventyNavigation:
   key: Frontend build
   parent: Engineering
-  order: 180
+  order: 112
 ---
 
 Frontend builds are run locally during development and before deployments inside git actions.
