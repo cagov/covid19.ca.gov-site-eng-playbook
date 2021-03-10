@@ -1585,6 +1585,10 @@ nav ul li a.active {
   display: table !important;
 }
 
+.grid {
+  display: grid !important;
+}
+
 .hidden {
   display: none !important;
 }
