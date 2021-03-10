@@ -1,10 +1,10 @@
 ---
-title: Airtable Industry Guidance
+title: Airtable (Industry Guidance)
 date: 2021-01-25
 permalink: /teams/engineering/airtable-industry-guidance/
 toc: true
 eleventyNavigation:
-  key: Airtable
+  key: Airtable (Industry Guidance)
   parent: Engineering
   order: 111
 ---

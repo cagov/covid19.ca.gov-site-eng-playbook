@@ -1,10 +1,10 @@
 ---
-title: Airtable, Lessons learned
+title: Airtable (Lessons learned)
 date: 2021-03-04
 permalink: /teams/engineering/airtable-lessons-learned/
 toc: true
 eleventyNavigation:
-  key: Airtable, Lessons learned
+  key: Airtable (Lessons learned)
   parent: Engineering
   order: 110
 ---
