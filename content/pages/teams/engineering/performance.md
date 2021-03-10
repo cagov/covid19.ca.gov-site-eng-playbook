@@ -26,7 +26,7 @@ Here is a side by site comparison of the render speed of the same chart written 
 The amount of code being executed on the device is as important as delays delivering compressed files.
 https://nolanlawson.com/2021/02/23/javascript-performance-beyond-bundle-size/
 
-Asking less capable devices to execute MBs of javascript takes so long to become interactive the page is useless and cheap devices like amazon fire will often crash. We don't see these problems when we test our D3 dashboards on low end devices because they deliver interactive charts with much smaller code size.
+Asking less capable devices to execute MBs of javascript takes so long to become interactive the page is useless and inexpensive devices like amazon fire will often crash. We don't see these problems when we test our D3 dashboards on low end devices because they deliver interactive charts with much smaller code size.
 
 ## Translations
 
@@ -35,7 +35,7 @@ We are currently delivering deep translations all the way down to chart labels a
 <img src="https://cagov.github.io/covid19.ca.gov-site-handbook/static/img/viet-chart.jpg">
 
 
-We are not doing this with tableau
+Tableau charts on covid19.ca.gov are not translated at all
 
 ## Voiceover
 
