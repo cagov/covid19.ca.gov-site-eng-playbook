@@ -53,7 +53,7 @@ Tableau embeds on covid19.ca.gov are not translated at all
 
 ## Voiceover
 
-Here is an example of successful support for screenreaders in our D# chart
+Here is an example of successful support for screenreaders in our D3 chart
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gjkyxqUEpbk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
