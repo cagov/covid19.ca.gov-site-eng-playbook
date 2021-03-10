@@ -7,6 +7,15 @@ eleventyNavigation:
   parent: Engineering
 ---
 
+<style>
+#navigation {
+  display: none !important;
+}
+#main {
+  padding-left: 0 !important;
+}
+</style>
+
 ## Performance
 
 Performance affects all users.
