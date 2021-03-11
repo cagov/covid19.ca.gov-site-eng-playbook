@@ -1,5 +1,5 @@
 ---
-title: Research, Analytics and Design (Team RAD)
+title: Research, analytics, and design (Team RAD)
 date: Last Modified 
 permalink: /teams/rad/index.html
 eleventyNavigation:
@@ -8,38 +8,23 @@ eleventyNavigation:
   order: 300
 ---
 
+The research, analytics, and design are interlocking functions. We affectionately call them Team RAD.
 
----
+## Research
 
-## Overview
-The section describes the function of Research, Analytics and Design (affectionately known as Team RAD).
-
-### Research
-Research listens and engages with the public to address their needs and improve their overall journey when performing their tasks. Research informs product decisions by either framing the problem we are trying to solve or testing assumptions and hypotheses.
-
-[Learn more](https://teamdocs.covid19.ca.gov/teams/rad/research.html)
+The [Research team](https://teamdocs.covid19.ca.gov/teams/rad/research.html) listens and engages with the public to address their needs and improve their overall journey when performing their tasks. Research informs product decisions by either framing the problem we're trying to solve or testing assumptions and hypotheses.
 
 ### Analytics
-Insert description
 
-[Learn more](https://teamdocs.covid19.ca.gov/teams/rad/analytics.html)
+The [Analytics team](https://teamdocs.covid19.ca.gov/teams/rad/analytics.html) provides data and reporting in support of the content, research, and design teams, as well as external stakeholders.
 
 ### Design
-Design on covid19.ca.gov collaborates with research, content, product and engigneering teams to visualize and prototype website updates.
 
-[Learn more](https://teamdocs.covid19.ca.gov/teams/rad/design.html)
-
+The [Design team](https://teamdocs.covid19.ca.gov/teams/rad/design.html) collaborates with research, content, product and engigneering teams to visualize and prototype website updates.
 
 ## Who is this section for?
-Our objective is to ensure a researcher, analysts and designers can feel comfortable with the tools and processes we have used and apply them to a task at hand. This section is for:
-1. Other researchers, analysts or designers working on COVID-19 sites.
-2. Other web teams within CA state that might be interested in certain aspects of our internal how-to’s (e.g., if they want to understand how to use or set up their own intercept).
 
+Our objective is to ensure a researcher, analyst, or designer is comfortable with the tools and processes we've used and able to apply them. This section is for:
 
-## What's in this section?
-We organized this section by the three functions of Team RAD:
-
-1.  [Research](https://teamdocs.covid19.ca.gov/teams/rad/research.html)
-2.  [Analytics](https://teamdocs.covid19.ca.gov/teams/rad/analytics.html)
-3.  [Design](https://teamdocs.covid19.ca.gov/teams/rad/design.html)
-
+1. Other researchers, analysts, or designers working on COVID-19 sites
+2. Other web teams within California state government that are interested in certain aspects of what we've done (for example, understanding how to use or set up their own intercept)
