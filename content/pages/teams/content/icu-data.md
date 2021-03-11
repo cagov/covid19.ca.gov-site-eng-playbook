@@ -8,7 +8,7 @@ eleventyNavigation:
   order: 260
 ---
 
-The Regional Stay Home Order is no longer in effect. As a result, the parts of this process related to regions moving in and out of the Order are no longer being performed. The process is detailed here in the event it is needed again.
+The Regional Stay Home Order is no longer in effect. As a result, the parts of this process related to regions moving in and out of the Order are no longer being performed. The process is detailed here in the event it's needed again.
 
 ## Daily postings of ICU actual regional data
 
@@ -18,10 +18,10 @@ The Regional Stay Home Order is no longer in effect. As a result, the parts of t
 ## Day of announcement
 * The covid19.ca.gov website team is notified/confirms by 8:00 am Pacific that a region is under a SAHO to make changes on their map.
   * Confirmation would hopefully come the night before through the data.
-* Example of timing of order
+* Example of timing of order:
   * Post at 12:00 pm Pacific Saturday
   * Regional Stay Home Order effective 11:59 pm Pacific Sunday (one day after posted)
-* Posting on covid19 website occurs as planned by 12:00 pm Pacific.
+* Posting on covid19.ca.gov occurs as planned by 12:00 pm Pacific.
  
 ## Blueprint
 
@@ -29,4 +29,4 @@ The Regional Stay Home Order is no longer in effect. As a result, the parts of t
 * Regular Blueprint rules apply with tier movement.
 * Run data and post as regular.
 * Allow county moves to a less restrictive tier if not under Regional Stay Home Order.
-  * A county cannot move if it is in a region in which there is a Regional Stay Home Order.
+  * A county cannot move if it is in a region under Regional Stay Home Order.
