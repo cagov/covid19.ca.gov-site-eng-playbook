@@ -1,15 +1,15 @@
 ---
-title: Read me
+title: covid19.ca.gov documentation
 date: Last Modified 
 permalink: /
 eleventyNavigation:
-  key: Read me
+  key: Home
   order: 0
 ---
 
-A note to our readers: how to approach this doc, who it is for, how it was written and why
+This site details how covid19.ca.gov is updated and maintained.
 
-## Editing tips
+## Editing this site
 
 For anyone updating this guide, many questions about how to edit these pages are found at the [Spacebook site](https://spacebook.app/). A few things particular to this site:
 
