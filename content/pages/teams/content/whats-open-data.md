@@ -12,17 +12,14 @@ Almost everything related to the what's open search is managed through WordPress
 
 ## Update schools tier
 
-1. Schools data lives separately from what’s open data.
-  a. This in the **Schools may reopen in these counties** WordPress file.
-  b. The list is updated based on the county tier Excel spreadsheet, specifically column H which will indicate _May Reopen_ if allowed to be open.
-2. Check all _May Reopen_ counties against the list in WordPress.
-3. If a county has been added, use the **Edit table** button to add a new row.
+1. Whether schools are listed as able to reopen or not is managed in the **Schools may reopen in these counties** WordPress file instead of in the regular tier updates managed by the engineering team.
+2. If a county has been added, use the **Edit table** button to add a new row.
   a. Add counties in alphabetical order to make the table easy to maintain.
-4. If a county has been removed, use the **Edit table** button to delete its row.
-5. Stage the update by adding the _staging-only_ tag to the _Document_ panel on the right and selecting **Update**.
-6. Check the staged version to ensure that the appropriate counties are showing the right status.
-7. Publish the update by removing the _staging-only_ tag and pressing **Update**.
-8. This work has a lag time to publication and usually requires a purge by a developer to ensure that multiple updates publish when expected.
+3. If a county has been removed, use the **Edit table** button to delete its row.
+4. Stage the update by adding the _staging-only_ tag to the _Document_ panel on the right and selecting **Update**.
+5. Check the staged version to ensure that the appropriate counties are showing the right status.
+6. Publish the update by removing the _staging-only_ tag and pressing **Update**.
+7. This work has a lag time to publication and usually requires a purge by a developer to ensure that multiple updates publish when expected.
 
 ## Update what’s open data
 
@@ -30,7 +27,7 @@ Content lives in two places: the _Data for What's Open Search_ Google Sheet (whe
 
 The Google Sheet's **Data for What’s Open...** tab is where the current data lives.
 
-* The _Category_ is usually the Industry Guidance accordion for that activity.
+* The _Category_ is usually the Industry guidance accordion for that activity.
 * The link in the Industry guidance column is used in WordPress.
   * Consult with the Industry guidance content captain for what guidance to link with what activity.
   * Guidance links are anchor links to the specific accordions on our Industry guidance webpage. See [Industry guidance: Anchor links](https://docs.google.com/document/d/1HQIg2FNAxGnjGs9jPFCrFXs1XvN17d_ojHrnfZvvLus/edit) for a complete list.
@@ -39,7 +36,6 @@ The Google Sheet's **Data for What’s Open...** tab is where the current data l
 * Rows in gray indicate that the activity’s approval was reversed or not approved. We keep it there for reference or in case that changes.
 * If the only change to an activity is the PDF being updated, there’s no update needed to what’s open data.
 * The Governor’s office usually does not provide statuses or details in a uniform way. It is up to the content team to provide uniformity while still being accurate.
-* Ignore the schools row in the Google Sheet.
 * While conversations are in progress, edit the Google Sheet instead of the WordPress file as this is easier.
 
 The WordPress **What’s open data file** is where we make changes that are reflected on the live site.
@@ -57,7 +53,7 @@ To add or edit column 5 data:
 2. Moving to Code editor will always take you to the top of the page. To find the content you want to edit, use your browser’s **Search** or **Find in this page** function (usually in the **Edit** menu).
 3. The link to edit is always the last td and /td set before /tr.
 4. Copy the code for another industry guidance link and modify that.
-  a. Do not use an ampersand in any descriptions of the guidance (like Amusement parks and theme parks).
+  a. Do not use an ampersand in any descriptions of the guidance (like _Amusement parks and theme parks_).
   b. Copy and paste that into the new td /td section.
     i. Make sure you do not accidentally put an extra set of td and /td in when you copy and paste.
   d. Return to the **Visual editor** through the three dot button. If the code is acceptable, the cell will be white. If it is not, the cell will be gray.
@@ -70,10 +66,10 @@ To add or edit column 5 data:
 
 ## Regional Stay Home Order tiers
 
-The Regional Stay Home Order triggered when a region fell below 15% ICU beds available. This resulted in counties being put into a new status outside of the regular Blueprint tiers. The Regional Stay Home Order is no longer in effect, but the process for moving a region under the Order in the what's open search is as follows:
+The Regional Stay Home Order was triggered when a region fell below 15% ICU beds available. This resulted in counties being put into a new status outside of the regular Blueprint tiers. The Regional Stay Home Order is no longer in effect, but the process for moving a region under the Order in the what's open search is as follows:
 
 To update the activities allowed in all counties in that region, go to the [RSHO post](https://as-go-covid19-d-001.azurewebsites.net/wp-admin/post.php?post=7402&action=edit) in WordPress and add the region name. You need the exact region name, which can be found by searching on one of the affected counties in the what’s open search and checking its tile.
 
 ![Example of county with region](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/region-example.jpg)
 
-* Once the region is added to this post and published, the what’s open search will return RSHO activity data for the counties in that region.
+Once the region is added to this post and published, the what’s open search will return RSHO activity data for the counties in that region.
