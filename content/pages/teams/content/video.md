@@ -23,7 +23,9 @@ To update a PSA video, you'll need:
 
 To feature a press conference, you'll need:
 
-* The YouTube link to the livestream
+* The YouTube link to the livestream, usually available at one of these channels:
+  * [Governor’s YouTube channel](https://www.youtube.com/channel/UCrHSYLKqmLunBzlSfunGDSA) (often available a couple hours before the livestream begins)
+  * [California Department of Health and Human Services YouTube channel](https://www.youtube.com/channel/UCFvH-hGEKg2elZ7k-_5eQEg) (often available 15 minutes before the livestream begins)
 * The video description on YouTube for this livestream. This can also come from a news release.
 * The time it’s expected to begin. This is often in the news release.
 
@@ -31,21 +33,19 @@ For the Governor's or Secretary's press conferences, the WordPress post already 
 
 ## How to update
 
-* Choose whether you want to feature a PSA video (first row), Governor’s press conference (second row), or secretary’s press conference (third row).
-  * Put **yes** in the _Active_ column for video you want to feature, **no** in the other rows.
-* Change the _Video Title_.
-  * For PSA, this is the title it has in YouTube.
-  * For press conferences, update the date and time it’s going live.
-* Change the _Description_.
-  * For PSA, this is the description it has in YouTube, approved by the Office of the Governor.
-  * For press conferences, use the existing description or the YouTube description if it mentions a specific topic.
-* Change the _Video URL_, _Video ID_ (last part of the YouTube URL), and (if needed) _Image URL_.
-  * [Governor’s YouTube channel](https://www.youtube.com/channel/UCrHSYLKqmLunBzlSfunGDSA)
-  * [California Department of Health and Human Services YouTube channel](https://www.youtube.com/channel/UCFvH-hGEKg2elZ7k-_5eQEg)
-* For PSA, change the _Image Alt Text_ (use the title of video or another helpful descriptor).
-* Do not change the _ButtonText_ (call to action) or _ButtonURL_ (CTA destination).
-* Add the **staging-only** tag and select **Update** to stage.
-* If all looks well on staging, remove the **staging-only** tag and select **Update** to publish.
+1. Choose whether you want to feature a PSA video (first row), Governor’s press conference (second row), or secretary’s press conference (third row).
+  a. Put **yes** in the _Active_ column for video you want to feature and **no** in the other rows.
+2. Change the _Video Title_.
+  a. For a PSA, this is the title in YouTube.
+  b. For press conferences, update the date and time it’s going live.
+3. Change the _Description_.
+  a. For a PSA, this is the description it has in YouTube, approved by the Office of the Governor.
+  b. For press conferences, use the existing description or the YouTube description if it mentions a specific topic.
+4. Change the _Video URL_, _Video ID_ (last part of the YouTube URL), and (if needed) _Image URL_.
+5. For a PSA, change the _Image Alt Text_ (use the title of video or another helpful descriptor).
+6. Do not change the _ButtonText_ (call to action) or _ButtonURL_ (CTA destination).
+7. Add the **staging-only** tag and select **Update** to stage.
+8. If all looks well on staging, remove the **staging-only** tag and select **Update** to publish.
 
 ## Text and link defaults
 
