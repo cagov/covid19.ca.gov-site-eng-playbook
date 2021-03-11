@@ -13,7 +13,7 @@ We host images through github. One of the benefits of this approach is it gives 
 1. Optimize the image using an image optimizer like [Squoosh](https://squoosh.app/).
   a. Smaller images load more easily on lower-performance devices. This is part of our commitment to accessibility.
 3. Give the image a descriptive name so you it's easy to find. Use hyphens between words.
-  a. For example, if the image is of a woman wearing the mask, use the name _woman-wearing-mask.jpg_.
+  a. For example, if the image is a .jpg file of a woman wearing the mask, use the name _woman-wearing-mask.jpg_.
 3. If you're uploading a new version of an image:
   a. Find the current version of your image on the live site. Find a difference between the current version and the one you're uploading so you can confirm the new version uploads.
   b. Rename the updated image so it's the same as the existing image. The name must be identical.
@@ -32,6 +32,6 @@ We host images through github. One of the benefits of this approach is it gives 
 
 ## Translated images
 
-If you have an image with text in different languages, you can upload it so it is displayed automatically on a translated version of the page. Use the same language-specific suffix that is used for PDFs (for example, _--es_ for Spanish). If there is not a language-specific image, the site will default to the English version.
+If you have an image with text in different languages, you can upload it so it's displayed automatically on a translated version of the page. Use the same language-specific suffix that is used for PDFs (for example, _--es_ for Spanish). If there is not a language-specific image, the site will default to the English version.
 
 Use the regular upload process to add your translated image with the appropriate suffix.
