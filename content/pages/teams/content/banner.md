@@ -23,12 +23,12 @@ The banner uses an action button link.
 
 Updating the link in a button requires editing in HTML view in Wordpress. This preserves the custom code that makes the link show up as a button.
 
-* Open the three dot menu for the link block and select **Edit as HTML**.
+1. Open the three dot menu for the link block and select **Edit as HTML**.
 
 ![Edit as HTML option in WordPress block dropdown menu](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/edit-as-html.jpg)
 
-* Replace the link inside the HTML chain (everything inside the quotation marks).
+2. Replace the link inside the HTML chain (everything inside the quotation marks).
 
 ![Example of code to replace inside HTML view](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/button-link-html-replacement.jpg)
 
-* Select **Update** to send the change to production or staging as desired.
+3. Select **Update** to send the change to production or staging as desired.
