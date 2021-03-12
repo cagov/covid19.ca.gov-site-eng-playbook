@@ -1,9 +1,9 @@
 ---
-title: Project Based Research
+title: Project-based research
 date: Last Modified 
 permalink: /teams/rad/research/project-based-research.html
 eleventyNavigation:
-  key: Project Based Research
+  key: Project-based research
   parent: Research
   order: 320
 ---
