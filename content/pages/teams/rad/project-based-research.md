@@ -28,16 +28,16 @@ We used the call center to learn about Spanish speakers' thoughts and feelings a
 
 Here's how we use the call center to recruit interview participants:
 
-| Steps 	| Process 	| Tools 	| Improvements 	| COVID-19 roles and team 	|
+| Steps 	| Process 	| Tools 	|  COVID-19 roles and team 	|
 |-	|-	|-	|-	|-	|
-| Meet with call center coordinator 	| One-time meeting with coordinator to define the flow 	| Spreadsheet, Slack, and email 	| This is a pretty straightforward process as is 	| Researcher and call center coordinator	|
-| Define screener  	| Send email to the call center coordinator and then forward to the call center operators.   	| Email 	| Consider a direct contact with operators 	| Researcher and call center coordinator 	|
-| Call center operators to complete a spreadsheet 	| The operator completes a spreadsheet with screener questions. (This can be a time consuming process for the call center operators, especially when dealing with a high number of incoming calls.) 	| Spreadsheet 	| Redirect the phone call to the researcher. This requires the researcher reserving time in case phone calls are redirected.  	| Call center operators 	|
-| Share with researcher participants information 	| The call center shares every week a list of names with phone numbers and some demographic information. The contact call center operators usually may not collect enough information to identify the best candidates.  	| Spreadsheet 	| Empower operators to use their own judgment to redirect participants 	| Call center operator (Maximus) 	|
-| Request and schedule an interview 	| Most free scheduling tools ask for email addresses and not everyone has one. These free versions also have advertising that undermines the trustworthiness of the process. 	| Text, Calendly, Doodle 	| Redirect callers to the researcher to avoid the pain points in the scheduling tools 	| Researcher 	|
-| Send reminder 	| Some tools require a paid version to access this feature.  	| Text 	| Eliminated by redirecting callers 	| Researcher 	|
+| Meet with call center coordinator 	| One-time meeting with coordinator to define the flow 	| Spreadsheet, Slack, and email 	| Researcher and call center coordinator	|
+| Define screener  	| Send email to the call center coordinator and then forward to the call center operators.   	| Email	| Researcher and call center coordinator 	|
+| Call center operators to complete a spreadsheet 	| The operator either 1) completes a spreadsheet with screener questions. (This can be a time consuming process for the call center operators, especially when dealing with a high number of incoming calls.) or 2) redirects the phone call to the researcher. This requires the researcher reserving time in case phone calls are redirected.	| Spreadsheet   	| Call center operators 	|
+| Share with researcher participants information 	| The call center shares every week a list of names with phone numbers and some demographic information. The contact call center operators usually may not collect enough information to identify the best candidates.  	| Spreadsheet	| Call center operator (Maximus) 	|
+| Schedule an interview or receive the phone call direct from the call center	| Most free scheduling tools ask for email addresses and not everyone has one. These free versions also have advertising that undermines the trustworthiness of the process. 	| Text, Calendly, Doodle  	| Researcher 	|
+| Send reminder 	| Some tools require a paid version to access this feature.  	| Text 		| Researcher 	|
 | Perform interview 	| Interviews are usually 30 minutes.  	| Phone 	|  	| Researcher 	|
-| Send incentive 	| $20 gift cards are sent through Ethnio. This requires the ODI Chief of Administration calling ethnio every time a payment is sent.   	| Ethnio 	| Money can be added to Ethnio that prevents a call for every transaction. 	| Chief of Administration 	|
+| Send incentive 	| $20 gift cards are sent through Ethnio. This requires the ODI Chief of Administration calling ethnio every time a payment is sent.   	| Chief of Administration 	|
 
 ## 🦉 Ethnio intercepts
 
@@ -54,13 +54,13 @@ Projects where we have used ethnio intercepts include:
 
 Here's how to use Ethnio to gather data and recruit interview participants:
 
-| Steps 	| Process 	| Tools 	| Improvements 	| COVID-19 roles and team 	|
+| Steps 	| Process 	| Tools | COVID-19 roles and team 	|
 |-	|-	|-	|-	|-	|
-| Get or renew subscription 	| Pay a subscription 	| Ethnio 	| Ethnio gave us additional features for free due to the nature of our work. 	| Chief of Administration 	|
+| Get or renew subscription 	| Pay a subscription 	| Ethnio	| Chief of Administration 	|
 | Assign seats 	| The Chief of Administration adds or reassigns seats  	| Ethnio 	|  	| Chief of Administration 	|
 | Design study 	| Create a script and screener. You can duplicate an existing one and change the name. 	| Screener 	|  	| Researcher 	|
-| Define recruitment method: intercept, link, or native app intercept.  	| If using an intercept, share the javascript code with the engineering team or page's content captain to add to the desired page. There's no need to share if we use a link.  	| Javascript code 	| It's good practice to remove the code whenever n intercept is turned off. This is good accessibility practice and preserves our limited pageviews.  	| Researcher 	|
-| Turn intercept on 	| There is an on-off switch in the dashboard next to each screener. 	| Ethnio 	|  	| Researcher 	|
+| Define recruitment method: intercept, link, or native app intercept.  	| If using an intercept, share the javascript code with the engineering team or page's content captain to add to the desired page. There's no need to share if we use a link.  	| Javascript code 	| Researcher 	|
+| Turn intercept on 	| There is an on-off switch in the dashboard next to each screener.  It's good practice to remove the code whenever n intercept is turned off. This is good accessibility practice and preserves our limited pageviews.  	| Ethnio 	|  	| Researcher 	|
 | Download responses and create a report 	| Download all responses to either XLSX, CSV, or XML. There is a PDF option with graphs for close-ended questions.  	| Ethnio/ export data 	|  	| Researcher 	|
 
 **Intercept example**
@@ -79,7 +79,7 @@ Projects where we have used user testing include:
 
 Here's how we use user testing sessions to assess usability:
 
-| Steps 	| Process 	| Tools 	| Improvements 	|
+| Steps 	| Process 	| Tools 	| COVID-19 roles and team 	|
 |-	|-	|-	|-	|
 | Get or renew subscription 	| Pay subscription 	| Usertesting.com	| Chief of Administration	|
 | Assign seats 	| Negotiate the numbers of tests and seats 	| Usertesting.com	|  Chief of Administration 	|
