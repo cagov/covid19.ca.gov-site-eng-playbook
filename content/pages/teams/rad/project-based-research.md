@@ -28,7 +28,7 @@ We used the call center to learn about Spanish speakers' thoughts and feelings a
 
 Here's how we use the call center to recruit interview participants:
 
-| **Steps** 	| **Process** 	| **Tools** 	| **Improvements** 	| **COVID-19 roles and team** 	|
+| Steps 	| Process 	| Tools 	| Improvements 	| COVID-19 roles and team 	|
 |-	|-	|-	|-	|-	|
 | Meet with call center coordinator 	| One-time meeting with coordinator to define the flow 	| Spreadsheet, Slack, and email 	| This is a pretty straightforward process as is 	| Researcher and call center coordinator	|
 | Define screener  	| Send email to the call center coordinator and then forward to the call center operators.   	| Email 	| Consider a direct contact with operators 	| Researcher and call center coordinator 	|
@@ -54,30 +54,34 @@ Projects where we have used ethnio intercepts include:
 
 Here's how to use Ethnio to gather data and recruit interview participants:
 
-| Steps 	| Process 	| Tools 	| Improvements 	| Roles and team at covid19 	|
+| Steps 	| Process 	| Tools 	| Improvements 	| COVID-19 roles and team 	|
 |-	|-	|-	|-	|-	|
-| Get or renew a subscription 	| Pay a subscription. 	| ethnio 	| We were able to get additional features for free due to the nature of our work. 	| Chief of Administration 	|
-| Onboard and assign seats 	| The chief of administration needs to manually add or reassign seats  	| ethnio 	|  	| Chief of Administration 	|
-| Design study 	| Create a script and screener or duplicate an existing one and change name 	| screener 	|  	| Researcher 	|
-| Define recruitment method: intercept, link or native app intercept.  	| If choosing an intercept the researcher needs to share the javascript code with the engineer team or content captain for the page to add to the desired page. <br>If choosing a link there is no need to share.  	| javascript code 	| Every time an intercept is turned off it is ideal to request the team to remove the line of javascript. Not only is in favor of accessibility practices but also it consumes pageviews which we have a limited amount per billing cycle.  	| Researcher 	|
-| Turn intercept on 	| There is an on-off switch in the dashboard next to each screener. 	| ethnio 	|  	| Researcher 	|
-| Download responses and create a report 	| Download all responses to: XLSX or CSV or XML. There is also a pdf option with predetermined graphs for closed ended questions.  	| ethnio/ export data 	|  	| Researcher 	|
+| Get or renew subscription 	| Pay a subscription 	| Ethnio 	| Ethnio gave us additional features for free due to the nature of our work. 	| Chief of Administration 	|
+| Assign seats 	| The Chief of Administration adds or reassigns seats  	| Ethnio 	|  	| Chief of Administration 	|
+| Design study 	| Create a script and screener. You can duplicate an existing one and change the name. 	| Screener 	|  	| Researcher 	|
+| Define recruitment method: intercept, link, or native app intercept.  	| If using an intercept, share the javascript code with the engineering team or page's content captain to add to the desired page. There's no need to share if we use a link.  	| Javascript code 	| It's good practice to remove the code whenever n intercept is turned off. This is good accessibility practice and preserves our limited pageviews.  	| Researcher 	|
+| Turn intercept on 	| There is an on-off switch in the dashboard next to each screener. 	| Ethnio 	|  	| Researcher 	|
+| Download responses and create a report 	| Download all responses to either XLSX, CSV, or XML. There is a PDF option with graphs for close-ended questions.  	| Ethnio/ export data 	|  	| Researcher 	|
 
-**Example of an intercept**
+**Intercept example**
 
-![ethnio intercept](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/ethnio-example.jpg)
+![Ethnio intercept](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/ethnio-example.jpg)
 
-## 📝 User Testing
+## 📝 User testing
 
-- We perform **usability testing sessions** with specific audiences to **test the performance of newly launched pages or prototypes**. We use the sessions to evaluate the user experience and uncover usability issues for the specific pages. 
-- We use usertesting.com to observe people as they interact with the page and perform a specific task.
-- **Link**: [usertesting.com](https://www.usertesting.com/)
-- Projects where we have used user testing: homepage redesign, industry guidance page and blueprint page.
-- These are the steps to use User Testing as a tool to perform usability testing sessions.
+We perform usability testing sessions with specific audiences to test the performance of newly launched pages or prototypes. These sessions allow us to evaluate the user experience and uncover usability issues for the specific pages. We use usertesting.com to observe people as they interact with the page and perform specific tasks.
+
+Projects where we have used user testing include:
+
+* [Homepage](https://covid19.ca.gov/) redesign
+* [Industry guidance](https://covid19.ca.gov/industry-guidance/)
+* [Blueprint for a Safer Economy](https://covid19.ca.gov/safer-economy/)
+
+Here's how we use user testing sessions to assess usability:
 
 | Steps 	| Process 	| Tools 	| Improvements 	|
 |-	|-	|-	|-	|
-| Get or renew subscription 	| Pay subscription. 	| user testing	| Chief of Administration	|
-| Assign seats 	| Negotiate the numbers of tests and seats 	| user testing	|  Chief of Administration 	|
-| Define goals and desired outcomes for a specific test 	| Create a script and screener or duplicate an existing one and change name.<br>Define number and type of participants. 	| user testing 	| Researcher, content designer and ux designer 	|
-| Create report and share findings 	| Usertesting records videos and can help create clips. There is a manual process to view videos and incorporate findings in a report 	| google slides & user testing	| Researcher 	|
+| Get or renew subscription 	| Pay subscription 	| Usertesting.com	| Chief of Administration	|
+| Assign seats 	| Negotiate the numbers of tests and seats 	| Usertesting.com	|  Chief of Administration 	|
+| Define goals and desired outcomes for a specific test 	| Create a script and screener (or duplicate an existing one and change the name) and define number and type of participants 	| Usertesting.com 	| Researcher, content designer, and UX designer 	|
+| Create report and share findings 	| Usertesting records videos and can create clips. There is a manual process to view videos and incorporate findings in a report 	| Google Slides and usertesting.com	| Researcher 	|
