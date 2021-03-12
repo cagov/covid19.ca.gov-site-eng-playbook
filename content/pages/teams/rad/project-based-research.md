@@ -8,52 +8,51 @@ eleventyNavigation:
   order: 320
 ---
 
-User experience research methods and activities undertaken to carry out the research of a diverse set of projects.
+We use user experience (UX) research methods and activities across a diverse set of projects:
 
-1. **Call center** as a source of recruitment to perform interviews.
-2. **Ethnio intercepts** to gather data from visitors.
-3. **User Testing** to evaluate the ux and usability of a specific page.
+1. **Call center** as a source of recruitment to perform interviews
+2. **Ethnio intercepts** to gather data from visitors
+3. **User testing** to evaluate the UX and usability of a specific page
 
 We reccomend a collaborative approach across different skill sets to successfully execute each activity. 
 
-### Rubric with needed skills for each tool
-
-- These are the roles/skills we have used when implementing each of the tools mentioned above.
+These are the roles/skills we've used when implementing each of the tools mentioned above:
 
 ![Rubric](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/rubric-project-base.jpg)
 
-
-----
-
 ## 📱 Call Center
-- The **call center** is being used as a **source for recruitment** to reach out to **harder to reach** previously identified groups such as Spanish speaking population who represent a higher % of the total population in California and have been highly impacted by covid-19. 
-- We use the referrals from the call center to perform **interviews**. 
-- Projects where we have used the call center: learning about vaccines from spanish speaking callers.
-- These are the steps to use the call center as a source for recruitment: 
 
-| **Steps** 	| **Process** 	| **Tools** 	| **Improvements** 	| **Roles and team at covid19** 	|
+The call center is a source for recruitment to gather information from groups that are harder-to-reach, like Spanish speakers (who represent a significant percentage of the total population of California and have been highly impacted by COVID-19). We use the referrals from the call center to perform interviews.
+
+We used the call center to learn about Spanish speakers' thoughts and feelings about vaccines.
+
+Here's how we use the call center to recruit interview participants:
+
+| **Steps** 	| **Process** 	| **Tools** 	| **Improvements** 	| **COVID-19 roles and team** 	|
 |-	|-	|-	|-	|-	|
-| Meet with call center coordinator 	| One time meeting with coordinator to define the flow 	| Spreadsheet, slack and email 	| This is a pretty straightforward process 	| Call center coordinator and Researcher	|
-| Define screener  	| Send email to the coordinator and then forward to the call center operators.   	| Email 	| Evaluating a direct contact with operators 	| Researcher and coordinator 	|
-| Ask call center operators to complete a spreadsheet 	| The operator needs to complete a spreadsheet with screener questions.<br>This seems to be a time consuming process for the call center operators, specially when dealing with high number of incoming calls 	| Spreadsheet 	| Redirect the phone call to the researcher. The researcher will have to put time on hold in case phone calls are redirected.  	| Call center operators 	|
-| Share with researcher participants information 	| The call center shares every week a list of names with phone numbers and some demographic information. <br>Oftentimes the contact information is not enough to make an informed decision about best candidates in terms of recruiting a diverse pool. <br>Call center operators don’t ask for a lot of demographic information.  	| Spreadsheet 	| With the new flow, the operator will use his/her/they own judgment to redirect participants 	| Call center operator (Maximus) 	|
-| Send text message to participants to request to choose a time and date to be interviewed 	| Most scheduling tools that are free do ask for email addresses which not everyone that calls the call center have.  These free versions also have a lot of advertising which undermines the trustworthiness of the process. 	| Scheduling tools: calendly, doodle 	| By having someone redirecting in real time phone calls to the researcher we avoid the struggles and pain points around the scheduling tools. 	| Researcher 	|
-| Send reminder 	| Some tools require you to have the paid version to access this feature.  	| Text 	| No need to do that with new flow. 	| Researcher 	|
-| Perform interview 	| A 30 minute interview is performed  	| Phone 	|  	| Researcher 	|
-| Pay incentive 	| Once the interview is finished the participant will receive a $20 gift card sent from ethnio software tool. One big pain point is due to the way our credit card is set up our chief of administration needs to call ethnio every time a payment is sent.   	| Ethnio 	| If ethnio is something we want to keep using we could add money to the platform and we will not have to call after every transaction. 	| Chief of Administration 	|
+| Meet with call center coordinator 	| One-time meeting with coordinator to define the flow 	| Spreadsheet, Slack, and email 	| This is a pretty straightforward process as is 	| Researcher and call center coordinator	|
+| Define screener  	| Send email to the call center coordinator and then forward to the call center operators.   	| Email 	| Consider a direct contact with operators 	| Researcher and call center coordinator 	|
+| Call center operators to complete a spreadsheet 	| The operator completes a spreadsheet with screener questions. (This can be a time consuming process for the call center operators, especially when dealing with a high number of incoming calls.) 	| Spreadsheet 	| Redirect the phone call to the researcher. This requires the researcher reserving time in case phone calls are redirected.  	| Call center operators 	|
+| Share with researcher participants information 	| The call center shares every week a list of names with phone numbers and some demographic information. The contact call center operators usually may not collect enough information to identify the best candidates.  	| Spreadsheet 	| Empower operators to use their own judgment to redirect participants 	| Call center operator (Maximus) 	|
+| Request and schedule an interview 	| Most free scheduling tools ask for email addresses and not everyone has one. These free versions also have advertising that undermines the trustworthiness of the process. 	| Text, Calendly, Doodle 	| Redirect callers to the researcher to avoid the pain points in the scheduling tools 	| Researcher 	|
+| Send reminder 	| Some tools require a paid version to access this feature.  	| Text 	| Eliminated by redirecting callers 	| Researcher 	|
+| Perform interview 	| Interviews are usually 30 minutes.  	| Phone 	|  	| Researcher 	|
+| Send incentive 	| $20 gift cards are sent through Ethnio. This requires the ODI Chief of Administration calling ethnio every time a payment is sent.   	| Ethnio 	| Money can be added to Ethnio that prevents a call for every transaction. 	| Chief of Administration 	|
 
+## 🦉 Ethnio intercepts
 
----
+We use [Ethnio](https://ethn.io) intercepts to gather feedback from existing visitors we are unable to reach out with other tools. Circumstances and context matter in user research, and someone who’s using the website in real time, for real purposes, will behave differently than someone who’s being told to accomplish some task via other platforms. We also use Ethnio intercepts as a source for recruitment./ 
 
-## 🦉 Ethnio Intercepts
+We also use Ethnio to uncover visitor's context of use and motivations when using the site. We use this information to better address those contexts and perform interviews to dig deeper into those motivations. 
 
-- We use **ethnio intercepts** to **gather feedback from existing visitors we are unable to reach out with other tools**. Circumstances and context matter in user research, and someone who’s using the website in **real time, for real purposes**, is going to behave differently than someone who’s just being told to accomplish some task via other platforms. We also use ethnio intercepts as a **source for recruitment** 
-- We use ethnio to **uncover visitor's context of use and motivations when using the site**. We use this information to better address those contexts and **perform interviews** to dig deeper into those motivations. 
-- **Link**: [ethnio](https://ethn.io)
-- Projects where we have used ethnio intercepts: vaccines page (english and spanish), health equity page, industry guidance page and help for seniors.
-- These are the steps to use ethnio as a source for recruitment and data gathering tool: 
+Projects where we have used ethnio intercepts include:
 
+* [Vaccines](https://covid19.ca.gov/vaccines/) (English and Spanish)
+* [Health equity](https://covid19.ca.gov/equity/)
+* [Industry guidance](https://covid19.ca.gov/industry-guidance/)
+* [Help for older adults](https://covid19.ca.gov/help-for-seniors/)
 
+Here's how to use Ethnio to gather data and recruit interview participants:
 
 | Steps 	| Process 	| Tools 	| Improvements 	| Roles and team at covid19 	|
 |-	|-	|-	|-	|-	|
@@ -67,9 +66,6 @@ We reccomend a collaborative approach across different skill sets to successfull
 **Example of an intercept**
 
 ![ethnio intercept](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/ethnio-example.jpg)
-
-
----
 
 ## 📝 User Testing
 
@@ -85,10 +81,3 @@ We reccomend a collaborative approach across different skill sets to successfull
 | Assign seats 	| Negotiate the numbers of tests and seats 	| user testing	|  Chief of Administration 	|
 | Define goals and desired outcomes for a specific test 	| Create a script and screener or duplicate an existing one and change name.<br>Define number and type of participants. 	| user testing 	| Researcher, content designer and ux designer 	|
 | Create report and share findings 	| Usertesting records videos and can help create clips. There is a manual process to view videos and incorporate findings in a report 	| google slides & user testing	| Researcher 	|
-
----
-
-
-
-
-
