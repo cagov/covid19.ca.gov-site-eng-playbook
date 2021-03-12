@@ -1,10 +1,10 @@
 ---
-title: Industry Guidance page
+title: Industry guidance
 date: Last Modified 
 permalink: /teams/rad/industry-guidance.html
 eleventyNavigation:
-  key: Industry Guidance
-  parent: Sample Projects
+  key: Industry guidance
+  parent: Sample projects
   order: 375
 ---
 
