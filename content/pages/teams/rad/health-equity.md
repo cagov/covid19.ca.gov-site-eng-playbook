@@ -1,10 +1,10 @@
 ---
-title: Health Equity Page
+title: Health equity
 date: Last Modified 
 permalink: /teams/rad/health-equity.html
 eleventyNavigation:
-  key: Health Equity
-  parent: Sample Projects
+  key: Health equity
+  parent: Sample projects
   order: 385
 ---
 
