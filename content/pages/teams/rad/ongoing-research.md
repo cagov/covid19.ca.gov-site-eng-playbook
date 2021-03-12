@@ -8,87 +8,76 @@ eleventyNavigation:
   order: 340
 ---
 
-Ongoing UX methods and activities undertaken to carry out the collection of feedback from our visitors.  
+Our ongoing UX methods and activities to collect feedback from our visitors include:
 
-1. **Per page feedback** to gather feedback at a page level.
-2. **NPI** to gather longitudinal data.
-3. **Feedback survey** to gather comments about the overall website.
-4. **UX Audit** to review user flows across pages.
+* **Per page feedback** to gather feedback at a page level
+* **NPI** to gather longitudinal data
+* **Feedback survey** to gather comments about the overall website
+* **UX audits** to review user flows across pages
 
 We reccomend a collaborative approach across different skill sets to execute each activity. 
 
-## Rubric with needed skills for each tools
-This rubric will help the researcher identify skills/roles recommended to use each tool.
+This rubric identifies skills and roles recommended to use each tool.
 
 ![Rubric](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/rubric-ongoing-base.jpg)
 
----
+## 🗒️ Per page feedback
 
-## 🗒️ Per Page Feedback
-- We use this feature to capture **user feedback at a per page level** in order to better understand what pages are useful, what within the page is meanigful, confusing, distracting and how we can improve **to make them relevant to user needs**. 
-- We use a **native form with daily comments hosted on github** and **google sheets with a weekly syntehsis and analysis** with responses collected from a link we host on ethnio.
-- **Links**: [sheets](https://docs.google.com/spreadsheets/d/1vFK8Xw41JThyJUa6M0Lv4qvAoJ-TQ4VK-TUc82FVFZA/edit#gid=1414096076) and [github](https://cagov.github.io/comment-reports/?code=Hv0cGBn1ysN97obrScf5awD1lZUs6JDyctdTmJgoAE6Py9bjy1foag==#filterA)
-- These are the steps to use the per page feedback feature:
+We capture user feedback at a per page level to better understand what pages are useful; what on the page is meaningful, confusing, or distracting; and how we can make them relevant to user needs. We use a native form with daily comments hosted on [github](https://cagov.github.io/comment-reports/?code=Hv0cGBn1ysN97obrScf5awD1lZUs6JDyctdTmJgoAE6Py9bjy1foag==#filterA) and weekly synthesis and anlysis on [Google Sheets](https://docs.google.com/spreadsheets/d/1vFK8Xw41JThyJUa6M0Lv4qvAoJ-TQ4VK-TUc82FVFZA/edit#gid=1414096076), combined with responses collected through a related Ethnio survey.
 
+Here's how we create the per page feedback reports:
 
 | Steps 	| Process 	| Tools 	| Improvements 	| Team 	|
 |-	|-	|-	|-	|-	|
-| Export feedback data and import in system 	| The data goes into Azure Cosmos DB (a cross region, managed database). We have a little webpage with a few web components on it in this  [repo](https://github.com/cagov/comment-reports)  that hits the cosmos db api and pulls out the data with query params	| Simple graph views based on our APIs hosted on github pages 	|  	| Engineer 	|
-| Review data 	| Public facing: access data searchable by date, content captain and url<br>Every captain reviews their pages<br>Researcher reviews homepage  	| [webpage](https://cagov.github.io/comment-reports/?code=Hv0cGBn1ysN97obrScf5awD1lZUs6JDyctdTmJgoAE6Py9bjy1foag==#filterA)	|  	| Content captains 	|
-| Download data from ethnio links 	| Additional information is collected with an ethnio link: download data from surveys on a weekly basis 	| Ethnio + spreadsheet 	| If we had the enterprise subscription we could use the API and create an automatic download.  	| Data analyst  	|
-| Import data to spreadsheet 	| We created a [template](https://docs.google.com/spreadsheets/d/1vFK8Xw41JThyJUa6M0Lv4qvAoJ-TQ4VK-TUc82FVFZA/edit#gid=1414096076) to visualize the data from ethnio  	| Spreadsheet 	|  	| Analyst  	|
-| Share template with team 	| Every week we share the dashboard + themes and findings from previous week  	| Email + slack 	|  	| Researcher and data analyst 	|
+| Export feedback data and import into system 	| The data goes into Azure Cosmos DB (a cross region, managed database). We have a webpage with a few components in this  [repo](https://github.com/cagov/comment-reports) that hits the cosmos db api and pulls out the data with query params	| Simple graph views based on our APIs hosted on github pages 	|  	| Engineer 	|
+| Review data 	| Public facing: access data searchable by date, content captain and URL. Every captain reviews their pages and the Researcher reviews homepage.  	| [Per page feedback data site](https://cagov.github.io/comment-reports/?code=Hv0cGBn1ysN97obrScf5awD1lZUs6JDyctdTmJgoAE6Py9bjy1foag==#filterA)	|  	| Content captains and Researcher 	|
+| Download data from Ethnio 	| Download data from surveys on a weekly basis 	| Ethnio + spreadsheet 	| With an enterprise subscription we could use the API and create an automatic download  	| Data analyst  	|
+| Import data to spreadsheet 	| We created a [template](https://docs.google.com/spreadsheets/d/1vFK8Xw41JThyJUa6M0Lv4qvAoJ-TQ4VK-TUc82FVFZA/edit#gid=1414096076) to visualize the data from Ethnio  	| Spreadsheet 	|  	| Analyst  	|
+| Share report with team 	| Every week we share the dashboard and themes and findings from previous week  	| Email + Slack 	|  	| Researcher and data analyst 	|
 
-
-**Example of our feature**
+Here's what per page feedback looks like in production:
 
 ![Per page feedback](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/per-page.jpg)
 
-## Link to documents:
-- [PRD](https://docs.google.com/document/d/13v2skLxkah2Jh_7HLytNqnwUlyHkOhe23v5gWNHol4w/edit#heading=h.49bsm1xjzv4h)
-- [Document tracking iterations & improvements](https://docs.google.com/document/u/1/d/18GJtj2nrW_Hs9S7GuSGn15LaKUJaorjXYm7mc041mxE/edit)
+### Link to documents
 
----
+* [PRD](https://docs.google.com/document/d/13v2skLxkah2Jh_7HLytNqnwUlyHkOhe23v5gWNHol4w/edit#heading=h.49bsm1xjzv4h)
+* [Document tracking iterations & improvements](https://docs.google.com/document/u/1/d/18GJtj2nrW_Hs9S7GuSGn15LaKUJaorjXYm7mc041mxE/edit)
 
 ## 🌡️ NPI Survey
 
-- We use the **NPI survey** to gather longitudinal data from visitors to covid19.ca.gov and ca.gov to **discover how attitudes and behaviors change as influenced by changes in policy, local and/or state economy** and other factors.
-- We showcase the link to the survey to every 50th visitor on covid19.ca.gov (homepage) and static link in ca.gov (homepage)
-- **Link**: https://www.surveymonkey.com/
-- These are the steps to create and update the NPI survey:
+We use the NPI survey to gather longitudinal data from visitors to covid19.ca.gov and ca.gov to discover how attitudes and behaviors change in response to changes in policy, local, and/or state economy and other factors. We present the link to the survey to every 50th visitor on the covid19.ca.gov homepage and every visitor to the ca.gov homepage. This survey is maintained through [SurveyMonkey](https://www.surveymonkey.com/).
 
-
+Here's how we create and update the NPI survey:
 
 | Steps 	| Process 	| Tools 	| Improvements 	| Team 	|
 |-	|-	|-	|-	|-	|
-| Design survey 	| The insights team designed the first version early on in March. Most questions remain the same to gather longitudinal data.  <br>We work with the engineering team if we want to make changes to the frequency. Currently delivering to every 50th visitor on covid19.ca.gov and a static link on ca.gov site 	| SurveyMonkey 	|  	| Insights team and <br>Researcher 	|
-| Meet weekly 	| The insights team and some external volunteers meet on a weekly basis to discuss results and future iterations 	| Google meets 	|  	| Insights team, researcher , volunteers 	|
-| Dump data daily on spreadsheet 	| Every weekday morning we download SurveyMonkey data from the NPI survey from the previous day from 12:00 am to 11:59 pm and then uploads it to the NPI raw data sheet with a new date 	| [NPI raw data sheet](https://docs.google.com/spreadsheets/d/1mVNx5z21wByufIULhd0HVaFVhODgSzxHvPPVyBdyAxU/edit?pli=1#gid=1397690428) 	|  	| Aanyone with access to surveymonkey 	|
-| Review open ended questions to gather quotes 	| Insights team will review open ended questions to gather quotes for the GO book which is deliver weekly.  The criteria to choose quotes is a balance between constant and frequently mentioned themes, new themes we want to surface and edge cases that we should shed light on 	|  	| Opportunity to follow up with interviews with participants who opted to provide email. Since 11/1 we collect emails but haven’t done much with it. 	| Insights team, researcher 	|
+| Design survey 	| The Insights team designed the first version early on in March. Most questions remain the same to gather longitudinal data. We work with the engineering team to make changes to the frequency it's shown to visitors. 	| SurveyMonkey 	|  	| Insights team and Researcher 	|
+| Meet weekly 	| The Insights team and some external volunteers meet to discuss results and future iterations 	| Google Meet or Zoom 	|  	| Insights team, researcher, volunteers 	|
+| Dump data daily on spreadsheet 	| Every weekday morning we download SurveyMonkey data from the NPI survey from the previous day from 12:00 am to 11:59 pm and then upload it to the NPI raw data sheet with a new date 	| [NPI raw data sheet](https://docs.google.com/spreadsheets/d/1mVNx5z21wByufIULhd0HVaFVhODgSzxHvPPVyBdyAxU/edit?pli=1#gid=1397690428) 	|  	| Aanyone with access to SurveyMonkey 	|
+| Review open ended questions and gather quotes 	| Insights team reviews open-ended questions to gather quotes for the GO book (delivered weekly). Quotes are chosen to reflect constant and frequent themes, new themes we want to surface, and edge cases we want to shed light on. 	|  	| Opportunity to follow up with interviews with participants who provided their email. We began collecting emails on November 1, 2020, but have not done much with them. 	| Insights team, researcher 	|
 
 ![Example of our NPI](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/NPI.jpg)
 
-
 ---
 
-## 🚧 Feedback Survey (Footer)
+## 🚧 Feedback survey (footer)
 
-- We add a **survey link** on the footer to provide a place on the website for visitors to **give general website feedback, suggestions and comments**.  
-- **Link**:  SurveyMonkey
-- These are the steps to update the survey:
+We have a survey link in the footer for visitors to give general website feedback, suggestions, and comments. This is also maintained through SurveyMonkey.
+
+Here's how to update the survey:
 
 | Steps 	| Process 	| Tools 	| Team 	|
 |-	|-	|-	|-	|
-| Design survey and/or edit questions 	| Over time we have made some edits to the questions to avoid cannibalization with other sources of feedback  	| Google docs + SurveyMonkey 	| Researcher 	|
-| Dump data daily 	|  Download the data from SurveyMonkey and upload it [here](https://docs.google.com/spreadsheets/d/1W_rowHqsi1kIEEUkkbyjdoWcDhGuf4ctj44nER5aDxU/edit#gid=325946802). Read through the feedback each morning 	| Spreadsheet 	| Anyone with access to SurveyMonkey 	|
-| Review comments daily 	| Share meaningful comments with the team, mostly via slack channel 	| Slack or standup 	| Anyone with access to SurveyMonkey 	|
-
+| Design survey or edit questions 	| We have edited the questions to avoid cannibalization of other sources of feedback  	| Google Docs and SurveyMonkey 	| Researcher 	|
+| Dump data daily 	|  Download the data from SurveyMonkey and upload it to the [Google Sheet](https://docs.google.com/spreadsheets/d/1W_rowHqsi1kIEEUkkbyjdoWcDhGuf4ctj44nER5aDxU/edit#gid=325946802). Read the feedback each morning. 	| Spreadsheet 	| Anyone with access to SurveyMonkey 	|
+| Review comments daily 	| Share meaningful comments with the team via Slack channel 	| Slack or standup 	| Anyone with access to SurveyMonkey 	|
 
 ![Example of our Feedback link](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/Footer.jpg)
 
 ---
 
-## 🔏 UX Auditing
+## 🔏 UX audits
 
 
 - We perform an **ux audit** to **identify common pain points across key user flows**. The audit's goal is to uncover pain points, roadbloacks and success points when performing a task. With this information we can then improve the overall flow, instead of just focusing on a specific page. 
