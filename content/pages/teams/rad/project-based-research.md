@@ -29,7 +29,7 @@ We used the call center to learn about Spanish speakers' thoughts and feelings a
 Here's how we use the call center to recruit interview participants:
 
 | Steps 	| Process 	| Tools 	|  COVID-19 roles and team 	|
-|-	|-	|-	|-	|-	|
+|-	|-	|-	|-	|
 | Meet with call center coordinator 	| One-time meeting with coordinator to define the flow 	| Spreadsheet, Slack, and email 	| Researcher and call center coordinator	|
 | Define screener  	| Send email to the call center coordinator and then forward to the call center operators.   	| Email	| Researcher and call center coordinator 	|
 | Call center operators to complete a spreadsheet 	| The operator either 1) completes a spreadsheet with screener questions. (This can be a time consuming process for the call center operators, especially when dealing with a high number of incoming calls.) or 2) redirects the phone call to the researcher. This requires the researcher reserving time in case phone calls are redirected.	| Spreadsheet   	| Call center operators 	|
@@ -55,7 +55,7 @@ Projects where we have used ethnio intercepts include:
 Here's how to use Ethnio to gather data and recruit interview participants:
 
 | Steps 	| Process 	| Tools | COVID-19 roles and team 	|
-|-	|-	|-	|-	|-	|
+|-	|-	|-	|-	|
 | Get or renew subscription 	| Pay a subscription 	| Ethnio	| Chief of Administration 	|
 | Assign seats 	| The Chief of Administration adds or reassigns seats  	| Ethnio 	|  	| Chief of Administration 	|
 | Design study 	| Create a script and screener. You can duplicate an existing one and change the name. 	| Screener 	|  	| Researcher 	|
