@@ -1,10 +1,10 @@
 ---
-title: Homepage Redesign
+title: Homepage redesign
 date: Last Modified 
 permalink: /teams/rad/homepage.html
 eleventyNavigation:
   key: Homepage Redesign
-  parent: Sample Projects
+  parent: Sample projects
   order: 365
 ---
 
