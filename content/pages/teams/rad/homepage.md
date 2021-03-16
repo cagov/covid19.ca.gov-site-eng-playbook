@@ -29,7 +29,7 @@ The main challenge with this iteration of the homepage was “realignment”. Th
 
 Old version           |  New design
 :-------------------------:|:-------------------------:
-![Older version](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/older-version.jpg)  |  ![New design](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/new-design.jpg)
+![Older version of the covid19.ca.gov homepage](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/older-version.jpg) | ![New design of the covid19.ca.gov homepage](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/new-design.jpg)
 
 ## Timeline
 
@@ -81,7 +81,7 @@ You have been taken to a new page about COVID-19. Please give honest feedback ab
 
 We syntehsized each usability testing session after reviewing the videos. We took notes directly into a Google Doc and coded the data with task completion scores into a spreadsheet. We also used this opportunity to highlight relevant quotes. 
 
-![Homepage](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/coding.jpg)
+![Matrix of feedback from participants](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/coding.jpg)
 
 ## Outputs and deliverables
 
