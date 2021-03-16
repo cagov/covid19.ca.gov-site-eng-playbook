@@ -13,7 +13,7 @@ That's why we take time in the day to create a supportive, fun culture that help
 
 ## Appreciations
 
-We created an entire Slack channel dedicated to thanking people for going above and beyond, significant accomplishments (like feature or page launches), or for just being a good person.
+We created an entire Slack channel dedicated to thanking people for going above and beyond, significant accomplishments (like feature or page launches), or for just being a good person. These notes helped the mood stay fun and supportive even when things were tough. Consistently recognizing others strengthened the supportive culture of the team.
 
 ## The question of the day
 
