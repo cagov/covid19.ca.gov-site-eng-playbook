@@ -1,7 +1,7 @@
 ---
 title: The secret fun section
 date: Last Modified 
-permalink: /components/fun.html
+permalink: /fun.html
 eleventyNavigation:
   key: Fun
   order: 998
