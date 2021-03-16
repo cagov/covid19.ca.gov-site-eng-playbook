@@ -77,7 +77,7 @@ What do you want to know about your county? Now, scroll down to the map. Search 
 
 We syntehsized each usability testing session after reviewing the videos. We took notes directly into a Google Doc and coded the data about tasks into a spreadsheet. We also highlighted relevant quotes. 
 
-![Homepage](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/coding-blueprint.jpg)
+![Matrix of participant feedback](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/coding-blueprint.jpg)
 
 ## Outputs and deliverables
 
