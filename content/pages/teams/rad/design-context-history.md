@@ -12,7 +12,7 @@ Since launching covid19.ca.gov, the website has gone through 3 main design revis
 
 ## V1
 
-covid19.ca.gov was launched in March 2020 when the first Stay Home Order was announced. The design was largely based on the design of alpha.ca.gov].
+covid19.ca.gov was launched in March 2020 when the first Stay Home Order was announced. The design was largely based on the design of alpha.ca.gov.
 
 ![Screeshot of V1 homepage](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/content/images/website-design-01.png)
 
