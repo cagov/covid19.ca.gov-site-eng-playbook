@@ -8,41 +8,42 @@ eleventyNavigation:
   order: 410
 ---
 
-
-## Overview
-
-Design on covid19.ca.gov collaborates with [Research](https://teamdocs.covid19.ca.gov/teams/rad/research.html), [Content](https://teamdocs.covid19.ca.gov/teams/content/), [Product](https://teamdocs.covid19.ca.gov/teams/product/) and [Engigneering](https://teamdocs.covid19.ca.gov/teams/engineering/) teams to visualize and prototype website updates.
+Design on covid19.ca.gov collaborates with the [research](https://teamdocs.covid19.ca.gov/teams/rad/research.html), [content](https://teamdocs.covid19.ca.gov/teams/content/), [product](https://teamdocs.covid19.ca.gov/teams/product/) and [engigneering](https://teamdocs.covid19.ca.gov/teams/engineering/) teams to visualize and prototype website updates.
 
 The design team offers the following competencies:
-- User Experience Strategy: ability to translate research insights and business requirements into accessible and user-friendly online experiences.
-- User Interface Design: ability to design and prototype high-fidelity mockups for desktop and mobile websites and maintain a library of UI patterns.
-- Brand and Visual Design: ability to design and apply a consistent look and feel across channels and platforms.
 
-Day to day, design does the following types of work:
+* User experience strategy: translate research insights and business requirements into accessible and user-friendly online experiences
+* User interface design: design and prototype high-fidelity mockups for desktop and mobile websites and maintain a library of UI patterns
+* Brand and visual design: design and apply a consistent look and feel across channels and platforms
 
-### Custom page designs
-Design helps conceptualize and prototype new pages or features that can not be created by the content team in Wordpress (i.e. anything that would require engineering support). This ensures that the team can explore a range of ideas, test with users, and collect stakeholder feedback before investing in engineering resources. Examples of custom page designs include the Health [Equity Dashboard](https://covid19.ca.gov/equity/), [State Dashboard](https://covid19.ca.gov/state-dashboard/), and [Blueprint page](https://covid19.ca.gov/safer-economy).
+Day-to-day, design does the following types of work:
 
-### Custom visual assets and page components
-Design helps create unique visual assets that support the Content Team in their ability to present information. Examples include the overview of vaccine phases on the [Vaccine page](https://staging.covid19.ca.gov/vaccines/) or the visual assets on the [Contact Tracing page](https://covid19.ca.gov/contact-tracing/).
+## Custom page designs
 
-### Design system and documentation 
-Design maintains a library of styles and components to ensure a consistent user experience and efficient use of resources by leveraging existing components when possible. The design teams maintains this in [Figma](https://www.figma.com/file/LrzsOu8U5KcMAjJTQ1O3BG/covid19.ca.gov-screens?node-id=63%3A17). Engineering has similar documentation in [Storybook](https://wonderful-plant-07a82e81e.azurestaticapps.net/?path=/story/welcome--page).
+Design conceptualizes and prototypes new pages or features that cannot be created by the content team in WordPress (usually anything that requires engineering support to build). This ensures that the team can explore a range of ideas, test with users, and collect stakeholder feedback before investing in engineering resources. Examples of custom page designs include the [health equity dashboard](https://covid19.ca.gov/equity/), [state dashboard](https://covid19.ca.gov/state-dashboard/), and [Blueprint page](https://covid19.ca.gov/safer-economy).
 
-### Content Feedback and Collaboration 
-Design provides feedback and guidance on page designs led by the content team. These are often pages that do not require engineering support and be created by the content team in Wordpress. Examples of these include the [Restrictions page](https://covid19.ca.gov/stay-home-except-for-essential-needs/) and the [Holidays page](https://covid19.ca.gov/holidays/).
+## Custom visual assets and page components
 
-### Research support 
-Design collaborates on research by helping think through research approaches, creating prototypes and translating findings into approaches for new designs.
+Design creates unique visual assets that support the presentation of information. Examples include the overview of vaccine phases on [Vaccines](https://staging.covid19.ca.gov/vaccines/) or the visual assets on the [Contact Tracing](https://covid19.ca.gov/contact-tracing/).
 
-### Product strategy
-Design collaborates with the Product Team by contributing to product decisions on how to approach new requests from stakeholders and also alignment with external campaigns or other State sites. 
+## Design system and documentation 
 
+Design maintains a library of styles and components to ensure a consistent user experience and efficient use of resources by leveraging existing components when possible. The design team maintains this in [Figma](https://www.figma.com/file/LrzsOu8U5KcMAjJTQ1O3BG/covid19.ca.gov-screens?node-id=63%3A17). Engineering has similar documentation in [Storybook](https://wonderful-plant-07a82e81e.azurestaticapps.net/?path=/story/welcome--page).
+
+## Content feedback and collaboration
+
+Design provides feedback and guidance on page designs led by the content team. These are often pages that do not require engineering support and are created by the content team in WordPress. Examples of these include [Restrictions](https://covid19.ca.gov/stay-home-except-for-essential-needs/) and [Holidays](https://covid19.ca.gov/holidays/).
+
+## Research support
+
+Design collaborates on research by helping think through research approaches, creating prototypes, and translating findings into approaches for new designs.
+
+## Product strategy
+
+Design collaborates with the product team by contributing to product decisions on how to approach new requests from stakeholders and align with external campaigns or other State sites. 
 
 ## What's in this guide
 
-1. [Context](https://teamdocs.covid19.ca.gov/teams/rad/design-context-history.html) about the evolution of the design of [covid19.ca.gov](https://covid19.ca.gov)
-2. Instructions on how to use the [style guide](https://teamdocs.covid19.ca.gov/teams/rad/design-style-guide.html)
+1. [Context](https://teamdocs.covid19.ca.gov/teams/rad/design-context-history.html) about the evolution of the design of covid19.ca.gov
+2. How to use the [style guide](https://teamdocs.covid19.ca.gov/teams/rad/design-style-guide.html)
 3. Overview of [process and tools](https://teamdocs.covid19.ca.gov/teams/rad/design-process-and-tools.html)
-
-
