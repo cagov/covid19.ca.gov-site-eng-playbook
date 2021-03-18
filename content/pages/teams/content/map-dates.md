@@ -5,7 +5,7 @@ permalink: /teams/content/map-dates.html
 eleventyNavigation:
   key: Map dates
   parent: Blueprint
-  order: 253
+  order: 254
 ---
 
 The county map on [Blueprint for a Safer Economy](https://covid19.ca.gov/safer-economy/) and the [state dashboard](https://covid19.ca.gov/state-dashboard/) has two dates that must be updated whenever new tier assignments are released. These updates are made in a WordPress post that updates both locations at once.
