@@ -1,104 +1,107 @@
 ---
-title: Airtable (Lessons learned)
+title: Airtable (lessons learned)
 date: 2021-03-04
 permalink: /teams/engineering/airtable-lessons-learned/
 toc: true
 eleventyNavigation:
-  key: Airtable (Lessons learned)
+  key: Airtable (lessons learned)
   parent: Engineering
   order: 110
 ---
 
-We explored how Airtable might be used for helping to make government communicate more efficiently, and wanted to document some lessons we learned about how to use Airtable responsibly in a project.
-
-We are using Airtable to track and manage State industry guidance PDFs across multiple government agencies.
+We're using Airtable to track and manage state industry guidance PDFs across multiple government agencies. These are the lessons we learned about how to use Airtable responsibly to help goverment communicate more effectively.
 
 ## Highlights
+
 [Airtable](https://airtable.com) is a flexible and easy-to-use collaborative spreadsheet. 
 
-* Airtable allows you to collaboratively build structured data, and provides an API out of the box. 
-* Airtable also hosts a robust [Marketplace](https://airtable.com/universe/category/government-and-politics) of templates for small businesses, as well as government agencies. These templates are interesting because they offer a way of sharing process tools with others with similar needs.
+* Airtable allows you to collaboratively build structured data and provides an API out of the box. 
+* Airtable also hosts a robust [Marketplace](https://airtable.com/universe/category/government-and-politics) of templates for small businesses and government agencies. These templates offer a way of sharing process tools with others with similar needs.
 
 ## Useful features of Airtable
 
-### Airtable is a "super-charged" spreadsheet
+### Airtable is a super-charged spreadsheet
 
-* More collaborative than sharing an Excel file. 
-* Similar to Google Sheets & its associated API tools, but structured.
-* Collaborative, structured data. Airtable fills a need for structured, web friendly data for collaborative teams without the time or resources to build a full database system.
-* "Low" to "No-code" tools. Teams can easily edit the system with out requiring coding. A JavasScript based "App Scripting" tool allows more powerful data processing. Their framework supports a basic fetch request.
-* Great filtering tool. The filters provide a clean and beautiful interface for quickly searching and filtering data. 
-* Powerful "Views" - let you store, name and share your filtered results.
+* It's more collaborative than sharing an Excel file. 
+* It's similar to Google Sheets & its associated API tools, but structured.
+* You have collaborative, structured data. Airtable fills a need for structured, web-friendly data for collaborative teams without the time or resources to build a full database system.
+* Airtable has low to no-code tools. Teams can easily edit the system without knowing how to code. A JavasScript-based "App Scripting" tool allows more powerful data processing. Their framework supports a basic fetch request.
+* It's a great filtering tool. The filters provide a clean and beautiful interface for quickly searching and filtering data. 
+* The powerful views let you store, name, and share your filtered results.
 
 ### Integrations
 
-* Slack notifications are easy to configure & "no-code": you can set up field level notifications easily.
+* Slack notifications are easy to configure & "no-code. You can set up field level notifications easily.
 * A system of Automations allows email notifications as well as integrations with other notifications services.
-* A suite of useful Apps. These include chart visualizations, CSV importers, ability to embed a webpage and more.
-* Provides and API with excellent auto-generated documentation. Any CSV you add automatically gets a simple REST API endpoint, even with free accounts. While this is rate limited and might be expensive for high-volume sites, it's incredibly useful for developing small applications. For covid19.ca.gov, we will feed our API endpoints into Github actions, and publish the resulting JSON to our static file server.
+* There's a suite of useful apps. These include chart visualizations, CSV importers, and the ability to embed a webpage.
+* It provides an API with excellent auto-generated documentation. Any CSV you add automatically gets a simple REST API endpoint, even with free accounts. While this is rate limited and might be expensive for high-volume sites, it's incredibly useful for developing small applications. For covid19.ca.gov, we feed our API endpoints into Github actions and publish the resulting JSON to our static file server.
 
-### What we've built with Airtable
+## What we've built with Airtable
 
-* COVID-19 State industry guidance PDF tracking & publishing system. We have created a system of Airtable bases to help with inter-agency communication of a large set of PDF documents. This system uses multiple bases connected by Automations to provide visibility in a process of tracking upcoming PDF files. 
-* [Data dictionary](https://github.com/cagov/data-dictionary-airtable) An app script to create auto-generated data dictionaries for any Airtable base. (Internal @cagov repo). We worked with Shivani Bose-Varela from the California State Library California Research Bureau to provide data dictionaries for our agency partners & automated the data dictionaries so that our many edits and revisions to Airtable could be easily exported to Google Docs for team review. This also lets you export your fields and configurations data so that you could rebuild on another system if needed.
-* Project data-package generator - Helping to modernize how teams communicate about data assets used in a web project. Our COVID-19 project uses ~50 data sets of different types. Using Airtable we were able to wrangle data documentation from different team members, using Airtable to export Google Sheets for individuals to fill in & re-import their responses using the CSV importer tool. Then, using the Airtable API, we connected the base to our Github repository & output a `data-package.json` file with all of the required data documentation fields from the Open Data handbook, the Frictionless data schema, an a few additional data sources we use.
-* Content Design API for Figma - We looked into using Airtable to create sample data for designers or Storybook prototypes. We are interested to see how autogenerated API data from tools like Wordpress or Airtable might be fed into design prototypes like Figma using the JSONtoFigma plugin. Live data in design files has been historically difficult to achieve, but any improvements in this area will help with getting higher fidelity prototypes using more representative data out for user feedback much earlier in the process. So far it seems like this is best for "flat" data, such as feeding content into social media card templates, or for organizing sample data with a team using a CSV file & using Airtable to quickly publish an API.
+* COVID-19 state industry guidance PDF tracking & publishing system: we created a system of Airtable bases to help with inter-agency communication of a large set of PDF documents. This system uses multiple bases connected by Automations to provide visibility in a process of tracking upcoming PDF files. 
+* The [Data dictionary](https://github.com/cagov/data-dictionary-airtable): an app script to create auto-generated data dictionaries for any Airtable base (the Internal @cagov repo). We worked with Shivani Bose-Varela from the California State Library California Research Bureau to provide data dictionaries for our agency partners and automated the data dictionaries so that our many edits and revisions to Airtable could be easily exported to Google Docs for team review. This also lets us export our fields and configurations data so that we can rebuild on another system if needed.
+* Project data-package generator: this modernizes how teams communicate about data assets used in a web project. Our COVID-19 project uses ~50 data sets of different types. Airtable let us wrangle data documentation from different team members. We used Airtable to export Google Sheets for individuals to fill in & re-import their responses using the CSV importer tool. Using the Airtable API, we connected the base to our Github repository & output a data-package.json file with all of the required data documentation fields from the Open Data handbook, the Frictionless data schema, an a few additional data sources we use.
+* Content Design API for Figma: we looked into using Airtable to create sample data for designers or Storybook prototypes. We're interested to see how autogenerated API data from tools like Wordpress or Airtable might be fed into design prototypes like Figma using the JSONtoFigma plugin. Live data in design files has been historically difficult to achieve. Any improvements in this area will let us send higher fidelity prototypes with more representative data out for user feedback much earlier in the process. So far it seems like this is best for "flat" data, such as feeding content into social media card templates, or for organizing sample data with a team using a CSV file & using Airtable to quickly publish an API.
 
-### Airtable we found used in other governments & civic projects
+## Recommendations when trying Airtable
 
-* [Open data metadata tracking](https://airtable.com/universe/expdzCcK4CSOfLuhD/open-data-management) - The City of San Francisco used Airtable to keep track of open data metadata
-* Quickly and easily set up crowd-sourced data sets — The City of Boston used Airtable to generate a crowd-sourced list of [Supporting Black and Brown Owned businesses](https://www.boston.gov/departments/small-business-development/supporting-black-and-brown-owned-businesses ) hosted on boston.gov. Only gotcha with this is that the embedded table display is not very mobile-friendly. (We would recommend trying a "gallery" view in mobile to see if that's any better.)
+As we learned to use Airtable, some features were important to understand.
+
+1. Make an Airtable account. It's free to create an account with any email address. It's not free to add collaborators, editors, and commentors. 
+2. Experiment with existing bases on the Airtable marketplace to get an idea of what Airtable looks like and how it works.
+3. The core concepts are Base, Table, View, and Field. Look to the Airtable guidance and explore _Filters_ and _Views_.
+4. Importing a CSV file from Excel or Google Sheets.
+5. Exporting a CSV from Airtable.
+  a. Tip: When you export a view, it exports whatever is currently filtered.
+6. The _Views_ are a little more difficult to understand. They are filtered, faceted views of your _Table_.
+
+There are more complex features of Airtable beyond this, but this gets you started. 
+
+## Tips on collaborating
+
+1. Lock any views that are used for Slack notifications and syncing with other bases.
+2. When sharing a Base with others, it helps to label your views clearly so that teammates do not get confused about which view matters.
+3. Provide some basic training about Airtable and time to get used to the tool.
+4. We created sandboxes of our systems for our teams, which was helpful.
+
+## Tips on configurations
+
+1. Field names — When copying over fields and creating references and look up fields, the field names can get out of control since the names autogenerate with references to the table they came from. When you share a view, the link to the field name gets broken, so you need to manually update the field names. A script to keep field names could probably be written if needed.
+2. Managing & revising field names — We wrote a data dictionary tool that exports all the field into different formats, like printable PDF, Markdown, plain-text, and JSON. Since field names and statuses may have dozens of copy edits (especially if using Airtable to map to a government agency process) we recommend:
+  a. Exporting your configurations
+  b. Loading them into a Google Doc
+  c. Having a "content freeze" while the team collectively agrees on the field names and statuses
+  d. Updating the system all at once (you should be able to do this with very little code)
+4. Backups — Remind your team that automated backups to another system require engineering work. There is a paid offering from OpenSide that does this or you can write your own. We wrote our own to export our data documentation with Github Actions, store the CSV data to Github, and then convert to JSON. This works if your data can be public. If not, you may need to write your data to a secure repository or other location.
+5. Data security — If notes are about internal processes, remind everyone that these database are effectively shared and anyone with an account could create a public API easily by sharing their data. Be sure that you trust whoever is using your data and remind them to not add sensitive data. 
+6. Creating a public API — We created an extra account with read-only access that's synced to a locked view. The JSON that comes from Airtable can be fed to a static-site file host. This lets us be sure that editor changes and showing and hiding columns will not effect the API data.
+7. Diagrams — There is an Airtable app that automatically shows you all the fields in the system and which fields reference other tables. For visualizing multiple databases, we recommend exporting plain-text via the data dictionary tool and using a diagramming tool like [Mural](https://mural.co) or [Miro](https://miro.com/).
+8. Color coding — Our team found it vhelpful to color code our databases. 
+
+## Things to know about Airtable
+
+* Cost — The top concern expressed by everyone we spoke with is that any collaborators, editors, and commentors wishing to filter, comment on, or edit data directly must have a paid account. You can share data as read-only for free. This makes it ideal for small teams of collaborators. You can also accept data contributions through a free form, similar to Google Forms. This cost factor limits use by larger teams of collaborators. One work-around is to export data to Google Sheets during a review period and re-import the data into your dataset as needed.
+* Balance — After speaking with different government Airtable users, we learned that Airtable has asweet spot of use between "just use Google Sheets because it's easy and everyone knows it" and larger applications where "actually ...maybe you need to build an app". 
+* Exported full automated backups are not available — Airtable provides snapshots of the state of your Base. All of the data is accessible by API and can be pulled this way and converted to CSV. Currently, there is not a higher level system to export all data as CSV backups, unless you pay a third-party to do it for you.
+* No code based configuration templates — Airtable has a lot of settings. While you can export all the data and fields and pull information about your database out with the Metadata API, you cannot create a code-based template to build multiple instances of Airtable. However, you can offer your whole base as a template for someone to clone, which may be easy in some situations. Some tools, like WordPress, have the ability to store your configurations in a text file. This lets you store and version your configurations in Github and use that as a way for setting up and maintaining multiple instances. If you wanted to have one Airtable template and propagate changes to similar systems. For administrators, the means there is less control for keeping instances consistent across organizations and may require more code to make changes and updates more broadly.
+
+Similarly, configurations for Automations require manual configuration and are difficult to annotate.
+
+## Similar apps
+
+FilemakerPro Claris has some similarities to Airtable. Depending on available knowledge and licenses, you might want to explore Claris. We have not reviewed Claris. Thanks to archivist Shelly Ray from LA Metro for this recommendation. SmartSheet is also another similar tool with some enterprise options.
+
+## Airtables used in other governments & civic projects
+
+* [Open data metadata tracking](https://airtable.com/universe/expdzCcK4CSOfLuhD/open-data-management) — The City of San Francisco uses Airtable to keep track of open data metadata
+* Quickly and easily set up crowd-sourced data sets — The City of Boston used Airtable to generate a crowd-sourced list of [Supporting Black- and Brown-owned businesses](https://www.boston.gov/departments/small-business-development/supporting-black-and-brown-owned-businesses) hosted on boston.gov. The only catch is the embedded table display is not mobile-friendly. (We recommend trying a gallery view in mobile to see if that's any better.)
 * A talk from beta.nyc from December 11, 2020 [BetaTalks: Feeding New Yorkers and Improving Food Security with Airtable](https://www.youtube.com/watch?v=KZqQM0pVDPQ&ab_channel=BetaNYC)
 * [CBDB](https://beta.nyc/products/cbdb/) - A database for Community Boards to track community issues.
 * [NYC open maps](https://beta.nyc/products/open-maps/)
 
-Other reports that we heard of, but have not tracked down:
+Other reports that we heard of, but have not tracked down include:
+
 * City of Austin
-* NYC: "Crowd-sourcing Capital projects"
+* NYC: Crowd-sourcing Capital projects
 
 Thanks so much to Jason Lally (former Chief Digital Officer for the City of San Francisco), Noel Hidalgo (BetaNYC's Executive Director), and Michael Evans (Program Director at Mayor's Office of New Urban Mechanics) for sharing stories of their use of Airtable.
-
-## Recommendations on what to focus on when trying out Airtable
-
-As we were learning to use Airtable, some features were clearly important to understand.
-
-1. Making an Airtable account. It's free to create an account with any email address. It's not free to add collaborators, editors and commentors. 
-2. Try out some existing bases on the Airtable marketplace to get an idea of what Airtable looks like and how it works.
-3. CORE CONCEPTS: Base, Table, View, Field. Look to the Airtable guidance and explore "Filters" and "Views".
-4. Try importing a CSV file from Excel or Google Sheets.
-5. Try exporting a CSV from Airtable. TIP: When you export a view, it exports whatever is currently filtered.
-6. The "Views" are a little more difficult to understand. They are filtered, faceted views of your "Table"
-
-There are more complex features of Airtable beyond this, but this should get you started. 
-
-### Tips on collaborating
-1. "Lock" any views that are used for Slack notifications and syncing with other bases.
-2.  When sharing a Base with others, it helps to label your views clearly so that teammates don't get confused about which view matters.
-3. Provide some basic training about Airtable and some time to get used to the tool.
-4. Sandboxes: We created sandboxes of our systems for our teams, and this was helpful.
-
-### Tips on configurations
-1. Notes on field names: When copying over fields and creating references & look up fields, the field names can get out of control, since the names autogenerate with references to the table they came from. When you share a view, the link to the field name gets broken, so you need to manually update the field names. A script to keep field names could probably be written if needed. 
-2. Managing & revising field names. We wrote a "data dictionary" tool that exports all the field into different formats, like printable PDF, Markdown, plain-text and JSON. Since field names and statuses may have dozens of copy edits, especially if using Airtable to map to a government agency process, we recommend exporting your configurations, loading them into a Google Doc, and having a "content freeze" while the team collectively agrees on the field names and statuses, and then updating the system all at once. You should be able to do this with very little code.
-3. Backups: Remind your team that Automated backups to another system require engineering work. There is a paid offering from OpenSide that is supposed to do this, or you can write your own. We wrote our own to export our data documentation with Github Actions, & store the CSV data to Github, and then convert to JSON. This works if your data can be public, otherwise you may need to write your data to a secure repository or other location.
-4. Data Security: If notes are about internal processes, remind everyone that these database are effectively shared and anyone with an account could theoretically create a public API very easily by sharing their data. Be sure that you trust whoever is using your data and remind them to not add sensitive data. 
-5. Creating a public API: We created an extra account with "read-only" access that's synced to a locked view. The JSON that comes from Airtable can be fed to a static-site file host. This lets us be sure that editor changes & showing & hiding columns won't effect the API data.
-6. Diagrams. There is an Airtable app that automatically shows you all the fields in the system and which fields reference other tables. For visualizing multiple databases, we recommend exporting plain-text via the Data Dictionary tool & then using a diagramming tool like [Mural](https://mural.co) or [Miro](https://miro.com/), or any other tool.
-7. Color coding: Our team found it very helpful to color code our databases. 
-
-## Things to know about Airtable
-
-* **Cost** — The top concern expressed by everyone we spoke with is that any collaborators, editors and commentors wishing to filter, comment on or edit data directly must have a paid account. You can share data as read-only for free. This makes it ideal for small teams of collaborators. You can also accept data contributions through a free form, similar to Google Forms. This cost factor limits any usage that might be desired by adding larger teams of collaborators. One work-around is to export data to Google sheets during a "review period" & re-import the data into your dataset as needed.
-
-* After speaking with different government Airtable users, we learned that Airtable has a "sweet spot" of use which is somewhere in between "just use Google Sheets because it's easy & everyone knows it" & larger applications, where "actually ...maybe you need to build an app." 
-
-* **Exported full automated backups are not available.** — Airtable provides "snapshots" of the state of your Base, and all of the data is accessible by API, and can be pulled this way and converted to CSV - but there is not currently a higher level system to export all data as CSV backups, unless you pay for a third-party to do it for you.
-
-* **No code based configuration templates.** Airtable has a lot of settings. While you can export all the data and fields, and can also pull information about your database out with the Metadata API, you cannot create a code-based template to build multiple instances of Airtable. You *can* offer your whole base as a template for someone to clone, which may be an easy option in some situations. Some tools, like Wordpress, have the ability to store your configurations in a text file - which lets you  store & version your configurations in Github, and also use that as a way for setting up and maintaining multiple instances. If you wanted to have one Airtable template & propagate changes to similar systems. For administrators, the means there is a little bit less control for keeping instances consistent across organizations, and may require more code to do changes and updates more broadly.
-
-Similarly, configurations for Automations require manual configuration and are difficult to annotate.
-
-### Similar Apps
-* **FilemakerPro Claris has some similarities to Airtable.** Depending on available knowledge and licenses, you might also want to explore Claris. We have not reviewed Claris. Thanks to archivist Shelly Ray from LA Metro for this recommendation. SmartSheet is also another similar tool with some enterprise options.
-
-
