@@ -1,6 +1,6 @@
 ---
 title: Airtable
-date: 2021-01-25
+date: Last Modified
 permalink: /teams/engineering/airtable-industry-guidance/
 toc: true
 eleventyNavigation:
