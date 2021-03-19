@@ -1,11 +1,11 @@
 ---
-title: Images
+title: Using images
 date: Last Modified 
 permalink: /teams/content/images.html
 eleventyNavigation:
-  key: Images
+  key: Using images
   parent: Editing
   order: 213
 ---
 
-Peggy to fill in details
+When using images in page content, it's important to stick to certain standards to maintain a consistent look and feel sitewide.
