@@ -8,15 +8,8 @@ eleventyNavigation:
   order: 111
 ---
 
-Custom HTML elements for covid19.ca.gov are hosted through `npm`.
+Custom HTML elements for covid19.ca.gov are hosted through **npm**.
 
-Examples:
-* [cagov-accordion](https://www.npmjs.com/package/@cagov/accordion)
+An example is [cagov-accordion](https://www.npmjs.com/package/@cagov/accordion).
 
-These components are viewable on our Storybook site.
- [Storybook](https://storybook.js.org/) is a UI component library & testing platform.
-
-* [Storybook site](https://wonderful-plant-07a82e81e.azurestaticapps.net/)
-* [storybook-ca-gov git repository](https://github.com/cagov/storybook-ca-gov)
-
-
+These components are viewable on our [Storybook site](https://wonderful-plant-07a82e81e.azurestaticapps.net/). [Storybook](https://storybook.js.org/) is a UI component library & testing platform. We're hosting our Storybook in the [storybook-ca-gov git repository](https://github.com/cagov/storybook-ca-gov).
