@@ -1,30 +1,26 @@
 ---
-title: Airtable (Industry Guidance)
+title: Airtable
 date: 2021-01-25
 permalink: /teams/engineering/airtable-industry-guidance/
 toc: true
 eleventyNavigation:
-  key: Airtable (Industry Guidance)
+  key: Airtable
   parent: Engineering
   order: 110
 ---
 
-[Airtable](https://airtable.com) is a flexible and easy-to-use collaborative spreadsheet. 
+[Airtable](https://airtable.com) is a flexible and easy-to-use collaborative spreadsheet. We have an Airtable base that we use to track and manage industry guidance PDFs across multiple government agencies. Data is shared as synced views with the Department of Labor, California Department of Public Health, and Governor's Office of Business and Economic Development and is shared with covid19.ca.gov & Storybook via our API base.
 
-We have an Airtable base that we use to track and manage State industry guidance PDFs across multiple government agencies.
+## How the system is built
 
-Data is shared as synced views with the Labor Agency, CDPH, GO-Biz and will be shared covid19.ca.gov & Storybook via our API Base.
-
-### How the system is built
-
-* Bases & Tables
+* Bases & tables
 * Data dictionaries
 * API system
 * Automations
 * Slack notifications
 * Email notifications
-* State Guidance data sets
-* Configuration & Publishing
+* State guidance data sets
+* Configuration and publishing
 * Process diagrams
 * Managing the Airtable
 * Backup methods
