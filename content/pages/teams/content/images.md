@@ -41,15 +41,15 @@ When using images in page content, it's important to stick to certain standards 
 
 (Including accessibility through performance)
 
-* Filesize: 
-** Should be as small as possible without looking like quality is being lost. Anything less than 500KB in size is OK. 
+* **Filesize:** 
+Should be as small as possible without looking like quality is being lost. Anything less than 500KB in size is OK. 
 
-* Image dimensions:
-** Desktop Width: 920px
-** Mobile Width: 325px
+* **Image dimensions:**
+Desktop width: 920px
+Mobile width: 325px
 
 ## HTML options for sharing responsive images
 
-* Using "<picture />" (but needs a fallback for IE) (this format accepts multiple sizes) https://webdesign.tutsplus.com/tutorials/quick-tip-how-to-use-html5-picture-for-responsive-images--cms-21015
+* Using "picture" tag (but needs a fallback for IE) (this format accepts multiple sizes) https://webdesign.tutsplus.com/tutorials/quick-tip-how-to-use-html5-picture-for-responsive-images--cms-21015
 * Bootstrap’s .img-fluid tag reference: https://getbootstrap.com/docs/4.0/content/images/
 
