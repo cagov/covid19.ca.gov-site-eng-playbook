@@ -1,22 +1,22 @@
 ---
-title: Analytics - Event Tracking
+title: Event tracking analytics
 date: Last Modified 
 permalink: /teams/engineering/tracking-data/index.html
 eleventyNavigation:
-  key: Analytics
+  key: Event tracking analytics
   parent: Engineering
   order: 120
 ---
-### Overview
-There are many custom events we created to give us added context into user behavior on our site. They are all listed and defined below. These were all added at different times and the dates at which they started collecting data (or were turned off) can be deduced from Google Analytics with the date dimension. Some events are implemented globally and some are implemented at a page-level, we’ll identify which are such below.  
 
-### Event hooks conventions
+There are many custom events we created to give us added insight into user behavior. They are listed and defined below. These were added at different times and the dates at which they started collecting data (or were turned off) can be deduced from Google Analytics with the date dimension. Some events are implemented globally and some are implemented at a page-level, we’ll identify which are such below.  
 
-If a specific query selector is needed to attach an event create a new classname with a ```js-``` prefix. Using that only for javascript event attachment makes it obvious to a developer only concerned with layout that they are affecting javascript when they are modifying HTML.
+## Event hooks conventions
+
+If a specific query selector is needed to attach an event create a new classname with a **js-** prefix. Using that only for javascript event attachment makes it obvious to a developer only concerned with layout that they are affecting javascript when they are modifying HTML.
 
 ## Accordion clicks - global
 
-These events are attached to any of our accordion elements which can be on any page.
+These events are attached to any of our accordion elements, which can be on any page.
 
 | Category  | Action | Label | Notes |
 | ------------- | ------------- | ------------- | ------------- |
@@ -25,7 +25,7 @@ These events are attached to any of our accordion elements which can be on any p
 
 ## Is this page useful - global
 
-We have a widget in the footer that asks users: Is this page useful? We send events to google analytics when they click Yes or No. The comments are collected separately in a database outside of GA. The Yes/No button clicks event data is:
+We have a widget in the footer that asks users _Is this page useful?_ We send events to Google Analytics when they click _Yes_ or _No_. The comments are collected separately in a database outside of Google Analytics. The _Yes/No_ button clicks event data is:
 
 | Category  | Action | Label |
 | ------------- | ------------- | ------------- |
@@ -33,14 +33,15 @@ We have a widget in the footer that asks users: Is this page useful? We send eve
 
 ## Offsite links - global
 
-We record when a user clicks on a link that directs them to another url that is not on our site. e.g. https://www.cdc.gov/coronavirus/2019-ncov/vaccines/safety.html
+We record when a user clicks on a link that send them to a URL that's not on our site (for example, https://www.cdc.gov/coronavirus/2019-ncov/vaccines/safety.html).
+
 | Category  | Action | Label |
 | ------------- | ------------- | ------------- |
 | "click"  | "offsite"  | "url"  |
 
 ## PDF links - global
 
-We record when a user clicks on a pdf link.
+We record when a user clicks on a PDF link.
 
 | Category  | Action | Label |
 | ------------- | ------------- | ------------- |
@@ -48,7 +49,7 @@ We record when a user clicks on a pdf link.
 
 ## Search - global
 
-We record the search terms used when searches are performed to see if we need to create more quick answer content. The "got_quick_answers" and "no_quick_answers" actions are used to show when one or more quick answers were found for the search query.
+We record the search terms people use to see if we need to create more quick answer content. The _got_quick_answers_ and _no_quick_answers_ actions are used to show when a search query finds one or more quick answers.
 
 | Category  | Action | Label |
 | ------------- | ------------- | ------------- |
@@ -57,7 +58,7 @@ We record the search terms used when searches are performed to see if we need to
 
 ## Surveys - global
 
-We track several events related to inviting users to take surveys like the survey prompt display, clicking on the button to take the survey or dismissing the prompt.
+We track several events related to inviting users to take surveys like the survey prompt display, selecting on the button to take the survey, or dismissing the prompt.
 
 | Category  | Action | Label |
 | ------------- | ------------- | ------------- |
@@ -86,7 +87,7 @@ When we redesigned and relaunched the [homepage](https://covid19.ca.gov/) we beg
 
 ## Safer Economy (Blueprint) - page-level
 
-When we launched the [Safer Economy page](https://covid19.ca.gov/safer-economy/) we wanted to track how users interacted with the what's open search box. If the user selected county is _(not set)_ that means they did not select a county, but are instead looking at acitivity statuses statewide. Similarly, if the user selected activity is _(not set)_ that means they are looking at all activities rather than a specific one.
+When we launched the [Blueprint for a Safer Economy page](https://covid19.ca.gov/safer-economy/) we wanted to track how users interacted with the what's open search box. If the user selected county is _(not set)_ that means they did not select a county and are looking at acitivity statuses statewide. Similarly, if the user-selected activity is _(not set)_ that means they are looking at all activities rather than a specific one.
 
 | Category  | Action | Label |
 | ------------- | ------------- | ------------- |
@@ -94,7 +95,7 @@ When we launched the [Safer Economy page](https://covid19.ca.gov/safer-economy/)
 
 ## Equity - page-level
 
-When we launched the [Equity page](https://covid19.ca.gov/equity/) we wanted to track how users interacted with the page and chart data.
+When we launched the [equity page](https://covid19.ca.gov/equity/) we wanted to track how users interacted with the page and chart data.
 
 | Category  | Action | Label |
 | ------------- | ------------- | ------------- |
