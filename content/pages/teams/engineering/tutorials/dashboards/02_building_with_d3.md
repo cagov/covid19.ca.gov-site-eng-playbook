@@ -8,11 +8,7 @@ eleventyNavigation:
   order: 150.2
 ---
 
-
-
 Hello World
 Basic Chart
 
-ObservablesHQ is a great tool for experimenting with charts. Here are some basic examples which you can edit or fork without creating your own development environment.
-
-
+ObservablesHQ is a great tool for experimenting with charts. Here are some basic examples you can edit or fork without creating your own development environment.
