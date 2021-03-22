@@ -1,10 +1,10 @@
 ---
-title: Git Command Cheatsheet
-date: 2021-02-11
+title: Git command cheatsheet
+date: Last Modified
 permalink: /teams/engineering/git-command-cheatsheet/index.html
 toc: true
 eleventyNavigation:
-  key: Git Command Cheatsheet
+  key: Git command cheatsheet
   order: 200
   parent: Engineering
 ---
@@ -51,9 +51,9 @@ git checkout git rev-list -1 --before="Jul 2 2020" master
 
 ### Generate a CSV from git commit history
 
-This saves a csv file called `history.csv` to the relative root folder.
+This saves a csv file called **history.csv** to the relative root folder.
 
-Then, using
+Using
 
 ```
 ls-files
@@ -87,7 +87,7 @@ git rev-list --max-parents=0 HEAD
 git log --follow --find-copies-harder filename
 ```
 
-Note: github's history view doesn't use this command, so logs for renamed filed may be cut off at the date of renaming. (There is [debate](https://stackoverflow.com/questions/2314652/is-it-possible-to-move-rename-files-in-git-and-maintain-their-history) as to whether or not git mv preserves the history or not.)
+Note: github's history view does not use this command, so logs for renamed filed may be cut off at the date of renaming. (There is [debate](https://stackoverflow.com/questions/2314652/is-it-possible-to-move-rename-files-in-git-and-maintain-their-history) as to whether or not git mv preserves the history or not.)
 
 ### See changes from a particular commit
 
@@ -139,7 +139,7 @@ git remote show origin
 git fetch --all
 ```
 
-This puts the other branches in the memory of git, and able to checkout out by calling the checkout without creating a new branch.
+This puts the other branches in the memory of git and able to be checked out out by calling the checkout without creating a new branch.
 
 ### Fetch all updated data from origin, but doesn’t merge it into your working branch
 
@@ -161,7 +161,7 @@ git branch -r
 
 ### Checkout a remote branch
 
-(Assuming origin is called origin.)
+This assumes origin is called origin.
 
 ```
 git checkout --track origin/branch_name
@@ -193,7 +193,7 @@ git branch -D desired_branch_name
 
 ### Delete a remote branch
 
-(Assuming “origin” is called “origin.”)
+This assumes origin is called origin.
 
 ```
 git push origin --delete feature/login
@@ -217,7 +217,7 @@ git commit -m "Descriptive text of your commit message."
 
 ### Save a commit message and link to Jira ticket
 
-If Jira and Github repository are connected, adding the ticket name in the commit message can automatically link the tickets.
+If Jira and github repository are connected, adding the ticket name in the commit message automaticallys link the tickets.
 
 ```
 git commit -m "Descriptive text of your commit message. CCG-434"
@@ -231,7 +231,7 @@ This only works for local edits.
 git commit --amend "New text"
 ```
 
-See: https://docs.github.com/en/free-pro-team@latest/github/committing-changes-to-your-project/changing-a-commit-message
+See github's documentation of [how to change a commit message](https://docs.github.com/en/free-pro-team@latest/github/committing-changes-to-your-project/changing-a-commit-message)
 
 ---
 
@@ -239,7 +239,7 @@ See: https://docs.github.com/en/free-pro-team@latest/github/committing-changes-t
 
 ### Totally reset your branch back to the origin of the current branch
 
-(Lose any changes)
+This loses any changes.
 
 ```
 git reset --hard HEAD
@@ -267,7 +267,7 @@ git tag
 git tag v1.x.x
 ```
 
-You will need to have an established version naming pattern for any releases.
+You'll need to an established version naming pattern for any releases.
 
 ### Push tag
 
@@ -327,7 +327,7 @@ e.g. git remote add https://github.com/cagov/covid19.git
 git remote add fork git@github.com:username/covid19.git
 ```
 
-### See urls for remote origins
+### See URLs for remote origins
 
 ```
 git remote -v
@@ -337,7 +337,7 @@ git remote -v
 
 ### Apply a change from the tip of another branch
 
-This would apply the last commit from one branch to another branch.
+This applies the last commit from one branch to another branch.
 
 ```
 git cherry-pick other_branch_name
@@ -345,31 +345,27 @@ git cherry-pick other_branch_name
 
 ### Update a local branch, applying all changes from remote and replaying your changes back from the point at which they diverged
 
-1. current branch:
+Start with the current branch:
 
 ```
 ticket/CCG-434-menu
 ```
 
-2. Apply all changes from master branch to current branch
+Apply all changes from master branch to current branch:
 
 ```
 git rebase master
 ```
 
-3. This will lead you through an interactive dialog that plays all changes from master and your changes, ideally leaving your commits as the most recent commits.
+You will go through an interactive dialog that plays all changes from master and your changes, ideally leaving your commits as the most recent commits. If there are merge conflicts, you'll need to resolve them. This can get tricky the longer time has gone on.
 
-4. If there are merge conflicts, you will need to resolve them. This can get tricky the longer time has gone on.
-
-5. If it fails, you can
+If it fails, you can use this to back out of it.
 
 ```
 git rebase --abort
 ```
 
-to back out of it.
-
-### Advanced Rebasing
+### Advanced rebasing
 
 You can also rebase off a branch, or a commit.
 
@@ -379,7 +375,7 @@ git rebase --onto commitguid
 
 ### Look up the parent commit
 
-If you’ve really got a mess, it can be helpful to look up the parent commit
+If you’ve really got a mess, it can be helpful to look up the parent commit.
 
 ```
 git rev-list --parents -n 1 commitguid
@@ -391,9 +387,9 @@ git rev-list --parents -n 1 commitguid
 git clean
 ```
 
-### Sources & Resources
+## Sources & Resources
 
-- https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes
-- https://www.datree.io/resources/git-commands
-- https://www.freecodecamp.org/news/10-important-git-commands-that-every-developer-should-know/
-- https://medium.com/flawless-app-stories/useful-git-commands-for-everyday-use-e1a4de64037d
+* [Working with remotes](https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes)
+* [10 useful git commands](https://www.datree.io/resources/git-commands)
+* [10 git commands every developer should know](https://www.freecodecamp.org/news/10-important-git-commands-that-every-developer-should-know/)
+* [Git commands for everyday use](https://medium.com/flawless-app-stories/useful-git-commands-for-everyday-use-e1a4de64037d)
