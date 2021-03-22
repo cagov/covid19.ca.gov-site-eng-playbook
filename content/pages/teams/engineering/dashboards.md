@@ -25,3 +25,9 @@ The choice of tech powering the charts had a big influence on our ability to mee
 * Ability to customize the mouse free navigation experience
 
 The code for the California's commitment to health equity page uses D3 to meet these goals successfully. There are several examples of public facing dashboards the state has shipped that fail to meet these standards. They are extremely slow to render, do not attempt to integrate translations, and skip deep accessibility. These shortfalls can make the information unusable for visitors with a cheaper phone, anybody temporarily in a low bandwidth environment, speakers of English as a foreign language, or people who depend on assistive technology.
+
+* [Building with D3](./02_building_with_d3.md)
+* [Integrating data](./03_data_integration.md)
+* [D3 examples](./04_examples_d3.md)
+* [Web integration](./05_web_integration.md)
+* [Resources](./06_resources.md)
