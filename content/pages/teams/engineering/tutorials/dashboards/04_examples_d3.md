@@ -8,12 +8,10 @@ eleventyNavigation:
   order: 150.4
 ---
 
-
-
 Hello World
 Basic Chart
 
-ObservablesHQ is a great tool for experimenting with charts. Here are some basic examples which you can edit or fork without creating your own development environment.
+ObservablesHQ is a great tool for experimenting with charts. Here are some basic examples you can edit or fork without creating your own development environment.
 
 Bar chart with filled in background
 Line chart
@@ -26,23 +24,22 @@ Using observables
     What is observables
     Exporting from observables
 
-
-#### Bar chart with filled in background:
+## Bar chart with filled in background:
 
 <a href="https://observablehq.com/@aaronhans/test-background-fill"><img src="https://cagov.github.io/covid19.ca.gov-site-handbook/static/img/bar-chart.jpg" /></a>
 
-#### Using scales
+## Using scales
 
 <a href="https://observablehq.com/@d3/learn-d3-scales?collection=@d3/learn-d3"><img src="https://cagov.github.io/covid19.ca.gov-site-handbook/static/img/d3-scales.jpg" /></a>
 
-#### Shapes
+## Shapes
 
 <a href="https://observablehq.com/@d3/learn-d3-shapes?collection=@d3/learn-d3"><img src="https://cagov.github.io/covid19.ca.gov-site-handbook/static/img/d3-shapes.jpg" /></a>
 
-#### Colored county map with rollovers:
+## Colored county map with rollovers:
 
 <a href="https://observablehq.com/@aaronhans/ca-county-tiers"><img src="https://cagov.github.io/covid19.ca.gov-site-handbook/static/img/map-viz.jpg" /></a>
 
-#### Animating
+## Animating
 
 <a href="https://observablehq.com/@d3/learn-d3-animation?collection=@d3/learn-d3"><img src="https://cagov.github.io/covid19.ca.gov-site-handbook/static/img/d3-anim.jpg" /></a>
