@@ -32,7 +32,7 @@ When using images in page content, it's important to stick to certain standards 
 
 ## How to add images
 
-* Resize and compress with Squoosh (or other tool of choice)
+* Resize and compress with Squoosh.com (or other tool of choice)
 * Upload to Github
 * Add to page in WordPress
 * Use classes in WordPress to define desktop and mobile images
