@@ -88,8 +88,10 @@ Plain language is clear and accessible to everyone, including readers with cogni
 * Do not use pronouns like _this_, _those_, and _these_ or references like _as above_. They’re vague. Restate what you’re referring to.
 * Write out or abbreviate months in dates. Some cultures interpret 9/5/2020 as May 9, 2020, instead of September 5, 2020.
 * Use numerals instead of spelling out numbers.
-  * Only go to one decimal place. Only use decimals when you need to.
   * Use commas in numbers over 999. This helps people understand order of magnitude.
+  * Only use decimals when you need to. Only go to one decimal place in most situations.
+  * Use more than one decimal place when you this rule or rounding would cause you to show a value as 0 when it is not truly 0. This most often comes into play with 
+  * Write 0 without any decimal places.
 
 ### Reading level
 Write at a sixth grade level or lower. Some content may not be able to reach this goal, but always look for opportunities to improve through simpler words and shorter sentences. Check reading levels with the [Hemingway Editor](http://hemingwayapp.com/). Eliminate very hard to read sentences and minimize hard to read sentences.
