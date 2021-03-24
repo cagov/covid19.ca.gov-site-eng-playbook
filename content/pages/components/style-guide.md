@@ -292,8 +292,8 @@ Put important information in an info box to help readers find it quickly while s
 ### Page indexes
 An optional way to give users an outline of a long page is to add a page index at the top.
 
-* Start with a brief sentence or two that states the most important takeaway on the page.
+* Start with a brief sentence or two that states the most important takeaway on the page. Give this paragraph the "emphasized" class.
 * Follow with the text  _On this page_: that introduces the index. Make it in Paragraph form with an "h3" class (not an H3 form, for accessibility reasons).
-* Make a bulleted, bolded list of the h2 headers on the page. Do not link subheaders. If something is important enough to appear in the page index, elevate it to an h2 header.
+* Then add a bulleted, bolded list of the h2 headers on the page. Do not link subheaders. If something is important enough to appear in the page index, elevate it to an h2 header.
 * Give the bulleted index list the class "toc" which will give it carat bullets and consistent styling.
 * Make each h2 header an anchor link, and link each item in the index to its corresponding header.
