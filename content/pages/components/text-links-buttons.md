@@ -88,7 +88,7 @@ Extra small text is reserved for data visualizations and charts.
 
 ### Text link
 
-
+![Examples of text links](https://cagov.github.io/covid19.ca.gov-site-eng-playbook//content/images/text-links.jpg)
 
 #### When we use it
 
@@ -100,7 +100,7 @@ Highlight the text you want to have become a text link. A menu will appear over 
 
 ### External link icon
 
-
+![Examples of external link icons](https://cagov.github.io/covid19.ca.gov-site-eng-playbook//content/images/external-link-icons.jpg)
 
 #### When we use it
 
@@ -121,6 +121,8 @@ The code is:
 ```
 
 ### PDF link icon
+
+![Examples of PDF link icons](https://cagov.github.io/covid19.ca.gov-site-eng-playbook//content/images/pdf-link-icons.jpg)
 
 #### When we use it
 
@@ -144,7 +146,7 @@ The code is:
 
 ### Action button (action link)
 
-
+![Examples of action buttons](https://cagov.github.io/covid19.ca.gov-site-eng-playbook//content/images/action-buttons.jpg)
 
 #### When we use it
 
@@ -164,6 +166,8 @@ The code is:
 
 ### User interface (UI) button
 
+![Examples of user interface buttons](https://cagov.github.io/covid19.ca.gov-site-eng-playbook//content/images/ui-buttons.jpg)
+
 There are many standard color combinations for this button and arrow links. See the [Examples](https://staging.covid19.ca.gov/sample) page for a preview, and check its [Wordpress file](https://as-go-covid19-d-001.azurewebsites.net/wp-admin/post.php?post=6854&action=edit) for the code for each.
 
 #### When we use it
@@ -182,7 +186,7 @@ To create an action button, use this code:
 
 ### Arrow link
 
-
+![Examples of arrow links](https://cagov.github.io/covid19.ca.gov-site-eng-playbook//content/images/arrow-links.jpg )
 
 #### When we use it
 
