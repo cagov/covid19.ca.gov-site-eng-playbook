@@ -14,7 +14,7 @@ These are components that can be applied by the content team without help from a
 
 ### Page index
 
-
+![Generic example of page index](https://cagov.github.io/covid19.ca.gov-site-eng-playbook//content/images/page-index.jpg)
 
 #### When we use it
 
@@ -31,7 +31,7 @@ We use the page index on every page with an introductory sentence to give people
 
 ### Highlight box
 
-
+![Generic example of highlight box](https://cagov.github.io/covid19.ca.gov-site-eng-playbook//content/images/highlight-box.jpg)
 
 #### When we use it
 
