@@ -49,7 +49,7 @@ The code is:
 
 ```
 <div class="highlight">
-<h3 class="color-primary mt-0">Regional Stay Home Order ended January 25, 2021</h3>
+<h2 class="h3 color-primary mt-0">Regional Stay Home Order ended January 25, 2021</h3>
 <p>Counties returned to their appropriate tier under the Blueprint for a Safer Economy. Other state orders are still in place. See details on the <a href="https://covid19.ca.gov/stay-home-except-for-essential-needs/">About COVID-19 restrictions page</a>.
 </p>
 </div><p></p>
@@ -63,7 +63,7 @@ The code is:
 
 ```
 <div class="highlight">
-<h3 class="color-primary mt-0">Get information on safer school reopening</h3>
+<h2 class="h3 color-primary mt-0">Get information on safer school reopening</h3>
 <p>If you’re a school leader, staff, or parent, the Safe Schools For All Hub is for you. Get updated information from the Department of Public Health, request technical assistance, or submit your concerns.
 </p>
       <a class="button-lightblue font-size-1em" href="https://schools.covid19.ca.gov/">Visit the Safe Schools Hub</a>
@@ -80,7 +80,7 @@ The code is:
 <div class="highlight">
   <div class="row">
     <div class="col-md-9 order-last order-md-1">
-      <h3 class="color-primary mt-0">Sign up for COVID-19 vaccine notifications
+      <h2 class="h3 color-primary mt-0">Sign up for COVID-19 vaccine notifications
       </h3>
       <p class="pr-0 pr-md-5">Get notified when it’s your turn to get the COVID-19 vaccine. If you're in Los Angeles or San Diego, you can also schedule your appointment.
       </p>
