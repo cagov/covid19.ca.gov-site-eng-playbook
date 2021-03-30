@@ -30,6 +30,7 @@ In the _Block_ tab, you'll mostly work in the **Advanced** section where you can
 * Add classes in _Additional CSS class(es)_
   * Separate classes with commas.
   * Two of the most commonly used classes are **wp-accordion** (the class for the title text of an accordion) and **wp-accordion-content**. Remember to add wp-accordion-content to every paragraph inside the accordion.
+  * Only use _wp-accordion_ on headers. Follow the regular header rules to decide what level of header to use. No matter what header level is used, the _wp-accordion_ class will give the header a uniform visual appearance.
 
 ## Tags
 
