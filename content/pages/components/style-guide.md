@@ -90,7 +90,7 @@ Plain language is clear and accessible to everyone, including readers with cogni
 * Use numerals instead of spelling out numbers.
   * Use commas in numbers over 999. This helps people understand order of magnitude.
   * Only use decimals when you need to. Only go to one decimal place in most situations.
-  * Use more than one decimal place when you this rule or rounding would cause you to show a value as 0 when it is not truly 0. This most often comes into play with 
+  * Use more than one decimal place when using this rule or rounding would cause you to show a value as 0 when it is not truly 0. This most often comes into play with data reporting.
   * Write 0 without any decimal places.
 
 ### Reading level
