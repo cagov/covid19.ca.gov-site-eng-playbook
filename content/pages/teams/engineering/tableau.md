@@ -55,8 +55,6 @@ This issue is solved for free in our D3 versions which use HTML for headers
 
 We still have a bunch of recurring weird layout problems at different screen sizes. When numbers might get clipped Tableau will replace them with a bunch of octothorpes. This often happens at very small widths. There aren't a ton of iPhone 5 users left in the wild but anybody making use of maximum screen magnification reduces their effective width to this level as well so this problem is widespread.
 
-Performance audits screenshot from Tableua version:
-
 <img src="https://teamdocs.covid19.ca.gov/content/images/octothorpes-state-dash.png">
 
 <img src="https://teamdocs.covid19.ca.gov/content/images/octothorpes-vaccines.png">
