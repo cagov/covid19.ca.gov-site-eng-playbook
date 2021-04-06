@@ -33,7 +33,7 @@ The updated D3 version of the state dashboard takes this down to:
 
 ### 4 seconds
 
-Performance audits screenshot from Tableua version:
+Performance audits screenshot from Tableau version:
 
 <img src="https://teamdocs.covid19.ca.gov/content/images/perf-tableau.png">
 
@@ -53,7 +53,7 @@ This issue is solved for free in our D3 versions which use HTML for headers
 
 ## Slow interactions
 
-When interacting with the Tableau state dashboard interactions are sluggish, trying to switch between statewide and county charts gives you a spinner, then displays Alameda, then shows the desired county a few seconds later.
+Interactions with the Tableau state dashboard are sluggish, trying to switch between statewide and county charts gives you a spinner, then displays Alameda, then shows the desired county a few seconds later. This process is so slow I can easily take a screenshot of the invalid state using my M1 mac on a fiber broadband connection.
 
 <img src="https://teamdocs.covid19.ca.gov/content/images/tableau-wrong-county.png">
 
@@ -67,7 +67,7 @@ We still have a bunch of recurring weird layout problems at different screen siz
 
 <img src="https://teamdocs.covid19.ca.gov/content/images/octothorpes-vaccines.png">
 
-We often see layout problems recurring, these may be difficult to reproduce so the Tableau team doesn't prioritize fixing them. In general wrestling with responsiveness is always a hassle when deploying new Tableau charts.
+We often see layout problems recurring, these may be difficult to reproduce so are harder to fix. In general wrestling with responsiveness is always a hassle when deploying new Tableau charts.
 
 <img src="https://teamdocs.covid19.ca.gov/content/images/tableau-too-wide.png">
 
