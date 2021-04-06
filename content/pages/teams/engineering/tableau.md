@@ -51,13 +51,46 @@ This issue is solved for free in our D3 versions which use HTML for headers
 
 <img src="https://teamdocs.covid19.ca.gov/content/images/screenreader-v3.png">
 
-## Octothorpes
+## Slow interactions
+
+When interacting with the Tableau state dashboard interactions are sluggish, trying to switch between statewide and county charts gives you a spinner, then displays Alameda, then shows the desired county a few seconds later.
+
+<img src="https://teamdocs.covid19.ca.gov/content/images/tableau-wrong-county.png">
+
+All of these issues are fixed in the V3 version.
+
+## Octothorpes and layout weirdness
 
 We still have a bunch of recurring weird layout problems at different screen sizes. When numbers might get clipped Tableau will replace them with a bunch of octothorpes. This often happens at very small widths. There aren't a ton of iPhone 5 users left in the wild but anybody making use of maximum screen magnification reduces their effective width to this level as well so this problem is widespread.
 
 <img src="https://teamdocs.covid19.ca.gov/content/images/octothorpes-state-dash.png">
 
 <img src="https://teamdocs.covid19.ca.gov/content/images/octothorpes-vaccines.png">
+
+We often see layout problems recurring, these may be difficult to reproduce so the Tableau team doesn't prioritize fixing them. In general wrestling with responsiveness is always a hassle when deploying new Tableau charts.
+
+<img src="https://teamdocs.covid19.ca.gov/content/images/tableau-too-wide.png">
+
+<img src="https://teamdocs.covid19.ca.gov/content/images/tableau-overlap.png">
+
+## Data udpates
+
+The equity dashboard requires manual review of the scheduled data updates.
+
+This is supervised by Dr Jason Vargo and his team from CDPH.
+
+We create a historical record of their review by following these steps:
+
+- The data is retrieved from snowflake on schedule and published to a staging location
+- charts in our staging environment consume latest data from the staging location
+- a git pull request is opened by our automatic service that notifies Dr Vargo of the new data, provides a link to the staging site to review the update using live chart code
+- if the data is problematic issues are recorded in the git pull request log
+- if the dats is fine approvals are recorded in the git pull request log
+- The CDPH team presses merge on the pull request triggering the live data publication
+
+<img src="https://teamdocs.covid19.ca.gov/content/images/data-updates.png">
+
+from: <a href="https://github.com/cagov/covid-static/pull/442">equity dash pull request</a>
 
 ## More info
 
