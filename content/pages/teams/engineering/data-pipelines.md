@@ -8,16 +8,31 @@ eleventyNavigation:
   order: 114
 ---
 
-We run data pipelines to power data points displayed on the site homepage and dashboard pages like:
+The covid19.ca.gov site team are a part of the last mile of data delivery. We rely on many stakeholders for review + verification, and data preparation. There is a lot of data preparation and ingestion that occurs upstream of the snowflake databases. We coordinate with other departments who feed data into snowflake, verify the SQL statements we use to retreive data and the publication schedules we should use to retrieve data already published to snowflake.
 
-- [State dashboard](https://covid19.ca.gov/state-dashboard/)
-- [Vaccines](https://covid19.ca.gov/vaccines/) and we've documented on [the data points](https://github.com/cagov/covid19/blob/master/src/js/vaccines/DOCS.md) 
-- [Equity](https://covid19.ca.gov/equity/)
+We keep a list of our data sources and the public facing displays they power in <a href="https://airtable.com/tbl5wurMk6BMrVvgx/viw3jA3RKjNiFtMk0?blocks=hide">airtable</a>
 
-Some static data points, like the numbers in boxes at the top of the homepage and state dashboard that display cumulative numbers such as case count, are retrieved from Snowflake daily using our Azure functions with timer triggers like in [CovidStateDashboardV2](https://github.com/cagov/Cron/tree/master/CovidStateDashboardV2). These services write directly to the production branches of the covid19.ca.gov site, triggering a new production build and deployment. These data points are trusted and deployed without manual verification.
+## Manual approval done by our team
 
-Some services are similarly automated in how they pull data but open a pull request that awaits manual merging. Here's an example with the [tiers update](https://github.com/cagov/Cron/tree/master/CovidWeeklyTierUpdate).
+Some services are automated in how they pull data but open a pull request that awaits manual merging. Here's an example with the [tiers update](https://github.com/cagov/Cron/tree/master/CovidWeeklyTierUpdate).
 
-Other services power dashboards and need intensive manual review by experts before publishing. The [service for the equity dashboard](https://github.com/cagov/Cron/tree/master/CovidEquityData) is one example. The Azure timer trigger runs, pulls data from snowflake, merges a pull request (PR) to staging immediately, and opens a PR to production that is not automatically merged. The experts are tagged on the PR so they can review the charts with latest data in staging and determine if the update should be merged or anomalies investigated. The history and discussion of their reviews along with all changes to the data are viewable in the git log.
+## Data udpates approved by other departments
+
+The equity dashboard requires manual review of the scheduled data updates.
+
+This is supervised by Dr Jason Vargo and his team from CDPH.
+
+We create a historical record of their review by following these steps:
+
+- The data is retrieved from snowflake on schedule and published to a staging location. The [service for the equity dashboard is here](https://github.com/cagov/Cron/tree/master/CovidEquityData)
+- charts in our staging environment consume latest data from the staging location
+- a git pull request is opened by our automatic service that notifies Dr Vargo of the new data, provides a link to the staging site to review the update using live chart code
+- if the data is problematic issues are recorded in the git pull request log
+- if the dats is fine approvals are recorded in the git pull request log
+- The CDPH team presses merge on the pull request triggering the live data publication
+
+<img src="https://teamdocs.covid19.ca.gov/content/images/data-updates.png">
+
+from: <a href="https://github.com/cagov/covid-static/pull/442">equity dash pull request</a>
 
 The Snowflake SQL statements to retreive data are separated from the code which executes them and [viewable here](https://github.com/cagov/Cron/tree/master/common/SQL/CDT_COVID).

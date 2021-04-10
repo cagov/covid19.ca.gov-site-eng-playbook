@@ -2,11 +2,10 @@
 title: Cloud pieces
 date: Last Modified 
 permalink: /teams/engineering/cloud/index.html
-eleventyNavigation:
-  key: Cloud pieces
-  parent: Engineering
-  order: 190
 ---
+
+<!-- todo: make this dynamically generated based on https://airtable.com/tbljtxqTt6NGVAqO6/viwVuEQrOgfOSskga?blocks=hide
+-->
 
 ## Content sources
 

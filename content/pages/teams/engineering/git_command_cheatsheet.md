@@ -6,7 +6,7 @@ toc: true
 eleventyNavigation:
   key: Git command cheatsheet
   order: 200
-  parent: Engineering
+  parent: How our team works
 ---
 
 These are some handy utility git functions to do useful things with command line git.

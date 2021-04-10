@@ -2,10 +2,6 @@
 title: Examples of D3
 date: Last Modified 
 permalink: /teams/engineering/dashboards/tutorial/examples-d3/index.html
-eleventyNavigation:
-  key: Examples of D3
-  parent: Public dashboards
-  order: 150.4
 ---
 
 Hello World

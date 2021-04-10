@@ -4,8 +4,8 @@ date: Last Modified
 permalink: /teams/engineering/tracking-data/index.html
 eleventyNavigation:
   key: Event tracking analytics
-  parent: Engineering
-  order: 120
+  parent: User Interaction Information
+  order: 121
 ---
 
 There are many custom events we created to give us added insight into user behavior. They are listed and defined below. These were added at different times and the dates at which they started collecting data (or were turned off) can be deduced from Google Analytics with the date dimension. Some events are implemented globally and some are implemented at a page-level, we’ll identify which are such below.  

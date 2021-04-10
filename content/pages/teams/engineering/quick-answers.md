@@ -5,7 +5,7 @@ permalink: /teams/engineering/quick-answers/index.html
 eleventyNavigation:
   key: Quick answers
   parent: Engineering
-  order: 118
+  order: 115
 ---
 
 Users often search with specific questions in mind. When we present a search result that directly answers their question, it speeds up their search significantly. Refining our dataset is an ongoing process. We continually review the site searches, regularly adding to and updating the quick answer topics and content.
@@ -29,7 +29,7 @@ We feed user interaction data into our analytics tools so we can quickly see the
 Before we built our own tool, we reviewed related solutions:
 
 * Open source work by governments like the [Vermont Department of Health](https://github.com/VermontDepartmentOfHealth/covid-bot), which uses some Azure tools to provide answers to people with a different UI
-* Other teams like our friends in New Jersey, who implemented an interesting solution that inspired us. They used a hosted SAAS service to provide similar features. This did not have an API available that we could integrate when we were looking for this feature. Now it has comparable features to the Azure cognitive search we are using.
+* Other teams like our friends in New Jersey, who implemented an interesting solution that inspired us. They used a hosted SAAS service called <a href="https://www.yext.com/">yext</a> to provide similar features. This did not have an API available that we could integrate when we were looking for this feature. Now it has comparable features to the Azure cognitive search we are using.
 
 ## Additional info
 

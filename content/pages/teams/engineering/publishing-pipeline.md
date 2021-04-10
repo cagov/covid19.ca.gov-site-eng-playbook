@@ -4,8 +4,8 @@ date: Last Modified
 permalink: /teams/engineering/publishing-pipeline/index.html
 eleventyNavigation:
   key: Publishing pipeline
-  parent: Engineering
-  order: 111.2
+  parent: Content management in WordPress
+  order: 110
 ---
 
 The WordPress update link for posts points at our function-as-a-service (FAAS). WordPress ping service gets disabled if you check discourage search engines from indexing this site.

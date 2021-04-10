@@ -4,7 +4,7 @@ date: Last Modified
 permalink: /teams/engineering/translations/index.html
 eleventyNavigation:
   key: Translations
-  parent: Engineering
+  parent: Content management in WordPress
   order: 112
 ---
 

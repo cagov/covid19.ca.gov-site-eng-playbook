@@ -4,8 +4,8 @@ date: Last Modified
 permalink: /teams/engineering/devcodeflow/index.html
 eleventyNavigation:
   key: Development code flow
-  parent: Engineering
-  order: 160
+  parent: How our team works
+  order: 122
 ---
 
 We follow these procedures for code movement to production during development:

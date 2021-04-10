@@ -2,10 +2,6 @@
 title: Better charts
 date: Last Modified 
 permalink: /teams/engineering/vs-state-dash/index.html
-eleventyNavigation:
-  key: V3-state-dash
-  parent: Engineering
-  order: 105
 ---
 
 <style>

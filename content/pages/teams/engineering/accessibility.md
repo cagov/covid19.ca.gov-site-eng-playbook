@@ -4,8 +4,8 @@ date: Last Modified
 permalink: /teams/engineering/accessibility/index.html
 eleventyNavigation:
   key: Accessibility
-  parent: Engineering
-  order: 118
+  parent: How our team works
+  order: 120
 ---
 
 Here are some common accessibility errors.

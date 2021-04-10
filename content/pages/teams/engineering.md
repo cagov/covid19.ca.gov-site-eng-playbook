@@ -7,12 +7,6 @@ eleventyNavigation:
   parent: Functional teams
   order: 500
 ---
-<!--
-
-Before you get into the bullet list like publishing pipeline, data sources, etc…. Add in intro to that laundry list (as its different from your left nav). Is this quick links to get to sections they’re looking for? Or its supposed to be the nav (and then if that’s the case, update the left page nav to show this pls!)
-Do you want to add an about the team somewhere? - like what skills/experience (short paragraph) the team comprises of / what is necessary to run this site?
-
--->
 
 The engineering team provides development support for covid19.ca.gov. 
 
@@ -22,9 +16,19 @@ All of our team's code is open source. You can find everything under the <a href
 
 ## Architecture
 
-The technical architecture is designed to cope with traffic spikes, frequent content updates, to prioritize fast loading on all devices, and to exceed accessibility standards. In order to meet these goals we use WordPress as a headless CMS so that content editors can use a familiar, feature-rich authoring environment while giving engineers full control over code that executes in production. Content is consumed from the WordPress API on change by a serverless function that writes it directly to github and kicks off our static site generator. This builds the latest version of the full site we can host on the cheapest, easiest to secure and manage, and most easily scalable cloud service. The headless WordPress -> Static Site Generator architecture provided extra confidence in stability immediately when the site received more traffic than anticipated, moving past 100,000 concurrent users right after launch.
+The technical architecture is designed to: 
+- cope with traffic spikes
+- support frequent content updates
+- prioritize fast loading on all devices
+- exceed accessibility standards
 
-We use web components for client-side interactivity and serverless functions for data retrieval APIs. Writing our own web components and using other low dependency web components allow us to keep the client-side code bundle small so the site works well on low-end phones. Running APIs in serverless functions lets them scale up and down by default and let us offload all hardware and software configuration to the cloud vendor.
+In order to meet these goals we use WordPress as a headless CMS so that content editors can use a familiar, feature-rich authoring environment while giving engineers full control over code that executes in production. Content is consumed from the WordPress API on change by a serverless function that writes it directly to github and kicks off our static site generator. This builds the latest version of the full site.
+
+More info on <a href="https://www.sanity.io/blog/headless-cms-explained">headless architecture</a>
+
+We use web components for client-side interactivity. Using web components allow us to keep the client-side code bundle small so the site works well on low-end phones. 
+
+We use serverless functions for data retrieval APIs. Running APIs in serverless functions lets them scale up and down to 0 by default and lets us offload all hardware and software configuration to the cloud vendor.
 
 ## Cloud hosting
 
@@ -34,8 +38,7 @@ The site is hosted on infrastructure managed by the California Department of Tec
 
 In order to ensure the pandemic response services are available to all users accessibility, performance and human translations are prioritized.
 
-* We use <a href="http://calibreapp.com/">Calibre</a> for production performance monitoring.
-* We use both Calibre and SiteImprove for accessibility monitoring.
+* We use both <a href="http://calibreapp.com/">Calibre</a> and <a href="http://siteimprove.com/">SiteImprove</a> for performance and accessibility monitoring.
 * Developers also need to use screenreaders and run speed analysis checks against those features manually because automated tools don't fully cover the accessibility and performance profiling of complex features like embedded data visualizations.
  
 More info on technical aspects of user focused development is in our <a href="https://news.alpha.ca.gov/prioritizing-users-in-a-crisis-building-covid19-ca-gov/">Prioritizing users in a crisis</a> blog post.
@@ -48,23 +51,3 @@ Translations are provided by Avantpage's human-powered translation service. We i
 
 The team supporting covid19.ca.gov is well versed in modern web development, creating fast-rendering websites with progressively enhanced semantic HTML, componentized javascript and CSS. We setup our own build tooling, pipeline triggers, automated testing, and API environments and specify cloud service requirements to partners.
 
-## Content
-
-- [11ty](eleventy/)
-- [Frontend build](frontend-build/)
-- [Content management](content-management/)
-
-## Data
-
-- [Data pipelines](data-pipelines/)
-- [Surveys and feedback](surveys)
-- [Public dashboards](dashboards/)
-- [Airtable](airtable/)
-- [Quick Answers](quick-answers)
-
-## Development
-
-- [Accessibility](accessibility/)
-- [Analytics](tracking-data/)
-- [Cloud infrastructure](cloud/)
-- [Development code flow](devcodeflow/)

@@ -2,10 +2,6 @@
 title: Accessible charts
 date: Last Modified 
 permalink: /teams/engineering/performance/index.html
-eleventyNavigation:
-  key: Performance
-  parent: Engineering
-  order: 105
 ---
 
 <style>
