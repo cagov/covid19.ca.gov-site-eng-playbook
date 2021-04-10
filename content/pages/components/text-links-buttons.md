@@ -32,6 +32,30 @@ When creating a block of text in WordPress, select the *Heading* option. It will
 
 Do not use H1 headers when creating content. These are automatically created by WordPress using the title of the post. Each page can only have one H1.
 
+### Separator line
+
+#### When we use them
+
+Even with headers, people can find it hard to know where one section ends and a new one begins. The separator line creates a delineation between sections. Use them when:
+
+* There are at least 3 H2 headers on a page.
+* Sections are long enough when viewed on desktop that you will not see two separators in one screen.
+
+When in doubt, get a second opinion on whether a page warrants a separator lines.
+
+#### How to apply
+
+To create a separator:
+
+1. Create a new paragraph block in the WordPress post above an H2.
+2. Select the black **+** button on the right side of the editing field for the block.
+3. Select **Browse All**.
+4. A menu will open on the left. Scroll down to the _Design_ section. Select **Separator**.
+5. In the right menu (you may need to open it again using the **gear icon**), select the **Block** tab.
+6. Open the **Advanced** accordion.
+7. Copy the _HTML anchor_ from the H2 header and apply it to the separator block. (This creates some white space above the header when someone uses the anchor link, which looks better.)
+8. Remove the _HTML anchor_ from the H2.
+
 ### Emphasized text (P large)
 
 P large - Roboto regular 400, color #000000, font-size  1.45rem,  line height 1.5

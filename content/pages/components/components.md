@@ -50,8 +50,7 @@ The code is:
 ```
 <div class="highlight">
 <h2 class="h3 color-primary mt-0">Regional Stay Home Order ended January 25, 2021</h3>
-<p>Counties returned to their appropriate tier under the Blueprint for a Safer Economy. Other state orders are still in place. See details on the <a href="https://covid19.ca.gov/stay-home-except-for-essential-needs/">About COVID-19 restrictions page</a>.
-</p>
+<p>Counties returned to their appropriate tier under the Blueprint for a Safer Economy. Other state orders are still in place. See details on the <a href="https://covid19.ca.gov/stay-home-except-for-essential-needs/">About COVID-19 restrictions page</a>.</p>
 </div><p></p>
 ```
 
