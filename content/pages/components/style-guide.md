@@ -244,7 +244,7 @@ People often think in terms of a question they have. Creating anticipated questi
 
 When creating a question and answer section, just call it _Questions and answers_. Don’t add any information like _Questions and answers about financial help_. If questions and answers cluster around certain topics, create subheaders to organize them.
 
-To prevent a question and answer or other accordion from showing up in search results on covid19.ca.gov, add this class to the accordion title block (which will already have the class `wp-accordion`): `js-qa-exclude`
+To prevent a question and answer or other accordion from showing up in search results on covid19.ca.gov, add this class to the accordion title block (which will already have the class **wp-accordion**): **js-qa-exclude**
 
 ### Guides
 A guide is a comprehensive summary of complex information. It usually spans multiple pages. Side navigation lets users move between pages.
