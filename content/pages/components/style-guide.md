@@ -162,7 +162,6 @@ Clear headings make pages easier to scan and understand.
 * Use header levels in ascending numerical order. Do not skip steps. It’s OK to repeat header levels.
 * Always have at least one line of text between headers.
 * Do not use header tags for full sentences or non-header body text.
-* Accordion titles always use h4 header tags, regardless of where they appear in the header hierarchy.
 
 Check your heading structure in Google Docs. Select **View** and **Show Document Outline** to confirm they nest appropriately.
 
