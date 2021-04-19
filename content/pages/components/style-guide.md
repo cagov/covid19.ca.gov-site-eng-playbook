@@ -205,6 +205,7 @@ Use a button with a form or to highlight something the user wants to do. Links a
 * Open links in the [the same tab and window](https://www.w3.org/TR/WCAG20-TECHS/G200.html). Only open content in a new tab or window when there's a good reason to do so. Give them [warning](https://www.w3.org/TR/WCAG20-TECHS/G201.html) when a new tab or window will open.
   * See the [examples](https://staging.covid19.ca.gov/sample) page to see what code to use in WordPress to create linked to other sites and PDFs.
 * When you end a sentence with a link, do not include the period in the hyperlink.
+* Always create dial links for phone numbers. This allows users, especially mobile users, to dial the number with one click. The WordPress format for the link is `tel:123-456-7890`, and the HTML is `<a href="tel:123-456-7890">123-456-7890</a>`.
 
 ### Notes and disclaimers
 When info (especially data in tables or graphs) needs an explanation, follow it with a note to provide clarity. Make the note smaller to signal to the reader that it is secondary info. In WordPress, use this code in the HTML view to create smaller text: `<p class="small-text"> … </p>`
