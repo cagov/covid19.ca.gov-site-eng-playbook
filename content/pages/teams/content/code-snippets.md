@@ -33,20 +33,6 @@ Add hidden keywords when you’d like a page or quick answer to appear in search
 <div style="display:none;" class="wp-accordion-content"><!-- county map --></div>
 ```
 
-### Yellow alert box - DEPRECATED
-
-**We now use the highlight box instead of a yellow alert box. This code is being kept in case it's needed later.**
-
-For this yellow alert box:
-
-![Yellow alert box](https://cagov.github.io/covid19.ca.gov-site-eng-playbook//content/images/yellow-alert-box.jpg)
-
-The code is this:
-
-```
-<div class="alert alert-warning" role="alert"><h4 class="alert-heading">New limited stay at home order</h4><p>COVID-19 is increasing at alarming rates in California and we all need to do our part to stop the surge. As of November 19, 2020, it is required that all non-essential work and activities stop between 10PM and 5AM in counties in the Widespread (purple) tier. Read more in the <a href="https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/limited-stay-at-home-order.aspx" class="alert-link">limited stay at home order</a>.</p></div>
-```
-
 ## Make a heading larger while preserving hierarchy
 
 When does an H3 look like an H2? When you use this code:
