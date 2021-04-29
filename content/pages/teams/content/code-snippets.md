@@ -14,9 +14,9 @@ Below are examples of code you can use in WordPress posts. HTML can be inserted 
 * Hidden keywords
 * Making a header larger while preserving hierarchy
 * Centering an image
-* Adding a caption to an image - COMING SOON
+* Adding a caption to an image
 * Aligning an image to the right or left of text
-* Adding a caption to an image aligned right or left - COMING SOON
+* Adding a caption to an image aligned right or left
 * Titles in links
 
 ## Hidden question & answer
@@ -139,7 +139,7 @@ Use this code:
 <div class="col-md-auto">
       <img src="https://files.covid19.ca.gov/img/Asset4at2x1.png" alt="illustration of man on phone" style="width: 250px;">
     </div>
-  </di
+  </div>
 ```
 
 ## Adding a caption to an image aligned right or left
