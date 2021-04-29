@@ -33,7 +33,7 @@ Performance audits screenshot from Tableau version:
 
 <img src="https://teamdocs.covid19.ca.gov/content/images/perf-tableau.png">
 
-Vs the new version:
+Vs the new version launched 4/29:
 
 <img src="https://teamdocs.covid19.ca.gov/content/images/state-dash-v3-web-dev-results.png">
 
