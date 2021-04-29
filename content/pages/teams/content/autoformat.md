@@ -5,7 +5,7 @@ permalink: /teams/content/autoformat.html
 eleventyNavigation:
   key: Links with automatic formatting
   parent: Editing
-  order: 250
+  order: 217
 ---
 Some kinds of links on our site have been engineered to have an icon appear after the link automatically. This formatting increases accessibility and benefits all users by letting them know what kind of link it is before they click it.
 
