@@ -12,7 +12,6 @@ Below are examples of code you can use in WordPress posts. HTML can be inserted 
 
 * Hidden question & answer
 * Hidden keywords
-* Making a header larger while preserving hierarchy
 * Titles in links
 
 ## Hidden question & answer
@@ -32,22 +31,6 @@ Add hidden keywords when you’d like a page or quick answer to appear in search
 ```
 <div style="display:none;" class="wp-accordion-content"><!-- county map --></div>
 ```
-
-## Make a heading larger while preserving hierarchy
-
-When does an H3 look like an H2? When you use this code:
-
-```
-<!-- wp:heading {"level":3,"className":"h2"} -->
-<h3 class="h2">Regions</h3>
-<!-- /wp:heading -->
-```
-
-Insert it using Code Editor. Use this occasionally and in consultation with the Design team. Headers should go down in size as they go down in the hierarchy. 
-
-If you’d like to do this same thing without writing custom code, add the size you’d want your headers to appear as under Additional CSS classes. If there is already a class there, put a space between them.
-
-![Block section in WordPress with header class code](https://cagov.github.io/covid19.ca.gov-site-eng-playbook//content/images/header-class-in-block.jpg)
 
 ## Titles in links
 
