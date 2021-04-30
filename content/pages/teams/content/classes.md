@@ -22,11 +22,11 @@ All the questions and answers on our site are contained within collapsible accor
 
 Questions get the class *wp-accordion*.
 
-IMAGE
+![Block section in WordPress with accordion class](https://cagov.github.io/covid19.ca.gov-site-eng-playbook//content/images/wp-accordion.png)
 
 This class makes the question look like this:
 
-IMAGE
+![Questions accordion](https://cagov.github.io/covid19.ca.gov-site-eng-playbook//content/images/questions.png)
 
 ### Answers
 
@@ -34,7 +34,7 @@ The answers that follow the question get the *wp-accordion-content* class.
 
 This class makes the answer look like this:
 
-IMAGE
+![Opened accordion with answer](https://cagov.github.io/covid19.ca.gov-site-eng-playbook//content/images/answers.png)
 
 The class must be added individually to each content block in the answer, whether it’s a paragraph or a list. In the example above, each of the 4 paragraphs had the class added.
 
@@ -49,7 +49,7 @@ Once marked with this class, each block is assumed to be part of the answer to t
 
 To make text larger, use the emphasized CSS class. You can add it in the right menu.
 
-IMAGE
+![Block section in WordPress with emphasized text class](https://cagov.github.io/covid19.ca.gov-site-eng-playbook//content/images/emphasized.png)
 
 In our page style, emphasized text is only used for the first block of text in the page, after the page title and before the page index. Keep this emphasized text to one or two brief sentences. They should give the most important idea on the page, or the gist of what the page contains.
 
