@@ -64,10 +64,11 @@ To archive a page:
 5. Find the page in the _Posts_ section of WordPress.
 6. Hover your cursor over the row with the post. You'll see a set of options appear.
 7. Select **Trash**. The post will move to the trash immediately without a confirmation screen.
-8. Remove the page from the [per page feedback filter code](https://github.com/cagov/comment-reports/blob/master/docs/index.html) on github.
-9. Alert the engineers that the page has been removed so they can:
+8. Alert the engineers that the page has been removed so they can:
   a. Remove translated page files
   b. Do a recrawl of quick answer questions
+9. Remove the page from the [per page feedback filter code](https://github.com/cagov/comment-reports/blob/master/docs/index.html) on github.
+10. Move the folder of draft Google Docs to the **Archived content** folder.
 
 To restore a post:
 
