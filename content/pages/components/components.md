@@ -114,6 +114,22 @@ To include a block inside the accordion, use the *wp-accordion-content* class. T
 
 #### Figma and Storybook documentation
 
+### Inline highlight box
+
+#### When we use it
+
+We use the inline highlight box to add a backgroung color to a section of content. This allows it to be highlighted without being put in the regular highlight box.
+
+![Example of the blue highlight box in use](https://cagov.github.io/covid19.ca.gov-site-eng-playbook//content/images/blue-highlight-example.jpg)
+
+#### How to apply
+
+To create an inline highlight box, use the *blue-highlight* class to the text.
+
+![CSS class menu block with blue-highlight entered](https://cagov.github.io/covid19.ca.gov-site-eng-playbook//content/images/blue-highlight.jpg)
+
+#### Figma and Storybook documentation
+
 ### Table
 #### When  we use it
 #### How to apply
