@@ -53,15 +53,19 @@ After a post is submitted for publishing, you can track its progress in the [git
 To archive a page:
 
 1. Save the content (and any special code) in a Google Doc in case you need it later.
-2. Search WordPress for the page URL to see if it's linked to by any other page on the site. If so, remove or change the link.
+2. Remove the page from the menu navigation.
+3. Search WordPress for the page URL to see if it's linked to by any other page on the site. If so, remove or change the link.
   a. Search using only the slug (for example, /vaccines/) instead of the full URL (like https://covid19.ca.gov/vaccines). Many links do not use the full URL, just the slug.
-3. Create a [redirect](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/teams/content/redirects.html) for the page (and any translated versions).
-  a. Create redirects for any anchor links on the page too.)
-4. Find the page in the _Posts_ section of WordPress.
-5. Hover your cursor over the row with the post. You'll see a set of options appear.
-6. Select **Trash**. The post will move to the trash immediately without a confirmation screen.
-7. Remove the page from the [per page feedback filter code](https://github.com/cagov/comment-reports/blob/master/docs/index.html) on github.
-8. Alert the engineers that the page has been removed so they can:
+4. Create a [redirect](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/teams/content/redirects.html) for the page (and any translated versions).
+  a. If there is a page that has replacement content, set the redirect to that page.
+  b. If there is no replacement content, leave the destination column blank. This prevents the site from getting a Soft 4040 penalty.
+  c. Create redirects for any anchor links on the page too.
+  d. Check the redirect table to see if the page you're archiving is the destination of any redirects. Update those destinations as appropriate.
+5. Find the page in the _Posts_ section of WordPress.
+6. Hover your cursor over the row with the post. You'll see a set of options appear.
+7. Select **Trash**. The post will move to the trash immediately without a confirmation screen.
+8. Remove the page from the [per page feedback filter code](https://github.com/cagov/comment-reports/blob/master/docs/index.html) on github.
+9. Alert the engineers that the page has been removed so they can:
   a. Remove translated page files
   b. Do a recrawl of quick answer questions
 
