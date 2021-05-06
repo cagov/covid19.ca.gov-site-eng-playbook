@@ -67,6 +67,7 @@ To archive a page:
 8. Alert the engineers that the page has been removed so they can:
   a. Remove translated page files
   b. Do a recrawl of quick answer questions
+  c. Remove URL from uptime monitoring check
 9. Remove the page from the [per page feedback filter code](https://github.com/cagov/comment-reports/blob/master/docs/index.html) on github.
 10. Move the folder of draft Google Docs to the **Archived content** folder.
 
