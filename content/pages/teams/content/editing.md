@@ -61,7 +61,9 @@ To archive a page:
 5. Hover your cursor over the row with the post. You'll see a set of options appear.
 6. Select **Trash**. The post will move to the trash immediately without a confirmation screen.
 7. Remove the page from the [per page feedback filter code](https://github.com/cagov/comment-reports/blob/master/docs/index.html) on github.
-8. Alert the engineers that the page has been removed so they can remove translated page files.
+8. Alert the engineers that the page has been removed so they can:
+  a. Remove translated page files
+  b. Do a recrawl of quick answer questions
 
 To restore a post:
 
