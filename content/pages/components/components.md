@@ -99,10 +99,15 @@ The code is:
 
 #### When we use it
 
-We use accordions in two situations:
+We use accordions in three situations:
 
 * For content in question and answer format
 * To group like content together
+* To make pages simpler by initially hiding information that applies to less than 50% of our expected users
+
+Do not use accordions just to make a page shorter. If everyone should see the content, it belongs in the main body of the page. Asking people to open an accordion to get info they need risks them missing it. They also have to take an action (clicking with their mouse or tapping their phone), which is extra effort.
+
+Keep content in accordions short. If you have more than a few paragraphs to communicate, the content is better served being in the main body.
 
 Content in accordions show up as *quick answers*, which means they can appear in search results on the site.
 
