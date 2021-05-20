@@ -65,11 +65,12 @@ To archive a page:
   b. If there is no replacement content, leave the destination column blank. This prevents the site from getting a Soft 4040 penalty.
   c. Create redirects for any anchor links on the page too.
   d. Check the redirect table to see if the page you're archiving is the destination of any redirects. Update those destinations as appropriate.
-6. Find the page in the _Posts_ section of WordPress.
-7. Hover your cursor over the row with the post. You'll see a set of options appear.
-8. Select **Trash**. The post will move to the trash immediately without a confirmation screen.
-9. Remove the page from the [per page feedback filter code](https://github.com/cagov/comment-reports/blob/master/docs/index.html) on github.
-10. Move the folder of draft Google Docs to the **Archived content** folder.
+6. Confirm with the engineering team that they're ready for the page to be archived.
+7. Find the page in the _Posts_ section of WordPress.
+8. Hover your cursor over the row with the post. You'll see a set of options appear.
+9. Select **Trash**. The post will move to the trash immediately without a confirmation screen.
+10. Remove the page from the [per page feedback filter code](https://github.com/cagov/comment-reports/blob/master/docs/index.html) on github.
+11. Move the folder of draft Google Docs to the **Archived content** folder.
 
 To restore a post:
 
