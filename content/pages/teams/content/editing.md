@@ -55,7 +55,7 @@ To archive a page:
 1. Alert the engineering team that the page will be archived (you can do this up to two days in advance if you have lead time on the archiving). Create a Jira ticket for the the engineers to perform the following tasks for the page to be archived:
   a. Remove translated page files
   b. Do a recrawl of quick answer questions (if needed)
-  c. Remove URL from uptime monitoring check
+  c. Remove URL from uptime monitoring check (this bot is maintained by Jim, who appreciates the early heads up to modify the bot so it does not check for the page once it's down)
 2. Save the content (and any special code) in a Google Doc in case you need it later.
 3. Remove the page from the menu navigation.
 4. Search WordPress for the page URL to see if it's linked to by any other page on the site. If so, remove or change the link.
