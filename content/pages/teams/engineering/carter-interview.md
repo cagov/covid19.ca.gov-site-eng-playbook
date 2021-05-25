@@ -1,5 +1,5 @@
 ---
-title: Carter Medline on data pipelines
+title: Carter Medlin on data pipelines
 date: Last Modified 
 permalink: /teams/engineering/data-pipeline-interview/index.html
 ---
