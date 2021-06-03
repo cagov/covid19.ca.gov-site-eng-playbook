@@ -62,7 +62,7 @@ To archive a page:
   a. Search using only the slug (for example, /vaccines/) instead of the full URL (like https://covid19.ca.gov/vaccines). Many links do not use the full URL, just the slug.
 5. Create a [redirect](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/teams/content/redirects.html) for the page (and any translated versions).
   a. If there is a page that has replacement content, set the redirect to that page.
-  b. If there is no replacement content, leave the destination column blank. This prevents the site from getting a Soft 4040 penalty.
+  b. If there is no replacement content, leave the destination column blank. This prevents the site from getting a Soft 404 penalty.
   c. Check the redirect table to see if the page you're archiving is the destination of any redirects. Update those destinations as appropriate.
 6. Confirm with the engineering team that they're ready for the page to be archived.
 7. Find the page in the _Posts_ section of WordPress.
