@@ -134,7 +134,9 @@ If a link goes to a PDF hosted on an external site, do not apply the external li
 
 #### How to apply
 
-For this external link icon:
+The PDF link icon is applied automatically when you create a hyperlink that directs to a URL that is not in the covid19.ca.gov domain.
+
+If you need to manually apply the  external link icon, use this code:
 
 ![External link icon](https://cagov.github.io/covid19.ca.gov-site-eng-playbook//content/images/external-link.png)
 
