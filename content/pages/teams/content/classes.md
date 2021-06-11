@@ -56,6 +56,8 @@ In our page style, emphasized text is only used for the first block of text in t
 
 ## Small text
 
+In our page style, small text is only used rarely. It's the online equivalent of "fine print." Check with a content lead before publishing small text.
+
 To make text smaller than regular body text, use the small-text CSS class. You can add it in the right menu.
 
 ![Block section in WordPress with small text class](https://cagov.github.io/covid19.ca.gov-site-eng-playbook//content/images/small-text.png)
@@ -66,7 +68,9 @@ If hand-coding HTML, you can include it as you would any CSS class.
 <p class="small-text">Offer valid for free topping, or equivalent side serving, of queso blanco with the purchase of a full-priced entrée item. Limit one free serving per entrée; redemption is subject to availability. Must be ordered with entrée item. Excludes online, mobile, and catering orders. Valid only on June 15, 2021 at participating Chipotle Mexican Grill restaurants in California. May not be combined with other coupons, promotions, or special offers. Void where prohibited; additional restrictions may apply.</p>
 ```
 
-In our page style, small text is only used rarely. It's the online equivalent of "fine print." Check with a content lead before publishing small text.
+Here's how that looks when published:
+
+![Small text example](https://cagov.github.io/covid19.ca.gov-site-eng-playbook//content/images/small-text-example.png)
 
 ## Make a heading appear larger
 
