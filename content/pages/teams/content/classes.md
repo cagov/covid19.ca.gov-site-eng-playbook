@@ -53,6 +53,20 @@ To make text larger, use the emphasized CSS class. You can add it in the right m
 
 In our page style, emphasized text is only used for the first block of text in the page, after the page title and before the page index. Keep this emphasized text to one or two brief sentences. They should give the most important idea on the page, or the gist of what the page contains.
 
+## Small text
+
+To make text smaller than regular body text, use the small-text CSS class. You can add it in the right menu.
+
+![Block section in WordPress with small text class](https://cagov.github.io/covid19.ca.gov-site-eng-playbook//content/images/small-text.png)
+
+If hand-coding HTML, you can include it as you would any CSS class.
+
+```
+<p class="small-text">Offer valid for free topping, or equivalent side serving, of queso blanco with the purchase of a full-priced entrée item. Limit one free serving per entrée; redemption is subject to availability. Must be ordered with entrée item. Excludes online, mobile, and catering orders. Valid only on June 15, 2021 at participating Chipotle Mexican Grill restaurants in California. May not be combined with other coupons, promotions, or special offers. Void where prohibited; additional restrictions may apply.</p>
+```
+
+In our page style, small text is only used rarely. It's the online equivalent of "fine print." Check with a content lead before publishing small text.
+
 ## Make a heading appear larger
 
 When does an H3 look like an H2? When you give it an H2 class. This changes the appearance of the header while preserving hierarchy.
