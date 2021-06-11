@@ -106,3 +106,26 @@ When we launched the [equity page](https://covid19.ca.gov/equity/) we wanted to 
 | "scroll"  | "scroll-75" | "scroll-75-equity" |
 | "scroll"  | "scroll-90" | "scroll-90-equity" |
 | "scroll"  | "chart-in-view" | "chart-name" |
+
+
+## CTA
+
+We are tracking some call to action links with custom events. There is javascript tracking code that will look for the cta data attribute and apply a click listener that fires a custom event so you can instrument links as follows:
+
+Example:
+```
+<a href="https://myturn.ca.gov/" class="link-arrow-blue text-center" data-tracking-action="cta" data-tracking-label="$15 million">
+  <div class="link-arrow-label">GET VAXED TO WIN</div>
+  <cagov-arrow></cagov-arrow>
+</a>
+```
+
+The important parts are:
+
+- data-tracking-action="cta" 
+
+This should be the same on every link. The string cta needs to be used for the javascript event assignment to find the link. This will fire a custom event on click with an action value of cta and a category value of click.
+
+- data-tracking-label="$15 million"
+
+This value should be set to the string you want to show up in google analytics as the event label value. 
