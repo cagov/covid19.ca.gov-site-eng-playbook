@@ -12,6 +12,7 @@ Here are some CSS classes that are used often on our website. They are added in 
 
 * Accordions
 * Emphasized text
+* Small text
 * Make a heading appear larger
 
 ## Accordions
