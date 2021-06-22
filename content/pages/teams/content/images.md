@@ -39,7 +39,7 @@ It's also important to know how to:
 
 ## How to add images
 
-* Resize and compress with Squoosh.com (or other tool of choice)
+* Resize and compress with Squoosh.app (or other tool of choice)
 * Upload to Github
 * Add to page in WordPress
 * Use classes in WordPress to define desktop and mobile images
