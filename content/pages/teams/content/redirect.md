@@ -15,6 +15,7 @@ The content team can create redirects without help from a developer. You'll need
 
 Before you make a redirect, check these things first:
 
+* Is there already a redirect in place for this page? If there are two entries for the same URL in the redirect table, this will break publishing the entire site.
 * Is the page in the site navigation menu? If so, update the WordPress fragment titled **Menu Links** by either:
   * Changing the link to go to the new URL
   * Removing the row that contains the link to the page that’s being redirected
