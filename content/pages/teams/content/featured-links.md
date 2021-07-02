@@ -1,7 +1,7 @@
 ---
 title: Updating featured links
 date: Last Modified 
-permalink: /teams/content/featured.html
+permalink: /teams/content/featured-links.html
 eleventyNavigation:
   key: Featured
   parent: Homepage
