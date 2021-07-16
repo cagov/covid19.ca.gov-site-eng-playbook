@@ -8,7 +8,7 @@ eleventyNavigation:
   order: 52
 ---
 
-## Text Stlyes
+## Text Styles
 
 ### Headers
 
