@@ -20,7 +20,7 @@ We achieved this in a way that any organization can duplicate. The cost to run t
 
 We use Azure cognitive search quick answers to provide all the backend features: the content database, the query evaluation logic, and the endpoints for our frontend to call
 
-We create the content by running [a scraper](https://github.com/cagov/qna-crawler/blob/master) against our site regularly so the content is updated based directly on our publicly published info. The only custom code is some logic to pull Q&A pairs from our frontend code. The scraper runs on Azure FAAS.
+We create the content by running [a scraper](https://github.com/cagov/qna-crawler) against our site regularly so the content is updated based directly on our publicly published info. The only custom code is some logic to pull Q&A pairs from our frontend code. The scraper runs on Azure FAAS.
 
 We feed user interaction data into our analytics tools so we can quickly see the most-used quick answers, the searches, searches without associated quick answers, and the answers users saw but ignored. We use this data to refine our site content. These changes update the quick answers dataset.
 
