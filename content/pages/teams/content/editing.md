@@ -83,6 +83,10 @@ If you want to reuse a URL slug from a page that was archived, check the [Page R
 * If it is, you can reuse it.
 * If it is not in the table, the URL is going to a 410 page. This tells search engines that the page has been removed and there is no alternate content. Search engines now ignore the page. You will need to use a different URL.
 
-To reuse a slug, create a new post in WordPress. The old post will not be available in Trash anymore unless it was deleted recently. In the new post, go to Settings, select the Post tab, and open the Permalink dropdown to update the URL slug to the one you are reusing. 
+To reuse a slug:
+
+1. Create a new post in WordPress. The old post will not be available in Trash anymore unless it was deleted recently.
+2. In the new post, go to **Settings** and select the **Post** tab.
+3. Open the **Permalink** dropdown to update the URL slug to the one you are reusing. 
 
 If you reuse a slug and had Britt/analytics remove it from the page feedback filters in the Google Analytics Content Report, you will need to ask them to add it back. Until the page is added to a filter, it will show up in the *Unassigned* filter.
