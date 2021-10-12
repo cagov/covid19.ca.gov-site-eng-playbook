@@ -22,4 +22,4 @@ Use the ```staging-only``` tag to send an update to the <a href="https://staging
 
 You can view any published content (with OR without the ```staging-only``` tag) immediately after updating by using the [Preview Site](https://fa-go-wp-prev-02.azurewebsites.net/).
 
-Instant Preview uses the [11ty-serverless-preview-mode NPM package](https://github.com/cagov/11ty-serverless-preview-mode)
+Instant Preview uses the [11ty-serverless-preview-mode NPM package](https://github.com/cagov/11ty-serverless-preview-mode).
