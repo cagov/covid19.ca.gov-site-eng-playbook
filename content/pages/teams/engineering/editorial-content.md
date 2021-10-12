@@ -18,4 +18,8 @@ We do **not** use WordPress to deploy our content. More info on the <a href="/te
 
 Use the ```staging-only``` tag to send an update to the <a href="https://staging.covid19.ca.gov">staging server</a> only. If this tag is not present the update will be published to both staging and production branches.
 
+## Instant Preview
 
+You can view any published content (with OR without the ```staging-only``` tag) immediately after updating by using the [Preview Site](https://fa-go-wp-prev-02.azurewebsites.net/).
+
+Instant Preview uses the [11ty-serverless-preview-mode NPM package](https://github.com/cagov/11ty-serverless-preview-mode)
