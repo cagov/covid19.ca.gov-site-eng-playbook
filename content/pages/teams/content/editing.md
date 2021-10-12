@@ -48,6 +48,10 @@ Use the **Update** button to publish. If you have made changes, but are not read
 
 After a post is submitted for publishing, you can track its progress in the [github Actions](https://github.com/cagov/covid19/actions). It usually takes a few minutes after the action completes before the change appears on the site. If you see in Actions that publishing for your page failed in, ask a developer to take a look at what happened.
 
+## Instant Preview
+
+You can view any published content (with OR without the **staging-only** tag) immediately after updating by using the [Preview Site](https://fa-go-wp-prev-02.azurewebsites.net/).  The most recent updates will appear at the top of the list.  Once you click on a preview link from the list, you can save the link for re-use, or simply refresh the browser to reload the latest updates.
+
 ## Archiving content
 
 To archive a page:
