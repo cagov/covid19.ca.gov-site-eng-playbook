@@ -10,21 +10,9 @@ eleventyNavigation:
 
 We write for all Californians. Our content bridges the gap between Californians and the information and services they need.
 
-## Our voice
+## Content principles
 
-We are partners of Californians, helping get them the services they need.
-
-| We are                  | We are not                                              |
-| ----------------------- |-------------------------------------------------------- |
-| A source of truth       | Expressing opinions                                     |
-| Information providers   | Service providers                                       |
-| Welcoming to everyone   | Overbearing                                             |
-| Friendly                | Fake                                                    |
-| Official                | Cold or distant                                         |
-| Conversational          | Disrespectful                                           |
-| Straightforward         | Blunt                                                   |
-| Empathetic              | Apathetic                                               |
-| Sensitive toward others | Pretending to save people or know everything about them |
+covid19.ca.gov follows the [Office of Digital Innovation content design principles](https://docs.google.com/document/d/1orQyak_oQ2dSrDBYCRjauHTIQE51QGE_Cn4TssYrNX0/edit?usp=sharing). We also use the [Office of Digital Innovation word list](https://docs.google.com/document/d/1ALvcGokcsDYpjtTZ94HaOXyNKTDOx2AUPrtAJpZ7iyk/edit?usp=sharing).
 
 ## Content about emerging situations
 
@@ -44,112 +32,12 @@ Assume that everyone’s reading level is a few grades lower due to stress. Read
 
 * Use:
   * Short sentences
-  * One or two syllable words
+  * One or two syllable words. The CDC maintains [a list of everyday words](https://www.cdc.gov/healthcommunication/everydaywords/index.html).
   * Simple sentence structure
   * A clear hierarchy of information
 * Do not use special terms. People probably won’t know what they mean.
 * Avoid repetition, even when there are slight differences.
 * Keep conditional sentences (if/then) to a minimum.
-
-## Our style
-We write content that’s user-centered. It’s:
-* Clear
-* Concise
-* Accessible
-
-### Focus on user needs 
-Give users what they need, not what you want them to think about the government or agency. Put the content they most want first.
-
-### Requirements, not advice
-People come to a government website to find out what they need to do. Do not give advice or make suggestions. Use should as little as possible.
-
-### Plain language
-Plain language is clear and accessible to everyone, including readers with cognitive disabilities and limited English fluency.
-
-* Choose [simple words](https://plainlanguage.gov/guidelines/words/use-simple-words-phrases/) when possible.
-  * Do not sacrifice clarity for simplicity.
-  * For medical content, the CDC maintains [a list of everyday words](https://www.cdc.gov/healthcommunication/everydaywords/index.html).
-* Explain jargon when you have to use it.
-* Spell out acronyms when first used. Put the acronym in parentheses after the first use if you use it later.
-  * Spell out the acronym the first time it is used in an accordion even if it's been used earlier in the page. We do this because accordions can show up as a quick answer where they will not have the benefit of the page context.
-  * Do not spell out CDC. The acronym is better known than "Centers for Disease Control and Prevention."
-* Use positive phrases instead of negative ones. They’re easier to understand.
-  * Example: write _lack_ instead of _do not have_.
-
-### Usage list
-* We use _Latino_ instead of other terms like _Latinx_ or _Hispanic_. This conforms with standard demographic terms we use in our data visualizations.
-
-### Clear sentences
-* Use [active voice](https://plainlanguage.gov/guidelines/conversational/use-active-voice/) and strong verbs.
-  * Do not use [hidden verbs](https://plainlanguage.gov/guidelines/words/avoid-hidden-verbs/).
-* Turn gerunds into verbs where it makes sense.
-  * Example: write _help_ instead of _helping_.
-* Write in present tense.
-* Do not use pronouns like _this_, _those_, and _these_ or references like _as above_. They’re vague. Restate what you’re referring to.
-* Write out or abbreviate months in dates. Some cultures interpret 9/5/2020 as May 9, 2020, instead of September 5, 2020.
-* Use numerals instead of spelling out numbers.
-  * Use commas in numbers over 999. This helps people understand order of magnitude.
-  * Only use decimals when you need to. Only go to one decimal place in most situations.
-  * Use more than one decimal place when using this rule or rounding would cause you to show a value as 0 when it is not truly 0. This most often comes into play with data reporting.
-  * Write 0 without any decimal places.
-
-### Reading level
-Write at a sixth grade level or lower. Some content may not be able to reach this goal, but always look for opportunities to improve through simpler words and shorter sentences. Check reading levels with the [Hemingway Editor](http://hemingwayapp.com/). Eliminate very hard to read sentences and minimize hard to read sentences.
-
-### Be concise
-Use short sentences and paragraphs. They’re easier to read and accessible for all readers, regardless of reading level.
-
-* Aim for one thought per sentence.
-* Vary the lengths of your sentences and paragraphs to sound natural.
-* Remove words that don’t add value.
-  * Example: don’t say _please_ when telling a reader what to do.
-* Be direct and confident.
-
-### Organize content by importance
-Put the most important content first on a page. This is often the content that applies to the most people. Content that applies to the least people (like specific populations) last.
-
-### Keep it conversational
-Write how you speak. Read your writing out loud to hear how it sounds.
-
-* Imagine each period as a breath and each comma as a pause.
-* Use common contractions like _you’ll_, _it’s_, and _we’ll_.
-  * Do not use contractions with not like _don’t_ and _aren’t_. When skimming, readers see _do_ and _don’t_ as the same.
-  * Do not use uncommon contractions like _this’ll_, _y’all_, and _ain’t_.
-* Where it makes sense, start sentences with _And_ or _But_ to show the relationship between content and add a smooth transition.
-* Refer to people as _you_, and the government or agency as _we_. Don’t use _me_ or _my_. It’s unclear if _me_ refers to the readers or the writer.
-
-We use AP Style with a few differences. We use the serial comma (also called the Oxford comma) to reduce confusion. It’s the comma that comes before _and_ in: _We brought apples, bananas, and oranges_.
-
-### Accessibility
-We write for all Californians.
-
-Keep the following people in mind when you write:
-* Californians with limited financial resources
-* Californians without internet access
-* Californians who live in difficult housing situations (like those with domestic violence)
-* Californians struggling with depression or suicide
-* Californians without a fixed address
-* Californians with disabilities
-* Communities of color
-* Immigrant Californians
-* Tribal communities
-* Californians with limited or no English fluency
-* Rural Californians
-
-When discussing benefits and supports, state:
-* Minimum requirements
-* Any income restrictions
-* If it’s available regardless of immigration status, including:
-  * How their personal information is protected
-  * Which immigrants are eligible
-  * If it counts under the public charge rule
-
-If writing for a specific audience, consider what languages the content should be translated into.
-
-### Get to know the people who use your site
-Google Analytics and Search Console shows you the words people are using online. They provide keywords people use to find a page and what they’re trying to find on the page. Modify the content or metadata to mirror their language.
-
-Work with user researchers to do deeper testing to understand how well people can complete tasks and discover needs you may not know about.
 
 ## Structure and formatting
 Well-structured content is easy to read and accessible.
@@ -194,12 +82,10 @@ Use a button with a form or to highlight something the user wants to do. Links a
 
 * Link to webpages instead of PDFs as much as possible. Webpages are more accessible across devices, more easily searched, and less likely to break.
   * If you must link to a document, make it a PDF if possible. Word documents, Excel sheets, and PowerPoint presentations require software to view them that people may not have.
-  * Indicate if the link is going to a file by providing its extension (like PDF, DOC, or PPT) so people can choose if they want to download it.
+  * Indicate if the link is going to a file by providing its extension (like DOC or PPT) so people can choose if they want to download it.
   * Use the PDF link class to format links to PDFs.
 * Make the link title match the title of the destination page as much as possible. This helps people know they arrived in the right place.
 * When creating a button, be short, descriptive, and distinctive.
-* Start with an active verb like **Apply**, **Submit**, or **Search**. This keeps the focus on the user’s needs.
-* Do not use _See more_, _Here_, or _View more_. They do not give the user a good idea where they’ll go. These phrases also assume everyone can see.
 * Limit number of links so as to make the text more readable. If you have several relevant links, put them in a bulleted list after your main text.
 * Have links support comprehension, not disrupt it. Do not link until it's all right to send the user away (after you've conveyed your point).
 * Open links in the [the same tab and window](https://www.w3.org/TR/WCAG20-TECHS/G200.html). Only open content in a new tab or window when there's a good reason to do so. Give them [warning](https://www.w3.org/TR/WCAG20-TECHS/G201.html) when a new tab or window will open.
