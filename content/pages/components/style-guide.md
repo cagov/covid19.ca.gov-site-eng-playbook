@@ -82,8 +82,8 @@ Use a button with a form or to highlight something the user wants to do. Links a
 
 * Link to webpages instead of PDFs as much as possible. Webpages are more accessible across devices, more easily searched, and less likely to break.
   * If you must link to a document, make it a PDF if possible. Word documents, Excel sheets, and PowerPoint presentations require software to view them that people may not have.
+  * Links to PDFs automatically get an icon
   * Indicate if the link is going to a file by providing its extension (like DOC or PPT) so people can choose if they want to download it.
-  * Use the PDF link class to format links to PDFs.
 * Make the link title match the title of the destination page as much as possible. This helps people know they arrived in the right place.
 * When creating a button, be short, descriptive, and distinctive.
 * Limit number of links so as to make the text more readable. If you have several relevant links, put them in a bulleted list after your main text.
@@ -118,10 +118,9 @@ Be consistent with whether your bullet points are sentences or not.
 ### Numbered lists
 Use numbered lists when a user needs to do tasks in a certain order, like a process. They’re especially helpful if the steps happen across different agencies. 
 * Start each task with a verb.
-* Provide a high-level summary in the task. Put smaller details in the Show/Hide text.
+* Provide a high-level summary of the task.
 * Keep the description short, no more than a few paragraphs.
   * If it cannot be condensed, make a guide instead.
-* Give each number an [ARIA label](https://www.a11y-101.com/development/aria-label) so screen readers can read them aloud as step one, step two, and so on.
 * Link to content that already exists on an agency website. Do not duplicate it. Prepare users with the information they need before they select the link.
 
 An example of a numbered list is [Hire a licensed contractor for home improvements](https://www.alpha.ca.gov/hire-licensed-contractor-home-improvements/).
