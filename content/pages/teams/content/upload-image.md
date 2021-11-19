@@ -25,7 +25,7 @@ We host images through github. One of the benefits of this approach is it gives 
   e. If you have additional details to add, use the larger box with the placeholder text _Add an optional extended description_.
   f. Select the green **Commit changes** button to upload the image.
   h. To track the status of the upload, select **Actions** in the menu at the top of the page. The text added in the _Add files via upload_ line from the _Commit changes_ section will be listed here. When a green check mark appears to the left of this text, the image has been uploaded.
-5. Once the upload is finished, the file will be available at the URL files.covid19.ca.gov/img/ followed by the file name. There may be a brief delay.
+5. Once the upload is finished, the file will be available at the URL data.covid19.ca.gov/img/ followed by the file name. There may be a brief delay.
 6. If you updated an image, return to the live page and confirm the updated image is showing.
   a. It usually takes around 1 minute for image to push to the live site.
   b. If it doesn't come up, confirm in #code-movement that the image went through. If it did, check the filename of the image was the same.
