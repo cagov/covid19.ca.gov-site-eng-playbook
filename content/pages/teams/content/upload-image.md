@@ -32,6 +32,7 @@ We host images through github. One of the benefits of this approach is it gives 
 
 ## Translated images
 
-If you have an image with text in different languages, you can upload it so it's displayed automatically on a translated version of the page. Use the same language-specific suffix that is used for PDFs (for example, _--es_ for Spanish). If there is not a language-specific image, the site will default to the English version.
-
-Use the regular upload process to add your translated image with the appropriate suffix.
+If you have an image with text in different languages, you can upload it so it's displayed automatically on a translated version of the page. 
+1. The image on the English page must have the _- -en_ suffix (for example, _- -en.jpg_)
+2. Use the same language-specific suffix that is used for PDFs (for example, _- -es_ for Spanish). If there is not a language-specific image, the site will default to the English version.
+3. Use the regular upload process to add your translated image with the appropriate suffix.
