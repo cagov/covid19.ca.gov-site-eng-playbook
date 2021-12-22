@@ -96,7 +96,7 @@ Use a button to highlight something the user wants to do, or to allow them to su
 * When you end a sentence with a link, do not include the period in the hyperlink.
 * Always create dial links for phone numbers. This allows users, especially mobile users, to dial the number with one click.
   * The WordPress format for the link is `tel:123‑456‑7890`, and the HTML is `<a href="tel:123‑456‑7890">123‑456‑7890</a>`.
-  * Use non-breaking hyphens when creating these hyperlinks. These allow phone numbers in Arabic translations to work. The hyphens above are non-breaking. To be sure you're using a non-breaking hyphen, you can also use `&#8209;`.
+  * Use non-breaking hyphens when creating these hyperlinks. These allow phone numbers in Arabic translations to work. The hyphens above are non-breaking. To be sure you're using a non-breaking hyphen, you can also use **&#8209;**.
 
 ### Notes and disclaimers
 When info in tables or graphs needs an explanation, follow it with a note to provide clarity. Make the note smaller to signal to the reader that it is secondary info. In WordPress, use this code in the HTML view to create smaller text:
