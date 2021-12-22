@@ -61,7 +61,13 @@ Clear headings make pages easier to scan and understand.
 Check your heading structure in Google Docs. Select **View** and **Show Document Outline** to confirm they nest appropriately.
 
 ### Lead class text
-Lead class text makes text larger. Use it to explain the service or topic at the top of the page, underneath the h1. Only use one paragraph of lead class text per page. Use: <p class="emphasized">the text you want</p> in WordPress to create lead class text.
+Lead class text makes text larger. Use it to explain the service or topic at the top of the page, underneath the h1. Only use one paragraph of lead class text per page. Use:
+
+```
+<p class="emphasized">the text you want</p>
+```
+
+in WordPress to create lead class text.
 
 ### Page URLs
 Use the title of the page to create your URL. This helps search engines find the page. (WordPress will do this automatically.)
@@ -91,13 +97,22 @@ Use a button to highlight something the user wants to do, or to allow them to su
 * Open links in the [same tab and window](https://www.w3.org/TR/WCAG20-TECHS/G200.html). This is the expected behavior, and thus it’s better for accessibility. If users want to open their own tab or window, they know how to.
 * When you end a sentence with a link, do not include the period in the hyperlink.
 * Always create dial links for phone numbers. This allows users, especially mobile users, to dial the number with one click.
-  * The WordPress format for the link is `tel:123‑456‑7890`, and the HTML is `<a href="tel:123‑456‑7890">123‑456‑7890</a>`.
+  * The WordPress format for the link is:
+```
+tel:123‑456‑7890`
+```
+  * The HTML is:
+```
+<a href="tel:123‑456‑7890">123‑456‑7890</a>
+```
   * Use non-breaking hyphens when creating these hyperlinks. These allow phone numbers in Arabic translations to work. The hyphens above are non-breaking. To be sure you're using a non-breaking hyphen, you can also use **&#8209;**.
 
 ### Notes and disclaimers
 When info in tables or graphs needs an explanation, follow it with a note to provide clarity. Make the note smaller to signal to the reader that it is secondary info. In WordPress, use this code in the HTML view to create smaller text:
 
-`<p class="small-text"> … </p>`
+```
+<p class="small-text"> … </p>
+```
 
 ## Content types
 Some content comes across better in non-paragraph form. Bullet points, alerts, and info boxes can also make pages easier to scan. 
