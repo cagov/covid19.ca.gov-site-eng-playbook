@@ -61,11 +61,7 @@ Clear headings make pages easier to scan and understand.
 Check your heading structure in Google Docs. Select **View** and **Show Document Outline** to confirm they nest appropriately.
 
 ### Lead class text
-Lead class text makes text larger. Use it to explain the service or topic at the top of the page, underneath the h1. Only use one paragraph of lead class text per page. Use:
-
-`<p class="emphasized">the text you want</p>`
-
-in WordPress to create lead class text.
+Lead class text makes text larger. Use it to explain the service or topic at the top of the page, underneath the h1. Only use one paragraph of lead class text per page. Use: <p class="emphasized">the text you want</p> in WordPress to create lead class text.
 
 ### Page URLs
 Use the title of the page to create your URL. This helps search engines find the page. (WordPress will do this automatically.)
