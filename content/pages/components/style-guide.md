@@ -96,16 +96,17 @@ Use a button to highlight something the user wants to do, or to allow them to su
 * Have links support comprehension, not disrupt it. Do not link until it's all right to send the user away (after you've conveyed your point).
 * Open links in the [same tab and window](https://www.w3.org/TR/WCAG20-TECHS/G200.html). This is the expected behavior, and thus it’s better for accessibility. If users want to open their own tab or window, they know how to.
 * When you end a sentence with a link, do not include the period in the hyperlink.
-* Always create dial links for phone numbers. This allows users, especially mobile users, to dial the number with one click.
-  * The WordPress format for the link is:
+
+####Phone number links
+Always create dial links for phone numbers. This allows users, especially mobile users, to dial the number with one click. The WordPress format for the link is 
 ```
-tel:123‑456‑7890`
+tel:123‑456‑7890
 ```
-  * The HTML is:
+The HTML is:
 ```
 <a href="tel:123‑456‑7890">123‑456‑7890</a>
 ```
-  * Use non-breaking hyphens when creating these hyperlinks. These allow phone numbers in Arabic translations to work. The hyphens above are non-breaking. To be sure you're using a non-breaking hyphen, you can also use **&#8209;**.
+Use non-breaking hyphens when creating these hyperlinks. These allow phone numbers in Arabic translations to work. The hyphens above are non-breaking. To be sure you're using a non-breaking hyphen, you can also use **&#8209;**.
 
 ### Notes and disclaimers
 When info in tables or graphs needs an explanation, follow it with a note to provide clarity. Make the note smaller to signal to the reader that it is secondary info. In WordPress, use this code in the HTML view to create smaller text:
