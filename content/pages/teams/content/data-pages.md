@@ -1,7 +1,7 @@
 ---
 title: Data pages
 date: Last Modified 
-permalink: /teams/content/autoformat.html
+permalink: /teams/content/data-pages.html
 eleventyNavigation:
   key: Data pages
   parent: Editing
