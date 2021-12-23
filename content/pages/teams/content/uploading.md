@@ -8,7 +8,7 @@ eleventyNavigation:
   order: 220
 ---
 
-We mainly host PDFs and images through GitHub.
+We host PDFs and images through GitHub.
 
 * [Upload or replace an image](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/teams/content/upload-image.html)
 * [Replace a PDF](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/teams/content/replace-pdf.html)
