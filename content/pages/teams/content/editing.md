@@ -67,10 +67,6 @@ To archive a page:
 4. Search WordPress for the page URL to see if it's linked to by any other page on the site. If so, remove or change the link.
   a. Search using only the slug (for example, /vaccines/) instead of the full URL (like https://covid19.ca.gov/vaccines). Many links do not use the full URL, just the slug.
 5. Create a [redirect](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/teams/content/redirects.html) for the page (and any translated versions).
-  a. If there is a page that has replacement content, set the redirect to that page.
-  b. To redirect the URL slug to the home page, include only a forward slash (/) in the destination column. Be aware that doing this may negatively impact the site’s search engine score.
-  c. If there is no replacement content, leave the destination column blank. This prevents the site from getting a Soft 404 penalty.
-  d. Check the redirect table to see if the page you're archiving is the destination of any redirects. Update those destinations as appropriate.
 6. Confirm with the engineering team that they're ready for the page to be archived.
 7. Find the page in the _Posts_ section of WordPress.
 8. Hover your cursor over the row with the post. You'll see a set of options appear.
