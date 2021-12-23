@@ -8,9 +8,8 @@ eleventyNavigation:
   order: 220
 ---
 
-We mainly host PDFs and images through github. Industry guidance PDFs are hosted through Airtable.
+We mainly host PDFs and images through GitHub.
 
 * [Upload or replace an image](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/teams/content/upload-image.html)
 * [Replace a PDF](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/teams/content/replace-pdf.html)
 * [Replace a translated PDF](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/teams/content/replace-translated-pdf.html)
-* [Add a PDF to the Industry guidance in other languages page](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/teams/content/ig-other-languages.html)
