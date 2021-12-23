@@ -8,12 +8,11 @@ eleventyNavigation:
   order: 235
 ---
 
-The covid19.ca.gov homepage is maintained through several fragments rather than one post. These include:
+The covid19.ca.gov homepage is maintained through several fragments rather than one post. These include the:
 
-* The [banner and recent updates sections](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/teams/content/banner.html)
-* The [video section](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/teams/content/video.html)
-* The [featured links](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/teams/content/featured-links.html)
-* [People want to know](https://as-go-covid19-d-001.azurewebsites.net/wp-admin/post.php?post=5143&action=edit) 
-* [The site menu/navigation](https://as-go-covid19-d-001.azurewebsites.net/wp-admin/post.php?post=7484&action=edit)
-
-Other pieces are edited directly through [github](https://github.com/cagov/covid19/tree/master/pages/manual-content/homepages).
+* [Site menu](https://teamdocs.covid19.ca.gov/teams/content/menu.html)
+* Hero and tracking COVID-19 in CA boxes text
+* [Banner](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/teams/content/banner.html)
+* [Featured links](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/teams/content/featured-links.html)
+* [Video section](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/teams/content/video.html)
+* 
