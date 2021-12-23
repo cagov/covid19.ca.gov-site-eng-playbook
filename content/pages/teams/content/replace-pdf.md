@@ -1,56 +1,47 @@
 ---
-title: WIP - Replace a PDF
+title: Upload or replace a PDF
 date: Last Modified 
 permalink: /teams/content/replace-pdf.html
 eleventyNavigation:
-  key: Replace PDF
+  key: Upload or replace PDF
   parent: Uploading
   order: 224
 ---
 
-This process includes steps for uploading a PDF to replace an existing version (updating).
+Use this process to replace a PDF that is linked on the website, or upload a new PDF to be linked there.
 
-Links and notes for pdf publishing (new process with airtable)
-
-## Airtable
-
-[ODI File Tracker](https://airtable.com/tblIhJbHhqtWDqJoR/viwUwJHYOsYN4pIyl?blocks=hide) (Purple)
-* Use this to start and track each PDF that is being published. 
-* Select tab labeled **ODI file tracker**.
-
-[PDF Historical](https://airtable.com/tblIhJbHhqtWDqJoR/viwUwJHYOsYN4pIyl?blocks=hide) (Pink)
-* Select tab labeled **Git history, PDF metadata, and active files**.
-* Select a view appropriate for what you need (for example, _Grouped by Industry category key_).
-
-## Google Drive [Publish](https://drive.google.com/drive/u/2/folders/1f8ZjcJcXxFt-he7NT6g3S7uJ69CfpwAz) folder
-1. Check that the PDFs have the **correct** filenames. 
-2. Put the files you are about to publish in the Google Drive _Publish_ folder. 
-
-## Github [Covid-Static PDF](https://github.com/cagov/covid-static/tree/master/pdf) folder
-* This step will make your file live within minutes of upload. Staging first is not available. 
-* Make sure you are in the **pdf** folder: https://github.com/cagov/covid-static/tree/master/pdf
-* You may need to download the file onto your device to then upload it to covid-static. Dragging and dropping the PDF from Google Drive Publish folder into covid-static pdf folder has not worked for several of us.
-* Once the upload to github is complete, make sure to test that it’s working by clicking on the link that you added in the Airtable tracker for this file. 
-* Once you’ve confirmed it’s live, change the _ODI file status_ to _Publish_ in the [ODI file tracker](https://airtable.com/tblIhJbHhqtWDqJoR/viwUwJHYOsYN4pIyl?blocks=hide) (purple Airtable). Then check the [PDF Historical](https://airtable.com/tblIhJbHhqtWDqJoR/viwUwJHYOsYN4pIyl?blocks=hide) (pink Airtable) and verify that your newly uploaded file is there, and the _green check box_ is selected.
-
-## Old process steps below - need to update
-1. If you’re uploading an updated version of a PDF, find the current version of your PDF on the live site. Find a difference between the current version and the one you’re uploading so you can confirm the new version uploads later.
+## Name a replacement PDF
+1. Find the current version of your PDF on the live site.
+  a. Find a difference between the current version and the one you’re uploading so you can confirm the new version uploads.
   a. A date is usually the most convenient reference to use.
-2. Rename the updated PDF so it’s the same as the existing PDF.
+2. Rename the updated PDF so it has the same filename as the existing PDF.
   a. The name must be identical.
-3. Go to https://github.com/cagov/covid-static.
-  a. Select the **pdf** folder.
-  b. In the upper-right corner, select the **Add file** button.
-  c. Select **Upload files** from the dropdown menu.
-  d. Upload your file by dragging it into the _Drag files here to add them to your repository_ box or selecting **choose your files** and using the popup window. 
-  e. In the _Commit changes_ section, enter brief details (less than 50 characters) about what you’re doing in the first line that contains the placeholder text _Add files via upload_. This information will be available in the Github history and #code-movement on Slack to identify what changes happened. Use hyphens in place of spaces. This information will be available in the Github history and #code-movement on Slack to identify what changes happened (e.g., “replacing-translated-guidance-agriculture-12”). 
-  f. Adding additional details in the larger box with the placeholder text _Add an optional extended description_ is only if you have extended information to add.
-  g. Select the green **Commit changes** button to submit the PDF for upload.
-  h. To track the status of the PDF upload, select **Actions** in the menu at the top of the page. The text added in the _Add files via upload_ line from the _Commit changes_ section will be listed here. When a green check mark appears to the left of this text, the PDF had been uploaded.
-4. Return to the live page and confirm the updated PDF comes up when the link is selected.
+3. Follow the instructions for uploading a PDF.
+
+## Name a new PDF
+If you’re uploading a new PDFto the site for the first time, rename the PDF filename.
+
+1. Remove any spaces.
+2. Use lowercase text and hyphens.
+3. Remove dates or version names like “final.”
+4. For PDFs in English that have translations, make sure to include **--en.pdf** at the end of the filename.
+5. Follow the instructions for uploading a PDF.
+
+Upload a PDF
+1. Go to https://github.com/cagov/covid-static.
+2. Select the **pdf** folder.
+3. In the upper-right corner, select the **Add file** button.
+4. Select **Upload files** from the dropdown menu.
+5. Upload your file by dragging it into the _Drag files here to add them to your repository_ box or selecting **choose your files** and using the popup window. 
+6. In the _Commit changes_ section, enter brief details (less than 50 characters) about what you’re doing in the first line that contains the placeholder text _Add files via upload_.
+  a. Use hyphens in place of spaces.
+  b. This information will be available in the Github history and _#code-movement_ on Slack to identify what changes happened (for example, “replacing-translated-guidance-agriculture-12”).
+  c. When replacing translated PDFs, do not replace the currently posted English PDF (the file with _--.en.pdf_ in the name).
+7. If you have more information to add, put these details in the larger box with the placeholder text _Add an optional extended description_.
+8. Select the green **Commit changes** button to submit the PDF for upload.
+9. To track the status of the PDF upload, select **Actions** in the menu at the top of the page.
+  a. The text added in the _Add files via upload_ line from the _Commit changes_ section will be listed here.
+  b. When a green check mark appears to the left of this text, the PDF has been uploaded.
+10. Return to the live page and confirm the updated PDF comes up when the link is selected.
   a. It usually takes around 1 minute for PDFs to push to the live site.
-  b. If it doesn’t come up, confirm in #code-movement that the PDF went through. If it did, confirm the filename of the PDF was the same.
-5. Open the Translations Tracking Sheet in Google Drive.
-6. Confirm the PDF is listed in the **Guidance Pdfs** tab (or the Checklists tab) with the link. 
-7. Select the **Metadata** tab (for either guidance or checklists). Use this tab to note if there is an issue with the PDF metadata, e.g., Retail Checklist label shows “Schools guidance.”
-8. Select the **Dates** tab (either guidance dates or checklist dates), and enter the new date of the PDF. 
+  b. If it doesn’t come up, confirm in _#code-movement_ that the PDF went through. If it did, confirm that the filename of the PDF was the same.
