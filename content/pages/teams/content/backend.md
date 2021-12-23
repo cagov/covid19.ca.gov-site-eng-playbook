@@ -12,9 +12,7 @@ Some content is maintained through WordPress posts that do not work like regular
 
 * [Redirects](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/teams/content/redirects.html)
 * [Homepage](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/teams/content/homepage.html)
+  * Text for hero space and Tracking COVID-19 in CA trackerboxes
   * [Homepage banner](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/teams/content/banner.html)
+  * Featured links
   * [Homepage video](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/teams/content/video.html)
-* [Blueprint for a Safer Economy](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/teams/content/blueprint.html)
-  * [What's open data](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/teams/content/whats-open.html)
-  * [County map dates](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/teams/content/map-dates.html)
-* [ICU capacity data](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/teams/content/icu-data.html)
