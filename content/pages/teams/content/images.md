@@ -10,7 +10,7 @@ eleventyNavigation:
 
 When using images in page content, stick to certain standards to maintain a consistent look and feel sitewide. We consider:
 
-* [When to use images](#-when-to-use-images)
+* [When to use images](#when-to-use-images)
 * [Image use rights](#image-use-rights)
 * [Aesthetics and style](#aesthetics-and-style)
 * [When to use captions](#when-to-use-captions)
