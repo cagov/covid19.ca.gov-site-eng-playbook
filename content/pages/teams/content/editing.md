@@ -63,7 +63,7 @@ To archive a page:
   a. Remove translated page files
   b. Do a recrawl of quick answer questions (if needed)
 2. Save the content (and any special code) in a Google Doc in case you need it later.
-3. Remove the page from the [menu navigation](https://as-go-covid19-d-001.azurewebsites.net/wp-admin/post.php?post=7484&action=edit).
+3. Remove the page from the [site menu](https://teamdocs.covid19.ca.gov/teams/content/menu.html).
 4. Search WordPress for the page URL to see if it's linked to by any other page on the site. If so, remove or change the link.
   a. Search using only the slug (for example, /vaccines/) instead of the full URL (like https://covid19.ca.gov/vaccines). Many links do not use the full URL, just the slug.
 5. Create a [redirect](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/teams/content/redirects.html) for the page (and any translated versions).
