@@ -15,4 +15,3 @@ The covid19.ca.gov homepage is maintained through several fragments rather than 
 * [Banner](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/teams/content/banner.html)
 * [Featured links](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/teams/content/featured-links.html)
 * [Video section](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/teams/content/video.html)
-* 
