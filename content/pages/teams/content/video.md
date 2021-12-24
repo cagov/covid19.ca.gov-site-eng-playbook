@@ -5,7 +5,7 @@ permalink: /teams/content/video.html
 eleventyNavigation:
   key: Video
   parent: Homepage
-  order: 245
+  order: 251
 ---
 
 The video section of the homepage is updated through the [Video Section](https://as-go-covid19-d-001.azurewebsites.net/wp-admin/post.php?post=7482&action=edit) WordPress post.
