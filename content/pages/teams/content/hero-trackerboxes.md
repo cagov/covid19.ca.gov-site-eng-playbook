@@ -1,7 +1,7 @@
 ---
 title: Changing text in feature card and Tracking COVID-19 in CA
 date: Last Modified 
-permalink: /teams/content/menu.html
+permalink: /teams/content/hero-trackerboxes.html
 eleventyNavigation:
   key: Hero and trackerboxes
   parent: Homepage
