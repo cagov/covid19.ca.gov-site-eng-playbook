@@ -32,7 +32,7 @@ We have several [custom widgets and posts](https://cagov.github.io/covid19.ca.go
 * [Redirects](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/teams/content/redirects.html)
 * [Menus](https://teamdocs.covid19.ca.gov/teams/content/menu.html)
 * Updating the [homepage](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/teams/content/homepage.html), incuding:
-  * The [headline banner](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/teams/content/banner.html)
-  * [Featured links](https://teamdocs.covid19.ca.gov/teams/content/featured-links.html)
-  * The [video section](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/teams/content/video.html)
-  * The footer
+  * [Headline banner](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/teams/content/banner.html)
+  * [Link grid](https://teamdocs.covid19.ca.gov/teams/content/featured-links.html)
+  * [Video section](https://cagov.github.io/covid19.ca.gov-site-eng-playbook/teams/content/video.html)
+  * Footer
