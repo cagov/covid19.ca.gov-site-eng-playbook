@@ -5,17 +5,19 @@ permalink: /teams/content/video.html
 eleventyNavigation:
   key: Video
   parent: Homepage
-  order: 251
+  order: 250
 ---
 
-The video section of the homepage is updated through the [Video Section](https://as-go-covid19-d-001.azurewebsites.net/wp-admin/post.php?post=7482&action=edit) WordPress post.
+The video section of the homepage is updated through the [Video Section](https://as-go-covid19-d-001.azurewebsites.net/wp-admin/post.php?post=7482&action=edit) WordPress post. This post uses the _table-data_ tag.
+
+On most days, the featured video is a recent public service announcement from the California Department of Public Health. On days when there is a press conference, the video link is changed to that of the YouTube livestream, and details for when to watch are shared in the header.
 
 ## What you need to update
 
 To update a PSA video, you'll need:
 
 * The YouTube link to the video you want to feature
-* Approvals from the Office of the Governor for the video to feature, title, and video description. Talk with a product lead to get this approval.
+* Approvals from the Office of the Governor for the video to feature, its title, and its description. Talk with a product manager to get this approval.
 * A high-res image still from the video 
   * Enter the YouTube link at https://www.youtubescreenshot.com.
   * Right-click and save the main image it generates.
@@ -34,7 +36,7 @@ For the Governor's or Secretary's press conferences, the WordPress post already 
 ## How to update
 
 1. Choose whether you want to feature a PSA video (first row), Governor’s press conference (second row), or secretary’s press conference (third row).
-  a. Put **yes** in the _Active_ column for video you want to feature and **no** in the other rows.
+  a. Put **X** in the _Active_ column for the video you want to feature. Leave the other rows blank in this column.
 2. Change the _Video Title_.
   a. For a PSA, this is the title in YouTube.
   b. For press conferences, update the date and time it’s going live.
@@ -49,7 +51,7 @@ For the Governor's or Secretary's press conferences, the WordPress post already 
 
 ## Text and link defaults
 
-These are approved by the Office of the Governor, so do not deviate from them without checking with a product lead first.
+These are approved by the Office of the Governor, so do not deviate from them without checking with a product manager first.
 
 ### PSA
 
