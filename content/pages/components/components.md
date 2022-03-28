@@ -117,6 +117,44 @@ To create an accordion, use the *wp-accordion* class to the text that will be th
 
 To include a block inside the accordion, use the *wp-accordion-content* class. This must be applied to every block that you want inside the accordion. Missing a block will end the accordion and hide any blocks with the wp-accordion-content class below that missed block.
 
+#### Chart drawer accordions
+
+We often use a specialized accordion style to collapse some chart related details.
+
+This may be created using custom HTML similar to the HTML described in the <a href="">design system's accordion component</a>. The differences for this version of an accordion on the covid site are the addition of the accordion-chart-drawer class and the use of a header tag inside the summary element.
+
+Here is an example of the minimal code required:
+
+```
+<cagov-accordion class="accordion-chart-drawer">
+  <details>
+    <summary><h2>Chart information</h2></summary>
+    <div class="accordion-body">
+      accordion body content
+    </div>
+  </details>
+</cagov-accordion></div>
+```
+
+Here is a real example with an additional width restriction applied above the link and chart drawer and the js-qa-exclude class added so this is not crawled as part of the site's quick answers:
+
+```
+<div class="row">
+        <div class="col-lg-10 mx-auto">
+<p class="small-text mt-3"><a href="https://data.chhs.ca.gov/dataset/vaccine-progress-dashboard">Overview of vaccine administration source data</a></p>
+
+<div class="wp-block-cgb-block-chart-drawer js-qa-exclude">
+<cagov-accordion class="accordion-chart-drawer">
+  <details>
+    <summary><h2>Chart information</h2></summary>
+    <div class="accordion-body">
+      <ul id="block-06834f88-b939-4857-ab6c-bc3709436cb8" class="small-text js-qa-exclude"><li>Data is not reported on weekends or state holidays. This data is processed on the first day following the weekend or holiday and updated here on the following day.</li><li>This chart includes vaccine doses administered and reported to state immunization registries. The vaccination rates are estimates based on best available information from vaccine records and Census data. These estimates may differ from those provided by local jurisdictions. Local estimates should be considered more accurate.</li><li>Rates are capped at 95%. This is consistent with CDC reporting practices. It prevents illogical values (like more than 100%) as a result of data entry issues.</li><li>Partially-vaccinated people are those receiving only one dose of the Pfizer or Moderna vaccine. Fully-vaccinated people are those who received two doses of the Pfizer or Moderna vaccines or the Johnson &amp; Johnson vaccine.</li><li>The statewide doses administered and delivered counts include all doses allocated to the California state jurisdiction as well as the CDC LTC Pharmacy and Retail Pharmacy Partnership Programs, Federal Dialysis Center Program, Federal Emergency Management Agency (FEMA) partner sites, and Health Resources and Services Administration (HRSA) partner sites. CDC Pharmacy Program doses are a subset of the doses delivered to California.</li><li>This data does not include doses delivered to the following federal agencies: Indian Health Service, Veterans Health Administration, Department of Defense, and Federal Bureau of Prisons.</li><li>Booster recipients includes anyone who is fully vaccinated and has received another dose of COVID-19 vaccine since August 13, 2021. This includes people who received booster doses and people who received additional doses.</li><li>This data will be consistently updated due to ongoing statewide vaccine record reconciliation efforts. Data may differ from those reported by local health jurisdictions and federal entities.</li><li>Where the county of residence was not reported, the county where vaccinated is used. This applies to less than 1% of vaccination records.</li><li>The sum of county-level vaccinations does not equal statewide total vaccinations because some out-of-state residents are vaccinated in California.</li></ul>
+    </div>
+  </details>
+</cagov-accordion></div>
+</div></div>
+```
+
 #### Figma and Storybook documentation
 
 ### Inline highlight box
