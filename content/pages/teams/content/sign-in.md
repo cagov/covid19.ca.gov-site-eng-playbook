@@ -8,7 +8,11 @@ eleventyNavigation:
   order: 205
 ---
 
-# Two-factor authentication
+# Sign in
+
+To edit content, sign in to the [WordPress content management system](https://live-covid19-ca-gov.pantheonsite.io/wp-login.php). You will need a site administrator to create an account for you.
+
+## Two-factor authentication
 
 We recommend enabling **two-factor authentication** on your account to keep it secure. This means you will use your password and another method to enter WordPress.
 
