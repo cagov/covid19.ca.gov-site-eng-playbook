@@ -8,7 +8,7 @@ eleventyNavigation:
   order: 210
 ---
 
-We edit content in [WordPress](https://as-go-covid19-d-001.azurewebsites.net/wp-login.php). It uses a what-you-see-is-what-you-get (WYSIWYG) editor that automatically applies formatting like bold and hyperlinks without the author needing to know how to code.
+We edit content in [WordPress](https://live-covid19-ca-gov.pantheonsite.io/wp-login.php). It uses a what-you-see-is-what-you-get (WYSIWYG) editor that automatically applies formatting like bold and hyperlinks without the author needing to know how to code.
 
 If something is not working the way you expect, your best bet is to select that block of text and choose the vertical ellipsis (three dots) to select **Edit as HTML**. This shows you the code view. Many times there's leftover code that's causing the problem.
 
